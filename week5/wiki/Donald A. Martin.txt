@@ -1,0 +1,37 @@
+{{Other people|Donald Martin}}
+{{BLP sources|date=December 2014}}
+[[File:Donald Martin.jpg|thumb|220px|Donald A. Martin]]
+'''Donald A.''' ('''Tony''') '''Martin''' (born December 24, 1940) is an American [[set theorist]] and [[philosopher of mathematics]] at [[University of California, Los Angeles|UCLA]], where he is a member of the faculty of mathematics and [[UCLA Department of Philosophy|philosophy]].
+
+Among Martin's most notable work are the proofs of [[analytic set|analytic]] [[determinacy]] (from the existence of a [[measurable cardinal]]), [[Borel set|Borel]] [[determinacy]] (from [[ZFC]] alone), the proof (with [[John R. Steel]]) of [[projective determinacy]] (from suitable [[large cardinal]] axioms), and his work on [[Martin's axiom]]. [[Martin measure]] on [[Turing degree]]s is also named after Martin.
+
+Martin is a [[List of Harvard Junior Fellows|Harvard junior fellow]]. In 2014, he became a Fellow of the [[American Mathematical Society]].<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2014-12-17</ref>
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Martin:Donald_A=.html List of publications]
+*[http://www.logic.ucla.edu/ UCLA Logic center]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Donald A.}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American logicians]]
+[[Category:UCLA Philosophy]]
+[[Category:Philosophers of mathematics]]
+[[Category:Set theorists]]
+[[Category:Guggenheim Fellows]]
+[[Category:Tarski lecturers]]
+[[Category:Fellows of the American Mathematical Society]]
+
+
+{{US-mathematician-stub}}

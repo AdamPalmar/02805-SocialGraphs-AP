@@ -1,0 +1,656 @@
+{{Other uses}}
+{{refimprove|date=March 2017}}
+{{use dmy dates|date=March 2016}}
+
+{{Infobox person
+ | name        = Rosa Luxemburg
+ | image       = Rosa Luxemburg.jpg
+ | citizenship = German
+ | nationality =
+ | partner     = [[Leo Jogiches]]
+ | spouse      = Gustav Lübeck
+ | relations   = Eliasz Luxemburg (father)<br />Line Löwenstein (mother)
+ | birth_date  = 5 March 1871
+ | birth_place = [[Zamość]], [[Congress Poland]], [[Russian Empire]]
+ | death_date  = {{death date and age|df=y|1919|1|15|1871|3|5}}
+ | death_place = [[Berlin]], [[Weimar Republic|Germany]]
+ | alma_mater  = [[University of Zurich]] (Dr. jur., 1897)
+ | party       = {{Plainlist|
+* [[Proletariat (party)|(First) Proletariat Party]]<br />(1882–1886)
+* [[Social Democracy of the Kingdom of Poland and Lithuania]]<br />(1893–1918)
+* [[Social Democratic Party of Germany]]<br />(1898–1915)
+* [[Independent Social Democratic Party of Germany|Independent Social Democratic Party]]<br />(1917–1918)
+* [[Spartacus League]]<br />(1915–1918)
+* [[Communist Party of Germany]]<br />(1919)
+ }}
+ | occupation  = [[Philosopher]]<br />[[Economist]]<br />[[Revolutionary]]
+ | known_for     = [[Luxemburgism]]
+}}
+{{Left communism sidebar}}
+
+{{Audio|De-Rosa Luxemburg.ogg|'''Rosa Luxemburg'''}} (also ''Rozalia Luxenburg''; {{lang-pl|Róża Luksemburg}}; 5 March 1871<ref>[http://www.marxists.org/glossary/people/l/u.htm#luxemburg Luxemburg biography at marxists.org]</ref> – 15 January 1919) was a German-Polish [[Marxist philosophy|Marxist theorist]], [[Philosophy|philosopher]], [[Economics|economist]], [[Anti-war movement|anti-war activist]], and [[Revolutionary socialism|revolutionary socialist]] of [[History of the Jews in Poland|Polish-Jewish]] descent who became a naturalized [[Germany|German]] citizen. She was, successively, a member of the [[Social Democracy of the Kingdom of Poland and Lithuania]] (SDKPiL), the [[Social Democratic Party of Germany]] (SPD), the [[Independent Social Democratic Party of Germany|Independent Social Democratic Party]] (USPD), and the [[Communist Party of Germany]] (KPD).
+
+In 1915, after the SPD supported German involvement in [[World War I]], she and [[Karl Liebknecht]] co-founded the anti-war [[Spartacus League]] (''Spartakusbund''), which eventually became the KPD. During the [[German Revolution of 1918–19|November Revolution]] she co-founded the newspaper ''[[Die Rote Fahne]]'' ("The Red Flag"), the central organ of the Spartacist movement.
+
+She considered the [[Spartacist uprising]] of January 1919 a blunder,<ref>Frederik Hetmann: ''Rosa Luxemburg. Ein Leben für die Freiheit'', p. 308</ref> but supported it as events unfolded. [[Friedrich Ebert]]'s majority [[Social Democratic Party of Germany|Social Democratic]] government crushed the revolt and the ''Spartakusbund'' by sending in the ''[[Freikorps]]'' (government-sponsored paramilitary groups consisting mostly of World War I veterans). ''Freikorps'' troops captured and executed Luxemburg and Liebknecht. Luxemburg's body was thrown in the [[Landwehr Canal]] in [[Berlin]].
+
+Due to her pointed criticism of both the [[Leninism|Leninist]] and the more moderate [[social democracy|social democratic]] schools of [[socialism]], Luxemburg has had a somewhat ambivalent reception among scholars and theorists of the [[left-wing politics|political left]].<ref>[[Leszek Kołakowski]] ([1981], 2008), ''Main Currents of Marxism, Vol. 2: The Golden Age'', W. W. Norton & Company, Ch III: "Rosa Luxemburg and the Revolutionary Left"</ref> Nonetheless, some have regarded Luxemburg and Liebknecht as [[martyr]]s of the socialist cause.
+
+==Life==
+
+===Poland===
+[[File:Staszica 37 (Zamość).JPG|thumb|left|175px|Luxemburg's birthplace in [[Zamość]], [[Poland]]]]
+Luxemburg was born to a [[Jews|Polish Jewish]] family in [[Zamość]] on 5 March 1871, in [[Russian Empire|Russian]]-controlled [[Congress Poland]]. She was the fifth and youngest child of timber trader Eliasz Luxemburg and Line Löwenstein. Luxemburg later stated that her father imparted an interest in [[liberalism|liberal]] ideas in her, while her mother was religious and well read with books kept at home.<ref name="Merrick">{{Cite web
+ | title = Rosa Luxemburg: A Socialist With a Human Face
+ | last = Merrick | first = Beverly G.
+ | work = Center for Digital Discourse and Culture at Virginia Tech University
+ | url = http://www.cddc.vt.edu/feminism/Luxemburg.html
+ | date = 1998 | access-date = 18 May 2015
+}}</ref> The family spoke [[German language|German]] and [[Polish language|Polish]], and Luxemburg also learned [[Russian language|Russian]].<ref name="Merrick" /> The family moved to [[Warsaw]] in 1873.<ref>J.P. Nettl, Rosa Luxemburg, Oxford University Press, 1969, pp. 54-55.</ref> After being bedridden with a hip ailment at the age of five, she was left with a permanent limp.<ref>{{Cite news
+ | title = Rosa Luxemburg: More Than a Revolutionary
+ | author = Annette Insdorf
+ | newspaper = The New York Times
+ | url = https://query.nytimes.com/gst/fullpage.html?res=9B0DE3DD1331F932A05756C0A961948260&sec=&spon=&pagewanted=print
+ | date = 31 May 1987 | access-date = 6 December 2008
+}}</ref>
+
+Starting in 1880, Luxemburg attended a [[Gymnasium (school)|gymnasium]]. From 1886, she belonged to the Polish, left-wing [[Proletariat (party)|Proletariat Party]] (founded in 1882, anticipating the [[Russia]]n parties by 20 years). She began political activities by organizing a [[general strike]]; as a result, four of the Proletariat Party leaders were put to death and the party was disbanded, though the remaining members, including Luxemburg, kept meeting in secret. In 1887, she passed her [[Matura]] ([[secondary school]] graduation) examinations. After fleeing to [[Switzerland]] to escape detention in 1889, she attended the [[University of Zurich]] (as did the socialists [[Anatoly Lunacharsky]] and [[Leo Jogiches]]), where she studied philosophy, history, politics, economics, and mathematics.  She specialized in ''Staatswissenschaft'' ([[government]] science), the [[Middle Ages]], and economic and [[stock exchange]] crises.
+
+Her [[thesis|doctoral dissertation]], "The Industrial Development of [[Poland]]" (''Die Industrielle Entwicklung Polens''), was officially presented in the spring of 1897 at the University of Zurich, which awarded her a [[Doctor of law|Doctor of Law]] degree. Her dissertation was published by Duncker and Humblot in [[Leipzig]] in 1898. She was an oddity in Zurich as one of the very few women with a doctorate. She plunged immediately into the politics of international [[Marxism]], following in the footsteps of [[Georgi Plekhanov]] and [[Pavel Axelrod]].
+
+In 1893, with Leo Jogiches and [[Julian Marchlewski]] (alias Julius Karski), Luxemburg founded the newspaper ''Sprawa Robotnicza'' ("The Workers' Cause"), which opposed the [[nationalism|nationalist]] policies of the [[Polish Socialist Party]]. Luxemburg believed that an independent Poland could arise and exist only through socialist revolutions in Germany, [[Austria-Hungary|Austria]], and Russia. She maintained that the struggle should be against [[capitalism]], not just for the Polish independence. Her position of denying a national right of [[self-determination]] under [[socialism]] provoked a philosophic disagreement with [[Vladimir Lenin]]. She and Leo Jogiches co-founded the [[Social Democracy of the Kingdom of Poland and Lithuania]] (SDKPiL) party, after merging Congress Poland's and Lithuania's social democratic organizations. Despite living in Germany for most of her adult life, Luxemburg was the principal theoretician of the Social Democracy of the Kingdom of Poland (later the SDKPiL), and led the party in a partnership with Jogiches, its principal organizer.
+
+===Germany===
+
+[[File:RLuxemburgCpWz.jpg|330px|thumb|right|Rosa Luxemburg around 1895–1900]]
+
+Luxemburg wanted to move to Germany to be at the centre of the party struggle, but she had no way of obtaining permission to remain there indefinitely. In April 1897 she married the son of an old friend, Gustav Lubeck, in order to gain a German citizenship. They never lived together and they formally divorced five years later.<ref>Waters, p.12</ref> She returned briefly to [[Paris]], then moved permanently to [[Berlin]] to begin her fight for [[Eduard Bernstein]]'s constitutional reform movement. Luxemburg hated the stifling conservatism of Berlin. She despised [[Prussia]]n men and resented what she saw as the grip of urban capitalism on [[social democracy]].<ref>Nettl, p.383; Waters, p.13</ref> In the [[History of the Social Democratic Party of Germany|Social Democratic Party of Germany]]'s women's section she met [[Clara Zetkin]], of whom she made a lifelong friend.   Between 1907 and his conscription in 1915 she was involved in a love affair with Clara's younger son, [[Kostja Zetkin]], to which approximately 600 surviving letters (now mostly published) bear testimony.<ref name=hingfetscher>{{cite web|title=Selbst im Gefängnis Trost für andere|url=http://www.zeit.de/1984/41/selbst-im-gefaengnis-trost-fuer-andere/komplettansicht|date=5 October 1984| volume=41/1984| publisher=[[Die Zeit]] (online)|accessdate=12 September 2017}}</ref><ref name=RLBriefelautStichting>{{cite web|title=Heute war mir Dein süßer Brief ein solcher Trost |work= |url= https://www.rosalux.de/fileadmin/rls_uploads/pdfs/Themen/Rosa_Luxemburg/rosa24-35.pdf#31|page=31|publisher=Rosa-Luxemburg-Stiftung Gesellschaftsanalyse und politische Bildung e. V., Berlin| accessdate=12 September 2017}}</ref><ref>''Rosa Luxemburg: Gesammelte Briefe.'' vols 2, 5 und 6.</ref>   Luxemburg was a member of the uncompromising left-wing of the [[Social Democratic Party of Germany|SPD]]. Their clear position was that the objectives of liberation for the industrial [[working class]] and ''all'' [[Minority group|minorities]] could be achieved by revolution only.
+
+The recently published ''Letters of Rosa Luxemburg'' shed important light on her life in Germany. As [[Irene Gammel]] writes in a review of the English translation of the book in ''[[The Globe and Mail]]'': "The three decades covered by the 230 letters in this collection provide the context for her major contributions as a political [[activism|activist]], [[socialism|socialist]] theorist and writer."  Her reputation was tarnished by [[Joseph Stalin]]'s cynicism in ''Questions Concerning the History of the Bolshevism''. In his rewriting of Russian events he placed the blame for the theory of [[permanent revolution]] on Luxemburg's shoulders, with faint praise for her attacks on [[Karl Kautsky]], which she commenced in 1910.<ref>Waters, p.20</ref>
+
+According to Gammel, "In her controversial tome of 1913, ''The Accumulation of Capital'', as well as through her work as a co-founder of the radical [[Spartacus League]], Luxemburg helped to shape Germany's young democracy by advancing an international, rather than a nationalist, outlook.  This farsightedness partly explains her remarkable popularity as a socialist icon and its continued resonance in movies, novels and memorials dedicated to her life and oeuvre." Gammel also notes that for Luxemburg, "the revolution was a way of life," and yet that the letters also challenge the stereotype of "Red Rosa" as a ruthless fighter.<ref>[http://www.ryerson.ca/mlc/inside224.html ''Revolutionary Rosa: The Letters of Rosa Luxemburg''], Reviewed by Irene Gammel for the ''Globe and Mail''</ref> But ''The Accumulation of Capital'' sparked angry accusations from the [[Communist Party of Germany]]; in 1923 [[Ruth Fischer]] and [[Arkadi Maslow]] denounced the work as "errors", a derivative work of economic miscalculation known as "spontaneity".<ref>Waters, p.19</ref>
+
+====Before World War I====
+
+[[File:LuxemburgSpeech.jpg|330px|thumb|Luxemburg speaking to a crowd in 1907]]
+
+When Luxemburg moved to Germany in May 1898, she settled in Berlin. She was active there in the left wing of the SPD, in which she sharply defined the border between the views of her faction and the [[Reformism|Revisionism Theory]] of [[Eduard Bernstein]]. She attacked him in her brochure ''[[Social Reform or Revolution]]'', released in September 1898. Luxemburg's rhetorical skill made her a leading spokesperson in denouncing the SPD's [[Reformism|reformist]] parliamentary course. She argued that the critical difference between [[Capital (economics)|capital]] and [[Labour economics|labour]] could only be countered if the [[proletariat]] assumed [[Power (social and political)|power]] and effected [[revolution]]ary changes in [[methods of production]]. She wanted the Revisionists ousted from the SPD. That did not occur, but Karl Kautsky's leadership retained a Marxist influence on its programme.<ref>Eric D. Weitz, "'Rosa Luxemburg Belongs to Us!'" German Communism and the Luxemburg Legacy, ''Central European History'', Vol. 27, No. 1 (1994), pp. 27-64</ref>
+
+From 1900, Luxemburg published analyses of contemporary European socio-economic problems in newspapers. Foreseeing war, she vigorously attacked what she saw as German [[militarism]] and [[imperialism]].<ref name="ReferenceA">Kate Evans, ''Red Rosa: A Graphic Biography of Rosa Luxemburg'', New York, Verso, 2015</ref> She wanted a general strike to rouse the workers to solidarity and prevent the coming war; the SPD leaders refused, and she broke with Karl Kautsky in 1910. Between 1904 and 1906, she was imprisoned for her political activities on three occasions.<ref>Eric D. Weitz, ''Creating German Communism, 1890-1990: From Popular Protests to Socialist State''.  Princeton, NJ: Princeton University Press, 1997</ref> In 1907, she went to the [[Russian Social Democratic Labour Party|Russian Social Democrats]]' Fifth Party Day in [[London]], where she met Vladimir Lenin. At the socialist [[Second International]] Congress in [[Stuttgart]], her [[Resolution (law)|resolution]], demanding that all European workers' parties should unite in attempting to stop the war, was accepted.<ref name="ReferenceA"/>
+
+Luxemburg taught Marxism and economics at the SPD's Berlin training centre.  Her former student, [[Friedrich Ebert]], became the SPD leader, and later the [[Weimar Republic]]'s first president. In 1912 Luxemburg was the SPD representative at the European Socialists congresses.<ref name="ReferenceB">Paul Frölich, ''Rosa Luxemburg'', London: Haymarket Books, 2010</ref> With French socialist [[Jean Jaurès]], she argued that European workers' parties should organize a general strike when war broke out. In 1913, she told a large meeting: "If they think we are going to lift the weapons of murder against our French and other brethren, then we shall shout: 'We will not do it!'".  But in 1914, when nationalist crises in the [[Balkans]] erupted to violence and then war, there was no general strike and the SPD majority supported the war&nbsp;– as did the [[French Section of the Workers' International|French Socialists]].  The [[Reichstag (German Empire)|Reichstag]] unanimously agreed to financing the war.  The SPD voted in favour of that and agreed to a truce (''[[Burgfriedenspolitik|Burgfrieden]]'') with the [[German Empire|Imperial]] government, promising to refrain from any strikes during the war.  This led Luxemburg to contemplate suicide: the "[[Reformism|revisionism]]" she had fought since 1899 had triumphed.<ref name="ReferenceB"/>
+
+In response, Luxemburg organised anti-war demonstrations in [[Frankfurt]], calling for [[Conscientious objector|conscientious objection]] to [[Conscription|military conscription]] and the refusal to obey orders.  On that account, she was imprisoned for a year for "inciting to disobedience against the authorities' law and order".  Shortly after her death, her fame was alluded to by [[Grigory Zinoviev]] at the [[Saint Petersburg|Petrograd]] [[Soviet (council)|Soviet]] on 18 January 1919: he adjudged her astute assessment of [[Bolsheviks|Bolshevism]].<ref>Waters, pp.18-19</ref>
+[[File:Rosa Luxemburg NYPL.jpg|alt=Undated photograph of Rosa Luxemburg|thumb|Undated photograph of Rosa Luxemburg]]
+
+====During the war====
+
+[[File:Bundesarchiv Bild 183-14077-006, Rosa Luxemburg.jpg|thumb|right|250px|Rosa Luxemburg, 1915]]
+
+In August 1914, Luxemburg, along with [[Karl Liebknecht]], [[Clara Zetkin]] and [[Franz Mehring]], founded the ''Die Internationale'' group; it became the [[Spartacus League]] in January 1916. They wrote illegal, anti-war pamphlets pseudonymously signed "[[Spartacus]]" (after the slave-liberating [[Thrace|Thracian]] [[gladiator]] who opposed the [[Ancient Rome|Romans]]); Luxemburg's pseudonym was "Junius" (after [[Lucius Junius Brutus]], founder of the [[Roman Republic]]).
+
+The Spartacus League vehemently rejected the SPD's support for fighting [[World War I]] by the [[German Empire]], trying to lead Germany's proletariat to an anti-war general strike. As a result, in June 1916 Luxemburg was imprisoned for two and a half years, as was Karl Liebknecht. During imprisonment, she was twice relocated, first to Posen (now [[Poznań]]), then to Breslau (now [[Wrocław]]).
+
+Friends smuggled out and illegally published her articles. Among them was ''The Russian Revolution'', criticising the [[Bolsheviks]], presciently warning of their dictatorship. Nonetheless, she continued to call for a "[[dictatorship of the proletariat]]", albeit not of the one party Bolshevik model. In that context, she wrote the words "''Freiheit ist immer die Freiheit des Andersdenkenden''" (Freedom is always the freedom of the one who thinks differently) and continues in the same chapter "The public life of countries with limited freedom is so poverty-stricken, so miserable, so rigid, so unfruitful, precisely because, through the exclusion of democracy, it cuts off the living sources of all spiritual riches and progress."<ref>[https://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm Rosa Luxemburg, The Russian Revolution, Chapter 6: The Problem of Dictatorship] (www.marxists.org, accessed 5 February 2017)</ref> Another article, written in 1915 and published in June 1916, was ''Die Krise der Sozialdemokratie'' (The Crisis of Social Democracy).
+
+In 1917, the Spartacus League was affiliated with the [[Independent Social Democratic Party of Germany|Independent Social Democratic Party]] (USPD), founded by [[Hugo Haase]] and made up of anti-war former SPD members. In November 1918, the USPD and the SPD assumed power in the new republic upon the abdication of Emperor [[Wilhelm II, German Emperor|Wilhelm II]]. This followed the [[German Revolution of 1918–19|German Revolution]] that began with the [[Kiel mutiny]], when workers' and soldiers' councils seized most of Germany, to put an end to World War I and to the [[German Emperor|monarchy]]. The USPD and most of the SPD members supported the [[Workers' council|councils]], while the SPD leaders feared this could lead to a ''Räterepublik'' ("council republic") like the [[Soviet (council)|soviets]] of the Russian [[Revolution of 1905|Revolutions of 1905]] and [[Russian Revolution|1917]].
+
+====German Revolution of 1918–19, Luxemburg's execution====
+
+{{See also|German Revolution of 1918–19}}
+
+[[File:Alfred Grohs zur Revolution 1918 1919 in Berlin Große Frankfurter Straße Ecke Lebuser Straße Barrikade Kampf während der Novemberrevolution in Berlin 02 Bildseite Schaulustige.jpg|275px|thumb|Barricade during the [[Spartacist uprising]]]]
+
+Luxemburg was freed from prison in Breslau on 8 November 1918. One day later, Karl Liebknecht, who had also been freed from prison, proclaimed the "Free Socialist Republic" (''Freie Sozialistische Republik'') in Berlin.<ref>{{Cite web
+ | title = Long Live the Republic - 9 November 1918
+ | last = von Hellfeld | first = Matthias
+ | work = [[Deutsche Welle]]
+ | url = http://www.dw.de/long-live-the-republic-november-9-1918/a-4746952
+ | date = 16 November 2009 | access-date = 30 November 2014
+}}</ref> He and Luxemburg reorganised the Spartacus League and founded ''The Red Flag'' (''[[Die Rote Fahne]]'') newspaper, demanding amnesty for all [[political prisoner]]s and the abolition of [[capital punishment]] in the essay ''Against Capital Punishment''.<ref name="Merrick" /> On 14 December 1918, they published the new programme of the Spartacus League.
+
+From 29 to 31 December 1918, they took part in a joint congress of the League, independent socialists and the International Communists of Germany (IKD), that led to the foundation on 1 January 1919 of the [[Communist Party of Germany]] (KPD) under the leadership of Liebknecht and Luxemburg. She supported the new KPD's participation in the [[Weimar National Assembly]] that founded the [[Weimar Republic]], but was out-voted and the KPD boycotted the elections.
+
+In January 1919, a second revolutionary wave swept Berlin.  On New Year's Day Luxemburg declared:
+<blockquote>Today we can seriously set about destroying capitalism once and for all.  Nay, more; not merely are we today in a position to perform this task, nor merely is its performance a duty toward the proletariat, but our solution offers the only means of saving human society from destruction.<ref>Nettl, Luxemburg, vol.1, p.131; Rosa Luxemburg speaks, (ed.)Mary-Alice Waters, p.7</ref></blockquote>
+
+Like Liebknecht, Luxemburg refused to reject this attempt to seize power.  The ''Red Flag'' encouraged the rebels to occupy the editorial offices of the liberal press.
+
+In response to the uprising, the [[Social Democratic Party of Germany|Social Democratic]] leader [[Friedrich Ebert]] ordered the ''[[Freikorps]]'' to destroy the left-wing revolution. Luxemburg and Liebknecht were captured in Berlin on 15 January 1919 by the Rifle Division of the Cavalry Guards of the ''Freikorps'' (''Garde-Kavallerie-Schützendivision'').<ref name="Der Spiegel">{{Cite web
+ | title = Revolutionary Find: Berlin Hospital May Have Found Rosa Luxemburg's Corpse
+ | last = Thadeusz | first = Frank
+ | magazine = [[Der Spiegel]]
+ | url = http://www.spiegel.de/international/germany/revolutionary-find-berlin-hospital-may-have-found-rosa-luxemburg-s-corpse-a-627626.html
+ | date = 29 May 2009 | access-date = 30 November 2014
+}}</ref> Its commander Captain [[Waldemar Pabst]], with Lieutenant [[Horst von Pflugk-Harttung]], questioned them under torture and then gave the order to execute them. Luxemburg was knocked down with a rifle butt by the soldier Otto Runge, then shot in the head, either by Lieutenant [[Kurt Vogel]] or by Lieutenant [[Hermann Souchon]]. Her body was flung into Berlin's [[Landwehr Canal]].<ref>{{Cite web
+ | title = Rosa Luxemburg Murder Case Reopened
+ | last = Wroe | first = David
+ | newspaper = [[The Daily Telegraph]]
+ | url = http://www.telegraph.co.uk/news/worldnews/europe/germany/6840393/Rosa-Luxemburg-murder-case-reopened.html
+ | date = 18 December 2009 | access-date = 30 November 2014
+}}</ref> In the [[Tiergarten (park)|Tiergarten]] Liebknecht was shot and his body, without a name, brought to a morgue.
+
+The execution of Luxemburg and Liebknecht inspired a new wave of violence in Berlin and across Germany. Thousands of members of the KPD as well as other revolutionaries and civilians were killed. Finally, the People's Navy Division (''Volksmarinedivision'') and workers' and soldiers' councils, which had moved to the political left, disbanded.  Luxemburg was held in high regard by Lenin and [[Leon Trotsky]], who recognised at the [[Communist International|Third International]] her revolutionary credentials.<ref>Waters, p.18-19</ref>
+
+The last part of the German Revolution saw many instances of armed violence and strikes throughout Germany. Significant strikes occurred in Berlin, the [[Bremen]] Soviet Republic, [[Saxony]], [[Saxe-Gotha]], [[Hamburg]], the [[Rhineland]]s, and the [[Ruhr]] region. Last to strike was the [[Bavarian Soviet Republic]], which was suppressed on 2 May 1919.
+
+[[File:Grab liebknecht luxemburg.jpg|thumb|1919 photo of the graves of Rosa Luxemburg and Karl Liebknecht]]
+More than four months after the execution of Luxemburg and Liebknecht, on 1 June 1919, Luxemburg's corpse was found and identified after an autopsy at the [[Charité]] hospital in Berlin.<ref name="Der Spiegel" /> Otto Runge was sentenced to two years imprisonment (for "attempted manslaughter") and Lieutenant Vogel to four months (for failing to report a corpse). However, Vogel escaped after a brief custody. Pabst and Souchon went unpunished.<ref>J.P. Nettl, ''Rosa Luxemburg'', Oxford University Press, 1969, pp. 487-490.</ref> The [[Nazi Germany|Nazis]] later compensated Runge for having been jailed (he died in Berlin in Soviet custody after the end of [[World War II]]),<ref>http://revolutionarydemocracy.org/rdv5n1/luxembrg.htm</ref> and they merged the ''Garde-Kavallerie-Schutzendivision'' into the [[Sturmabteilung|SA]]. In an interview with German news magazine ''[[Der Spiegel]]'' in 1962 and again in his memoirs, Pabst maintained that two leaders of the SPD, Defence Minister [[Gustav Noske]] and Chancellor Friedrich Ebert, had approved of his actions. His account has been neither confirmed nor denied, since the case has not been examined by parliament or the courts.
+
+Luxemburg and Liebknecht were buried at the [[Zentralfriedhof Friedrichsfelde|Friedrichsfelde Central Cemetery]] in Berlin, where socialists and communists commemorate them yearly on the second Sunday of January.
+
+== Thought ==
+
+Luxemburg defended [[Karl Marx]]'s [[dialectical materialism]] and [[historical materialism|conception of history]]. What did [[Revisionism (Marxism)|revisionism]] have to say about the objective development of capitalism? [[Karl Kautsky]], the [[Ethical socialism|ethical socialist]], rejected [[Neo-Kantianism|neo-Kantian]] arguments in favour of [[social Darwinism]]. The [[proletariat]] had to be re-organized in 1893 and in 1910–11, as a precondition, before they could act. These formed the substantive form of arguments with Rosa Luxemburg in 1911, when the two seriously fell out. But Kautsky saw, as did Luxemburg, that what was true for the Radicals, [[Vladimir Lenin]] and [[Alexander Parvus]] in Russia, was not necessarily so true in Germany. Kautsky was older than Luxemburg, more cautious, and he read mass strikes as adventurism. But radical qualitative change for the [[working class]] would lead Luxemburg into an age of [[Proletarian revolution|revolution]], which she thought had arrived. She was determined to push capitalism to its limits to develop [[class consciousness]].<ref>Politische Schriften, p.48</ref> In order to get organization and consciousness, workers had to strike to test resilience to exploitation; this would not be achievable through blind adherence to party organization.<ref>Massenstreik, Partei, und Gewerkschaften (Leipzig 1919), p.31</ref>
+
+=== ''The Accumulation of Capital'' ===
+''[[The Accumulation of Capital]]'' was the only work Luxemburg published on economics during her lifetime. In the polemic, she argued that capitalism needs to constantly expand into noncapitalist areas in order to access new supply sources, markets for surplus value, and reservoirs of labor.<ref name="Reform or Revolution">{{cite book|last1=Luxemburg|first1=Rosa|contributor-last=Scott|contributor-first=Helen|contribution=Introduction to Rosa Luxemburg|title=The Essential Rosa Luxemburg: Reform or Revolution and The Mass Strike|date=2008|publisher=Haymarket Books|location=Chicago, IL|page=18|accessdate=24 January 2017}}</ref> According to Luxemburg, Marx had made an error in ''Capital'' in that the proletariat could not afford to buy the commodities they produced, and therefore by his own criteria it was impossible for capitalists to make a profit in a closed-capitalist system since the demand for commodities would be too low, and therefore much of the value of commodities could not be transformed into money. Therefore, according to Luxemburg, capitalists sought to realize profits through offloading surplus commodities onto non-capitalist economies, hence the phenomenon of imperialism as capitalist states sought to dominate weaker economies. This however lead to the destruction of non-capitalist economies as they were increasingly absorbed into the capitalist system. With the destruction of non-capitalist economies however, there would be no more markets to offload surplus commodities onto, and capitalism would break down.<ref name=":0">{{Cite book|title=Main Currents of Marxism|last=Kolakowski|first=Leszek|publisher=W. W. Norton & Company|year=2008|isbn=|location=|pages=407–415|quote=|via=}}</ref>
+
+''The Accumulation of Capital'' was harshly criticized by both Marxist and non-Marxist economists, on the grounds that her logic was circular in proclaiming the impossibility of realizing profits in a close-capitalist system, and that her "underconsumptionist" theory was too crude.<ref name=":0" /> Her conclusion that the limits of the capitalist system drive it to imperialism and war led Luxemburg to a lifetime of campaigning against militarism and colonialism.<ref name="Reform or Revolution"/>
+
+===Dialectic of Spontaneity and Organisation===
+
+The ''Dialectic of Spontaneity and Organisation'' was the central feature of Luxemburg's political philosophy, wherein "[[Revolutionary spontaneity|spontaneity]]" is a [[grassroots]] approach to organising a party-oriented [[Class conflict|class struggle]]. Spontaneity and organisation, she argued, are not separable or separate activities, but different moments of one political process; one does not exist without the other. These beliefs arose from her view that class struggle evolves from an elementary, spontaneous state to a higher level:
+
+<blockquote>
+The working classes in every country only learn to fight in the course of their struggles...Social democracy...is only the advance guard of the proletariat, a small piece of the total working masses; blood from their blood, and flesh from their flesh. Social democracy seeks and finds the ways, and particular slogans, of the workers' struggle only in the course of the development of this struggle, and gains directions for the way forward through this struggle alone.<ref>''In a Revolutionary Hour: What Next?'', ''Collected Works'' 1.2, p.554</ref>
+</blockquote>
+
+Luxemburg did not hold [[Revolutionary spontaneity|spontaneism]] as an abstraction, but developed the ''Dialectic of Spontaneity and Organisation'' under the influence of mass strikes in Europe, especially the Russian [[Revolution of 1905]].<ref>{{Cite web
+ | title = Rosa Luxemburg (Polish-German Revolutionary)
+ | work = [[Encyclopædia Britannica]]
+ | url = http://www.britannica.com/EBchecked/topic/352345/Rosa-Luxemburg
+ | access-date = 30 November 2014
+}}</ref> Unlike the social democratic orthodoxy of the [[Second International]], she did not regard organisation as a product of scientific-theoretic insight to historical imperatives, but as product of the working classes' struggles:
+
+<blockquote>
+Social democracy is simply the embodiment of the modern proletariat's class struggle, a struggle which is driven by a consciousness of its own historic consequences. The masses are in reality their own leaders, dialectically creating their own development process. The more that social democracy develops, grows, and becomes stronger, the more the enlightened masses of workers will take their own destinies, the leadership of their movement, and the determination of its direction into their own hands. And as the entire social democracy movement is only the conscious advance guard of the proletarian class movement, which in the words of ''[[The Communist Manifesto]]'' represent in every single moment of the struggle the permanent interests of liberation and the partial group interests of the workforce ''vis à vis'' the interests of the movement as whole, so within the social democracy its leaders are the more powerful, the more influential, the more clearly and consciously they make themselves merely the mouthpiece of the will and striving of the enlightened masses, merely the agents of the objective laws of the class movement.<ref>''The Political Leader of the German Working Classes'', ''Collected Works'' 2, p.280</ref>
+</blockquote>
+
+and
+
+<blockquote>
+The modern proletarian class does not carry out its struggle according to a plan set out in some book or theory; the modern workers' struggle is a part of history, a part of social progress, and in the middle of history, in the middle of progress, in the middle of the fight, we learn how we must fight...That's exactly what is laudable about it, that's exactly why this colossal piece of culture, within the modern workers' movement, is epoch-defining: that the great masses of the working people first forge from their own consciousness, from their own belief, and even from their own understanding the weapons of their own liberation.<ref>''The Politics of Mass Strikes and Unions'', ''Collected Works'' 2, p.465</ref>
+</blockquote>
+
+===Criticism of the October Revolution===
+
+In an article published just before the [[October Revolution]], Luxemburg characterized the Russian [[February Revolution]] of 1917 as a "revolution of the proletariat", and said that the "[[classical liberalism|liberal]] [[bourgeoisie]]" were pushed to movement by the display of "proletarian power." The task of the Russian proletariat, she said, was now to end the "imperialist" world war, in addition to struggling against the "imperialist bourgeoisie." The world war made Russia ripe for a [[Revolutionary socialism|socialist revolution]]. Therefore, "the German proletariat are also&nbsp;...posed a question of honour, and a very fateful question."<ref>''The Politics of Mass Strikes and Unions'', ''Collected Works'' 2, p.245</ref>
+
+In several works, including an essay written from jail and published posthumously by her last companion, [[Paul Levi]] (publication of which precipitated his expulsion from the [[Communist International|Third International]]), titled ''The Russian Revolution'',<ref>{{Cite web
+ | title = The Nationalities Question in the Russian Revolution (Rosa Luxemburg, 1918)
+ | publisher = [[Libcom.org]]
+ | url = http://libcom.org/library/nationalities-question-in-the-russian-revolution-luxemburg
+ | date = 11 July 2006 | access-date = 2 January 2010
+}}</ref> Luxemburg sharply criticized some [[Bolsheviks|Bolshevik]] policies, such as their suppression of the [[Russian Constituent Assembly|Constituent Assembly]] in January 1918, their support for the partition of old [[feudalism|feudal]] estates to [[peasants|peasant]] [[commune]]s, and their policy of supporting the purported right of all national peoples to "self-determination." According to Luxemburg, the Bolsheviks' strategic mistakes created tremendous dangers for the Revolution, such as its bureaucratisation.
+
+Her sharp criticism of the October Revolution and the Bolsheviks was lessened insofar as she compared the errors of the Revolution and of the Bolsheviks with the "complete failure of the international proletariat."<ref>''On the Russian Revolution'', GW 4, p. 334</ref>
+
+Bolshevik theorists, such as Lenin and [[Leon Trotsky|Trotsky]], responded to this criticism by arguing that Luxemburg's notions were [[classical Marxism|classical Marxist]] ones, but they could not be applied to Russia of 1917. They stated that the lessons of actual experience, such as the confrontation with the bourgeois parties, had forced them to revise the Marxian strategy. As part of this argument, it was pointed out that after Luxemburg herself got out of jail, she was also forced to confront the [[Weimar National Assembly|National Assembly]] in Germany&nbsp;– a step they compared with their own conflict with the [[Russian Constituent Assembly]].
+
+<blockquote>
+In this erupting of the social divide in the very lap of bourgeois society, in this international deepening and heightening of class antagonism lies the historical merit of Bolshevism, and with this feat{{spaced ndash}}as always in large historic connections{{spaced ndash}}the particular mistakes and errors of the Bolsheviks disappear without trace.<ref>''Fragment on War, National Questions, and Revolution'', ''Collected Works'' 4, p. 366</ref>
+</blockquote>
+
+After the October Revolution, it becomes the "historic responsibility" of the German workers to carry out a revolution for themselves, and thereby end the war.<ref>Luxemburg, ''The Historic Responsibility'', GW 4, p. 374</ref> When the [[German Revolution of 1918–19]] also broke out, Luxemburg immediately began agitating for a social revolution:
+
+<blockquote>
+The abolition of the rule of [[Capital (economics)|capital]], the realization of a socialist social order{{spaced ndash}}this, and nothing less, is the historical theme of the present revolution. It is a formidable undertaking, and one that will not be accomplished in the blink of an eye just by the issuing of a few decrees from above. Only through the conscious action of the working masses in city and country can it be brought to life, only through the people's highest intellectual maturity and inexhaustible idealism can it be brought safely through all storms and find its way to port.<ref>''The Beginning'', ''Collected Works'' 4, p. 397</ref>
+</blockquote>
+
+=== Epitaph on her death ===
+
+[[File:Rosa Luxemburg ND2.JPG|thumb|A statue of Rosa Luxemburg, [[Berlin]]]]
+
+Despite the criticism, Lenin praised Luxemburg after her death as an "eagle" of the working class:
+
+<blockquote>
+But in spite of her mistakes she was—and remains for us—an eagle.  And not only will communists all over the world cherish her memory, but her biography and her complete works (the publication of which the German communists are inordinately delaying, which can only be partly excused by the tremendous losses they are suffering in their severe struggle) will serve as useful manuals for training many generations of communists all over the world. 'Since 4 August 1914, German Social-Democracy has been a stinking corpse'—this statement will make Rosa Luxemburg's name famous in the history of the international working class movement.<ref>{{Cite web
+ | title = Ninety Years after the Murder of Rosa Luxemburg: Lessons of the Life of a Revolutionary
+ | last = Larsen | first = Patrick
+ | work = [[International Marxist Tendency]]
+ | url = http://www.marxist.com/lessons-of-the-life-of-a-revolutionary.htm
+ | date = 15 January 2009 | access-date = 18 May 2015
+}}</ref> 
+</blockquote>
+
+Trotsky also publicly mourned Luxemburg's death, writing:
+
+<blockquote>
+We have suffered two heavy losses at once which merge into one enormous bereavement. There have been struck down from our ranks two leaders whose names will be for ever entered in the great book of the proletarian revolution: Karl Liebknecht and Rosa Luxemburg. They have perished. They have been killed. They are no longer with us!<ref>{{Cite web
+ | title = Karl Liebknecht and Rosa Luxemburg
+ | last = Trotsky | first = Leon
+ | work = [[International Marxist Tendency]]
+ | url = http://www.marxist.com/trotsky-on-karl-liebknecht-rosa-luxemburg.htm
+ | date = 1919 | access-date = 18 May 2015
+}}</ref>
+</blockquote>
+
+In later years, Trotsky frequently defended Luxemburg, claiming that [[Joseph Stalin]] had vilified her.<ref name="Merrick" /> In the article ''Hands Off Rosa Luxemburg!'' Trotsky criticized Stalin for this, despite what Trotsky perceived as Luxemburg's theoretical errors. "Yes, Stalin has sufficient cause to hate Rosa Luxemburg.  But all the more imperious therefore becomes our duty to shield Rosa's memory from Stalin's calumny that has been caught by the hired functionaries of both hemispheres, and to pass on this truly beautiful, heroic, and tragic image to the young generations of the proletariat in all its grandeur and inspirational force."<ref>{{Cite web
+ | title = Hands Off Rosa Luxemburg!
+ | last = Trotsky | first = Leon
+ | work = [[International Marxist Tendency]]
+ | url = http://www.marxist.com/hands-off-rosa-luxemburg-1932.htm
+ | date = June 1932 | access-date = 18 May 2015
+}}</ref>
+
+=== Quotations ===
+
+[[File:Zetkin luxemburg1910.jpg|thumb|250px|right|[[Clara Zetkin]] and Rosa Luxemburg, 1910]]
+
+* Luxemburg's best-known quotation ''Freiheit ist immer nur Freiheit des anders Denkenden'' is an excerpt from the following passage:
+Freedom only for the supporters of the government, only for the members of a party{{spaced ndash}}however numerous they may be{{spaced ndash}}is no freedom at all. Freedom is always the freedom of the one who thinks differently. Not because of the fanaticism of "justice", but rather because all that is instructive, wholesome, and purifying in political freedom depends on this essential characteristic, and its effects cease to work when "freedom" becomes a privilege.<ref>Die russische Revolution. Eine kritische Würdigung, Berlin 1920 S. 109; Rosa Luxemburg&nbsp;— Gesammelte Werke Band 4, S. 359, Anmerkung 3 Dietz Verlag Berlin (Ost), 1983; see [http://www.marxists.org/deutsch/archiv/luxemburg/1918/russrev/teil4.htm#n c]</ref>
+* The capitalist state of society is doubtless a historic necessity, but so also is the revolt of the working class against it – the revolt of its gravediggers. (April 1915)
+* Without general elections, without unrestricted freedom of press and assembly, without a free struggle of opinion, life dies out in every public institution, becomes a mere semblance of life, in which only the bureaucracy remains as the active element.<ref>''The Russian Revolution'', Chapter 6, in the [http://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm Rosa Luxemburg Internet Archive]</ref>
+* For us there is no minimal and no maximal program; socialism is one and the same thing: this is the minimum we have to realize today.<ref>''Our Program and the Political Situation'', in the [http://www.marxists.org/archive/luxemburg/1918/12/31.htm Rosa Luxemburg Internet Archive]</ref>
+* Today, we face the choice exactly as Friedrich Engels foresaw it a generation ago: either the triumph of imperialism and the collapse of all civilization as in ancient Rome, depopulation, desolation, degeneration – a great cemetery. Or the victory of socialism, that means the conscious active struggle of the international proletariat against imperialism and its method of war.<ref>''The Junius Pamphlet'', chapter 1, in the [http://www.marxists.org/archive/luxemburg/1915/junius/ch01.htm Rosa Luxemburg Internet Archive]</ref>
+* Most of those bourgeois women who act like lionesses in the struggle against “male prerogatives” would trot like docile lambs in the camp of conservative and clerical reaction if they had [[suffrage]].<ref>[https://www.marxists.org/archive/luxemburg/1912/05/12.htm "Women's Suffrage and Class Struggle"]</ref> (Luxemburg's famous observation and critique of [[liberal feminism]])
+
+===Last words: belief in revolution===
+
+Luxemburg's last known words, written on the evening of her murder, were about her belief in the masses, and about what she saw as the inevitability of a triumphant revolution:
+
+<blockquote>
+The contradiction between the powerful, decisive, aggressive offensive of the Berlin masses on the one hand and the indecisive, half-hearted vacillation of the Berlin leadership on the other is the mark of this latest episode. The leadership failed. But a new leadership can and must be created by the masses and from the masses. The masses are the crucial factor. They are the rock on which the ultimate victory of the revolution will be built. The masses were up to the challenge, and out of this “defeat” they have forged a link in the chain of historic defeats, which is the pride and strength of international socialism. That is why future victories will spring from this “defeat.”
+
+“Order prevails in Berlin!” You foolish lackeys! Your “order” is built on sand. Tomorrow the revolution will “rise up again, clashing its weapons,” and to your horror it will proclaim with trumpets blazing:
+I was, I am, I shall be!<ref>Luxemburg, ''Order reigns in Berlin'', ''Collected Works'' 4, p. 536, in the [http://www.marxists.org/archive/luxemburg/1919/01/14.htm Rosa Luxemburg Internet Archive]</ref>
+</blockquote>
+[[File:L-L Demo 2016.jpg|thumb|A scene from the 2016 Liebknecht-Luxemburg Demonstration in Berlin, held each year in January to honor the murdered socialists]]
+
+==Memorials==
+
+[[File:Ich Bin Eine Terroristin.JPG|thumb|[[Stencil graffiti]] of Rosa Luxemburg on a portion of the [[Berlin Wall]] on display in [[Potsdamer Platz]] in Berlin. The title reads "I am a terrorist."]]
+
+In Berlin [[Mitte]], the [[Rosa-Luxemburg-Platz]] and a [[Rosa-Luxemburg-Platz (Berlin U-Bahn)|U-Bahn station]] were named in her honour by the [[East Germany|East German]] government. The engraving on the nearby pavement reads ''Ich war, ich bin, ich werde sein'' (I was, I am, I will be).
+
+[[Dresden]] has a street and streetcar stop named after Rosa Luxemburg. The [[Volksbühne]] (People's Theatre) is on Rosa-Luxemburg-Platz. The names remained unchanged after the [[German reunification]].
+
+During the [[Polish People's Republic]], in [[Warsaw]]'s [[Wola]] district, a manufacturing facility of electric lamps was established and named after Róża Luksemburg (Polish for Rosa Luxemburg).
+
+In 1919, [[Bertolt Brecht]] wrote the poetic memorial ''Epitaph'' honouring Rosa Luxemburg, and in 1928, [[Kurt Weill]] set it to music in ''The Berlin Requiem'':
+
+:''Red Rosa now has vanished too. (...)''
+:''She told the poor what life is about,''
+:''And so the rich have rubbed her out.''
+:'' May she rest in peace.''
+
+The British [[New Left]] historian [[Isaac Deutscher]] wrote of Luxemburg: "In her assassination [[House of Hohenzollern|Hohenzollern]] Germany celebrated its last triumph and Nazi Germany its first".
+
+[[File:RosaLuxemburg2a.jpg|thumb|Rosa Luxemburg memorial at the site where she was thrown—either dead or alive—into the [[Landwehr Canal]], Berlin]]
+
+Opponents of Marxism, however, had a very different interpretation of Luxemburg's murder. [[White émigré|Anti-communist Russian refugees]] occasionally expressed envy for the ''Freikorps''' success in defeating the Spartacus League. In a 1922 conversation with [[Harry Graf Kessler|Count Harry Kessler]], one such refugee lamented:
+
+<blockquote>
+Infamous, that fifteen thousand Russian officers should have let themselves be [[Red Terror|slaughtered by the Revolution]] without raising a hand in self-defense!  Why didn't they act like the Germans, who killed Rosa Luxemburg in such a way that not even a smell of her has remained?<ref>[[Harry Graf Kessler|Count Harry Kessler]], ''Berlin in Lights: The Diaries of Count Harry Kessler (1918-1937)'' Grove Press, New York, 1999. Tuesday 28 March 1922.</ref></blockquote>
+
+There is also a monument in [[Luxembourg]] for "Lady Rosa", done by [[Sanja Iveković]].
+
+In [[Barcelona]] there are terraced gardens named in her honor.
+
+At the edge of the [[Tiergarten, Berlin|Tiergarten]], on the ''Katharina-Heinroth-Ufer'', which runs between the southern bank of the [[Landwehr Canal]] and the bordering ''Zoologischer Garten'' (Zoological Garden), a memorial has been installed by a private initiative. On the memorial, the name "Rosa Luxemburg" appears in raised capital letters, marking the spot where her body was thrown into the canal by ''Freikorps'' troops.
+
+The famous Monument to Rosa Luxemburg and Karl Liebknecht, originally named Monument to the November Revolution [Revolutionsdenkmal] (Berlin-Lichtenberg, <ref>https://www.facebook.com/pg/MiesvanderRohe.Architecture/photos/?tab=album&album_id=61452845378</ref>built 1926, destroyed 1935), was designed by pioneering modernist and later Bauhaus director Ludwig Mies van der Rohe. The memorial took the form of a 'suprematist' composition of brick masses.  Van der Rohe said, "As most of these people [Rosa Luxemburg, Karl Liebknecht, other fallen heroes of the revolution] were shot in front of a brick wall, a brick wall would be what I would build as a monument".  The commission came about through the offices of Eduard Fuchs, who showed a proposal featuring Doric columns and medallions of Liebknecht and Luxemburg, prompting Mies' laughter and the comment "That would be a good monument for a banker".  The monument was destroyed by the Nazis after they took power.
+
+==In popular culture and literature==
+{{in popular culture|section|date=December 2016}}
+[[File:Berlin Friedrichsfelde Zentralfriedhof, Gedenkstätte der Sozialisten (Rondell) - Luxemburg.jpg|thumb|180px|Grave of Rosa Luxemburg in Berlin]]
+* Famous Bulgarian writer, [[Hristo Smirnenski]], which praised the communist ideology, had written the poem "Rosa Luxemburg" in tribute to Rosa Luxemburg in the starting 20s in Sofia,Bulgaria. 
+* ''[[Rosa Luxemburg (film)|Rosa Luxemburg]]'' (1986, German: ''Die Geduld der Rosa Luxemburg''), directed by [[Margarethe von Trotta]]. The film, which stars [[Barbara Sukowa]] as Luxemburg, was the winner of the Best Actress Award at the [[1986 Cannes Film Festival]].
+* In 1992, the [[Quebec]] painter [[Jean-Paul Riopelle]] realized a fresco composed of thirty paintings entitled ''Tribute to Rosa Luxemburg''. It is on permanent display at the [[Musée national des beaux-arts du Québec|National Museum of Fine Arts of Quebec]] in [[Quebec City]].
+* Rosa Luxemburg influences the lives of several characters in [[William T. Vollmann]]'s 2005 historical fiction ''[[Europe Central]]''.
+* [[Rainer Werner Fassbinder]] was planning a film on Luxemburg at the time of his death in 1982, and was said to want [[Jane Fonda]] for the lead.
+* In 2010, French songwriter Claire Diterzi created a musical ''Rosa la Rouge'' (Rosa the Red), inspired by the life of Rosa Luxemburg.
+* ''Rosa'', a novel by [[Jonathan Rabb]] ([http://www.halbanpublishers.com/ Halban Publishers], 2005), gives a fictional account of the events leading to Luxemburg's murder.
+* British math-rock band ''The Murder of Rosa Luxemburg'' took their name from the infamous event.
+* The heroine in the ''[[Burger's Daughter]]'' novel (1979), by [[Nadine Gordimer]], is named Rosa Burger in homage to Luxemburg.
+* [[Harry Turtledove]]'s [[Southern Victory]] series of alternate history novels contains an American socialist politician named Flora Hamburger, in an obvious parallel to the real timeline of Rosa Luxemburg.
+* [[Simon Louvish]]'s 1994 alternate history novel, ''The Resurrections'' (from [[Four Walls Eight Windows]], a revision of ''Resurrections from the Dustbin of History: A Political Fantasy''), had Rosa Luxemburg and Karl Liebknecht avoid death, their revolution becoming reality in 1923, when a failed Reichstag coup by [[Strasserism|Gregor and Otto Strasser]] (plotted by the [[Black Reichswehr]]'s [[Bruno Ernst Buchrucker]]) killed [[Gustav Stresemann]], [[Wilhelm Cuno]], [[Hans von Seeckt]], and 17 deputies, followed by the Marxists creating a [[Commune (socialism)|"Berlin Commune"]] whose squads executed the Strassers and any Nazis not already in exile, the Reichswehr then disarming the ''Freikorps'', accepting a German Soviet Republic's legitimacy, with Liebknecht as [[Federal Ministry of the Interior (Germany)|Minister of the Interior]].
+* Until her disappearance in the spring 2004, the pet tortoise at [[Balliol College, Oxford]] was named in honour of Rosa Luxemburg.<ref>[[Balliol College, Oxford]]</ref><ref>{{Cite news
+ | title = Balliol made them
+ | newspaper = The Daily Telegraph | location = London
+ | url = http://www.telegraph.co.uk/comment/telegraph-view/7640969/Balliol-made-them.html
+ | date = 27 April 2010
+}}</ref>
+* A song on the 1997 album of the Russian [[Rock music|rock band]] [[Mumiy Troll]], ''[[:ru:Морская (альбом)|Morskaya]]'', is titled Роза Люксембург (Rosa Luxemburg).
+* [[Langston Hughes]] alludes to her death in the poem "Kids Who Die" in the line "Or the rivers where you're drowned like Liebknecht."
+* Rosa Luxemburg appears in ''Karl and Rosa'', a novel by [[Alfred Döblin]].
+* She appears in the novel ''Time and Time Again'' by [[Ben Elton]].
+* ''[http://www.thenation.com/article/the-radical-life-of-rosa-luxemburg/ Red Rosa]'' is a graphic novelization by [[Kate Evans]].
+* Luxemburg is mentioned in season five, episode 2 of the original UK edition of the TV show ''[[Downton Abbey]]'' by the character Robert Crawley, Earl of Grantham, in the line "So every time we entertain we must invite this tin-pot Rosa Luxemburg?"
+* In 2010, [[Raqs Media Collective]] included Rosa Luxemburg's critique of global [[political economy]] as part of their video narrative "The Capital of Accumulation"<ref>{{Cite web|url=http://www.raqsmediacollective.net/resultCC.aspx?id=60&type=works|title=.:: Raqs Media Collective ::.|website=www.raqsmediacollective.net|access-date=2016-03-20}}</ref> (reversed title of Luxemburg's 1913 book ''[[The Accumulation of Capital]]'').
+* Surrounding the controversy of the [[United States presidential election, 2016|2016 United States Presidential Election]], a number of [[internet meme]]s have been created joking that "[[Bernie Sanders|Bernie]] killed Rosa (Luxemburg)", referencing the fact that [[Social democracy|Social Democrats]], of which [[Bernie Sanders]] is a prominent politician, arranged for the assassination of Rosa Luxemburg. <ref>{{cite web
+ |url = http://thecahokian.blogspot.com/2016/01/bernie-sanders-killed-rosa-luxemburg.html
+ |title = Bernie Sanders Killed Rosa Luxemburg
+ |last = 
+ |first = 
+ |date = 15 January 2016
+ |website = The Cahokian
+ |publisher = [[Blogger (service)|BlogSpot]]
+}}</ref>
+
+==Corpse identification controversy==
+
+[[File:Karl Liebknecht.jpg|thumb|Luxemburg's fellow revolutionary [[Karl Liebknecht]] was murdered along with her]]
+
+On 29 May 2009 ''Spiegel online'', the internet branch of the news magazine ''[[Der Spiegel]]'', reported the recently considered possibility that someone else's remains had mistakenly been identified as Luxemburg's and buried as hers.<ref name="Der Spiegel" />
+
+The [[forensic pathology|forensic pathologist]] Michael Tsokos, head of the Institute of Legal Medicine and Forensic Sciences at the Berlin [[Charité]], discovered a preserved corpse lacking head, feet, or hands, in the cellar of the Charité's medical history museum. He found the corpse's autopsy report suspicious and decided to perform a [[CT scan]] on the remains. The body showed signs of having been waterlogged at some point, and the scans showed that it was the body of a woman of 40–50 years of age who suffered from [[osteoarthritis]] and had legs of differing length. At the time of her murder, Rosa Luxemburg was 47 years old and suffering from a congenital dislocation of the hip that caused her legs to have different lengths. A laboratory in [[Kiel]] also tested the corpse using [[radiocarbon dating]] techniques and confirmed that it dated from the same period as Luxemburg's murder.
+
+The original [[autopsy]], performed on 13 June 1919 on the body that was eventually buried at [[Friedrichsfelde]], showed certain inconsistencies that supported Tsokos' hypothesis. The autopsy explicitly noted an absence of hip damage, and stated that there was no evidence that the legs were of different lengths. Additionally, the autopsy showed no traces on the upper skull of the two blows by rifle butt inflicted upon Luxemburg. Finally, while the 1919 examiners noted a hole in the corpse's head between left eye and ear, they did not find an exit wound or the presence of a bullet within the skull.
+
+Assistant pathologist Paul Fraenckel appeared to doubt at the time that the corpse he had examined was Rosa Luxemburg's and, in a signed addendum, distanced himself from his colleague's conclusions. This addendum and the inconsistencies between the autopsy report and the known facts persuaded Tsokos to examine the remains more closely. According to eyewitnesses, when Luxemburg's body was thrown into the canal, weights were wired to her ankles and wrists. These could have slowly severed her extremities in the months her corpse spent in the water, which would explain the missing hands and feet issue.<ref name="Der Spiegel" />
+
+Tsokos realized that [[Genetic testing|DNA testing]] was the best way to confirm or deny the identity of the body as Luxemburg's. His team had initially hoped to find traces of the [[DNA]] on old postage stamps that Luxemburg had licked, but it transpired that Luxemburg had never done this, preferring to moisten stamps with a damp cloth. The examiners decided to look for a surviving blood relative, and in July 2009, the German Sunday newspaper ''[[Bild|Bild am Sonntag]]'' reported that a great-niece of Rosa Luxemburg had been located—a 79-year-old woman named Irene Borde. She donated strands of her hair for DNA comparison.<ref>{{Cite web
+ | title = DNA of Great-Niece May Help Identify Headless Corpse
+ | publisher = SpiegelOnline
+ | url = http://www.spiegel.de/international/germany/0,1518,637385,00.html
+ | date = 21 July 2009
+}}</ref>
+
+In December 2009, Berlin authorities seized the corpse to perform an autopsy before burying it in Luxemburg's grave.<ref>{{Cite web
+ | title = Berlin Authorities Seize Corpse for Pre-Burial Autopsy
+ | publisher = SpiegelOnline
+ | url = http://www.spiegel.de/international/germany/0,1518,667606,00.html
+ | date = 17 December 2009
+}}</ref> The Berlin Public Prosecutor's office announced in late December 2009 that while there were indications that the corpse was Rosa Luxemburg's, there was not enough evidence to provide conclusive proof. In particular, DNA extracted from the hair of Luxemburg's niece did not match that belonging to the cadaver. Tsokos had earlier said that the chances of a match were only 40%. The remains were to be buried at an undisclosed location, while testing was to continue on tissue samples.<ref>{{Cite web
+ | title = Rosa Luxemburg "floater" released for burial after 90 years
+ | publisher = Salon.com
+ | work = Lost in Berlin
+ | url = http://open.salon.com/blog/lost_in_berlin/2009/12/30/rosa_luxemburg_floater_released_for_burial_after_90_years
+ | date = 30 December 2009
+}}</ref>
+
+==Ancestry==
+{{ahnentafel top|width=100%}}
+{{ahnentafel-compact5
+|style=font-size: 90%; line-height: 110%;
+|align=center
+|border=1
+|boxstyle=padding-top: 0; padding-bottom: 0;
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1=1. '''Rosa Luxemburg '''
+|2=2. Eliasz Luxemburg
+|3=3. Line Löwenstein
+|4=4. Abraham Luxenburg 
+|5=5. Chana Szlam
+|6=6. Icek Ozer Lewensztein
+|7=7. Fejga Bejla Szyff
+|8=8. Elisza Luxenberg
+|9=9. Szayndla
+|10=10. Mordko Szlam
+|11=11. Thema
+|12=12. Natan Lewinstein
+|13=13. Golda Rywka Perec
+|14=14. Nuchym Szyff
+|15=15. Rejzla 
+|24=24. Issachar Berish Berenstein
+|25=25. Gitel Horowitz
+|26=26. Israel Isser
+|27=27. Blima Perec
+|28=28. Icko Szyff
+|29=29. Ruchla
+|30=30. Wolf
+|31=31. Cyna
+}}
+{{ahnentafel bottom}}
+
+==Works==
+
+[[File:Rosa Lux Berlin 1907.jpg|thumb|right|225px|Luxemburg in Berlin in 1907]]
+
+* ''[[The Accumulation of Capital]]'', translated by Agnes Schwarzschild in 1951. Routledge Classics edition, 2003. Originally published as ''Die Akkumulation des Kapitals'' in 1913.
+* ''The Accumulation of Capital: an Anticritique'', written in 1915.
+* ''Gesammelte Werke'' (Collected Works), 5 volumes, Berlin 1970–1975.
+* ''Gesammelte Briefe'' (Collected Letters), 6 volumes, Berlin 1982–1997.
+* ''Politische Schriften'' (Political Writings), edited and with preface by [[Ossip K. Flechtheim]], 3 volumes, Frankfurt am Main 1966 ff.
+* ''The Complete Works of Rosa Luxemburg'', 14 volumes, London and New York 2011.
+* ''The Rosa Luxemburg Reader'', eds. Peter Hudis & Kevin B. Anderson.
+
+== Writings ==
+
+This is a list of selected writings:
+
+{| class="wikitable sortable"
+! Writing !! Year !! Text
+|-
+| ''[[The Industrial Development of Poland]]'' || 1898 || [https://www.marxists.org/archive/luxemburg/1898/industrial-poland/index.htm English]
+|-
+| ''[[In Defense of Nationality]]'' || 1900 || [https://www.marxists.org/archive/luxemburg/1900/nationality/index.html English]
+|-
+| ''[[Social Reform or Revolution|Reform or Revolution]]'' || 1900 || [https://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm English]
+|-
+| ''[[The Socialist Crisis in France]]'' || 1901 || [https://www.marxists.org/archive/luxemburg/1901/socialist-crisis-france/index.htm English]
+|-
+| ''[[Organizational Questions of the Russian Social Democracy]]'' || 1904 || [https://www.marxists.org/archive/luxemburg/1904/questions-rsd/index.htm English]
+|-
+| ''[[The Mass Strike, the Political Party and the Trade Unions]]'' || 1906 || [https://www.marxists.org/archive/luxemburg/1906/mass-strike/index.htm English]
+|-
+| ''[[The National Question]]'' || 1909 || [https://www.marxists.org/archive/luxemburg/1909/national-question/index.htm English]
+|-
+| ''[[Theory & Practice]]'' || 1910 || [https://www.marxists.org/archive/luxemburg/1910/theory-practice/ English]
+|-
+| ''[[The Accumulation of Capital]]'' || 1913 || [https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/index.htm English]
+|-
+| ''[[The Accumulation of Capital: An Anti-Critique]]'' || 1915 || [https://www.marxists.org/archive/luxemburg/1915/anti-critique/index.htm English]
+|-
+| ''[[The Junius Pamphlet]]'' || 1915 || [https://www.marxists.org/archive/luxemburg/1915/junius/index.htm English]
+|-
+| ''[[The Russian Revolution (Rosa Luxemburg)|The Russian Revolution]]'' || 1918 || [https://www.marxists.org/archive/luxemburg/1918/russian-revolution/index.htm English]
+|}
+
+== Speeches ==
+
+{| class="wikitable sortable"
+! Speech !! Year !! Transcript
+|-
+| ''[[Speeches to Stuttgart Congress]]'' || 1898 || [https://www.marxists.org/archive/luxemburg/1898/10/04.htm English]
+|-
+| ''[[Speech to the Hanover Congress]]'' || 1899 || [https://www.marxists.org/archive/luxemburg/1899/10/11.htm English]
+|-
+| ''[[Speech to the Nuremberg Congress of the German Social Democratic Party]]'' || 1908 || [https://www.marxists.org/archive/luxemburg/1908/09/14.htm English]
+|}
+
+== See also ==
+
+* [[Luxemburgism]]
+* [[Proletarian internationalism]]
+* [[Rosa Luxemburg Foundation]]
+
+== References ==
+
+{{Reflist|30em}}
+{{Portal|Communism|Socialism|Feminism|Books}}
+
+== Bibliography ==
+
+*{{Cite book| title = Rosa Luxemburg: A Reappraisal
+ | author1 = Lelio Basso
+ | place = London
+ | date = 1975
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg: A Revolutionary for Our Times
+ | last = Bronner | first = Stephen Eric
+ | date = 1984
+ | ref = harv
+}}
+*{{Cite web| title = Rosa Luxemburg
+ | author1 = Tony Cliff
+ | orig-year = 1959
+ | place = London
+ | issue = No.2/3
+ | journal = International Socialism
+ | url = http://www.marxists.org/archive/cliff/works/1959/rosalux/index.htm
+ | date = 1980
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg, Women's Liberation, and Marx's Philosophy of Revolution
+ | author1 = Raya Dunayevskaya
+ | place = New Jersey
+ | date = 1982
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg: A Life
+ | last = Ettinger | first = Elzbieta
+ | date = 1988
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg: Her Life and Work
+ | author1 = Paul Frölich
+ | date = 1939
+ | ref = harv
+}}
+*{{Cite book| title = The Legacy of Rosa Luxemburg
+ | author1 = Norman Geras
+ | date = 1976
+ | ref = harv
+}}
+*{{Cite book| title = Eine Leiche im Landwehrkanal – Die Ermordung der Rosa L.(A Corpse in the Landwehrkanal — The Murder of Rosa L.)
+ | last = Gietinger | first = Klaus
+ | publisher = Verlag | place = Berlin
+ | date = 1900
+ | isbn = 3-930278-02-2
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg: Ein Leben für die Freiheit
+ | last = Hetmann | first = Frederik
+ | place = Frankfurt
+ | date = 1980
+ | isbn = 3-596-23711-4
+ | ref = harv
+}}
+*[[Alexandra Kemmerer]] (2016), "Editing Rosa: Luxemburg, the Revolution, and the Politics of Infantilization". European Journal of International Law, Vol. 27 (3), 853-864. DOI: https://doi.org/10.1093/ejil/chw046
+*{{Cite journal| title = The Rosa Luxemburg Reader
+ | last = Hudis | first = Peter
+ | last2 = Anderson (eds.) | first2 = Kevin B.
+ | journal = Monthly Review
+ | url = http://www.monthlyreview.org/books/rosaluxemburgrdr.php
+ | date = 2004
+ | ref = harv
+}}
+*{{Cite book| title = Revolutionärer Geist und Republikanische Freiheit. Über die verdrängte Nähe von Hannah Arendt und Rosa Luxemburg. Mit einem Vorwort von Gert Schäfer
+ | last = Kulla | first = Ralf
+ | volume = Band 25
+ | publisher = Offizin Verlag | location = Hannover
+ | series = Diskussionsbeiträge des Instituts für Politische Wissenschaft der Universität Hannover
+ | date = 1999
+ | isbn = 3-930345-16-1
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg
+ | last = Nettl | first = J. P.
+ | date = 1966
+ | ref = harv
+}} - long considered the definitive biography of Luxemburg
+*{{Cite book| title = Rosa Luxemburg and the Noble Dream
+ | last = Shepardson | first = Donald E.
+ | place = New York
+ | date = 1996
+ | ref = harv
+}}
+*{{Cite book| title = Rosa Luxemburg Speaks
+ | last = Waters | first = Mary-Alice
+ | publisher = Pathfinder | place = London
+ | date = 1970
+ | isbn = 9780873481465
+ | ref = harv
+}}
+* Eric D. Weitz, ''Creating German Communism, 1890-1990: From Popular Protests to Socialist State''.  Princeton, NJ: Princeton University Press, 1997
+* David Priestand, ''Red Flag:  A History of Communism'', " New York: Grove Press, 2009
+* Eric D. Weitz, "'Rosa Luxemburg Belongs to Us!'" German Communism and the Luxemburg Legacy, ''Central European History'', Vol. 27, No. 1 (1994), pp.&nbsp;27–64
+* Kate Evans, ''Red Rosa: A Graphic Biography of Rosa Luxemburg'', New York, Verso, 2015
+
+== External links ==
+
+{{Sister project links|wikt=no|v=no|n=no|s=1922 Encyclopædia Britannica/Luxemburg, Rosa|b=no}}
+* [http://www.marxists.org/archive/luxemburg/ Rosa Luxemburg] at the [[Marxists Internet Archive]]
+* [http://www.revolutionarydemocracy.org/rdv5n1/luxembrg.htm Death of Rosa Luxemburg]
+* [http://www.marxists.org/archive/cliff/works/1959/rosalux/index.htm Tony Cliff ''Rosa Luxemburg'']
+* [http://www.rosalux.de/cms/index.php?id=4551 Rosa Luxemburg Foundation]
+* [http://www.rosalux.de/fileadmin/rls_uploads/pdfs/Themen/Rosa_Luxemburg/Rosalux-en.pdf Jörn Schütrumpf ''Rosa Luxemburg or: The Price of Freedom'']
+* [http://socialiststudies.com/index.php/sss/issue/view/16 Socialist Studies Special Issue on Rosa Luxembourg]
+* [http://af-north.org/other%20pamphlets/luxemburg.htm Rosa Luxemburg ''Leninism or Marxism?'']
+* [http://libcom.org/library/rosa-luxemburg-in-retrospect-mattick Paul Mattick ''Rosa Luxemburg in Retrospect'']
+* [http://www.greenleft.org.au/2009/779/40152 Rosa Luxemburg: Revolutionary Hero]
+* [http://en.internationalism.org/wr/314/1918-errors-01 Rosa Luxemburg and the Russian Revolution]
+* [http://www.cddc.vt.edu/feminism/Luxemburg.html Rosa Luxemburg: A Socialist With a Human Face]
+* [http://libcom.org/tags/rosa-luxemburg Libertarian Communist Library Rosa Luxemburg articles]
+* [http://www.h-net.org/~german/gtext/kaiserreich/lux.html Rosa Luxemburg: "The War and the Workers" (1916)]
+* [http://www.marxist.com/lessons-of-the-life-of-a-revolutionary.htm Ninety years after the Murder of Rosa Luxemburg: Lessons of the Life of a Revolutionary]
+* [http://news.bbc.co.uk/2/hi/europe/8074334.stm German Corpse 'may be Luxemburg'] ''BBC News'', 29 May 2009
+* [http://www.ryerson.ca/mlc/inside224.html ''Revolutionary Rosa: The Letters of Rosa Luxemburg''], Reviewed by Irene Gammel for the ''Globe and Mail''
+* [http://www.oac.cdlib.org/findaid/ark:/13030/tf8489n9bp/ Luxemburg-Jacob papers] at the
+* [http://www.hoover.org/library-and-archives/ Hoover Institution Archives]
+* [https://www.scribd.com/doc/51910681/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BE-%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AE%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%97-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF-%E0%A4%95%E0%A5%80-%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0 Roza Luxemburg : Life and work (Hindi translation)]
+* {{Gutenberg author |id=Luxemburg, +Rosa | name=Rosa Luxemburg}}
+* {{Internet Archive author |sname=Rosa Luxemburg}}
+* {{Librivox author |id=5297}}
+* {{Findagrave|8113053}}
+* {{webarchive |url=https://web.archive.org/web/20091028050012/http://www.geocities.com/socialistparty/LabHist/RLKLObits.htm |date=28 October 2009 |title=Trotsky on Luxemburg and Liebknecht }}
+
+{{Rosa Luxemburg}}
+{{Communism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Luxemburg, Rosa}}
+[[Category:1871 births]]
+[[Category:1919 deaths]]
+[[Category:19th-century German writers]]
+[[Category:19th-century Polish politicians]]
+[[Category:19th-century philosophers]]
+[[Category:19th-century German women writers]]
+[[Category:20th-century German writers]]
+[[Category:20th-century philosophers]]
+[[Category:20th-century German women writers]]
+[[Category:Anti-nationalists]]
+[[Category:Anti-poverty advocates]]
+[[Category:Assassinated German politicians]]
+[[Category:Assassinated Jews]]
+[[Category:Communist Party of Germany politicians]]
+[[Category:Communist books]]
+[[Category:Communist women writers]]
+[[Category:Executed activists]]
+[[Category:Executed German women]]
+[[Category:Executed Polish women]]
+[[Category:German Marxists]]
+[[Category:German anti–World War I activists]]
+[[Category:German communists]]
+[[Category:German murder victims]]
+[[Category:German people of Polish-Jewish descent]]
+[[Category:German philosophers]]
+[[Category:German revolutionaries]]
+[[Category:German socialists]]
+[[Category:German women in politics]]
+[[Category:German women philosophers]]
+[[Category:Independent Social Democratic Party politicians]]
+[[Category:Polish atheists]]
+[[Category:Jewish atheists]]
+[[Category:Jewish German politicians]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish socialists]]
+[[Category:Marxist theorists]]
+[[Category:Marxist writers]]
+[[Category:People from Zamość]]
+[[Category:People murdered in Berlin]]
+[[Category:People of the German Revolution of 1918–19]]
+[[Category:People of the Weimar Republic]]
+[[Category:Polish Jews]]
+[[Category:Polish Marxists]]
+[[Category:Polish communists]]
+[[Category:Polish revolutionaries]]
+[[Category:Polish socialists]]
+[[Category:Polish women in politics]]
+[[Category:Social Democracy of the Kingdom of Poland and Lithuania politicians]]
+[[Category:Social Democratic Party of Germany politicians]]
+[[Category:University of Zurich alumni]]
+[[Category:Women economists]]
+[[Category:Women religious writers]]
+[[Category:Works by Rosa Luxemburg]]
+[[Category:Socialist economists]]
+[[Category:19th-century Polish women writers]]
+[[Category:19th-century Polish writers]]

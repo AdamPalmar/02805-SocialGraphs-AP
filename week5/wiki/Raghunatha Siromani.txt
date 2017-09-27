@@ -1,0 +1,42 @@
+{{refimprove|date=January 2009}}
+{{Infobox Hindu leader
+|name       = Raghunatha Shiromani
+|image =
+|caption = 
+|birth_date = 1477
+|birth_place=   [[Nabadwip]], [[Nadia district|Nadia]], [[West Bengal, India]]
+|birth_name =
+|death_date = 1547
+|death_place=  [[India]]
+|founder = the ''{{IAST |Navya Nyāya}}'' school
+|philosophy = 
+|honors     = 
+|footnotes  = [[Indian philosophy|philosopher]] and [[Indian logic|logician]]
+}}
+{{Hindu philosophy}}
+
+'''Raghunatha Shiromani''' ({{lang-bn|রঘুনাথ শিরোমণি}}, [[IAST]]: Raghunātha Śiromaṇi) (c. 1477–1547<ref name="Vidyabhushan">{{cite book|last=Vidyabhusana|first=Satis Chandra|title=A History of Indian Logic: Ancient, Mediaeval, and Modern Schools|publisher=Motilal Banarsidass|location=Delhi|origyear=1920|year=2006|page=463|isbn=81-208-0565-8|url=https://books.google.com/books?id=0lG85RD9YZoC&pg=PA463&dq=Raghunatha+Shiromani&lr=&ei=ak5-S5yzFJPkkwTZ742XCg&cd=3#v=onepage&q=&f=false}}</ref>) was an [[India]]n [[Indian philosophy|philosopher]] and [[Indian logic|logician]]. He was born at [[Nabadwip]] in present-day [[Nadia district]] of [[West Bengal]] state. He was the grandson of {{IAST|Śulapāṇi}} (c. 14th century CE), a noted writer on {{IAST|[[Smṛti]]}} from his mother's side. He was a pupil of {{IAST|Vāsudeva Sārvabhauma}}. He brought the new school of [[Nyaya]], ''{{IAST|Navya Nyāya}}'', representing the final development of Indian [[formal logic]], to its zenith of analytic power.
+
+Raghunatha's analysis of relations revealed the true nature of number, inseparable from the abstraction of natural phenomena, and his studies of [[metaphysics]] dealt with the [[negation]] or [[nonexistence]] of a complex [[reality]]. His most famous work in logic was the [[Tattvachintamanididhiti|{{IAST |Tattvacintāmaṇidīdhiti}}]], a commentary on the ''[[Tattvacintāmaṇi]]'' of [[Gangesha|{{IAST |Gangeśa Upādhyāya}}]], founder of the ''{{IAST |Navya Nyāya}}'' school.
+
+A descriptive information of Raghunatha with some controversial issues (his connection with Mahaprabhu Shri [[Chaitanya Mahaprabhu|Chaitanya]]) and bibliography are to be found at 
+[https://www.scribd.com/doc/64930080/Raghunatha-A-Name-of-Negatives Raghunatha: A Name of Negatives]. The contemporary deployment of a new category, svatva ( endowment, possessed-ness, entitlement, my-ness), introduced by Raghunatha, is discussed in [http://ssrn.com/abstract=2054667 Language: From I-dentity to My-dentity]
+
+==Notes==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shiromani, Raghunatha}}
+[[Category:1470s births]]
+[[Category:1550 deaths]]
+[[Category:16th-century Indian philosophers]]
+[[Category:Hindu philosophers]]
+[[Category:Indian logicians]]
+[[Category:15th-century Indian philosophers]]
+[[Category:Nyaya]]
+[[Category:Metaphysicians]]
+[[Category:People from Nadia district]]
+
+
+{{india-philosopher-stub}}

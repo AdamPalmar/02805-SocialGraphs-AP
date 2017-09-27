@@ -1,0 +1,26 @@
+'''Dag Prawitz''' (born 1936, [[Stockholm]]) is a Swedish [[philosopher]] and [[logician]].  He is best known for his work on [[proof theory]] and the foundations of [[natural deduction]].<ref>{{cite book|ref=harv|last1=Prawitz|first1=Dag|year=1965|title=Natural deduction: A proof-theoretical study|series=Acta Universitatis Stockholmiensis, Stockholm studies in philosophy 3|publisher=Almqvist & Wicksell|location=Stockholm, Göteborg, Uppsala}}</ref><ref>{{cite book|ref=harv|last1=Prawitz|first1=Dag|year=2006|origyear=1965|title=Natural deduction: A proof-theoretical study|publisher=Dover Publications|location=Mineola, New York|isbn=978-0-486-44655-4}}</ref>
+
+Prawitz is a member of the [[Norwegian Academy of Science and Letters]],<ref>{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40104|title=Gruppe 3: Idéfag|publisher=[[Norwegian Academy of Science and Letters]]|language=Norwegian|accessdate=16 January 2011}}</ref> of the [[Royal Swedish Academy of Letters and Antiquity]] and the [[Royal Swedish Academy of Science]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://people.su.se/~prawd/index_en.htm Prawitz's web page at Stockholm University]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Prawitz, Dag}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Swedish logicians]]
+[[Category:Mathematical logicians]]
+[[Category:Swedish philosophers]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Proof theorists]]
+[[Category:20th-century philosophers]]
+
+
+{{Sweden-scientist-stub}}
+{{Europe-mathematician-stub}}

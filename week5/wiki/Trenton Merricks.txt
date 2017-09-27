@@ -1,0 +1,30 @@
+'''Trenton Merricks''' ({{IPAc-en|ˈ|m|ɛr|i|k|s}}) is Commonwealth Professor of Philosophy<ref name="BennettZimmerman2011">{{cite book|last1=Bennett|first1=Karen|last2=Zimmerman|first2=Dean W.|title=Oxford Studies in Metaphysics|url=https://books.google.com/books?id=z6XhrBVcHRkC&pg=PA57|accessdate=26 April 2011|date=2011-04-08|publisher=Oxford University Press|isbn=978-0-19-960303-9|pages=57–}}</ref> at the [[University of Virginia]]. His main fields are metaphysics, epistemology, and philosophy of religion.<ref>https://pages.shanti.virginia.edu/merricks/</ref> 
+
+According to Google Scholar, his published articles include "Endurance and Indiscernibility" (Journal of Philosophy), "On the Incompatibility of Enduring and Perduring Objects" (Mind), "Persistence, Parts, and Presentism" (Nous), "There are No Criteria of Identity Over Time" (Nous), "Warrant Entails Truth" (Philosophy and Phenomenological Research), "Varieties of Vagueness" (Philosophy and Phenomenological Research), and "Composition and Vagueness" (Mind).
+
+==Books==
+* ''Objects and Persons'' ([[Oxford University Press]], 2001)
+* ''Truth and Ontology'' ([[Oxford University Press]], 2007)
+* ''Propositions'' ([[Oxford University Press]], 2015)
+
+==See also==
+* [[Mereological nihilism]]
+* [[Philosophy of religion]]
+* [[Growing block universe]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Merricks, Trenton}}
+[[Category:21st-century American philosophers]]
+[[Category:Christian philosophers]]
+[[Category:Living people]]
+[[Category:Metaphysicians]]
+[[Category:Epistemologists]]
+[[Category:Philosophers of religion]]
+[[Category:University of Virginia faculty]]
+
+
+{{US-philosopher-stub}}

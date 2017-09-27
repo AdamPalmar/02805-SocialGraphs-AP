@@ -1,0 +1,55 @@
+{{Infobox philosopher
+| region           = [[French philosophy]]
+| era              = [[18th-century philosophy]]
+| image            = Yves-Marie André.jpg
+| image_size       = thumb
+| alt              = 
+| caption          = 
+| name             = Yves-Marie André
+| other_names      = le Père André
+| birth_date       = {{Birth date|1675|05|22}} <!-- {{Birth date and age|YYYY|MM|DD}} for living philosophers, {{Birth date|YYYY|MM|DD}} for dead -->
+| birth_place      = [[Châteaulin]], [[Finistère]]
+| death_date       = {{Death date and age|1764|02|26|1675|05|22}} <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = [[Caen]], [[Calvados]]
+| school_tradition = 
+| main_interests   = [[Aesthetics]]
+| notable_ideas    = 
+| influences       = 
+| influenced       = 
+| signature        = 
+| signature_alt    = 
+| quote            =
+| website          = <!-- {{URL|example.com}} -->
+}}'''Yves Marie André ''' (1675–1764), also known as '''le Père André''',  was a French [[Jesuit]] [[mathematician]], [[philosopher]], and [[essayist]].
+
+André entered the Society of Jesus in 1693. Although distinguished in his scholastic studies, he adhered to [[Gallicanism]] and [[Jansenism]] and was thus considered unsuitable for responsible office by Church authorities. He therefore pursued scientific studies and became royal professor of mathematics at Caen.<ref>{{CathEncy|wstitle=Yves Marie André}}</ref>
+
+He is best known for his ''Essai sur le Beau'' (''Essay on Beauty''), a 1741 philosophical work on [[aesthetics]], which made him famous at the time and remained a well-known work into the 19th century.<ref>André, ''Essai sur le Beau'' in ''Œuvres Philosophiques'' (Paris: Adolphe Delahays, 1843).</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://archive.org/details/oeuvresphilosop01andrgoog Œuvres Philosophiques du Père André] Collected works on the [[Internet Archive]]
+* [https://archive.org/details/EssayOnBeauty Essay on Beauty] Annotated English translation of ''Essai sur le Beau''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Andre, Yves Marie}}
+[[Category:17th-century French Jesuits]]
+[[Category:French essayists]]
+[[Category:Jansenists]]
+[[Category:1675 births]]
+[[Category:1764 deaths]]
+[[Category:18th-century French Jesuits]]
+[[Category:17th-century French mathematicians]]
+[[Category:18th-century French mathematicians]]
+[[Category:French philosophers]]
+[[Category:French male writers]]
+[[Category:Male essayists]]
+[[Category:18th-century essayists]]
+
+
+{{RC-clergy-stub}}
+{{France-writer-stub}}
+{{France-mathematician-stub}}

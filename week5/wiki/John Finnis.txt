@@ -1,0 +1,100 @@
+{{for|the explorer and settler of South Australia|John Finnis (captain)}}
+{{Use Australian English|date=October 2016}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox philosopher
+|image            = John Finnis on After Dark 26th June 1987.jpg
+|image_size       = 220px 
+|caption          = <small>Appearing on television discussion programme ''[[After Dark (TV series)|After Dark]]'' in 1987</small>
+|name             = John Finnis
+|birth_date       = {{birth date and age|df=yes|1940|7|28}}
+|birth_place      = [[Australia]]
+|alma_mater       = [[St. Mark's College (University of Adelaide)|St. Mark's College]]<br/>[[University College, Oxford]]
+|school_tradition = [[Thomism]], [[natural law|natural law theory]]
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|main_interests   = [[Legal philosophy]], [[political theory]], [[philosophy of religion]]
+|notable_ideas    = 
+|notable_works    = ''[[Natural Law and Natural Rights]]'' (1980)
+|influences       = 
+|influenced       = 
+|signature        = 
+}}
+'''John Mitchell Finnis''' (born 28 July 1940) is a legal philosopher, jurist and scholar specializing in [[jurisprudence]] and the [[philosophy of law]]. He is currently the Biolchini Family Professor of Law at Notre Dame Law School in South Bend, Indiana. He was Professor of Law & Legal Philosophy at [[University of Oxford|Oxford University]] from 1989 to 2010, where he is now professor emeritus. He acted as a constitutional adviser to successive Australian Commonwealth governments in constitutional matters and bilateral relations with the [[United Kingdom]]. 
+
+His academic focus is in the areas of jurisprudence, political theory, and constitutional law, while his practice at the English Bar saw him in cases at the [[High Court of Justice|High Court]] and at the [[Court of Appeal of England and Wales|Court of Appeal]]. He is a member of [[Gray's Inn]]. He was appointed an honorary [[Queen's Counsel]] in 2017.<ref>{{Cite web|url=https://www.gov.uk/government/news/lord-chancellor-welcomes-historic-promotion-of-talent-for-new-silks|title=Lord Chancellor welcomes historic promotion of talent for new silks - Press releases - GOV.UK|website=gov.uk|access-date=2017-01-24}}</ref>
+
+==Early life and education==
+Finnis was educated at [[St. Peter's College, Adelaide]] and the [[University of Adelaide]], where he was a member of [[St. Mark's College (University of Adelaide)|St. Mark's College]]. He obtained his [[LL.B.]] there, winning a [[Rhodes scholarship]] to [[University College, Oxford]], in 1962, where he obtained his [[D.Phil.]] for a thesis on the concept of judicial power, with reference to Australian federal constitutional law.<ref>{{cite web|url=http://www.law.ox.ac.uk/profile/john.finnis |title=Archived copy |accessdate=2011-09-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20110907000846/http://www.law.ox.ac.uk/profile/john.finnis |archivedate= 7 September 2011 |df= }}, Oxford Law Faculty, retrieved 25 March 2008.</ref>
+
+Finnis was a friend of [[Aung San Suu Kyi]], also an Oxford graduate; and, in 1989, Finnis nominated her for the [[Nobel Peace Prize]]. Aung San Suu Kyi won the prize but did not receive it until June 2012, when she recalled how her late husband, [[Michael Aris]], had visited her under house arrest and brought her the news "that a friend, John Finnis" had nominated her for the prize.<ref>{{YouTube|wRYyEk-5zoI}}</ref>
+
+==Career==
+{{moresources|section|date=July 2017}}
+Finnis is a legal philosopher and author of ''[[Natural Law and Natural Rights]]'' (1980, 2011), a seminal contribution to the [[philosophy of law]] and a restatement of [[natural law]] doctrine. For Finnis there are seven basic goods; life, knowledge, play, aesthetic experience, sociability of friendship, practical reasonableness and religion.
+
+Life involves all aspects of vitality that enable a person to gain strong willpower. The second aspect of well-being is knowledge and is described as the pure desire to know, simply out of curiosity, as well as a concerning interest and desire for truth. The third aspect, play, is regarded as self-evident as there is no real point of performing such activities, only for pure enjoyment. Aesthetic experience is the fourth aspect and is considered similarly to play however; it does not essentially need an action to occur. The fifth aspect for Finnis is sociability where it is realised through the creation of friendships, that these relationships are fundamental goods. Practical reasonableness is the sixth basic good where it is one’s ability to use their intellect in deciding choices that ultimately shape one’s nature. The final basic good is religion; it encompasses the acknowledgment of a concern for a simplified distinct form of order, where an individual’s sense of responsibility is addressed; it is "all those beliefs that can be called matters of ultimate concern; questions about the point of human existence".
+
+After discussing the basic goods it is argued that within the list there is no hierarchal order, as the basic goods are considered impossible to compare or measure. Finnis believes the goods are equally self-evident. Each of the basic goods can be considered the most important, as none of them can be reduced to simply a mechanism of achieving another. While technically the goods can be treated as superior to one another Finnis provides that each good is still fundamental where no priority value exists. 
+
+Author Stephen Buckle {{Who|date=July 2017}} sees Finnis's list of proposed basic goods as plausible, but notes that "Finnis's account becomes more controversial when he goes on to specify the basic requirements of practical reasonableness". He sees Finnis's requirement that practical reason requires "respect for every basic value in every act" as intended both to rule out [[consequentialism]] in ethics and also to support the moral viewpoint of the [[Catholic Church]] on a range of contentious issues, including [[contraception]] and [[masturbation]], which in his view undermines its plausibility.<ref>Stephen Buckle, "Natural Law" in Peter Singer (ed.), ''A Companion to Ethics''. Blackwell Publishers, 1997, ch. 13, p. 171.</ref>
+
+Finnis's work on natural law ethics has been a source of controversy in both neo-Thomist and analytical circles. Craig Paterson sees his work as interesting because it challenges a key assumption of both neo-Thomist and analytical philosophy: the idea that a natural law ethics must be based upon an attempt to derive normative (or "ought") statements from descriptive (or "is") statements.<ref>[http://philpapers.org/archive/PATAFA.1.pdf Aquinas, Finnis and Non-Naturalism], Craig Paterson, "Aquinas, Finnis and Non-Naturalism" in Craig Paterson & Matthew Pugh (eds.), ''Analytical Thomism: Traditions in Dialogue''. Ashgate, 2006, ch. 9, pp. 171–93.</ref>
+
+According to [[Andrew Sullivan]], Finnis has articulated "an intelligible and subtle account of homosexuality" based on the new natural law, a less biologically-based version of [[natural law]] theory. Finnis argues that the state should deter public approval of homosexual behaviour while refusing to persecute individuals on the basis of their sexual orientation, basing this position not on the claim that homosexual sex is unnatural but on the idea that it cannot involve the union of procreation and emotional commitment that heterosexual sex can, and is therefore an assault on heterosexual union. Sullivan believes that such a conservative position is vulnerable to criticism on its own terms, since the stability of existing families is better served by the acceptance of those homosexuals who are part of them.<ref>Sullivan, Andrew. ''Virtually Normal: An Argument About Homosexuality''. Picador: London, 1996. pp. 98–99<!-- ISSN/ISBN needed --></ref> Other scholars, such as [[Stephen Macedo]] and [[Michael J. Perry]], have also criticised Finnis's views.<ref>Stein, Edward, ''The Mismeasure of Desire: The Science, Theory, and Ethics of Sexual Orientation''. Oxford University Press, 1999. p. 356<!-- ISSN/ISBN needed --></ref>
+
+In May 2011, [[Oxford University Press]] published a five-volume collection of essays by John Finnis and a second edition of ''Natural Law and Natural Rights''. Their release was marked by an all-day conference at the Notre Dame Law School on 9 September 2011.
+
+==See also==
+* [[Legal positivism]]
+* [[Natural law]]
+* [[Philosophy of law]]
+
+==Works==
+
+===Books===
+* ''Natural Law and Natural Rights'' (Oxford University Press 1980; 2nd edn 2011 {{ISBN|9780199599134}})
+* ''Fundamentals of Ethics'' (Georgetown University Press and Oxford University Press 1983)
+* ''Nuclear Deterrence, Morality, and Realism'', with J. M. Boyle Jr. and Germain Grisez (Oxford University Press 1987)
+* ''Natural Law'', 2 vols (as editor) (New York University Press 1991)
+* ''Moral Absolutes: Tradition, Revision and Truth'' (Catholic University of America Press 1991)
+* ''Aquinas: Moral, Political and Legal Theory'' (Oxford University Press 1998)
+* ''The Collected Essays of John Finnis'', 5 vols (Oxford University Press 2011)
+
+===Articles===
+* [http://plato.stanford.edu/entries/aquinas-moral-political/ Aquinas' Moral, Political and Legal Philosophy]
+* [http://www.thepublicdiscourse.com/2014/10/13896/ The Profound Injustice of Justice Posner on Marriage]
+* [https://web.archive.org/web/20050215000000*/http://www.oup.co.uk/pdf/0-19-927181-X.pdf Natural Law: The Classical Tradition] PDF (Internet Archive)
+* [https://web.archive.org/web/20051125132542/http://www.oup.co.uk/pdf/0-19-826858-0.pdf The Priority of Persons] PDF
+* [http://web.princeton.edu/sites/jmadison/events/conferences/religion/1004%20Conf-Finnis%20paper.pdf Economy or Explication? Telling the Truth About God and Man in a Pluralist Society] PDF
+* [http://web.mit.edu/anscombe/www/finnismarriage.pdf The Good of Marriage and the Morality of Sexual Relations] PDF
+* [http://web.mit.edu/anscombe/www/finnisorientation.pdf Law, Morality and "Sexual Orientation"] PDF
+
+===Video lectures===
+* [https://mediacentral.princeton.edu/media/20041023madison-panel4TAPE350K.mp3/1_24phopa0 God and Man]
+* [https://mediacentral.princeton.edu/media/20081030_madison_religious_liberty_pt_5_finnis.mp3/1_jj8ieny0 Religious Liberty]
+
+==Notes==
+{{reflist}}
+
+==External links==
+* [http://law.nd.edu/people/faculty-and-administration/teaching-and-research-faculty/john-finnis Notre Dame Faculty Page]
+
+{{jurisprudence}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Finnis, John}}
+[[Category:1940 births]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Australian legal scholars]]
+[[Category:Australian philosophers]]
+[[Category:Australian political theorists]]
+[[Category:Fellows of University College, Oxford]]
+[[Category:Living people]]
+[[Category:Philosophers of law]]
+[[Category:Roman Catholic philosophers]]
+[[Category:University of Adelaide Law School alumni]]
+[[Category:University of Notre Dame faculty]]
+[[Category:Legal scholars of the University of Oxford]]
+[[Category:Honorary Queen's Counsel]]

@@ -1,0 +1,139 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{refimprove|date=November 2013}}
+
+
+{{Infobox person
+|name=Inayatullah Khan Mashriqi
+|birth_date={{birth date|df=yes|1888|08|25}}
+|birth_place=[[Amritsar]], [[Punjab Province (British India)|Punjab]], [[British raj|British India]]
+|death_date={{death date and age|df=yes|1963|08|27|1888|8|25}}
+|death_place=[[Lahore]], [[Punjab, Pakistan]]
+|alma_mater=[[University of the Punjab]]<br>[[Christ's College, Cambridge]]
+|image=
+|caption=
+|other_names=Allama Mashriqi
+|movement=[[Indian independence movement]]<br>[[Pakistan Movement]]
+|organization=[[Khaksars|Khaksar movement]]
+|monuments=
+|awards=
+|influences=
+|influenced=
+|footnotes=
+}}
+
+'''Inayatullah Khan Mashriqi''', also known as '''[[Allamah|Allama]] Mashriqi''', (25 August 1888 – 27 August 1963) was a [[Pakistani people|Pakistani]] mathematician, logician, political theorist, Islamic scholar and the founder of the [[Khaksars|Khaksar movement]].
+
+In 1930 founded the Khaksar Movement, aiming to advance the condition of the masses irrespective of any [[faith]], [[sect]], or religion.<ref name="shabbir2">S. Shabbir Hussain, Al-Mashriqi: The Disowned Genius, Lahore, [[Jang Group of Newspapers|Jang Publishers]], 1991</ref>
+
+==Early years==
+
+===Background===
+Inayatullah Khan Mashriqi was born on 25 August 1888 to a [[Rajput]] family in Amritsar.<ref name="Nasim Yousaf page 3">Nasim Yousaf, ''Pakistan's Freedom & Allama Mashriqi; Statements, Letters, Chronology of Khaksar Tehrik (Movement), Period: Mashriqi's Birth to 1947'', page 3.</ref> Mashriqi's father Khan Ata Muhammad Khan was an educated man of wealth who owned a bi-weekly publication, ''Vakil'', in Amritsar.<ref name="Nasim Yousaf page 3"/> His forefathers had held high government positions during the [[Mughal Empire]] and [[Sikh Empire]]s. Because of his father's position he came into contact with a range of well-known luminaries including [[Jamāl al-Dīn al-Afghānī]], [[Syed Ahmad Khan|Sir Syed Ahmad Khan]], and [[Shibli Nomani]] as a young man.<ref name="Nasim Yousaf page 3"/>
+
+===Education===
+Mashriqi was educated initially at home before attending schools in Amritsar.<ref>Nasim Yousaf, ''Pakistan's Freedom & Allama Mashriqi; Statements, Letters, Chronology of Khaksar Tehrik (Movement), Period: Mashriqi's Birth to 1947'', page 43.</ref> From an early age, he showed a passion for mathematics. <ref name="shabbir2" /> After completing his Bachelor of Arts degree with First Class honours at [[Forman Christian College]] in Lahore, he completed his master's degree in Mathematics from the [[University of the Punjab]], taking a First Class for the first time in the history of the University.<ref>Nasim Yousaf, ''Pakistan's Freedom & Allama Mashriqi; Statements, Letters, Chronology of Khaksar Tehrik (Movement), Period: Mashriqi's Birth to 1947'', page 45.</ref>
+
+In 1907 he moved to England, where he matriculated at [[Christ's College, Cambridge]], to read for the [[Cambridge Mathematical Tripos|mathematics tripos]]. He was awarded a college foundation scholarship in May 1908.<ref>''The Times'', 23 June 1908, page 12.</ref> In June 1909 he was awarded [[British undergraduate degree classification|first class honours]] in Mathematics Part I, being placed joint 27th out of 31 on the list of [[Wrangler (University of Cambridge)|wranglers]].<ref>''The Times'', 16 June 1909, page 9.</ref> For the next two years, he read for the [[Languages of Asia|oriental languages]] tripos in parallel to the natural sciences tripos, gaining first class honours in the former, and third class in the latter.<ref>''The Times'',17 June 1911, page 6.</ref><ref>M. Aslam Malik,''Allama Inayatullah Mashraqi'', page 3.</ref>
+
+After three years' residence at Cambridge he had qualified for a Bachelor of Arts degree, which he took in 1910. In 1912 he completed a fourth tripos in mechanical sciences, and was placed in the second class. At the time he was believed to be the first man of any nationality to achieve honours in four different Triposes, and was lauded in national newspapers across the UK.<ref>Nasim Yousaf, ''Pakistan's Freedom & Allama Mashriqi; Statements, Letters, Chronology of Khaksar Tehrik (Movement), Period: Mashriqi's Birth to 1947'', page 46.</ref> The next year, Mashriqi was conferred with a DPhil in mathematics receiving a gold medal at his doctoral graduation ceremony.<ref>''The Times'', 13 June 1912, page 7</ref>
+
+He left Cambridge and returned to India in December 1912.<ref>M. Aslam Malik,''Allama Inayatullah Mashraqi'', page 4.</ref> During his stay in Cambridge his religious and scientific conviction was inspired by the works and concepts of Professor [[Sir James Jeans]].<ref name="shabbir">S. Shabbir Hussain (ed.), God, Man, and Universe, Akhuwat Publications, Rawalpindi, 1980</ref>{{page needed|date=February 2012}}
+
+==Early career==
+On his return to India, Mashriqi was offered the premiership of [[Alwar]], a [[Princely states|princely state]], by the Maharaja. He declined owing to his interest in education. At the age of 25, and only a few months after arriving in India, he was appointed vice principal of [[Islamia College (Peshawar)|Islamia College]], [[Peshawar]], by Chief Commissioner [[Sir George Roos-Keppel]] and was made principal of the same college two years later. In October 1917 he was appointed under secretary to the Government of India in the Education Department in succession to [[George Anderson (educator)|Sir George Anderson]].<ref>Hira Lal Seth, ''The Khaksar Movement Under Search Light And the Life Story of Its Leader Allama Mashriqi'' (Hero Publications, 1946), p 16</ref> He became headmaster of the High School, Peshawar on 21 October 1919.
+
+In 1920 the British government offered Mashriqi the ambassadorship of Afghanistan, and a year later he was offered a knighthood. However, he however refused both awards.<ref>Nasim Yousaf, ''Pakistan's Freedom & Allama Mashriqi; Statements, Letters, Chronology of Khaksar Tehrik (Movement), Period: Mashriqi's Birth to 1947'', page 30.</ref>
+
+In 1930 he was passed over for a promotion in the government service, following which he went on medical leave. In 1932 he resigned, taking his pension, and settled down in [[Ichhra]], Lahore.<ref>Shan Muhammed, Khaksar Movement in India, Pub. Meenakshi Prakashan, Meerut, 1973</ref>{{page needed|date=February 2012}}
+
+===Nobel nomination===
+In 1924, at the age of 36, Mashriqi completed the first volume of his book, ''Tazkirah''. It is a commentary on the ''Qur'an'' in the light of science. It was nominated for the [[Nobel Prize]] in 1925,<ref>M.Aslam Malik,''Allama Inayatullah Mashraqi''</ref>{{full citation needed|date=November 2012}} subject to the condition it was translated into one of the [[European languages]]. However, Mashriqi declined the suggestion of translation.<ref>[http://www.paktribune.com/news/print.php?id=149500 Allama Mashriqi – a great genius], Pak Tribune, 11 July 2006. (accessed on 30 November 2006)</ref>
+
+==Political life==
+
+===Mashriqi's philosophy===
+He declared that the science of religions was essentially the science of collective evolution of mankind; all prophets came to unite mankind, not to disrupt it; the basic law of all faiths is the law of unification and consolidation of the entire humanity.<ref name="shabbir"/>{{page needed|date=February 2012}} According to Markus Daeschel, the philosophical ruminations of Mashriqi offer an opportunity to re-evaluate the meaning of colonial modernity and notion of post-colonial [[nation-building]] in modern times.<ref>Markus Daeschel, [http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=500148 Scientism and its discontents: The Indo-Muslim "Fascism" of Inayatullah Khan Al-Mashriqi], ''Modern Intellectual History'', 3: pp. 443–472, [[Cambridge University Press]]. 2006</ref>
+
+Mashriqi is often portrayed as a controversial figure, a religious activist, a revolutionary, and an anarchist; while at the same time he is described as a visionary, a reformer, a leader, and a scientist-philosopher who was born ahead of his time.<ref name="shabbir2" />
+
+After Mashriqi resigned from government service, he laid the foundation of the [[Khaksars|Khaksar Tehrik]] (also known as Khaksar Movement) in 1930.<ref>Khaksar Tehrik Ki Jiddo Juhad Volume 1. Author Khaksar Sher Zaman</ref>{{full citation needed|date=November 2012}}
+[[File:Al-Islah.jpg|thumb|Al-Islah ([[Khaksar Tehrik]] weekly)]]
+
+===Imprisonments and allegations===
+On 20 July 1943, an assassination attempt was made on [[Muhammad Ali Jinnah]] by [[Rafiq Sabir]] who was assumed to be a Khaksar worker.<ref>Jinnah of Pakistan, [http://www.humsafar.info/1943.htm Calendar of events, 1943]. Accessed on 2 March 2007</ref> The attack was deplored by Mashriqi, who denied any involvement. Later, Justice Blagden of the [[Bombay High Court]] in his ruling on 4 November 1943 dismissed any association between the attack and the Khaksars.<ref>Akbar A. Peerbhoy, Jinnah Faces An Assassin, Bombay: Thacker & Co., 1943</ref>
+
+In Pakistan, Mashriqi was imprisoned at least five times: in 1950 prior to the election; in 1958 for alleged complicity in the murder of republican leader [[Khan Abdul Jabbar Khan]]; and, in 1962 for suspicion of attempting to overthrow [[Ayub Khan (Field Marshal)|President Ayub's]] government. However, none of the charges were proved, and he was acquitted in each case.<ref name="shabbir"/>{{page needed|date=February 2012}}
+
+In 1957 Mashriqi allegedly led 300,000 of his followers to the borders of [[Kashmir]], intending, it is said, to launch a fight for its liberation. However, the [[Government of Pakistan|Pakistan government]] persuaded the group to withdraw and the organisation was later disbanded.<ref>Obituary, ''The Times'', 29 August 1963</ref>
+
+==Death==
+Mashriqi died at the [[Mayo Hospital]] in Lahore on 27 August 1963 following a short battle with cancer.<ref name="The Pakistan Times 1963">The Pakistan Times, Lahore Reports, "Allama Mashriqi laid to rest", August 29 (PT 1963, Aug. 30)</ref>  His funeral prayers were held at the [[Badshahi Mosque]] and he was buried in [[Ichhra]].<ref name="The Pakistan Times 1963"/>  He was survived by his wife and seven children.
+
+==Mashriqi's works==
+Mashriqi's prominent works include:
+
+*''Armughan-i-Hakeem'', a poetical work
+*''Dahulbab'', a poetical work
+*''Isha’arat'', the "Bible" of the Khaksar movement
+*''Khitab-e-Misr'' (The Egypt Address), based on his 1925 speech in Cairo as a delegate to the ''Motmar-e-Khilafat''
+*''Maulvi Ka Ghalat Mazhab''
+*''Tazkirah'' Volume I, 1924, discussions on conflicts between religions, between religion and science, and the need to resolve these conflicts
+*''Tazkirah'' Volume II. Posthumously published in 1964
+*''Tazkirah'' Volume III.
+
+===Fellowships===
+Mashriqi's fellowships included:<ref name="shabbir"/>{{page needed|date=February 2012}}
+
+*Fellow of the [[Royal Society of Arts]], 1923
+*Fellow of the Geographical Society (F.G.S), Paris
+*Fellow of Society of Arts (F.S.A), Paris
+*Member of the Board at [[Delhi University]]
+*President of the Mathematical Society, [[Islamia College (Peshawar)|Islamia College]], [[Peshawar]]
+*Member of the International Congress of Orientalists ([[Leiden]]), 1930
+*President of the All World's Faiths Conference, 1937
+
+===Edited works===
+*''God, Man, and Universe: As Conceived by a Mathematician'' (works of Inayatullah Khan el-Mashriqi), Akhuwat Publications, Rawalpindi, 1980 (edited by Syed Shabbir Hussain).
+
+==See also==
+*[[Pakistan Movement]]
+*[[Teilhard de Chardin]]
+*[[Karl Marx]]
+
+==References==
+{{Reflist|2}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mashriqi, Allama}}
+[[Category:1888 births]]
+[[Category:1963 deaths]]
+[[Category:20th-century Indian philosophers]]
+[[Category:20th-century philosophers]]
+[[Category:Alumni of Christ's College, Cambridge]]
+[[Category:Anti-poverty advocates]]
+[[Category:Forman Christian College alumni]]
+[[Category:Indian expatriates in the United Kingdom]]
+[[Category:Indian humanitarians]]
+[[Category:Indian independence activists from Punjab (British India)]]
+[[Category:Indian logicians]]
+[[Category:Indian people of World War II]]
+[[Category:Indian prisoners and detainees]]
+[[Category:Indian revolutionaries]]
+[[Category:Islamia College University faculty]]
+[[Category:20th-century Muslim scholars of Islam]]
+[[Category:Muslim reformers]]
+[[Category:Pakistan Movement]]
+[[Category:Pakistani humanitarians]]
+[[Category:Pakistani logicians]]
+[[Category:Pakistani mathematicians]]
+[[Category:Pakistani philosophers]]
+[[Category:Pakistani politicians]]
+[[Category:Pakistani scholars]]
+[[Category:Pakistani Sunni Muslims]]
+[[Category:People from Amritsar]]
+[[Category:People from Lahore]]
+[[Category:Punjabi people]]
+[[Category:University of the Punjab alumni]]
+[[Category:World War II political leaders]]

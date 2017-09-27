@@ -1,0 +1,36 @@
+[[File:Paul Janet.jpg|thumb|Paul Janet]]
+'''Paul Alexandre René Janet''' (30 April 1823 – 4 October 1899) was a [[France|French]] [[philosopher]] and writer.
+
+==Biography==
+Born in [[Paris, France|Paris]], he became professor of [[moral philosophy]] at [[University of Bourges|Bourges]] (1845–1848) and [[Strasbourg]] (1848–1857), and of logic at the ''lycée Louis-le-Grand'', Paris (1857–1864). In 1864 he was appointed to the chair of philosophy at the [[University of Paris|Sorbonne]], and elected a member of the academy of moral and political sciences.
+
+He wrote widely on philosophy, politics and ethics, on idealistic lines: ''La Famille'', ''Histoire de la philosophie dans l'antiquité et dans le temps moderne'', ''Histoire de la science politique'', ''Philosophie de la Revolution Française'', etc. However, in the opinion of [[1911 Encyclopædia Britannica]], these writings are not characterised by much originality of thought. In philosophy he was a follower of [[Victor Cousin]], and through him of [[Georg Wilhelm Friedrich Hegel|G. W. F. Hegel]]. His principal work, ''Théorie de la morale'', owes much to [[Immanuel Kant]].
+
+=== Works ===
+*The Materialism of the Present Day, a Critique of Dr. Büchner's System {{ISBN|1152057863}}
+
+==Notes==
+{{no footnotes|date=January 2014 }}
+{{Reflist}}
+
+==References==
+{{Wikisource author}}
+* {{EB1911|wstitle=Janet, Paul}}
+
+==External links==
+* {{Gutenberg author | id=Janet,+Paul | name=Paul Janet}}
+* {{Internet Archive author |sname=Paul Janet}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Janet, Paul}}
+[[Category:1823 births]]
+[[Category:1899 deaths]]
+[[Category:University of Bourges faculty]]
+[[Category:University of Strasbourg faculty]]
+[[Category:University of Paris faculty]]
+[[Category:French philosophers]]
+[[Category:French essayists]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:French male writers]]
+[[Category:Male essayists]]

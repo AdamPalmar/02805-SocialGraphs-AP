@@ -1,0 +1,113 @@
+{{about|the German philosopher|the American composer|Ernest Bloch|the American spy in Germany|Ernie Blake}}
+{{Infobox philosopher 
+| region = Western Philosophy 
+| era    = [[20th-century philosophy]]
+| image  = Bundesarchiv Bild 183-27348-0008, Berlin, Ernst Bloch auf Begegnung der Geistesschaffenden.jpg
+| caption = Ernst Bloch (1954) 
+| name    = Ernst Bloch
+| birth_date  = July 8, 1885
+| birth_place = [[Ludwigshafen]], [[German Empire]]
+| death_date  = {{death date and age|1977|08|04|1885|07|08}}
+| death_place = [[Tübingen]], [[West Germany]]
+| alma_mater  = [[University of Munich]]<br>[[University of Würzburg]]<br>(PhD, 1908)<ref>His thesis title was ''Kritische Erörterungen über Rickert und das Problem der modernen Erkenntnistheorie'' (''Critical discussions on [[Heinrich Rickert|Rickert]] and the problem of modern epistemology'').</ref>
+| institutions     = [[Leipzig University]]<br>[[University of Tübingen]]
+| school_tradition = [[Western Marxism]]<br>[[Marxist hermeneutics]]<ref>Richard E. Amacher, Victor Lange, ''Νew Perspectives in German Literary Criticism: A Collection of Essays'', Princeton University Press, 2015, p. 11.</ref><ref>''Erasmus: Speculum Scientarium'', '''25''', p. 162: "the different versions of Marxist hermeneutics by the examples of [[Walter Benjamin]]'s ''[[The Origin of German Tragic Drama|Origins of the German Tragedy]]'' {{sic}}, ... and also by Ernst Bloch's ''[[The Principle of Hope|Hope the Principle]]'' {{sic}}."</ref>
+| main_interests   = [[Humanism]], [[philosophy of history]],<ref name=Kaufmann>David Kaufmann, "Thanks for the Memory: Bloch, Benjamin and the Philosophy of History," in ''Not Yet: Reconsidering Ernst Bloch'', ed. Jamie Owen Daniel and Tom Moylan (London and New York: Verson, 1997), p. 33.</ref> [[nature]], [[subjectivity]], [[ideology]], [[utopia]], [[religion]], [[theology]] 
+|influences    = [[G. W. F. Hegel]], [[Karl Marx]], [[Heinrich Rickert]]
+|influenced    = [[Ernesto Balducci]], [[Jürgen Moltmann]], [[Fredric Jameson]]<ref name=Kaufmann/>
+|notable_ideas = [[The Principle of Hope|The principle of hope]], [[non-simultaneity]]
+}}
+
+'''Ernst Bloch''' ({{IPA-de|ˈɛʁnst ˈblɔx|lang}}; July 8, 1885 – August 4, 1977) was a [[Germany|German]] [[Marxism|Marxist]] [[Philosophy|philosopher]].
+
+Bloch was influenced by [[Georg Wilhelm Friedrich Hegel]] and [[Karl Marx]], as well as by apocalyptic and religious thinkers such as [[Thomas Müntzer]], [[Paracelsus]], and [[Jacob Boehme]].<ref name="Kołakowski">{{cite book |author=Kołakowski, Leszek |title=Main Currents of Marxism Volume 3: The Breakdown |publisher=Oxford University Press |location=Oxford |year=1985 |pages=421–449 |isbn=0-19-285109-8 |oclc= |doi= |accessdate=}}</ref> He established friendships with [[György Lukács]], [[Bertolt Brecht]], [[Kurt Weill]], [[Walter Benjamin]], and [[Theodor W. Adorno]]. Bloch's work focuses on the thesis that in a [[Humanism|humanistic]] world where [[oppression]] and [[Exploitation of labour|exploitation]] have been eliminated there will always be a truly [[revolutionary]] force.
+
+==Life==
+Bloch was born in [[Ludwigshafen]], the son of a [[Jews|Jewish]] railway-employee. After studying philosophy, he married Else von Stritzky, daughter of a Baltic brewer in 1913, who died in 1921. His second marriage with Linda Oppenheimer lasted only a few years. His third wife was [[Karola Bloch|Karola Piotrowska]], a [[Poland|Polish]] [[architect]], whom he married in 1934 in [[Vienna]]. When the Nazis came to power, they had to flee, first into Switzerland, then to Austria, France, Czechoslovakia, and finally the United States. Bloch returned to the [[East Germany|GDR]] in 1949 and obtained a chair in philosophy at [[Leipzig]].
+
+In 1948 he was offered the chair of philosophy at the [[University of Leipzig]]. In 1955 he was awarded the National Prize of the GDR. In addition, he became a member of the [[German Academy of Sciences at Berlin]] (AdW). He had more or less become the political philosopher of the GDR. Among his many academic students from this period was his assistant Manfred Buhr, who earned his doctorate with him in 1957, and was later professor in [[Greifswald]], then director of the Central Institute of Philosophy of the Academy of Sciences (ADC) in Berlin and who become a critic of Bloch.{{citation needed|date=March 2016}}
+
+But the [[Hungarian Revolution of 1956|Hungarian uprising in 1956]] brought the convinced Marxist Bloch to reverse course for the SED regime. Because he taught his [[humanism|humanistic]] ideas of freedom, he was retired in 1957 for political reasons – not because of his age, 72 years. A number of scientists and students spoke publicly against this forced retirement, among them the renowned professor and colleague [[Emil Fuchs (theologian)|Emil Fuchs]] and his students as well as Fuchs's grandson [[:de:Klaus Fuchs-Kittowski|Klaus Fuchs-Kittowski]].{{citation needed|date=March 2016}}
+
+When the [[Berlin Wall]] was built in 1961, he did not return to the GDR, but went to [[Tübingen]] in [[West Germany]], where he received an honorary chair in Philosophy. He died in Tübingen.{{citation needed|date=March 2016}}
+
+==Thought==
+Bloch's ''[[The Principle of Hope]]'' was written during his emigration in the United States, where he lived briefly in [[New Hampshire]] before settling in [[Cambridge, Massachusetts]]. He wrote the lengthy three volume work in the reading room of Harvard's [[Widener Library]]. Bloch originally planned to publish it there under the title ''Dreams of a Better Life''. ''The Principle of Hope'' tries to provide an encyclopedic account of mankind's and nature's orientation towards a socially and technologically improved future.
+
+==Influence==
+[[File:EndloseTreppeLutherturm.JPG|thumb|right|''[[Endlose Treppe]]'' by [[Max Bill]], which is dedicated to the ''Principle of Hope'' by Bloch.]]
+Bloch's work became very influential in the course of the student [[Protests of 1968|protest movements in 1968]] and in [[liberation theology]].{{Citation needed|date=September 2014}} 
+It is cited as a key influence by [[Jürgen Moltmann]] in his ''Theology of Hope'' (1967, Harper and Row, New York), by [[Dorothee Sölle]], and by [[Ernesto Balducci]]. Psychoanalyst [[Joel Kovel]] has praised Bloch as, "the greatest of modern utopian thinkers".<ref name="Kovel">{{cite book |author=Kovel, Joel |title=History and Spirit: An Inquiry into the Philosophy of Liberation |publisher=Beacon Press |location=Boston |year=1991 |page=261  |isbn=0-8070-2916-5 |oclc= |doi= |accessdate=}}</ref> [[Robert S. Corrington]] has been influenced by Bloch, though he has tried to adapt Bloch's ideas to serve a liberal rather than a Marxist politics.<ref>{{cite book |author=Corrington, Robert S. |title=Nature and Spirit: An Essay in Ecstatic Naturalism |publisher=Fordham University Press |location=New York |year=1992 |page=113 |isbn=0-8232-1363-3 |oclc= |doi= |accessdate=}}</ref> Bloch's concept of concrete utopias found in ''The Principle of Hope'' was used by [[José Esteban Muñoz]] to shift the field of [[performance studies]]. This shift allowed for the emergence of utopian performativity and a new wave of performance theorizing as Bloch's formulation of utopia shifted how scholars conceptualize the ontology and the staging of performances as imbued with an enduring indeterminacy,<ref>{{Cite book|title=Cruising Utopia The Then and There of Queer Futurity|last=Muñoz|first=José Esteban|publisher=NYU Press|year=2009|isbn=|location=|pages=99}}</ref> as opposed to dominant performance theories found in the work of [[Peggy Phelan]], who view performance as a live event without reproduction.
+
+==Bibliography==
+
+===Books===
+* ''Geist der Utopie'' (1918) (''The Spirit of Utopia'', Stanford, 2000)
+* ''Thomas Müntzer als Theologe der Revolution'' (1921) (''Thomas Müntzer as Theologian of Revolution'')
+* ''Spuren'' (1930) (''Traces'', Stanford University Press, 2006)
+* ''Erbschaft dieser Zeit'' (1935) (''Bequest of This Time'')
+* ''Freiheit und Ordnung'' (1947) (''Freedom and Order'')
+* ''Subjekt-Objekt'' (1949)
+* ''Christian Thomasius'' (1949)
+* ''Avicenna und die aristotelische Linke'' (1949) (''Avicenna and the aristotelian Left'')
+* ''Das Prinzip Hoffnung'' (3 vols.: 1938–1947) (''[[The Principle of Hope]]'', MIT Press, 1986)
+* ''Naturrecht und menschliche Würde'' (1961) (''Natural Law and Human Dignity'', MIT Press 1986)
+* ''Tübinger Einleitung in die Philosophie'' (1963) (''The Tübingen Introduction in Philosophy'')
+* ''Religion im Erbe'' (1959–66) (trans.: ''Man on His Own'', Herder and Herder, 1970)
+* ''Atheismus im Christentum'' (1968) (trans.: ''[[Atheism in Christianity]]'', 1972)
+* ''Politische Messungen, Pestzeit, Vormärz'' (1970) (''Political Measurements, the Plague, Pre-March'')
+* ''Das Materialismusproblem, seine Geschichte und Substanz'' (1972) (''The Problem of Materialism, Its History and Substance'')
+* ''Experimentum Mundi. Frage, Kategorien des Herausbringens, Praxis'' (1975) (''Experimentum Mundi. Question, Categories of Realization, Praxis'')
+
+===Articles===
+* “Causality and Finality as Active, Objectifying Categories:Categories of Transmission”. [[TELOS (journal)|''TELOS'']] 21 (Fall 1974). New York: [http://www.telospress.com Telos Press]
+
+==See also==
+* ''[[Exilliteratur]]''
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+* [[Theodor W. Adorno|Adorno, Theodor W.]] (1991). "Ernst Bloch's ''Spuren''," ''Notes to Literature, Volume One'', New York, Columbia University Press
+* Thompson, Peter and Slavoj Žižek (eds.) (2013) "The Privatization of Hope: Ernst Bloch and the Future of Utopia''. Durham, NC: Duke University Press
+* Boldyrev, Ivan (2014), ''Ernst Bloch and His Contemporaries: Locating Utopian Messianism''. L. and N. Y.: Bloomsbury.
+* Geoghegan, Vincent (1996). ''Ernst Bloch'', London, Routledge
+* Hudson, Wayne (1982). ''The Marxist philosophy of Ernst Bloch'', New York, St. Martin's Press
+* [[Burghart Schmidt|Schmidt, Burghard]]. (1985) ''Ernst Bloch'', Stuttgart, Metzler
+* Münster, Arno (1989). ''Ernst Bloch: messianisme et utopie'', PUF, Paris
+* Jones, John Miller (1995). ''Assembling (Post)modernism: The Utopian Philosophy of Ernst Bloch'', New York, P Lang. (Studies in European thought, vol. 11)
+* Korstvedt, Benjamin M. (2010). ''Listening for utopia in Ernst Bloch’s musical philosophy'', Cambridge, Cambridge University Press
+* West, Thomas H. (1991). ''Ultimate hope without God : the atheistic eschatology of Ernst Bloch'', New York, P. Lang (American university studies series 7 theology religion; vol. 97)
+
+==External links==
+{{wikiquote}}
+*[https://web.archive.org/web/20090805113135/http://www.gseis.ucla.edu/faculty/kellner/Illumina%20Folder/kell1.htm Illuminations: Ernst Bloch, Utopia and Ideology Critique By Douglas Kellner]
+*[http://www.bloch.de Ernst-Bloch-Zentrum]
+*[http://www.ernst-bloch.net Ernst Bloch Assoziation]
+*[https://modernlanguages.sas.ac.uk/ernst-bloch-centre-german-thought Centre for Ernst Bloch Studies, School of Advanced Study, University of London]
+
+{{Authority control}}
+{{DEFAULTSORT:Bloch, Ernst}}
+[[Category:1885 births]]
+[[Category:1977 deaths]]
+[[Category:20th-century German philosophers]]
+[[Category:People from Ludwigshafen]]
+[[Category:People from the Palatinate (region)]]
+[[Category:Atheist philosophers]]
+[[Category:Exilliteratur writers]]
+[[Category:German atheists]]
+[[Category:German Jews]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:German Marxists]]
+[[Category:German political philosophers]]
+[[Category:Jewish atheists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish socialists]]
+[[Category:Marxist theorists]]
+[[Category:Marxist writers]]
+[[Category:Social philosophers]]
+[[Category:Leipzig University faculty]]
+[[Category:University of Tübingen faculty]]
+[[Category:German male writers]]
+[[Category:20th-century atheists]]

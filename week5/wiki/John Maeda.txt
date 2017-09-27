@@ -1,0 +1,119 @@
+[[File:John Maeda Portrait by Helena Price.jpg|thumb|Taken for Helena Price's http://TechiesProject.com]]'''John Maeda''' is an American [[Business executive|executive]], [[designer]], [[Computer technologist|technologist]]. His work explores the area where business, design, and technology merge. He is Global Head, Computational Design and Inclusion at [[Automattic]]<ref>{{cite web
+  | url        = https://design.blog/2016/08/08/john-maeda/
+  | title      = John Maeda, Why Automattic?
+  | publisher  = Design.blog
+  | date       = August 18, 2016
+  | accessdate = 2016-08-18
+}}</ref> where he seeks to address the [[Diversity (business)|diversity]] gap in tech<ref>{{Cite news|url=http://www.usatoday.com/story/tech/columnist/2014/11/09/diversity-panel-stanford-jesse-jackson-facebook-google/18429395/|title=Tech execs acknowledge diversity gap. So, what's next?|newspaper=USA TODAY|access-date=2017-02-19|language=en}}</ref> by exploring how inclusion can be a key ingredient for success in the technology industry.<ref>{{Cite news|url=https://www.fastcodesign.com/3062981/john-maedas-next-design-problem-the-tech-industrys-utter-lack-of-diversity|title=John Maeda's New Design Problem: Tech's Utter Lack Of Diversity|date=2016-08-19|newspaper=Co.Design|access-date=2017-02-19|language=en-US}}</ref> 
+He is formerly Design Partner at [[Kleiner Perkins Caufield & Byers]] (KPCB) where he advised startups on the business impact of design<ref>{{cite web
+  | url        = https://www.kpcb.com/news/john-maeda-joins-kleiner-perkins-caufield-byers-as-design-partner
+  | title      = John Maeda Joins Kleiner Perkins Caufield & Byers as Design Partner
+  | publisher  = Kleiner Perkins Caufield & Byers
+  | date       = December 4, 2013
+  | accessdate = 2014-01-25
+}}</ref> and continues as a Strategic Advisor. He also serves on the Board of Directors of consumer electronics company [[Sonos]] and global advertising firm [[Wieden+Kennedy]].
+
+He was a Professor at the [[MIT Media Lab]] for 12 years where he fostered a community of designers who could code and engineers who could design called the [http://acg.media.mit.edu/ Aesthetics + Computation Group], and then created the [http://plw.media.mit.edu/ Physical Language Workshop] with Henry Holtzman. He resigned from MIT in 2008<ref>{{Cite news|url=https://www.wsj.com/articles/SB122031259187688831|title=Design for Learning: RISD   Gets a New Type of President|last=Browning|first=Dominique|date=2008-09-02|newspaper=Wall Street Journal|access-date=2017-02-19|issn=0099-9660}}</ref> to become the President of the [[Rhode Island School of Design]] (RISD), just as the [[Subprime mortgage crisis|global financial crisis]] of 2007-09 took hold.<ref>{{Cite news|url=https://www.fastcompany.com/1007032/digital-thinking-rhode-island-school-design|title=Digital Thinking at Rhode Island School of Design|date=2008-10-01|newspaper=Fast Company|access-date=2017-02-19|language=en-US}}</ref>
+
+In 2011, RISD's faculty majority passed a [[Motion of no confidence|vote of no confidence]] in Maeda,.<ref>{{Cite news|url=https://www.fastcompany.com/1747593/risd-old-guard-clashes-its-tweeting-president-john-maeda|title=RISD Old Guard Clashes With Its Tweeting President John Maeda|date=2011-04-20|newspaper=Fast Company|access-date=2017-02-19|language=en-US}}</ref><ref>{{Cite web|url=http://www.providencejournal.com/breaking-news/content/20131204-risd-president-john-maeda-to-leave-for-job-in-silicon-valley.ece|title=RISD president John Maeda to leave for job in Silicon Valley|last=Siclen|first=Bill Van|access-date=2016-09-27}}</ref><ref>{{Cite web|url=http://artfcity.com/2011/03/11/risds-president-john-maeda-responds-to-no-confidence-vote/|title=RISD’s President John Maeda Responds to No-Confidence Vote|last=Johnson|first=Paddy|date=2011-03-11|website=Art F City|access-date=2016-09-27}}</ref> He survived the vote,<ref>{{Cite news|url=https://www.fastcodesign.com/1663702/john-maeda-mulls-risds-backlash-against-his-cyber-style-leadership|title=John Maeda Mulls RISD's Backlash Against His Cyber-Style Leadership|date=2011-04-26|newspaper=Co.Design|access-date=2017-02-19|language=en-US}}</ref> and subsequently led RISD to be recognized by the business community as number one in the world<ref>{{Cite web|url=http://www.businessinsider.com/the-worlds-25-best-design-schools-2012-11#1-rhode-island-school-of-design-25|title=The World's 25 Best Design Schools|last=Rose Dickey|first=Megan|access-date=2012-11-23}}</ref> while shepherding the national STEAM movement.<ref>{{Cite web|url=https://www.nytimes.com/2014/11/02/education/edlife/putting-art-in-stem.html?_r=0|title=Putting Art in STEM|last=Fontain|first=Henry|access-date=2014-10-31}}</ref> Maeda resigned from his presidency at the end of 2013<ref>{{cite web
+  | url        = http://www.risd.edu/about/news/2013/john-maeda-moves-on/
+  | title      = John Maeda Moves On
+  | publisher  = Rhode Island School of Design
+  | date       = December 18, 2013
+  | accessdate = 2014-01-25
+}}</ref><ref>{{Cite news|url=http://www.providencejournal.com/opinion/commentary/20131228-steve-cronin-maeda-deserves-better-as-he-leaves-risd.ece|title=Steve Cronin: Maeda deserves better as he leaves RISD|last=Cronin|first=Steve|newspaper=providencejournal.com|access-date=2017-02-19|language=en}}</ref> and joined eBay Inc. as Chair of their Design Advisory Board<ref>{{Cite web|url=http://www.businesswire.com/news/home/20131204006457/en/John-Maeda-Chair-Newly-Formed-eBay-Design-Advisory|title=John Maeda to Chair Newly-Formed eBay Inc. Design Advisory Board|website=www.businesswire.com|language=en|access-date=2017-02-19}}</ref> and KPCB<ref>{{Cite web|url=http://www.kpcb.com/blog/introducing-kpcb-productworks-because-we-need-more-edisons|title=Introducing KPCB ProductWorks:  Because We Need More Edisons|last=www.kpcb.com|first=Kleiner Perkins Caufield Byers|website=www.kpcb.com|access-date=2017-02-19}}</ref> to advance design in Silicon Valley as chronicled by Stanford's Barry Katz.<ref>{{Cite web|url=https://mitpress.mit.edu/books/make-it-new|title=Make It New|website=MIT Press|language=en-US|access-date=2017-02-19}}</ref>
+
+Maeda was originally a [[Computer Science]] student at the [[Massachusetts Institute of Technology]], where he became fascinated with the work of [[Paul Rand]] and [[Muriel Cooper]]. Cooper was a director of MIT's Visible Language Workshop. After completing his bachelor's and master's degrees at MIT, Maeda studied in Japan at [[Tsukuba University]]'s Institute of Art and Design to complete his Ph.D. in design.
+
+As an artist, Maeda’s early work redefined the use of electronic media as a tool for expression by combining computer programming with traditional artistic technique, laying the groundwork for the interactive motion graphics that are taken for granted on the web today. He has exhibited in one-man shows in London, New York and Paris. His work is in the permanent collections of the [[Museum of Modern Art]], the [[San Francisco Museum of Modern Art]] and the [[Fondation Cartier pour l'Art Contemporain|Cartier Foundation]] in Paris.
+
+At RISD, Maeda led the movement to transform [[Science, Technology, Engineering, and Mathematics|STEM]] (Science, Technology, Engineering, and Math) to [[STEAM fields|STEAM]] by adding Art. He states:<blockquote>I believe art and design are poised to transform our economy in the 21st century like science and technology did in the last century<ref name="Congressional STEAM Event">{{cite web | url        = https://bonamici.house.gov/press-release/reps-bonamici-and-schock-announce-bipartisan-congressional-steam-caucus
+  | title      = Reps. Bonamici and Schock Announce Bipartisan Congressional STEAM Caucus
+  | publisher  = Office of Congresswoman Bonamici bonamici.house.gov website
+  | date       = February 2013
+  | accessdate = 2016-01-07
+}}</ref></blockquote>
+
+In 1999, he was named one of the 21 most important people in the 21st century by ''[[Esquire (magazine)|Esquire]]''.<ref>{{cite web
+  | url        = http://www.esquire.com/features/twenty-one-more-1199
+  | title      = More of The Esquire 21
+  | publisher  = Esquire Magazine; Hearst Communications, Inc.
+  | date       = November 1999
+  | accessdate = 2008-04-11
+}}</ref> In 2001, he received the [[National Design Award]] for Communication Design in the United States and Japan's [[Mainichi Design Prize]].<ref>{{cite web
+  | url        = http://sap.mit.edu/resources/portfolio/maeda/
+  | title      = MAEDA NAMED ONE OF YEAR’S MOST INFLUENTIAL DESIGNERS
+  | publisher  = MIT School of Architecture + Planning
+  | date       = June 2005
+  | accessdate = 2007-07-17
+}}</ref>
+
+In 2006, Maeda published ''Laws of Simplicity'', his best-selling book to date, based on a research project to find ways for people to simplify their life in the face of growing complexity.
+
+In 2009 he was inducted into the New York Art Director’s Club Hall of Fame, and he received the AIGA Medal in 2010.<ref>{{Cite news|url=http://www.aiga.org/medalist-johnmaeda|title=2010 AIGA Medalist: John Maeda|newspaper=AIGA {{!}} the professional association for design|access-date=2017-02-19}}</ref> He is a trustee of the [[Cooper–Hewitt, National Design Museum]].<ref>{{cite web
+  | url        = http://www.cooperhewitt.org/board-trustees
+  | title      = Board of Trustees
+  | publisher  = Cooper-Hewitt National Design Museum
+  | accessdate = 2014-01-25
+}}</ref>
+
+In 2015 he published his first Design In Tech Report<ref>{{cite web 
+ | url = http://designin.tech
+ | title = Design in Tech Report 2015
+ | publisher = KPCB
+ | accessdate = 2016-03-19
+}}</ref> to connect the investing world with the world of design and technology.  A 2nd Design in Tech report<ref>{{cite web 
+ | url = http://www.kpcb.com/blog/design-in-tech-report-2016
+ | title = Design in Tech Report 2016
+ | publisher = KPCB
+ | accessdate = 2016-03-19
+}}</ref> was published in 2016. 3rd Design In Tech Report<ref>
+{{cite web 
+ | url = https://designintechreport.wordpress.com/
+ | title = Design in Tech Report 2017
+ | publisher = John Maeda
+ | accessdate = 2017-03-11
+}}
+</ref> was published in 2017.
+
+==Bibliography==
+* ''Redesigning Leadership (Simplicity: Design, Technology, Business, Life)'', MIT Press, 2011
+* ''[https://books.google.com/books?id=lh9gRQ4i_zwC&printsec=frontcover The Laws of Simplicity]'', MIT Press, 2006.
+* ''Creative Code'', Thames and Hudson, 2004.
+* ''maeda@media'', Thames and Hudson / Rizzoli / Bangert Verlag, 2000.
+* ''Design By Numbers'', MIT Press, 1999.
+* ''Tap, Type, Write'', Digitalogue Co., 1998.
+* ''12 o’clocks'', Digitalogue Co., 1997.
+* ''Flying Letters'', Digitalogue Co., 1996.
+* ''Reactive Square'', Digitalogue Co., 1995.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|John Maeda}}
+* [http://www.kpcb.com/partner/john-maeda Kleiner Perkins Caufield & Byers (KPCB) site]
+* [http://designin.tech/ 2015 KPCB #DesignInTech Report site]
+* {{TED speaker}}
+** [https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders "How art, technology and design inform creative leaders" (TEDGlobal 2012)]
+** [http://www.ted.com/talks/john_maeda_on_the_simple_life "Designing for simplicity" (TED2007)] 
+* [http://creativeleadership.com/ Creative Leadership blog]
+* [http://lawsofsimplicity.com/ The Laws of Simplicity site]
+* [http://www.maedastudio.com/ Maedastudio site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maeda, John}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:American graphic designers]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:National Design Award winners]]
+[[Category:Artists from Seattle]]
+[[Category:University of Tsukuba alumni]]
+[[Category:MIT School of Architecture and Planning alumni]]
+[[Category:American people of Japanese descent]]
+[[Category:American academics of Japanese descent]]
+[[Category:Kleiner Perkins Caufield & Byers people]]
+[[Category:American businesspeople of Japanese descent]]
+[[Category:MIT Media Lab people]]

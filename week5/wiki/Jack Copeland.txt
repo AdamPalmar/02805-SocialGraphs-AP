@@ -1,0 +1,92 @@
+{{Use British English|date=May 2012}}
+{{Use dmy dates|date=May 2012}}
+{{Infobox scientist
+| image             = Jack Copeland IMG 2109.jpg
+| image_size        = 
+| caption           = 
+|birth_name              = Brian Jack Copeland
+| birth_date        = {{Birth year and age|1950|}}
+| birth_place       = United Kingdom
+| death_date        = 
+| death_place       = 
+| nationality       = British
+| fields            = Philosophy, [[logic]]
+| workplaces        = [[University of Plymouth]]<br />[[University of Canterbury]]
+| alma_mater        = [[Corpus Christi College, Oxford]]
+| residence         = [[Christchurch]], New Zealand
+| doctoral_advisor  = [[Dana Scott]]<ref>{{MathGenealogy|93763}}</ref>
+| doctoral_students = 
+| known_for         = Study of [[Alan Turing]].
+| awards            = 
+}}
+
+'''Brian ''Jack'' Copeland''' (born 1950) is Professor of Philosophy at the [[University of Canterbury]], [[Christchurch]], [[New Zealand]], and author of books on the computing pioneer [[Alan Turing]].
+
+==Overview==
+Jack Copeland's education includes a [[BPhil]] and a [[DPhil]] from the [[University of Oxford]] in philosophy, where he undertook research on [[modal logic|modal]] and [[non-classical logic]] under the supervision of [[Dana Scott]].<ref>{{cite web | url=http://genealogy.math.ndsu.nodak.edu/id.php?id=93763  | title=John Copeland | publisher=[[North Dakota State University]] |work=[[Mathematics Genealogy Project]] | accessdate=26 December 2011}}</ref>
+
+Jack Copeland is the Director of the Turing Archive for the History of Computing,<ref>{{cite web| url=http://www.alanturing.net/ | title=Turing Archive for the History of Computing }}</ref> an extensive online archive on the computing pioneer [[Alan Turing]]. He has also written and edited books on Turing.  He is one of the people responsible for identifying the concept of [[hypercomputation]] and machines more capable than [[Turing machine]]s.
+
+Copeland has held visiting professorships at the [[University of Sydney]], Australia (1997, 2002), the [[University of Aarhus]], Denmark (1999), the [[University of Melbourne]], Australia (2002, 2003), and the [[University of Portsmouth]], United Kingdom (1997–2005). In 2000, he was a Senior Fellow in the [[Dibner Institute for the History of Science and Technology]]<ref>{{cite web| url=http://dibinst.mit.edu/ | title=Dibner Institute for the History of Science and Technology | publisher=[[Massachusetts Institute of Technology]] | location=USA }}</ref> at the [[Massachusetts Institute of Technology]], United States.
+
+He is also President of the US Society for Machines and Mentality<ref>[http://www.cs.hamilton.edu/~sfmm/ Society for Machines and Mentality], USA.</ref> and a member of the UK [[Bletchley Park]] Trust Heritage Advisory Panel. He is the founding editor of ''[[The Rutherford Journal]]'', established in 2005.
+
+Copeland was awarded Lecturer of the Year 2010 by the University of Canterbury's student union.<ref>{{cite web|publisher=UCSA |title=CANTA survey |location=New Zealand |url=http://canta.co.nz/media/uploads/2011_03/Canta_22.pdf |date=March 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20130206073645/http://canta.co.nz/media/uploads/2011_03/Canta_22.pdf |archivedate=6 February 2013 |df=dmy }}</ref>
+
+==The Rutherford Journal==
+{{Infobox journal
+| title = The Rutherford Journal 
+| cover =
+| abbreviation=Rutherford J.
+| editor = Jack Copeland<ref>{{cite web| url=http://www.canterbury.ac.nz/spark/researcher.aspx?researcherid=86390 | title=Distinguished Professor Jack Copeland | publisher=[[University of Canterbury]] | location=New Zealand | accessdate=7 December 2016 }}</ref>
+| discipline = [[History of science|History]] and [[philosophy of science]]
+<!-- | abbreviation = Rutherford J. -->
+| publisher = [[University of Canterbury]]
+| country = [[New Zealand]]
+| frequency = 
+| history = 2005 onwards
+| website = http://www.rutherfordjournal.org
+| ISSN = 1177-1380
+| OCLC = 145735058
+| italic title=no
+}}
+Jack Copeland is [[editor-in-chief]] of '''''The Rutherford Journal''''', a [[Peer review|peer-reviewed]] online [[academic journal]] published in [[New Zealand]]<ref>{{cite web| url=http://www.indexnz.com/Top/Education/Academic-Journals/2 | title=New Zealand > Education > Academic Journals | work=indexNS | accessdate=7 December 2016 }}</ref> that covers the [[History of science|history]] and [[philosophy of science]] and [[philosophy of technology|technology]].<ref name="about">[http://www.rutherfordjournal.org/about.html About the Journal], ''The Rutherford Journal''.</ref><ref>{{cite article| last=Jenkin | first=John | title=Review of Copeland, Jack, ed., The Rutherford Journal: the New Zealand Journal for the History and Philosophy of Science and Technology (2005) | journal=[[Historical Records of Australian Science]] | volume=17 | number=2 | date=2006 | pages=298–299 }}</ref> The journal is published as needed and was established in December 2005 by Copeland.<ref>{{cite web| url=http://web.archive.org/web/20150326030020/hapi.uq.edu.au/professor-jack-copeland | title=Professor Jack Copeland | work=[[Archive.org]] | publisher=[[The University of Queensland]] | location=Australia | accessdate=4 January 2014 }}</ref> The full text of articles is freely available online in [[HTML]] format.
+
+''The Rutherford Journal'' is named after the [[chemistry|chemist]] and [[physics|physicist]] [[Ernest Rutherford]] (1871–1937),<ref>{{cite web| url=http://atomictheoryfinal.weebly.com/ernest-rutherford.html | title=Rutherford's Experiment | work=Atomic Theory | accessdate=7 December 2016 }}</ref> a New Zealander, who studied for a BA at the [[University of Canterbury|Canterbury College]] ([[Christchurch]]) in 1890.<ref>{{cite article| first=Simon | last=Clarke | url=http://www.rutherfordjournal.com/article010112.html | title=Rutherford at Canterbury University College | journal=The Rutherford Journal | volume=1 | date=December 2005 }}</ref>
+
+The journal is indexed as an [[open access]] scholarly resource and journal<ref name="road">{{cite web| url=http://road.issn.org/issn/1177-1380-the-rutherford-journal#.WEgbZvmLREY | title=The Rutherford Journal | work=Directory of Open Access Scholarly Resources | publisher=ROAD | accessdate=7 December 2016 }}</ref><ref name="journalindex">{{cite web| url=http://www.journalindex.net/visit.php?j=7606 | title=The Rutherford Journal | work=JournalIndex.net | accessdate=7 December 2016 }}</ref> and in various index lists.<ref name="intute">{{cite web| url=http://www.intute.ac.uk/cgi-bin/fullrecord.pl?handle=20070427-161734 | title=Rutherford Journal: the New Zealand journal for the history and philosophy of science and technology | publisher=[[Intute]] | location=UK | accessdate=7 December 2016 }}</ref><ref name="alanturing">{{cite web| url=http://www.alanturing.net/turing_archive/pages/links.html | title=History and Theory of Computation Sites | work=AlanTuring.net | accessdate=4 January 2014 }}</ref> It was listed in an article on [[electronic journal]]s in the Journal for the Association of History and Computing<ref>{{cite article| url=http://hdl.handle.net/2027/spo.3310410.0010.307 | title=E-Journals – Inside and Out | work=Journal of the Association of History and Computing | location=Ann Arbor, MI | publisher=MPublishing | first=Lynn C. | last=Westney | volume=10 | number=3 | date=December 2007 }}</ref> and included in the ''Isis Current Bibliography of the History of Science and Its Cultural Influences''.<ref>{{cite article| title=Current Bibliography of the History of Science and Its Cultural Influences | journal=[[Isis (journal)|Isis]] | volume=101 | number=S1 | date=December 2010 | pages=1–305 | publisher=[[University of Chicago Press]] / [[History of Science Society]] | doi=10.1086/660768 }}</ref> The journal features technology as diverse as [[totalisator]]s<ref>{{cite web| url=http://hackaday.com/2015/11/04/tote-boards-the-impressive-engineering-of-horse-gambling/ | title=Tote Boards: The Impressive Engineering of Horse Gambling | work=Hackaday | first=Kristina | last=Panos | date=4 November 2015 | accessdate=7 December 2016 }}</ref> and the [[CSIRAC]] computer.<ref>{{cite web| url=http://www.godzillaseamonkey.com/was-george-julius-the-inspiration-for-csirac-australias-first-electronic-digital-computer/ | title=Was George Julius the inspiration for CSIRAC, Australia’s first electronic digital computer? | first=Don | last=McKenzie | work=Godzilla Sea Monkey | date=12 March 2011 | accessdate=7 December 2016 }}</ref>
+
+==Books==
+* ''[[Artificial Intelligence]]: A Philosophical Introduction'' ([[Blackwell Publishing|Blackwell]], 1993, 2nd edition due) {{ISBN|0-631-18385-X}}
+* ''Logic and Reality Essays on the Legacy of [[Arthur Prior]]'' ([[Oxford University Press]], 1996) {{ISBN|0-19-824060-0}}
+* ''The Essential Turing'' (Oxford University Press, 2004) {{ISBN|0-19-825080-0}}<ref>{{cite article| title=The essential Turing, Copeland Jack (ed). Pp. 613. £50 (hbk). £14.99 (pbk). 2004. {{ISBN|0 19 825079 7}} (hbk); {{ISBN|0 19 825080 0}} (pbk) (Oxford University Press) | first=S. C. | last=Coutinho | date=March 2006 | doi=10.1017/S0025557200179513 |volume=90 | number=517 | pages=185–186 | journal=[[The Mathematical Gazette]] | publisher=[[Cambridge University Press]] }}</ref>
+* ''Alan Turing’s [[Automatic Computing Engine]]: The Master Codebreaker's Struggle to Build the Modern Computer'' (Oxford University Press, 2005) {{ISBN|0-19-856593-3}}
+* ''[[Colossus computer|Colossus]]: The Secrets of Bletchley Park's Codebreaking Computers'' (Oxford University Press, 2006) {{ISBN|0-19-284055-X}}<ref>{{cite news| title=The Colossus of codes: Georgina Ferry on four new books that tackle the story of Bletchley Park's other decryption machine | first=Georgina | last=Ferry | date=29 July 2006 | newspaper=[[The Guardian]] | location=UK }}</ref>
+* ''Alan Turing’s Electronic Brain: The Struggle to Build the ACE, the World’s Fastest Computer'' (Oxford University Press, 2012) {{ISBN|978-0199609154}}<ref name="ams">{{cite article| title=His Just Deserts: A Review of Four Books | first=Alvy Ray | last=Smith | date=September 2014 | pages=891–895 | journal=[[Notices of the AMS]] | publisher=[[American Mathematical Society]] | url=http://www.ams.org/notices/201408/rnoti-p891.pdf }}</ref>
+* ''Turing: Pioneer of the Information Age'' (Oxford University Press, 2014: Paperback edition) {{ISBN|978-0198719182}}<ref name="ams" /><ref>{{cite news| title=Turing: Pioneer of the Information Age, by Jack Copeland | first=Tom | last=Moriarty | date=18 January 2015 | newspaper=[[The Irish Times]] }}</ref><ref>{{cite article| title=Review Essay: B. Jack Copeland, Turing: Pioneer of the Information Age (Oxford University Press, 2012) | first=Colin | last=Hughes | date=Summer 2016 | volume=15 | number=2–3 | journal=[[Logos: A Journal of Modern Society and Culture]] }}</ref><ref>{{cite article| title=Turing: Pioneer of the Information Age, by B. Jack Copeland | first=Juan A. | last=Añel | date=9 September 2013 | doi=10.1080/00107514.2013.836246Colin |volume=54 | number=5 | journal=[[Contemporary Physics]] }}</ref>
+* ''The Turing Guide'' (Oxford University Press, 2017) {{ISBN|978-0198747826}} (hardcover), {{ISBN|978-0198747833}} (paperback)<ref>{{cite article| authorlink=W. Andrew Robinson | last=Robinson | first=Andrew | url=https://www.newscientist.com/article/mg23331072-700-the-turing-guide-last-words-on-an-enigmatic-codebreaker/ | title=The Turing Guide: Last words on an enigmatic codebreaker? | journal=[[New Scientist]] | date=4 January 2017 }}</ref> (with [[Jonathan Bowen|J.P. Bowen]], [[Robin Wilson (mathematician)|R. Wilson]], M. Sprevak, et al.)
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.arts.canterbury.ac.nz/philosophy/people/copeland.shtml Home page]
+* [http://www.alanturing.net/turing_archive AlanTuring.net]
+* [http://www.rutherfordjournal.org/article040101.html Alan Turing: Father of the Modern Computer]
+* {{AcademicSearch|325889}} 
+* {{DBLP|name=B. Jack Copeland}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Copeland, Jack}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Alumni of Corpus Christi College, Oxford]]
+[[Category:English philosophers]]
+[[Category:New Zealand philosophers]]
+[[Category:Historians of science]]
+[[Category:Historians of mathematics]]
+[[Category:Academics of the University of Portsmouth]]
+[[Category:University of Canterbury faculty]]
+[[Category:Academic journal editors]]
+[[Category:English male writers]]

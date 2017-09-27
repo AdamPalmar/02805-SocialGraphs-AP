@@ -1,0 +1,152 @@
+{{for|the American bowler|George Pappas (bowler)}}
+{{Infobox philosopher
+|region           = Western philosophy
+|era              = [[Contemporary philosophy]]
+|image            = 
+|name             = George Sotiros Pappas
+|birth_date       = {{birth year and age|1942}}
+|birth_place      = 
+|death_date       = 
+|death_place      =
+|school_tradition = 
+|main_interests   = [[Epistemology]], early [[Modern philosophy]], [[George Berkeley|Berkeley]] scholarship
+|notable_ideas    =
+|influences       = 
+|influenced       = 
+|signature        = 
+|awards           = International Berkeley Essay Prize (1993), Emeritus Professor
+}}
+'''George Sotiros Pappas''' (born 1942) is a professor of [[philosophy]] at [[Ohio State University]].<ref>[http://philosophy.osu.edu/people/person.cfm?ID=1292 Departmental profile at OSU]</ref>  Pappas specializes in [[epistemology]], the history of [[early modern philosophy]], [[philosophy of religion]], and [[metaphysics]]. He is of Greek and English origin.
+
+He is the author of the [[Stanford Encyclopedia of Philosophy]] entry on [[Internalism and externalism|Internalist versus Externalist]] conceptions of [[Theory of justification|epistemic justification]].<ref>[http://plato.stanford.edu/entries/justep-intext/ Stanford Encyclopedia of Philosophy article]</ref>
+
+He was co-editor (with [[Marshall Swain]]) of ''Essays on Knowledge and Justification'' (1978), regarded as a key anthology of essays relating to the [[Gettier problem]]<ref>[http://www.iep.utm.edu/g/gettier.htm#H15 Gettier Problem bibliography at the Internet Encyclopedia of Philosophy]</ref> and used as a core text in undergraduate [[epistemology]] courses.<ref>[http://www.ditext.com/clay/morris1.html Suggested epistemology reading list]</ref>
+
+George Pappas is an editorial consultant of [[Berkeley Studies]].<ref>{{cite web
+ | url = http://people.hsc.edu/berkeleystudies/editorial.php 
+ | title = Berkeley Studies: Editorial Staff
+ | accessdate = 2011-01-16
+ | year = 
+ | publisher = [[Hampden–Sydney College]]
+ }}
+</ref>
+
+== Studies in Berkeley's philosophy ==
+George S. Pappas is known to be a leading Berkeley scholar; his essay “Berkeley and Scepticism”<ref>{{cite journal |last=Pappas |first=G.S. |title=Berkeley and Scepticism |journal=[[Philosophy and Phenomenological Research]] |volume=59 |issue=1 |pages=133–149 |year=1999 |doi= 10.2307/2653461|url=}}</ref> was in 1993 awarded the International Berkeley Prize.<ref>See: [http://www.rochester.edu/college/PHL/Berkeleywinners.html Berkeley Prize Winners]. <br> The annual International Berkeley Essay Prize competition was established by [[Colin Murray Turbayne]] and his wife in 1990.</ref> Professor Pappas is a regular participant of International Berkeley Conferences.<ref>[http://georgeberkeley.tamu.edu/conferences.html International Berkeley Conferences]</ref> At one such conference, celebrating the 300th anniversary of George Berkeley’s birth, Mr. Pappas propounded a new approach to the relationship between Berkeley’s anti-abstractionism and "esse est percipi"<ref>To be is to be perceived. A core proposition of Berkeley's ontology.</ref>  principle. On Pappas reading, Berkeley’s two theses — that there are no abstract ideas and that sensible objects must be perceived in order to exist — entail one another.<ref>{{cite conference |last=Pappas |first=G.S. |chapter=Abstract ideas and the 'esse is percipi' thesis |editor-first=D. |editor-last=Berman |title=George Berkeley: Essays and replies |publisher=Irish Academic Press |location=Dublin |year=1985 |isbn=0-7165-2395-7 |pages=47–62 |conference=Proceedings of International Berkeley Conference in Dublin, 1985 |ref={{harvid|Essays and replies|1985}}}}</ref>
+
+{{quote|text = Pappas’ formulation of the relationship between these two propositions is ingenious and merits his verdict that it is a ‘very exciting result’ … So far as I know, his thesis is original. Some writers, to be sure, have some close to suggesting that the first proposition is a necessary condition for the truth of the second, but I cannot think of a commentator who holds that it is both a necessary and sufficient condition.
+|author= Avrum Stroll
+|source= Two lines of argumentation in Berkeley’s ''Principles'': a reply to George Pappas. In {{harvnb|Essays and replies|1985|p=140}}}}
+
+Pappas' interpretation of Berkeley's ‘''esse'' is ''percipi''’ thesis has sparked much discussion.<ref>{{cite journal| last=Stroll |first=Avrum |title=Two lines of argumentation in Berkeley’s Principles: a reply to George S. Pappas}} In {{harvnb|Essays and replies|1985|pp=139–145}}</ref><ref>McKim, Robert. “Abstraction and Immaterialism: Recent Interpretations” // [[Berkeley Studies|Berkeley Newsletter]] 15 (1997–1998): 1–13.</ref> In 1989, the Garland Publishing Company brought out a 15-volume collection of major works on Berkeley; Pappas' paper “Abstract ideas and the 'esse is percipi' thesis” was included in the third volume,<ref>Berkeley on abstraction and abstract ideas / Ed. by W. Doney — N.Y.; L.: Garland, 1989. — XVII, 434 p. — (Philosophy of George Berkeley; 3; A Garland series)</ref> as it was considered to be a significant contribution to Berkeley scholarship.
+
+Pappas developed his treatment of Berkeley’s “esse est percipi” principle<ref>{{harvnb|Pappas|2000|pp=255–8. Ind.: p.257–261. (See chapter 5 ''Esse is percipi principle'')}}</ref> to repudiate the  "inherence interpretation of Berkeley", upon which Edwin E. Allaire, among others, elaborated<ref>{{cite journal
+ |last1=Allaire 
+ |first1=Edwin B. 
+ |year=1963 
+ |title=Berkeley's Idealism 
+ |journal=[[Theoria (philosophy journal)|Theoria]] 
+ |volume=XXIX 
+ |issue=3 
+ |pages=229–44 
+ |format=DjVu 
+ |accessdate=2011-01-16 
+ |url=http://su-ltd.mylivepage.ru/file/2716/6138_Allaire_Berkeley_s_idealism.djvu 
+ |doi=10.1111/j.1755-2567.1963.tb00025.x 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20120306000503/http://su-ltd.mylivepage.ru/file/2716/6138_Allaire_Berkeley_s_idealism.djvu 
+ |archivedate=2012-03-06 
+ |df= 
+}}
+<br> The article is a classical work of Berkeley scholarship.</ref><ref>For more detail, see:
+*{{cite journal |last=Hausman |first=A. |title=Adhering to inherence: A new look at the old steps in Berkeley's march to idealism |journal=[[Canadian Journal of Philosophy|Canad. J. of philosophy]] |volume=14 |issue=3 |pages=421–443 |year=1984 |doi= 10.1080/00455091.1984.10716390|url= |ref=harv}} (A wide grasp of literature on the “inherence account”.)
+*{{cite book |first=Robert G. |last=Muehlmann |chapter=Introduction |title=Berkeley's Metaphysics: Structural, Interpretive, and Critical Essays |url=https://books.google.com/books?id=zrvNFjIrDMUC |year=2010 |origyear=1995 |publisher=Pennsylvania State Press |isbn=0-271-04228-1}} (Muehlmann’s Introduction provides further bibliographical information of the various articles in defense and in criticism of this view.)
+*{{cite book |first=Katia |last=Saporiti |chapter=Ch. IV §2 Die Inhärenzhypothese  |title=Die Wirklichkeit der Dinge: eine Untersuchung des Begriffs der Idee in der Philosophie George Berkeleys |url=https://books.google.com/books?id=kS1Ux2jxMIMC&pg=PP1 |year=2006 |publisher=Vittorio Klostermann |isbn=978-3-465-03510-7 }}
+</ref><ref>For up-to-date criticism of the “inherence account,” see: {{cite journal
+ |last1=Bettcher 
+ |first1=Talia Mae (Ph. D., [[California State University, Los Angeles]]) 
+ |authorlink1= 
+ |last2= 
+ |first2= 
+ |authorlink2= 
+ |editor-last= 
+ |editor-first= 
+ |editor-link= 
+ |date=November 2008 
+ |title=Berkeley's Dualistic Ontology 
+ |journal=[[Análisis Filosófico]] 
+ |volume=28 
+ |issue=2 
+ |series= 
+ |pages=147–174 
+ |publisher= 
+ |isbn= 
+ |pmid= 
+ |pmc= 
+ |bibcode= 
+ |doi= 
+ |accessdate= 
+ |url=http://www.calstatela.edu/faculty/tbettch/BerkeleyDualism.pdf 
+ |archiveurl=https://web.archive.org/web/20120319211851/http://www.calstatela.edu/faculty/tbettch/BerkeleyDualism.pdf 
+ |archivedate=2012-03-19 
+ |ref= 
+ |deadurl=yes 
+ |df= 
+}}
+</ref>
+
+<blockquote>
+“That account is put forward to answer an extremely perplexing question in the history of philosophy: Why did Berkeley embrace idealism, i. e., why did he hold that esse est percipi, that to be is to be perceived? {{harv|Hausman|1984|pp=421–2}}</blockquote>
+
+After emerging in the early 1960s, the “inherence account” attracted numerous proponents and became an influential element of contemporary Berkeley scholarship. In his paper “Ideas, minds, and Berkeley”<ref>{{cite journal|last=Pappas |first=G.S. |title=Ideas, minds, and Berkeley |journal=[[American Philosophical Quarterly|Am. Phil. Q.]] |volume=17 |issue=3 |pages=181–194 |year=1980 |doi= |url=http://su-ltd.mylivepage.ru/file/2716/6145_Pappas_Ideas%2C_Minds%2C_and_Berkeley.djvu |deadurl=yes |archiveurl=https://web.archive.org/web/20120306000509/http://su-ltd.mylivepage.ru/file/2716/6145_Pappas_Ideas,_Minds,_and_Berkeley.djvu |archivedate=2012-03-06 |df= }}</ref> Pappas revealed some discrepancies between fountain-head evidences and Allaire’s approach to a reconstruction of Berkeley’s idealism. Pappas' critical examination of the “inherence account” is greatly appreciated by Berkeley scholars. Pappas’ penetrating remarks compelled Edwin B. Allaire  to revise and improve his conception.<ref>{{cite book |last=Allaire |first=Edwin B. |chapter=Berkeley’s Idealism Revisited |editor-first=Colin M. |editor-last=Turbayne |title=Berkeley: Critical and Interpretive Essays |url=https://books.google.com/books?id=RExF10reT9wC |year=1982 |publisher=University of Minnesota Press |isbn=978-0-8166-1066-2 |pages=197–206}}</ref> Even those who share Allaire’s account of Berkeley’s idealism acknowledge Pappas’ article to be “an excellent review and critique of the IA [inherence account].”<ref>{{harvnb|Hausman|1984|p=422 (note 2)}}</ref>
+
+In 2000 George Pappas published his monograph ''Berkeley's thought'' in which some parts were based on earlier papers of his. While writings by [[A. A. Luce]] or [[Geoffrey Warnock]] are long out dated, the book ''Berkeley's thought'' written by Dr Pappas is often included in lists of recommended literature on [[George Berkeley|Berkeley]]’s philosophy.<ref>As examples, take:
+* {{cite book
+| last       = Bettcher
+| first      = Talia Mae
+| title         = Berkeley: A Guide for the Perplexed
+| series    = Guides for the Perplexed
+| publisher = [[Continuum International Publishing Group|Continuum Publishing]]
+| isbn      = 0-8264-8991-5
+| page = 208
+}}
+* {{cite journal
+| last1        = Downing
+| first1       = Lisa
+| editor-last  = Zalta
+| editor-first = Edward N.
+| date         = Winter 2008 
+| title        = George Berkeley
+| journal      = The [[Stanford Encyclopedia of Philosophy]]
+| url          = http://plato.stanford.edu/entries/berkeley/  
+}}
+* {{cite journal
+| last1        = Flage
+| first1       = Daniel E.
+| title        = George Berkeley (1685–1753)
+| journal      = The [[Internet Encyclopedia of Philosophy]]
+| url          = http://www.iep.utm.edu/berkeley/
+| year        = 2005 
+}}
+</ref>
+
+== Publications ==
+*{{cite book |first=George S. |last=Pappas |title=Berkeley's Thought |url=https://books.google.com/books?id=gTkpVbFW9OMC |year=2000 |publisher=Cornell University Press |isbn=0-8014-3700-8 |ref=harv}}
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+* [[George Berkeley]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pappas, George}}
+[[Category:1942 births]]
+[[Category:American philosophers]]
+[[Category:Epistemologists]]
+[[Category:Living people]]
+[[Category:Ohio State University faculty]]
+[[Category:George Berkeley scholars]]

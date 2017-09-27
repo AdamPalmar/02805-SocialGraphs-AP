@@ -1,0 +1,186 @@
+{{Use dmy dates|date=June 2013}}
+{{Infobox scientist
+| name          = Nick Bostrom
+| image         = Nick_Bostrom.jpg
+| caption       = Nick Bostrom, 2014
+| birth_name    = Niklas Boström
+| birth_date    = {{birth date and age|1973|3|10|df=yes}}
+| birth_place   = [[Helsingborg]], Sweden
+| occupation    = [[Philosopher]]
+| alma_mater    = {{unbulleted list|
+[[University of Gothenburg]] (B.A.)|
+[[Stockholm University]] (M.A.)|
+[[King's College London]] (M.Sc.)|
+[[London School of Economics]] (Ph.D.)}}
+| workplaces    = [[St Cross College, Oxford]]<br>[[Future of Humanity Institute]]
+| thesis_title  = Observational Selection Effects and Probability
+| thesis_url    = http://etheses.lse.ac.uk/2642/
+| awards        = {{Plainlist|
+* Professorial Distinction Award from University of Oxford
+* [[FP Top 100 Global Thinkers]]
+* ''[[Prospect (magazine)|Prospect]]''{{'}}s Top World Thinker list
+}}
+| known_for     = ''[[Superintelligence: Paths, Dangers, Strategies]]'',<br />[[existential risk]], [[anthropic bias]], the [[reversal test]], the [[simulation hypothesis]], ethical [[consequentialism]]
+| website       = {{URL | nickbostrom.com | NickBostrom.com }}
+}}
+
+'''Nick Bostrom''' ({{IPAc-en|lang|ˈ|b|ɒ|s|t|r|əm}}; {{lang-sv|Niklas Boström}}, {{IPA-sv|ˈbuːˌstrœm|IPA}}; born 10 March 1973)<ref>{{cite web|url=http://www.nickbostrom.com/cv.html|title=nickbostrom.com|publisher=Nickbostrom.com|accessdate=16 October 2014}}</ref> is a Swedish [[Philosophy|philosopher]] at the [[University of Oxford]] known for his work on [[existential risk]], the [[anthropic principle]], [[human enhancement]] ethics, [[superintelligence]] risks, the [[reversal test]], and [[consequentialism]]. In 2011, he founded the Oxford Martin Programme on the Impacts of Future Technology,<ref>{{cite web|url=http://www.oxfordmartin.ox.ac.uk/people/22|title=Professor Nick Bostrom : People|publisher=Oxford Martin School|accessdate=16 October 2014}}</ref> and he is currently the founding director of the [[Future of Humanity Institute]]<ref>{{cite web|url=http://www.fhi.ox.ac.uk/|title=Future of Humanity Institute – University of Oxford|publisher=Fhi.ox.ac.uk|accessdate=16 October 2014}}</ref> at Oxford University.
+
+He is the author of over 200 publications,<ref name=ft-control /> including ''[[Superintelligence: Paths, Dangers, Strategies]]'' (2014), a ''New York Times'' bestseller<ref>{{cite web|url=https://www.nytimes.com/2014/09/09/science/best-selling-science-books.html?module=Search&mabReward=relbias%3As&_r=0|title=Best Selling Science Books|work=The New York Times|accessdate=19 February 2015}}</ref> and ''[[Anthropic Bias: Observation Selection Effects in Science and Philosophy]]'' (2002).<ref name="Oxford University Press">{{cite web|url=http://blog.oup.com/2014/09/interview-nick-bostrom-superintelligence/|title=Nick Bostrom on artificial intelligence|publisher=Oxford University Press|date=8 September 2014|accessdate=4 March 2015}}</ref> In 2009 and 2015, he was included in ''[[Foreign Policy]]''{{'}}s [[FP Top 100 Global Thinkers|Top 100 Global Thinkers]] list.<ref>{{cite web|last1=Frankel|first1=Rebecca|title=The FP Top 100 Global Thinkers|url=https://foreignpolicy.com/2009/11/25/the-fp-top-100-global-thinkers-7/|website=Foreign Policy|accessdate=5 September 2015}}</ref><ref>{{cite web
+ | url = http://2015globalthinkers.foreignpolicy.com/#advocates/detail/bostrom
+ | title = Nick Bostrom: For sounding the alarm on our future computer overlords.
+ | website = foreignpolicy.com
+ | publisher = Foreign Policy magazine
+ | access-date = 1 December 2015
+}}</ref> Bostrom's work on [[superintelligence]] – and his concern for its existential risk to humanity over the coming century – has brought both [[Elon Musk]] and [[Bill Gates]] to similar thinking.<ref>{{cite web|url=http://www.thefiscaltimes.com/2015/01/28/Bill-Gates-Worried-About-Rise-Machines |title=Bill Gates Is Worried About the Rise of the Machines|work=The Fiscal Times|accessdate=19 February 2015}}</ref><ref>{{cite web|url=http://opinionator.blogs.nytimes.com/2015/02/23/outing-a-i-beyond-the-turing-test/?_r=0|title=Outing A.I.: Beyond the Turing Test|work=The New York Times|first=Benjamin H.|last=Bratton|date=23 February 2015|accessdate=4 March 2015}}</ref>
+
+==Biography==
+Bostrom was born in 1973<ref>{{cite book|last1=Kurzweil|first1=Ray|title=How to create a mind the secret of human thought revealed|date=2012|publisher=Viking|location=New York|isbn=9781101601105}}</ref> in [[Helsingborg]], Sweden.<ref name=ft-control>{{cite news|last1=Thornhill|first1=John|title=Artificial intelligence: can we control it?|url=http://www.ft.com/cms/s/0/46d12e7c-4948-11e6-b387-64ab0a67014c.html|accessdate=10 August 2016|work=[[Financial Times]]|date=14 July 2016}} {{subscription required}}</ref> At a young age, he disliked school, and he ended up spending his last year of high school learning from home. He sought to educate himself in a wide variety of disciplines, including anthropology, art, literature, and science.<ref name=newyorker>{{cite journal|journal=[[The New Yorker]]|first=Raffi|last=Khatchadourian|title=The Doomsday Invention|url=http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom|pages=64–79|date=23 November 2015|volume=XCI|number=37|issn=0028-792X|publisher=Condé Nast}}</ref> Despite what has been called a "serious [[wikt:mien|mien]]", he once did some turns on London's stand-up comedy circuit.<ref name=ft-control />
+
+He holds a B.A. in philosophy, mathematics, logic and artificial intelligence from the [[University of Gothenburg]] and master's degrees in philosophy and physics, and [[computational neuroscience]] from [[Stockholm University]] and [[King's College London]], respectively. During his time at Stockholm University, he researched the relationship between language and reality by studying the analytic philosopher [[W. V. Quine]].<ref name=newyorker /> In 2000, he was awarded a PhD in philosophy from the [[London School of Economics]]. He held a teaching position at [[Yale University]] (2000–2002), and he was a [[British Academy]] Postdoctoral Fellow at the University of Oxford (2002–2005).<ref name="Oxford University Press" /><ref>{{cite web|url=http://www.nickbostrom.com/cv.pdf|format=PDF|publisher=Nickbostrom.com|title=Nick Bostrom : CV|accessdate=16 October 2014}}</ref>
+
+==Philosophy==
+
+===Existential risk===
+Aspects of Bostrom's research concern the future of humanity and long-term outcomes.<ref>{{cite journal |first=Nick |last=Bostrom|title=Existential Risks |journal=[[Journal of Evolution and Technology]] | volume=9 |date=March 2002 |url=http://www.jetpress.org/volume9/risks.html}}</ref><ref name=Andersen>{{cite web|last1=Andersen|first1=Ross|title=Omens|url=http://aeon.co/magazine/philosophy/ross-andersen-human-extinction/|publisher=Aeon Media Ltd.|accessdate=5 September 2015}}</ref> He introduced the concept of an [[existential risk]],<ref name="raffi-newyorker">{{cite news|last1=Khatchadourian|first1=Raffi|title=The Doomsday Invention|url=http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom|accessdate=17 March 2017|work=The New Yorker}}</ref> which he defines as one in which an "adverse outcome would either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential." In the 2008 volume ''[[Global Catastrophic Risks (book)|Global Catastrophic Risks]]'', editors Bostrom and Milan Ćirković characterize the relation between existential risk and the broader class of global catastrophic risks, and link existential risk to [[Selection bias#Observer selection|observer selection effects]]<ref>{{cite journal |first1=Max |last1=Tegmark |authorlink=Max Tegmark |first2=Nick |last2=Bostrom |title=Astrophysics: is a doomsday catastrophe likely? |journal=Nature |volume=438 |issue=7069 |pages=754 |year=2005 |doi=10.1038/438754a |url=http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0019/5923/How_Unlikely_is_a_Doomsday_Catastrophe_plus_Supplementary_Materials.pdf |format=PDF |pmid=16341005}}</ref> and the [[Fermi paradox]].<ref>{{cite journal |first=Nick |last=Bostrom |title=Where are they? Why I Hope the Search for Extraterrestrial Life Finds Nothing |journal=MIT Technology Review |pages=72–77|date=May–June 2008 |url=http://www.nickbostrom.com/extraterrestrial.pdf |format=PDF}}</ref><ref name="NYT-20150803">{{cite news|last=Overbye|first=Dennis|authorlink=Dennis Overbye|title=The Flip Side of Optimism About Life on Other Planets|url=https://www.nytimes.com/2015/08/04/science/space/the-flip-side-of-optimism-about-life-on-other-planets.html|date=August 3, 2015|work=[[The New York Times]]|accessdate=October 29, 2015 }}</ref> 
+
+In 2005, Bostrom founded the [[Future of Humanity Institute]],<ref name=newyorker /> which researches the far future of human civilization. He is also an adviser to the [[Centre for the Study of Existential Risk]].<ref name=Andersen />
+
+===Superintelligence===
+{{Main|Existential risk from artificial general intelligence}}
+
+In his 2014 book ''[[Superintelligence: Paths, Dangers, Strategies]]'', Bostrom reasoned that with "the creation of a superintelligent being represents a possible means to the extinction of mankind", and "there are actions that can be taken to reduce this risk," such as "the creation of a ‘friendly’ superintelligent being."<ref name="superintelligence-review-thorn">{{cite journal|last1=Thorn|first1=Paul D.|title=Nick Bostrom: Superintelligence: Paths, Dangers, Strategies|journal=Minds and Machines|date=1 January 2015|volume=25|issue=3|pages=285–289|url=https://philpapers.org/rec/THONBS|accessdate=17 March 2017}}</ref> In January 2015, Bostrom joined [[Stephen Hawking]] among others in signing the [[Future of Life Institute]]'s open letter warning of the potential dangers of AI.<ref name="loos-fli-letter">{{cite news|last1=Loos|first1=Robert|title=Artificial Intelligence and The Future of Life|url=http://www.roboticstoday.com/news/open-letter-from-the-future-of-life-3103|accessdate=17 March 2017|work=Robotics Today|date=23 January 2015|language=en-us}}</ref> The signatories "...believe that research on how to make AI systems robust and beneficial is both important and timely, and that concrete research should be pursued today."<ref>{{cite web|url=http://futureoflife.org/misc/open_letter|title=The Future of Life Institute Open Letter|publisher= The Future of Life Institute |accessdate=4 March 2015}}</ref>
+
+===Anthropic reasoning===
+Bostrom has published numerous articles on [[Anthropic principle|anthropic reasoning]], as well as the book ''[[Anthropic Bias: Observation Selection Effects in Science and Philosophy]]''. In the book, he criticizes previous formulations of the anthropic principle, including those of [[Brandon Carter]], [[John A. Leslie|John Leslie]], [[John D. Barrow|John Barrow]], and [[Frank J. Tipler|Frank Tipler]].<ref>{{cite book|last1=Bostrom|first1=Nick|title=Anthropic Bias: Observation Selection Effects in Science and Philosophy|date=2002|publisher=Routledge|location=New York|isbn=0-415-93858-9|pages=44–58|url=http://www.anthropic-principle.com/sites/anthropic-principle.com/files/pdfs/anthropicbias.pdf|accessdate=22 July 2014}}</ref>
+
+Bostrom believes that the mishandling of [[indexical information]] is a common flaw in many areas of inquiry (including cosmology, philosophy, evolution theory, game theory, and quantum physics). He argues that a theory of anthropics is needed to deal with these. He introduced the [[Self-Sampling Assumption]] (SSA) and the [[Self-Indication Assumption]] (SIA) and showed how they lead to different conclusions in a number of cases. He pointed out that each is affected by paradoxes or counterintuitive implications in certain thought experiments (the SSA in e.g. the Doomsday argument; the SIA in the Presumptuous Philosopher thought experiment). He suggested that a way forward may involve extending SSA into the Strong Self-Sampling Assumption (SSSA), which replaces "observers" in the SSA definition by "observer-moments". This could allow for the reference class to be relativized (and he derived an expression for this in the "observation equation").
+
+In later work, he has described the phenomenon of ''anthropic shadow'', an observation selection effect that prevents observers from observing certain kinds of catastrophes in their recent geological and evolutionary past.<ref>{{cite web|url=http://www.nickbostrom.com/papers/anthropicshadow.pdf|format=PDF|publisher=Nickbostrom.com|title=Anthropic Shadow: Observation Selection Effects and Human Extinction Risks|accessdate=16 October 2014}}</ref> Catastrophe types that lie in the anthropic shadow are likely to be underestimated unless statistical corrections are made.
+
+===Simulation argument===
+{{main article|Simulation hypothesis}}
+
+Bostrom's simulation argument posits that at least one of the following statements is very likely to be true:<ref>{{cite web |last=Bostrom |first=Nick|title=Are You Living in a Computer Simulation? |date=19 January 2010 |work= |publisher= |url=http://www.simulation-argument.com/simulation.html}}</ref><ref name="nesbit-simulation-editorial">{{cite news|last1=Nesbit|first1=Jeff|title=Proof Of The Simulation Argument|url=https://www.usnews.com/news/blogs/at-the-edge/2012/12/17/proof-of-the-simulation-argument|accessdate=17 March 2017|work=US News}}</ref>
+	 
+# The fraction of human-level civilizations that reach a posthuman stage is very close to zero;
+# The fraction of posthuman civilizations that are interested in running ancestor-simulations is very close to zero;
+# The fraction of all people with our kind of experiences that are living in a simulation is very close to one.
+
+The idea has influenced the views of [[Elon Musk]].<ref name="rothman-newyorker">{{cite news|last1=Rothman|first1=Joshua|title=What Are the Odds We Are Living in a Computer Simulation?|url=http://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation|accessdate=17 March 2017|work=The New Yorker|date=9 June 2016}}</ref>
+
+===Ethics of human enhancement===
+Bostrom is favorable towards "human enhancement", or "self-improvement and human perfectibility through the ethical application of science",<ref name="Guardian2006" /><ref>{{cite journal |first=Nick |last=Bostrom|title=Human Genetic Enhancements: A Transhumanist Perspective |journal=Journal of Value Inquiry |volume=37 |issue=4 |pages=493–506 |year=2003 |doi=10.1023/B:INQU.0000019037.67783.d5 |url=http://cyber.law.harvard.edu/cyberlaw2005/sites/cyberlaw2005/images/Transhumanist_Perspective.pdf |format=PDF}}</ref> as well as a critic of bio-conservative views.<ref>{{cite journal |first=Nick |last=Bostrom |title=In Defence of Posthuman Dignity |journal=Bioethics |volume=19 |issue=3 |pages=202–214 |year=2005 |doi=10.1111/j.1467-8519.2005.00437.x |pmid=16167401}}</ref>
+
+In 1998, Bostrom co-founded (with [[David Pearce (philosopher)|David Pearce]]) the World [[Transhumanism|Transhumanist]] Association<ref name="Guardian2006">{{cite news |first=John |last=Sutherland |title=The ideas interview: Nick Bostrom; John Sutherland meets a transhumanist who wrestles with the ethics of technologically enhanced human beings |newspaper=[[The Guardian]] | date=9 May 2006 |url=https://www.theguardian.com/science/2006/may/09/academicexperts.genetics}}</ref> (which has since changed its name to [[Humanity+]]). In 2004, he co-founded (with [[James Hughes (sociologist)|James Hughes]]) the [[Institute for Ethics and Emerging Technologies]], although he is no longer involved in either of these organisations. Bostrom was named in ''[[Foreign Policy]]''{{'}}s 2009 list of top global thinkers "for accepting no limits on human potential."<ref>{{cite web|title=The FP Top 100 Global Thinkers – 73. Nick Bostrom|date=December 2009|work=[[Foreign Policy]]|url=https://foreignpolicy.com/articles/2009/11/30/the_fp_top_100_global_thinkers?page=0,30}}</ref>
+
+With philosopher [[Toby Ord]], he proposed the [[reversal test]]. Given humans' irrational status quo bias, how can one distinguish between valid criticisms of proposed changes in a human trait and criticisms merely motivated by resistance to change? The reversal test attempts to do this by asking whether it would be a good thing if the trait was altered in the opposite direction.<ref>{{cite journal |first1=Nick |last1=Bostrom |first2=Toby |last2=Ord |title=The reversal test: eliminating status quo bias in applied ethics |journal=Ethics |volume=116 |issue=4 |pages=656–679 |year=2006 |url=http://www.nickbostrom.com/ethics/statusquo.pdf |format=PDF |doi=10.1086/505233}}</ref>
+
+===Technology strategy===
+{{see also|Differential technological development}}
+He has suggested that technology policy aimed at reducing existential risk should seek to influence the order in which various technological capabilities are attained, proposing the principle of [[differential technological development]]. This principle states that we ought to retard the development of dangerous technologies, particularly ones that raise the level of existential risk, and accelerate the development of beneficial technologies, particularly those that protect against the existential risks posed by nature or by other technologies.<ref name="Bostrom 2002">{{cite journal
+|    author = Bostrom, Nick|    author-link = Nick Bostrom
+|    title = Existential Risks: Analyzing Human Extinction Scenarios
+|    year = 2002 
+|      url = http://www.nickbostrom.com/existential/risks.html
+|    accessdate=}} 9 Journal of Evolution and Technology [http://jetpress.org/volume9/risks.html Jetpress] [http://ora.ox.ac.uk/objects/ora:1665 ORA]</ref><ref>{{cite book |last=Bostrom |first=Nick |date=2014 |title=Superintelligence: Paths, Dangers, Strategies |location=Oxford |publisher=Oxford University Press |pages=229–237 |isbn=0199678111}}</ref>
+
+==Policy and consultations==
+	 
+Bostrom has provided policy advice and consulted for an extensive range of governments and organisations. He gave evidence to the [[House of Lords]], Select Committee on Digital Skills.<ref name="consultation-parliament">{{cite web|title=Digital Skills Committee - timeline|url=http://www.parliament.uk/business/committees/committees-a-z/lords-select/digital-skills-committee/timeline/|website=UK Parliament|accessdate=17 March 2017|language=en}}</ref> He is an advisory board member for the [[Machine Intelligence Research Institute]],<ref name="MIRI-team">{{cite web|title=Team - Machine Intelligence Research Institute|url=https://intelligence.org/team/#advisors|website=Machine Intelligence Research Institute|accessdate=17 March 2017}}</ref> [[Future of Life Institute]],<ref name="FLI-team">{{cite web|title=Team - Future of Life Institute|url=https://futureoflife.org/team/|website=Future of Life Institute|accessdate=17 March 2017}}</ref> [[Foundational Questions Institute]]<ref name="FQXI-team">{{cite web|title=FQXi - Foundational Questions Institute|url=http://fqxi.org/who|website=fqxi.org|accessdate=17 March 2017}}</ref> and an external advisor for the Cambridge [[Centre for the Study of Existential Risk]].<ref>{{cite web|url=http://www.nickbostrom.com/cv.html|title=nickbostrom.com|publisher=Nickbostrom.com|accessdate=19 February 2015}}</ref><ref name="newrepublic">{{cite web|last1=McBain|first1=Sophie|title=Apocalypse Soon: Meet The Scientists Preparing For the End Times|url=https://newrepublic.com/article/119697/scientists-preparing-apocalypse|website=New Republic|accessdate=17 March 2017|date=4 October 2014}}</ref>
+
+==Bibliography==
+
+===Books===
+* 2002 – ''[[Anthropic Bias: Observation Selection Effects in Science and Philosophy]]'', {{ISBN|0-415-93858-9}}
+* 2009 – ''[[Human Enhancement (book)|Human Enhancement]]'', edited by Bostrom and [[Julian Savulescu]], {{ISBN|0-19-929972-2}}
+* 2011 – ''[[Global Catastrophic Risks (book)|Global Catastrophic Risks]]'', edited by Bostrom and Milan M. Ćirković, {{ISBN|978-0-19-857050-9}}
+* 2014 – ''[[Superintelligence: Paths, Dangers, Strategies]]'', {{ISBN|978-0-19-967811-2}}
+
+===Journal articles (selected)===
+* {{cite journal |first=Nick |last=Bostrom |title=HOW LONG BEFORE SUPERINTELLIGENCE?  |journal=Journal of Future Studies|volume=2 |issue= |year=1998 |pages= |url=http://www.nickbostrom.com/superintelligence.html |doi= |jstor=}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Doomsday Argument is Alive and Kicking |journal=Mind |volume=108 |issue=431 |year=1999 |pages=539–550 |url=http://www.anthropic-principle.com/preprints/ali/alive.html |doi=10.1093/mind/108.431.539 |jstor=2660095}}
+* {{cite journal |first=Nick |last=Bostrom |title=Observer-relative chances in anthropic reasoning? |journal=Erkenntnis |volume=52 |date=January 2000 |pages=93–108 |url=http://www.anthropic-principle.com/preprints/rel/relative.html |doi=10.1023/A:1005551304409 |jstor=20012969 |issue=1|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Doomsday Argument, Adam & Eve, UN++, and Quantum Joe |journal=Synthese |volume=127 |issue=3 |date=June 2001 |pages=359–387 |url=http://www.anthropic-principle.com/preprints/cau/paradoxes.html |doi=10.1023/A:1010350925053 |jstor=20141195|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Meta-Newcomb Problem |journal=Analysis |volume=61 |issue=4 |date=October 2001 |pages=309–310 |url=http://www.nickbostrom.com/papers/newcomb.html |doi=10.1111/1467-8284.00310 |jstor=3329010|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards |journal=Journal of Evolution and Technology |volume=9 |issue=1 |date=March 2002 |url=http://www.nickbostrom.com/existential/risks.html|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Self-Locating Belief in Big Worlds: Cosmology's Missing Link to Observation |journal=Journal of Philosophy |volume=99 |issue=12 |date=December 2002 |pages=607–623 |url=http://www.anthropic-principle.com/preprints/cos/big.html |jstor=3655771|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Are You Living in a Computer Simulation? |journal=Philosophical Quarterly |volume=53 |issue=211 |date=April 2003 |pages=243–255 |url=http://www.simulation-argument.com/simulation.pdf |doi=10.1111/1467-9213.00309 |jstor=3542867|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Mysteries of Self-Locating Belief and Anthropic Reasoning |journal=Harvard Review of Philosophy |volume=11 |issue=Spring |year=2003 |pages=59–74 |url=http://anthropic-principle.com/preprints/mys/mysteries.pdf|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Astronomical Waste: The Opportunity Cost of Delayed Technological Development |journal=Utilitas |volume=15 |issue=3 |date=November 2003 |pages=308–314 |url=http://www.nickbostrom.com/astronomical/waste.html |doi=10.1017/S0953820800004076|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Fable of the Dragon-Tyrant |journal=J Med Ethics |volume=31 |issue=5 |date=May 2005 |pages=273–277 |url=http://www.nickbostrom.com/fable/dragon.html |doi=10.1136/jme.2004.009035 |pmid=15863685 |pmc=1734155 |jstor=27719395|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=In Defense of Posthuman Dignity |journal=Bioethics |volume=19 |issue=3 |date=June 2005 |pages=202–214 |url=http://www.nickbostrom.com/ethics/dignity.html |doi=10.1111/j.1467-8519.2005.00437.x |pmid=16167401|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Max |last2=Tegmark |title=How Unlikely is a Doomsday Catastrophe? |journal=Nature |volume=438 |date=December 2005 |pages=754 |url=http://arxiv.org/abs/astro-ph/0512204 |doi=10.1038/438754a |pmid=16341005 |issue=7069|author-mask=with}}
+* {{cite journal |first=Nick |last=Bostrom |title=What is a Singleton? |journal=Linguistic and Philosophical Investigations |volume=5 |issue=2 |year=2006 |pages=48–54 |url=http://www.nickbostrom.com/fut/singleton.html|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Quantity of Experience: Brain-Duplication and Degrees of Consciousness |journal=Minds and Machines |volume=16 |issue=2 |date=May 2006 |pages=185–200 |url=http://www.nickbostrom.com/papers/experience.pdf |doi=10.1007/s11023-006-9036-0|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Toby |last2=Ord |title=The Reversal Test: Eliminating Status Quo Bias in Applied Ethics |journal=Ethics |volume=116 |issue=4 |date=July 2006 |pages=656–680 |url=http://www.nickbostrom.com/ethics/statusquo.pdf |doi=10.1086/505233|author-mask=with}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Anders |last2=Sandberg |title=Converging Cognitive Enhancements |journal=Annals of the New York Academy of Sciences |volume=1093 |date=December 2006 |pages=201–207 |url=http://www.nickbostrom.com/papers/converging.pdf |doi=10.1196/annals.1382.015 |issue=1|author-mask=with}}
+* {{cite journal |first=Nick |last=Bostrom |title=Sleeping beauty and self-location: A hybrid model |journal=Synthese |date=July 2007 |volume=157 |pages=59–78 |url=http://www.anthropic-principle.com/preprints/beauty/synthesis.pdf |doi=10.1007/s11229-006-9010-7 |jstor=27653543 |issue=1|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Drugs can be used to treat more than disease |journal=Nature |volume=452 |issue=7178 |date=January 2008 |pages=520 |url=http://www.nickbostrom.com/letters/drugs.pdf |doi=10.1038/451520b|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=The doomsday argument |journal=Think |volume=6 |issue=17–18 |year=2008 |pages=23–28 |doi=10.1017/S1477175600002943|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=Where Are They? Why I hope the search for extraterrestrial life finds nothing |journal=Technology Review |issue=May/June |year=2008 |pages=72–77 |url=http://www.nickbostrom.com/extraterrestrial.pdf|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Anders |last2=Sandberg |title=Cognitive Enhancement: Methods, Ethics, Regulatory Challenges |journal=Science and Engineering Ethics |volume=15 |date=September 2009 |pages=311–341 |url=http://www.nickbostrom.com/cognitive.pdf |doi=10.1007/s11948-009-9142-5 |pmid=19543814 |issue=3|author-mask=with}}
+* {{cite journal |first=Nick |last=Bostrom |title=Pascal's Mugging |journal=Analysis |volume=69 |issue=3 |year=2009 |pages=443–445 |url=http://www.nickbostrom.com/papers/pascal.pdf |doi=10.1093/analys/anp062 |jstor=40607655|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Milan |last2=Ćirković |first3=Anders |last3=Sandberg |title=Anthropic Shadow: Observation Selection Effects and Human Extinction Risks |journal=Risk Analysis |volume=30 |issue=10 |year=2010 |pages=1495–1506 |url=http://www.nickbostrom.com/papers/anthropicshadow.pdf |doi=10.1111/j.1539-6924.2010.01460.x|author-mask=with}}
+* {{cite journal |first=Nick |last=Bostrom |title=Information Hazards: A Typology of Potential Harms from Knowledge |journal=Review of Contemporary Philosophy |volume=10 |year=2011 |pages=44–79 |url=http://www.nickbostrom.com/information-hazards.pdf|author-mask=1}}
+* {{cite journal |first=Nick |last=Bostrom |title=THE ETHICS OF ARTIFICIAL INTELLIGENCE |journal=Cambridge Handbook of Artificial Intelligence |volume= |year=2011 |pages= |url=http://www.nickbostrom.com/ethics/artificial-intelligence.pdf}}
+* {{cite journal |first=Nick |last=Bostrom |title=Infinite Ethics |journal=Analysis and Metaphysics |volume=10 |year=2011 |pages=9–59 |url=http://www.nickbostrom.com/ethics/infinite.pdf}}
+* {{cite journal |first=Nick |last=Bostrom |title=The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents |journal=Minds and Machines |volume=22 |date=May 2012 |pages=71–84 |url=http://www.nickbostrom.com/superintelligentwill.pdf |doi=10.1007/s11023-012-9281-3 |issue=2|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Carl |last2=Shulman |title=How Hard is AI? Evolutionary Arguments and Selection Effects |journal=J. Consciousness Studies |volume=19 |issue=7–8 |year=2012 |pages=103–130 |url=http://www.nickbostrom.com/aievolution.pdf|author-mask=with}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Stuart |last2=Armstrong |first3=Anders |last3=Sandberg |title=Thinking Inside the Box: Controlling and Using Oracle AI |journal=Minds and Machines |volume=22 |issue=4 |date=November 2012 |pages=299–324 |url=http://www.nickbostrom.com/papers/oracle.pdf |doi=10.1007/s11023-012-9282-2|author-mask=with}}
+* {{cite journal |first=Nick |last=Bostrom |title=Existential Risk Reduction as Global Priority |journal=Global Policy |volume=4 |issue=3 |date=February 2013 |pages=15–31 |url=http://www.existential-risk.org/concept.html |doi=10.1111/1758-5899.12002|author-mask=1}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Carl |last2=Shulman |title=Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer? |journal=Global Policy |volume=5 |issue=1 |date=February 2014 |pages=85–92 |url=http://www.nickbostrom.com/papers/embryo.pdf |doi=10.1111/1758-5899.12123|author-mask=with}}
+* {{cite journal |first1=Nick |last1=Bostrom |first2=Luke |last2=Muehlhauser |title=Why we need friendly AI |journal=Think |volume=13|issue=36 |year=2014 |pages=41–47 |url=http://www.nickbostrom.com/views/whyfriendlyai.pdf |doi=10.1017/S1477175613000316|author-mask=with}}
+
+==See also==
+{{div col|2}}
+* [[Doomsday argument]]
+* [[Dream argument]]
+* [[Effective altruism]]
+* [[Global catastrophic risk]]
+* [[Pascal's mugging]]
+* [[Simulation hypothesis]]
+* [[Simulated reality]]
+{{div col end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{commons category|Nick Bostrom}}
+* [http://www.nickbostrom.com/ Nick Bostrom home page]
+* [https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111 ''Superintelligence: Paths, Dangers, Strategies'']
+* Bostrom's [http://www.anthropic-principle.com/ Anthropic Principle website], containing information about the [[anthropic principle]] and the [[Doomsday argument]].
+* Online copy of book, "Anthropic Bias: Observation Selection Effects in Science and Philosophy" ([http://www.anthropic-principle.com/book/anthropicbias.html HTML], [http://www.anthropic-principle.com/book/anthropicbias.pdf PDF])
+* Bostrom's [http://www.simulation-argument.com/ Simulation Argument website]
+* Bostrom's [http://www.existential-risk.org/ Existential Risk website]
+* {{IMDb name|1580947}}
+* {{Triangulation|177|Nick Bostrom}}
+* {{TED speaker}}
+* [https://www.hottopics.ht/stories/lists/10-global-thinkers-concerned-with-the-ethics-of-ai/ The 10 gatekeepers of humanity against the risks of AI], ''Hot Topics 2015''
+* [https://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/ The A.I. anxiety] ''[[The Washington Post]]'', ''December 27, 2015''.
+
+{{Future of Humanity Institute}}
+{{Existential risk from artificial intelligence}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bostrom, Nick}}
+[[Category:Nick Bostrom| ]]
+[[Category:1973 births]]
+[[Category:Consequentialists]]
+[[Category:Living people]]
+[[Category:University of Gothenburg alumni]]
+[[Category:Alumni of King's College London]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:21st-century philosophers]]
+[[Category:Swedish philosophers]]
+[[Category:Ethicists]]
+[[Category:Fellows of St Cross College, Oxford]]
+[[Category:Swedish expatriates in the United Kingdom]]
+[[Category:People from Helsingborg]]
+[[Category:British transhumanists]]
+[[Category:Swedish transhumanists]]
+[[Category:Swedish computer scientists]]
+[[Category:Swedish roboticists]]
+[[Category:Futurologists]]

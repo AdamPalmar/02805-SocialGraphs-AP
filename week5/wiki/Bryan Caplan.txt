@@ -1,0 +1,86 @@
+{{Use mdy dates|date=December 2011}}
+{{Infobox economist
+ <!-- Scroll down to edit this page -->
+ <!-- Economist Category -->
+ | school_tradition = [[Public choice theory|Public Choice school]]
+ | color            = 
+ <!-- Image -->
+ | image      =  [[File:BryanCaplan.jpg|175px]]
+ | caption    =
+ <!-- Information -->
+ | name             = Bryan Caplan
+ | birth_date       = {{Birth date and age|1971|4|8}}
+ | birth_place      = [[Northridge, California]], United states
+ | death_date       =
+ | death_place      =
+ | nationality      = United States
+ | field            = [[Economics]]
+ | influences       = [[David D. Friedman]], [[Michael Huemer]], [[Murray Rothbard]], [[Michael Spence]], [[Julian Simon]], [[Ludwig von Mises]], [[Ayn Rand]]<ref>{{cite web|url=http://econfaculty.gmu.edu/bcaplan/whyaust.htm|title=Why I Am Not an Austrian Economist|website=Econfaculty.gmu.edu|accessdate=2016-02-04}}</ref>
+ | influenced       =
+ | contributions    = [[Rational irrationality]]<br>Ideological Turing test
+| website = {{URL|http://bcaplan.com}}
+| repec_prefix = f | repec_id = pca389
+}}
+
+'''Bryan Douglas Caplan''' (born April 8, 1971) is an American economist. Caplan is a professor of economics at [[George Mason University]], research fellow at the [[Mercatus Center]], adjunct scholar at the [[Cato Institute]], and frequent contributor to [[Freakonomics]]<ref>http://freakonomics.com/tag/bryan-caplan/</ref> as well as publishing his own blog, EconLog. He is a self-publicized economic [[Libertarianism|libertarian]].<ref name="i.chose.liberty">{{cite book|last1=Block|first1=Walter|title=I Chose Liberty: Autobiographies of Contemporary Libertarians|date=2010|publisher=Ludwig von Mises Institute|isbn=9781610162708|pages=429}}{{rp|73}}</ref><ref>{{cite news|last1=Hatlestad|first1=Luc|title=Is Anarchy the Solution to Our Political Problems?|url=http://www.5280.com/digital/2016/08/anarchy-solution-our-political-problems|accessdate=29 September 2016|publisher=[[5280]]|date=19 Aug 2016}}</ref> The bulk of Caplan's academic work is in [[public economics]], especially [[public choice theory]].<ref>{{cite news|last1=Menand|first1=Louis|title=Fractured Franchise|url=http://www.newyorker.com/magazine/2007/07/09/fractured-franchise|accessdate=29 September 2016|work=[[The New Yorker]]|publisher=[[Conde Nast]]|date=9 Jul 2007}}</ref>
+
+==Education==
+Caplan holds a B.A. in economics from the [[University of California, Berkeley]], and a Ph.D. in economics from [[Princeton University]]. His thesis is titled "Three essays on the economics of government behavior."
+
+==Books==
+
+===''The Myth of the Rational Voter''===
+''[[The Myth of the Rational Voter]]: Why Democracies Choose Bad Policies'', published 
+in 2007, further develops the "rational irrationality" concept from Caplan's earlier academic writing. It draws heavily from the ''Survey of Americans and Economists on the Economy'' in making the argument that voters have systematically biased beliefs about many important economic topics. Caplan writes that [[rational irrationality]] is an explanation for the failure of democracy.<ref>{{cite news|last1=Block|first1=Walter|title=Review of "The Myth of the Rational Voter"|url=https://www.psychologytoday.com/blog/defending-the-undefendable/201112/review-the-myth-the-rational-voter|accessdate=29 September 2016|work=Psychology Today|publisher=Sussex|date=Dec 25, 2011|ref=PsychToday}}</ref> The book was reviewed in the popular press, including the ''[[Wall Street Journal]]'',<ref>{{cite news|url=https://www.wsj.com/articles/SB118401997995161399|title = Casting a Ballot With A Certain Cast of Mind|last = Casse|first = Daniel|date = 2007-07-10|accessdate = 2013-09-29|publisher = ''[[Wall Street Journal]]''}}</ref> the ''[[New York Times]]'',<ref>{{cite news|url=https://www.nytimes.com/2007/05/27/magazine/27wwln-idealab-t.html?_r=0|title = Clueless|last = Bass|first = Gary J.|date = 2007-05-27|publisher = ''[[New York Times]]''|accessdate = 2013-09-29}}</ref> and the ''[[The New Yorker|New Yorker]]'',<ref>{{cite web|url=http://www.newyorker.com/arts/critics/books/2007/07/09/070709crbo_books_menand|title = Fractured Franchise: Are the wrong people voting?|last = Menand|first = Louis|date = 2007-07-09|publisher = ''[[The New Yorker|New Yorker]]''|accessdate = 2013-09-29}}</ref> as well as in academic publications such as the ''[[Journal of Libertarian Studies]]'',<ref>{{cite web|url=https://mises.org/journals/jls/22_1/22_1_35.pdf|title = ''The Myth of the Rational Voter'' (book review)|last = Block|first = Walter|publisher = ''[[Journal of Libertarian Studies]]'', Vol. 22 (2011), Page 689-718|accessdate = 2013-09-29}}</ref> ''[[Public Choice]]'',<ref name=LomaskyReview>{{cite journal|url=http://www.springerlink.com/content/k6396012k8647800/|title = Swing and a myth: a review of Caplan’s ''The Myth of the Rational Voter''|last = Lomasky|first = Loren|date = June 2008|accessdate = 2013-09-29|doi=10.1007/s11127-007-9273-7|volume=135|issue=3-4|journal=Public Choice|pages=469–484}}</ref> ''[[Libertarian Papers]]'',<ref>{{cite web|url=http://libertarianpapers.org/articles/2010/lp-2-28.pdf|title = Critique of Caplan's ''The Myth of the Rational Voter''|last = Farrand|first = Stuart|year = 2010|publisher = ''[[Libertarian Papers]]'', Vol. 2, Article No. 28|accessdate = 2013-09-29}}</ref> and ''[[The Independent Review]]''.<ref>{{cite web|url=http://www.independent.org/publications/tir/article.asp?a=723|title = The Myth of the Rational Voter: Why Democracies Choose Bad Policies (book review)|last = Callahan|first = Gene|date = Winter 2009|accessdate = 2013-09-29|publisher = ''[[The Independent Review]]''}}</ref> It received a scathing critique by Rupert Read in the ''[[European Review]]''.<ref name=Read2010>{{cite journal|last1=Read|first1=Rupert|title=Economist-kings? A Critical Notice on Caplan, The Myth of the Rational Voter: Why Democracies Choose Bad Policies|journal=European Review|date=14 December 2010|volume=19|issue=01|pages=119–129|doi=10.1017/S1062798710000426|url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7933788&fileId=S1062798710000426|publisher=Cambridge University Press.|quote=Caplan’s The Myth of the Rational Voter: Why Democracies Choose Bad Policies has been received by rave reviews. These reviews appear to have failed to note that Caplan’s book celebrates the market and denigrates democracy at the very time when markets worldwide have failed and democracies have ridden to the rescue. It thus appears to have been undermined fatally by events that occurred as it was published (and which Caplan artfully omits to mention in the more recent paperback edition). Caplan’s book in fact stands in the long tradition of anti-democratic writings that argue that an elite must rule. An elite of free-market economists. An elite no longer in good odour, since the financial crisis (and the climate crisis) occurred and became starkly evident to all. This Critical Notice also points out that numerous of Caplan’s key claims, such as that individual voters have zero effect on election results, are empirically false.}}</ref>
+
+===''Selfish Reasons to Have More Kids''===
+''[[Selfish Reasons to Have More Kids]]'' is a 2011 book arguing that people often work too hard in child-rearing, and as a result, they are scared of the idea of having kids. Caplan's book urged parents to relax with respect to child-rearing. The book argues that as the perceived costs (in terms of child-rearing expense and effort) of having kids fell, it made sense to have more kids based on the basic theory of supply and demand.<ref name="parenting.harder">{{cite news|last1=Davis|first1=Tanika|title=Are parents making parenting harder than it has to be?|url=http://www.baltimoresun.com/features/maryland-family/bs-lt-tanika-davis-family-1018-20151012-story.html|accessdate=29 September 2016|publisher=Baltimore Sun|date=15 Oct 2015}}</ref> The book was reviewed in ''[[Wall Street Journal]]''.<ref>{{cite news|url=https://www.wsj.com/articles/SB10001424052748703806304576242661295724864|title = Go Ahead, Have Another|last = Last|first = Jonathan|date = 2011-04-16|accessdate = 2013-09-29|publisher = ''[[Wall Street Journal]]''}}</ref> The book was also reviewed by ''[[The Guardian]]'',<ref>{{cite web|url=https://www.theguardian.com/lifeandstyle/2011/may/15/parenting-less-fuss-more-fun|title = Parenting guru Bryan Caplan prescribes less fuss – and more fun|last = McVeigh|first = Tracy|publisher = ''[[The Guardian]]''|date = 2011-05-15|accessdate = 2013-09-29}}</ref> [[RealClearMarkets]]<ref>{{cite web|url=http://www.realclearmarkets.com/articles/2011/08/04/book_review_bryan_caplans_selfish_reasons_to_have_more_kids_99162.html|title = Book Review: Bryan Caplan's Selfish Reasons To Have More Kids|last = Tamny|first = John|publisher = ''[[RealClearMarkets]]''|date = 2011-08-04|accessdate = 2013-09-29}}</ref> and the ''[[Washington Times]]''.<ref>{{cite web|url=http://www.washingtontimes.com/news/2011/may/4/go-and-multiply-without-guilt/|title = Go and Multiply, Without Guilt|last = Russell|first = Nicole|date = 2011-05-04|accessdate = 2013-09-29|publisher = ''[[Washington Times]]''}}</ref> The book also led to debates sponsored by the ''[[Wall Street Journal]]''<ref name=carroll-wilkinson-wsj-debate>{{cite news|url=https://blogs.wsj.com/ideas-market/2011/04/14/live-chat-should-you-have-more-kids/|title = Live Chat: Should You Have More Kids?|date = 2011-04-14|accessdate = 2015-06-20|publisher = ''[[The Guardian]]''}}</ref> and ''[[The Guardian]]''.<ref name=caplan-chua-guardian-debate/> ''[[The Guardian]]'' had Caplan debating "Tiger Mom" [[Amy Chua]] on the merits of strict [[parenting|parenting style]].<ref name=caplan-chua-guardian-debate>{{cite web|url=https://www.theguardian.com/commentisfree/cifamerica/2011/jun/11/conversation-strict-parenting-amy-chua|title = Is strict parenting better for children?|last = Saner|first = Emine|date = 2011-06-11|accessdate = 2013-09-18|publisher = ''[[The Guardian]]''}}</ref> The book was also featured in a story on [[National Public Radio]].<ref>{{cite news|last1=Inskeep|first1=Steve|author2=David Greene|author3=Renee Montagne|title='Selfish Reasons' For Parents To Enjoy Having Kids|url=http://www.npr.org/2011/04/22/135612560/selfish-reasons-for-parents-to-enjoy-having-kids|accessdate=29 September 2016|work=[[Morning Edition]]|publisher=National Public Radio|date=22 Apr 2011}}</ref>
+
+==Views==
+
+===Open borders===
+Caplan was cited as one of the leading proponents of the [[open border]]s position in an article in ''[[The Atlantic]]'' by Shaun Raviv.<ref>{{cite web|url=https://www.theatlantic.com/international/archive/2013/04/if-people-could-immigrate-anywhere-would-poverty-be-eliminated/275332/|title = If People Could Immigrate Anywhere, Would Poverty Be Eliminated?|last = Raviv|first = Shaun|date = 2013-04-26|accessdate = 2013-09-27|publisher = ''[[The Atlantic]]''}}</ref> He has also been quoted in other mainstream press pieces on immigration in outlets such as the ''[[Huffington Post]]''<ref>{{cite news|url=http://www.huffingtonpost.com/steve-roberson/immigrants-the-once-and-f_b_2836504.html|title = Immigrants - The Once, and Future, Story of Jobs|last = Roberson|first = Steve|publisher = ''[[Huffington Post]]''|date = 2013-03-08|accessdate = 2013-09-28}}</ref> and ''[[Time Magazine]]''.<ref>{{cite news|url=http://business.time.com/2013/01/30/the-economics-of-immigration-who-wins-who-loses-and-why/|title = The Economics of Immigration: Who Wins, Who Loses and Why|last = Matthews|first = Chris|date = 2013-01-30|accessdate = 2013-09-28|publisher = ''[[Time Magazine]]''}}</ref>
+
+===Anarcho-capitalism===
+Caplan's anarcho-capitalist views were discussed by [[Brian Doherty (journalist)|Brian Doherty]] in his book ''[[Radicals for Capitalism]]'' and in ''[[Reason (magazine)|Reason]]'' magazine.<ref>{{cite web|url=http://reason.com/blog/2013/04/03/anarcho-capitalism-so-crazy-it-just-migh|title = Anarcho-Capitalism: So Crazy, It Just Might Work!|last = Doherty|first = Brian|date = 2013-04-03|accessdate = 2013-09-28|publisher = ''Hit and Run ([[Reason Magazine|Reason]] blog)''}}</ref> One frequent criticism of Caplan is an accusation that he has engaged in [[historical negationism]] by claiming that anarcho-capitalists have a better claim on the [[history of anarchism|history of anarchist thought]] than mainstream [[libertarian socialism|left-anarchists]].<ref>{{cite web|url=http://www.spunk.org/texts/intro/faq/sp001547/append1.html|title = Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2|publisher = Spunk Library|accessdate = 2013-09-28}}</ref><ref>{{cite web|url =http://www.infoshop.org/faq/append1.pdf|title =Appendix : Anarchism and "anarcho"-capitalism|deadurl =yes|archiveurl =https://web.archive.org/web/20130702025618/http://www.infoshop.org/faq/append1.pdf|archivedate =July 2, 2013|df =mdy-all}}</ref>
+
+===Ayn Rand and Objectivism===
+After having long shed a youthful infatuation with the works of [[Russian American]] writer [[Ayn Rand]] and her philosophical system of [[Objectivism (Ayn Rand)|Objectivism]], in 2004 Caplan wrote in his essay 'An Intellectual Biography', "I rejected Christianity because I determined that it was, to be blunt, [[anti-Christian sentiment|idiotic]]. I rejected Objectivism and Austrianism, in contrast, as mixtures of deep truths and unfortunate mistakes. Let me begin with the deep truths. The Objectivists were right to insist that [[philosophical realism|reality is objective]], human reason [[direct realism|able to grasp it]], and [[skepticism|scepticism]] without merit. They correctly hold that humans have [[libertarianism (metaphysics)|free will]], [[moral universalism|morality is objective]], and the pursuit of [[self-interest]] typically [[ethical egoism|morally right]]."<ref name="Walter">{{cite book|author=Block, Walter|title=I Chose Liberty: Autobiographies of Contemporary Libertarians|url=https://books.google.com/books?id=nONs9lus-zgC&pg=PT85|publisher=Ludwig von Mises Institute|isbn=978-1-61016-270-8|page=85}}</ref>
+
+In his essay, "''Atlas Shrugged'' and Public Choice: The Obvious Parallels", Caplan
+lauds Ayn Rand's ''[[Atlas Shrugged]]'' as making "an important contribution to social science."<ref name="Younkins2012">{{cite book|author=Professor Edward W Younkins|title=Ayn Rand's Atlas Shrugged: A Philosophical and Literary Companion|url=https://books.google.com/books?id=p9MmnATOORwC&pg=PA303|date=1 October 2012|publisher=Ashgate Publishing, Ltd.|isbn=978-1-4094-8528-5|page=303}}</ref>
+
+==Personal life==
+He is married to Corinna, with four children, and resides in [[Oakton, Virginia]].<ref>{{cite news|last1=Rich|first1=Motoko|title=Who Really Cares How Yuppies Raise Their Kids?|url=https://www.nytimes.com/2011/04/17/weekinreview/17nurture.html?_r=0|accessdate=29 September 2016|work=[[New York Times]]|publisher=The New York Times Company|date=16 Apr 2011}}</ref><ref>http://freakonomics.com/podcast/new-freakonomics-radio-podcast-the-economists-guide-to-parenting/</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.bcaplan.com/ Personal website]
+* [http://econfaculty.gmu.edu/bcaplan/cv.html Curriculum vitae]
+* [http://econfaculty.gmu.edu/bcaplan/ Faculty website]
+* {{cite web |last=Roberts |first=Russ |title=Bryan Caplan Podcasts |url=http://www.econtalk.org/archives/_featuring/bryan_caplan/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |authorlink=Russ Roberts}}
+
+{{Chicago school economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Caplan, Bryan}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:American anarcho-capitalists]]
+[[Category:American atheists]]
+[[Category:American economists]]
+[[Category:American libertarians]]
+[[Category:Anarchist academics]]
+[[Category:Anarcho-pacifists]]
+[[Category:Cato Institute people]]
+[[Category:George Mason University faculty]]
+[[Category:Libertarian economists]]
+[[Category:Natalism]]
+[[Category:People from Northridge, Los Angeles]]
+[[Category:Princeton University alumni]]
+[[Category:Public choice theory]]
+[[Category:University of California, Berkeley alumni]]

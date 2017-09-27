@@ -1,0 +1,81 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{for|the American medical journalist and author|Robert E. Kowalski}}
+{{Infobox scientist
+|image = Robert_Kowalski.jpg <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| name                    = Bob Kowalski
+| birth_date              = {{Birth date and age|df=yes|1941|5|15}}
+| birth_place             = [[Bridgeport, Connecticut|Bridgeport]], Connecticut, US
+| death_date              = 
+| death_place             = 
+| residence               = 
+| citizenship             = Naturalised British Citizen
+| nationality             = British
+| ethnicity               = Polish<ref>http://www.doc.ic.ac.uk/~rak/history.html</ref>
+| field                   = [[Logic]]<br />[[Computer Science]]
+| work_institution        = [[University of Edinburgh]]<br />[[Imperial College London]]
+| alma_mater              = [[University of Chicago]]<br />[[University of Bridgeport]]<br />[[Stanford University]]<br />[[University of Warsaw]]<br />[[University of Edinburgh]]
+| doctoral_advisor        = Bernard Meltzer
+| doctoral_students       = [[David H. D. Warren]]<br />Christopher Hogger<br />[[Keith Clark]]<br />Marek Sergot<br />George Pollard<br />Christopher Moss<br />Fariba Sadri<br />Kave Eshghi<br />Jin-Sang Kim<br />David Frost<br />Suryanarayana Sripada<br />Francis McCabe<br />Francesca Toni<br />Tze Ho Fung<br />Gerhard Wetzel<br />Jacinto Davila<br />Christopher Preist<br />Yongyuth Permpoontanalarp
+| thesis_title = Studies in the Completeness and Efficiency of Theorem-Proving by Resolution
+| thesis_year = 1970
+| thesis_url = http://www.era.lib.ed.ac.uk/handle/1842/6674
+| known_for               = [[Logic programming]]<br>[[Event calculus]]
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes                  = [[IJCAI Award for Research Excellence]] (2011)
+| religion                = 
+| footnotes               = 
+}}
+'''Robert Anthony "Bob" Kowalski''' (born 15 May 1941) is a [[logician]] and [[computer scientist]], who has spent most of his career in the United Kingdom.
+
+==Early life and education==
+He was educated at the [[University of Chicago]], [[University of Bridgeport]] (BA in mathematics, 1963), [[Stanford University]] (MSc in mathematics, 1966), [[University of Warsaw]] and the [[University of Edinburgh]] (PhD in [[computer science]], 1970). 
+
+==Career==
+He was a [[research fellow]] at the [[University of Edinburgh]] (1970–75) and has been at [[Imperial College London]] since 1975, attaining a chair in [[Computational logic]] in 1982 and becoming Emeritus Professor in 1999. He was inducted as a Fellow of the [[American Association for Artificial Intelligence]] in 1991, of the European Co-ordinating Committee for Artificial Intelligence in 1999, and the [[Association for Computing Machinery]] in 2001.
+
+He began his research in the field of [[automated theorem proving]], developing both SL-resolution<ref>Kowalski, R. and Kuehner, D., "Linear Resolution with Selection Function", in Artificial Intelligence, Vol. 2, 1971, pp. 227–260. Reprinted in ''Anthology of Automated Theorem-Proving Papers'', Vol. 2, [[Springer-Verlag]], 1983, pp. 542–577.</ref> with Donald Kuehner and the connection graph proof procedure.<ref>Kowalski, R., "A Proof Procedure Using Connection Graphs", in ''[[Journal of the ACM]]'' Vol. 22, No. 4, 1975, pp. 572–595.</ref> However, he is best known for his contributions to the development of [[logic programming]], starting with the procedural interpretation of [[Horn clauses]].<ref>Kowalski, R., "Predicate Logic as Programming Language", in Proceedings IFIP Congress, Stockholm, North Holland Publishing Co., 1974, pp. 569–574. Reprinted in Computers for Artificial Intelligence Applications, (eds. Wah, B. and Li, G.-J.), [[IEEE Computer Society Press]], Los Angeles, 1986, pp. 68–73.</ref> 
+
+He also developed the minimal model and the fixpoint semantics of Horn clauses with Maarten van Emden.<ref>van Emden, M. and Kowalski, R., "The Semantics of Predicate Logic as a Programming Language", in ''Journal of the ACM'', Vol. 23, No. 4, 1976, pp. 733–742.</ref> With Marek Sergot, he developed both the [[event calculus]]<ref>Kowalski, R. and Sergot, M., "A Logic-based Calculus of Events", in ''[[New Generation Computing]]'', Vol. 4, No. 1, February 1986, pp. 67–95. Also in ''Knowledge Base Management-Systems'', (eds. C. Thanos and J. W. Schmidt), Springer-Verlag, pp. 23–51. Also in The Language of Time: A Reader (eds. Inderjeet Mani, J. Pustejovsky, and R. Gaizauskas). [[Oxford University Press]], 2005.</ref> and the application of logic programming to legal reasoning.<ref>Sergot, M., Sadri, F., Kowalski, R., Kriwaczek, F., Hammond, P., and Cory, T., "The British Nationality Act as a Logic Program", in ''[[Communications of the ACM]]'', Vol. 29, No. 5, 1986, pp. 370–386.</ref><ref>Kowalski, R., "Legislation as Logic Programs", in Logic Programming in Action (eds. G. Comyn, N. E. Fuchs, M. J. Ratcliffe), Springer-Verlag, 1992, pp. 203–230.</ref> With Fariba Sadri, he developed an agent model<ref>Kowalski, R., "Using Metalogic to Reconcile Reactive with Rational Agents". In ''Meta-Logics and Logic Programming'' (K. Apt and F. Turini, eds.), [[MIT Press]], 1995.</ref><ref>Kowalski, R. and Sadri, F., "From Logic Programming towards Multi-agent Systems", ''[[Annals of Mathematics and Artificial Intelligence]]'', Volume 25 (1999), pp. 391–419.</ref> in which beliefs are represented by logic programs and goals are represented by [[integrity constraints]]. 
+
+Kowalski was one of the early developers of [[Abductive Logic Programming]], in which logic programs are augmented with integrity constraints and with undefined, abducible predicates.<ref>Eshghi, K.,and Kowalski, R., "Abduction through deduction". Department of Computing, Imperial College, 1988.</ref><ref>Kakas, T., Kowalski, K. and Toni, F., "Abductive Logic Programming". ''[[Journal of Logic and Computation]]'', 1992, Vol. 2 No. 6, pp. 719–770.</ref> This work led to the demonstration with Phan Minh Dung and Francesca Toni that most logics for default reasoning can be regarded as special cases of assumption-based [[argumentation]].<ref>Bondarenko, A., Dung, P. M., Kowalski, R., and Toni, F. " An Abstract Argumentation-theoretic Approach to Default Reasoning". ''[[Journal of Artificial Intelligence]]'', 93(1–2), 1997, pp 63–101.</ref><ref>Dung, P. M., Kowalski, R., and Toni, F. "Dialectic proof procedures for assumption-based, admissible argumentation". ''Journal of Artificial Intelligence'', 170(2), February 2006, pp. 114–159.</ref>
+
+==Books==
+* "Logic for Problem Solving", North Holland, Elsevier, 1979.
+* "Computational Logic and Human Thinking: How to be Artificially Intelligent", Cambridge University Press, 2011.
+
+==See also==
+* [[Prolog]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.doc.ic.ac.uk/~rak/ Robert Kowalski's home page]
+* [http://www.doc.ic.ac.uk/~rak/history.html Biography]
+* [http://www.doc.ic.ac.uk/~rak/CV.pdf Biography] ([[Portable Document Format|PDF]])
+* [http://www.doc.ic.ac.uk/~mjs/publications/BobPortrait.pdf Biographical Essay]
+
+{{Authority control}}
+
+
+{{DEFAULTSORT:Kowalski, Robert}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:American emigrants to England]]
+[[Category:British logicians]]
+[[Category:British computer scientists]]
+[[Category:Academics of Imperial College London]]
+[[Category:People from Bridgeport, Connecticut]]
+[[Category:University of Bridgeport alumni]]
+[[Category:Stanford University alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Warsaw alumni]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Formal methods people]]
+[[Category:Logic programming researchers]]
+[[Category:British philosophers]]
+[[Category:American people of Polish descent]]

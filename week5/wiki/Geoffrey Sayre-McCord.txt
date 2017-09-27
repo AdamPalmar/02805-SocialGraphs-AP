@@ -1,0 +1,91 @@
+{{Infobox person
+|name          = Geoffrey Sayre-McCord
+|image         = Geoffrey Sayre-McCord.jpg
+|image_size    = 200px
+|caption       = 
+|birth_name    = 
+|birth_date    = {{Birth date and age|1956|12|10|mf=y}}
+|birth_place   = [[Boston, Massachusetts|Boston]], [[Massachusetts]]
+|death_date    = 
+|death_place   = 
+|death_cause   = 
+|resting_place = 
+|resting_place_coordinates = 
+|residence     = [[Durham, North Carolina|Durham]], [[North Carolina]]
+|nationality   = [[United States]]
+|other_names   = 
+|known_for     = 
+|education     = BA from [[Oberlin College]] and PhD from the [[University of Pittsburgh]]
+|alma_mater    = 
+|employer      = [[University of North Carolina at Chapel Hill|University of North Carolina]]
+|occupation    = philosopher, professor, author
+|religion      = 
+|spouse        = 
+|partner       = 
+|children      = 
+|parents       = 
+|relations     = 
+|signature     = 
+|website       = http://philosophy.unc.edu/sayre-mccord.htm
+|footnotes     = 
+}}
+
+'''Geoffrey Sayre-McCord''' (né McCord, born December 10, 1956) is a philosopher who works in [[moral theory]], [[meta-ethics]], the history of ethics, and [[epistemology]]. He has written extensively in these areas.  He is known especially for his work on [[moral realism]] and on [[David Hume]]'s moral theory.  He has also written on [[contractualism]]. His ''Essays on Moral Realism'' is widely used in undergraduate and graduate courses on meta-ethics and he was, for five years, a co-editor of the journal ''[[Noûs]]''.     
+Sayre-McCord received his BA from [[Oberlin College]] and his PhD (under the direction of [[David Gauthier]]) from the [[University of Pittsburgh]]. The recipient of several university-wide teaching awards, Sayre-McCord is the Morehead-Cain Alumni Distinguished Professor of Philosophy and Director of the ''Philosophy, Politics, and Economics Program'' at the [[University of North Carolina at Chapel Hill|University of North Carolina]], where he has taught since 1985.
+
+==Publications==
+
+=== Some articles ===
+*"Coherence and Models for Moral Theorizing," ''Pacific Philosophical Quarterly'' (1985)
+*"Deontic Logic and the Priority of Moral Theory," ''Noûs'' (1986)
+*"The Many Moral Realisms," ''Southern Journal of Philosophy'', Spindel Conference Supplement, (1986) 
+*"Moral Theory and Explanatory Impotence," ''Midwest Studies'' (1988)
+*"Deception and Reasons to be Moral," ''American Philosophical Quarterly'', (1989)
+*"Functional Explanations and Reasons as Causes," ''Philosophical Perspectives'' (1990) 
+*"Being a Realist about Relativism," ''Philosophical Studies'' (1991) 
+*"Normative Explanations," ''Philosophical Perspectives'' (1992) 
+*"On Why Hume's General Point of View Isn't Ideal -- and Shouldn't Be," ''Social Philosophy and Policy'' (1994) 
+*"Coherentist Epistemology and Moral Theory," in ''Moral Knowledge?'', ed. by Sinnott-Armstrong and Timmons (1996)
+*"Hume and the Bauhaus Theory of Ethics," ''Midwest Studies'' (1996) 
+*"Hume's Representation Argument Against Rationalism," ''Manuscrito'' (1997)
+*"The Meta-Ethical Problem," ''Ethics'' (1997) 
+*"'Good' on Twin Earth," ''Philosophical Issues'' (1997) 
+*"Contractarianism," ''Blackwell Guide to Ethical Theory'' (1999)
+*"Criminal Justice and Legal Reparations," ''Philosophical Issues'' (2001) 
+*"Mill's 'Proof': A More than Half-Hearted Defense," ''Social Philosophy and Policy'' (2001) 
+*"On the Relevance of Ignorance to the Demands of Morality," ''Rationality, Rules, and Ideals'', ed. by Sinnott-Armstrong (2002) 
+*"Moral Realism," ''Oxford Handbook of Moral Theory'', ed. by Copp (2006)
+*"Moral Semantics and Empirical Enquiry," ''Moral Psychology'', ed. by Sinnott-Armstrong (2008) 
+*"Hume on Practical Morality and Inert Reason," ''Oxford Studies in Metaethics'', ed. by Shafer-Landau (2008)
+*"Sentiments and Spectators: Adam Smith's Theory of Moral Judgment," ''The Philosophy of Adam Smith'', ed. by Brown and Fleischacker (2010)
+
+=== Edited volumes ===
+*''Essays on Moral Realism'' (Cornell University Press, 1988)
+*''Hume: Moral Philosophy'' (Hackett Publishing, 2006)
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==External links==
+*[http://philosophy.unc.edu/people/geoffrey-sayre-mccord/ Geoffrey Sayre-McCord's webpage at UNC-Chapel Hill]
+*[https://sites.google.com/site/sayremccord/ Geoffrey Sayre-McCord's personal webpage]
+*[http://philosophy.unc.edu/neta-publications/sayre-mccord-publications/ Papers available on-line]
+*[http://bloggingheads.tv/videos/1562 Sayre-McCord on Bloggingheads.tv discussing meta-ethics]
+*[http://bloggingheads.tv/diavlogs/11752 Sayre-McCord on Bloggingheads.tv discussing ethics and evolution]
+*{{YouTube|oxXeDFjxRUw|Sayre-McCord lecture on Adam Smith's Moral Theory}}
+*[http://vimeo.com/40432460 Sayre-McCord lecture on The Nature of Normative Concepts]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sayre-McCord, Geoffrey}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American philosophy academics]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Oberlin College alumni]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:Writers from Boston]]
+[[Category:Moral realists]]

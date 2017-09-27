@@ -1,0 +1,169 @@
+{{redirect2|Mo Di|Mo Ti|the posthumous name of some Chinese emperors|Emperor Mo (disambiguation)}}
+{{Other uses}}
+{{chinese name|Mo}}
+{{Infobox philosopher
+|region = Chinese philosophy
+|era = [[Ancient philosophy]]
+|color = #B0C4DE
+|image =Mozi drawing.jpg
+|caption = A line drawing of Mozi
+|alt = A black drawing of Mozi's face on a yellow background
+|name = {{linktext|墨|翟}} ''Mo Di''
+|birth_date = ca. 470 BC
+|death_date = ca. 391 BC
+|school_tradition = Founder of [[Mohism]]
+|main_interests = [[moral philosophy]] and [[ethics]], [[social philosophy|social]] and [[political philosophy]], [[logic]], [[epistemology]]
+|influences =
+|influenced = [[School of Names|Logicians]], [[philosophy]], ancient natural science
+|notable_ideas = [[Mohism]]
+}}
+{{infobox Chinese
+|pic=Mozi (Chinese characters).svg
+|piccap="Mozi" in [[seal script]] (top) and regular (bottom) Chinese characters
+|picsize=125px
+|c=墨子
+|l=Master Mo
+|p=Mòzǐ
+|w=Mo<sup>4</sup>-tzu<sup>3</sup>
+|gr=Mohtzy
+|mi={{IPAc-cmn|m|uo|4|z|^|3}}
+|j=Mak<sup>6</sup> zi<sup>2</sup>
+|wuu=Meʔ tzy
+|y=Mahk-jí
+|tl=Ba̍k-tzú
+|mc=Mok-tsí
+|oc-bs=&#42;C.mˤak tseʔ
+|altname=Mo Di
+|c2=墨翟
+|l2=(personal name)
+|p2=Mò Dí
+|w2=Mo<sup>4</sup> Ti<sup>2</sup>
+|j2=Mak<sup>6</sup> Dik<sup>6</sup>
+|y2=Mahk Dihk
+|poj2=Ba̍k Ti̍k
+|mc2=Mok Dek
+|oc-bs2=&#42;C.mˤak Lˤewk
+}}
+'''Mozi''' ({{zh|c={{linktext|墨|子}}|p=Mòzǐ|w='''Mo Tzu'''}}, [[Latinization (literature)|Lat.]] as '''Micius''',<ref name="micius">{{Cite book|title=A Daoist Theory of Chinese Thought: A Philosophical Interpretation |last=Hansen |first=Chad |p=394 |quote=There was a fleeting movement to introduce use of ''Micius'' for Mozi, whose bones no doubt relaxed when the movement failed. |publisher=[[Oxford University Press]] |year=1992 |isbn=0-19-506729-0}}</ref> ca. 468&nbsp;– ca. 391 BC), original name '''Mo Di''' (墨翟), was a [[Chinese philosophy|Chinese philosopher]] during the [[Hundred Schools of Thought]] period (early [[Warring States period]]).  A book named after him, the [[Mozi (book)|''Mozi'']], contains material ascribed to him and his followers.
+
+Born in what is now [[Tengzhou]], [[Shandong]] Province, he founded the school of [[Mohism]] that argued strongly against [[Confucianism]] and [[Taoism]]. His philosophy emphasized self-restraint, self-reflection and authenticity rather than obedience to ritual. During the [[Warring States period]], Mohism was actively developed and practiced in many states but fell out of favour when the [[Legalism (Chinese philosophy)|legalist]] [[Qin dynasty]] came to power.  During that period, many Mohist classics are by many believed to have been ruined when the emperor [[Qin Shi Huang]] supposedly carried out the [[burning of books and burying of scholars]]. The importance of Mohism further declined when Confucianism became the dominant school of thought during the [[Han Dynasty]], until mostly disappearing by the middle of the [[Western Han dynasty]].<ref>{{cite encyclopedia | last = Fraser | first = Chris | title = Mohism | encyclopedia = "The Stanford Encyclopedia of Philosophy" | year = 2002 | url = http://plato.stanford.edu/archives/win2002/entries/mohism/ }}</ref>
+
+Mozi is known by children throughout [[Chinese culture]] by way of the ''[[Thousand Character Classic]]'', which records that he was saddened when he saw dyeing of pure white silk, which embodied his conception of austerity (simplicity, chastity). For the modern juvenile audience of Chinese speakers, the image of his school and its founder were popularized by the animated TV series ''[[The Legend of Qin (animated TV series)|The Legend of Qin]]''.
+
+==Life==
+[[File:Chinese plain 5c. BC-en.svg|alt=|thumb|Mozi was born in Lu (seen toward the north, with a small coastline along the Yellow Sea) and spent some time as a government minister in Song (a landlocked state to the south of Lu)]]
+Most historians believe that Mozi was a member of the lower artisan class who managed to climb his way to an official post. It is known, however, that his parents were not affectionate towards him and showed him very little love. Mozi was a native of the [[Lu (state)|State of Lu]] (today's Tengzhou, Shandong Province), although for a time he served as a minister in the [[Song (state)|State of Song]].<ref>{{harvnb|Needham|Wang|1956}} 165.</ref> Like Confucius, Mozi was known to have maintained a school for those who desired to become officials serving in the different ruling courts of the Warring States.<ref>{{harvnb|Needham|Wang|1956}} 165–184.</ref>
+
+Mozi was a carpenter and was extremely skilled in creating devices, designing everything from mechanical birds to wheeled, mobile "cloud ladders" used to besiege city walls (see [[Lu Ban]]). Though he did not hold a high official position, Mozi was sought out by various rulers as an expert on [[fortification]]. He was schooled in Confucianism in his early years, but he viewed Confucianism as being too fatalistic and emphasizing too much on elaborate celebrations and funerals which he felt were detrimental to the livelihood and productivity of common people. He managed to attract a large following during his lifetime which rivaled that of Confucius. His followers—mostly technicians and craftspeople—were organized in a disciplined order that studied both Mozi's philosophical and technical writings.
+
+According to some accounts of the popular understanding of Mozi at the time, he had been hailed by many as the greatest hero to come from [[Henan]]. His passion was said to be for the good of the people, without concern for personal gain or even for his own life or death. His tireless contribution to society was praised by many, including Confucius' disciple [[Mencius]]. Mencius wrote in Jinxin ({{zh|c={{linktext|孟|子|盡|心}}|p=Mengzi Jinxin}}) that Mozi believed in love for all mankind. As long as something benefits mankind, Mozi will pursue it even if it means hurting his head or his feet. Zhang Tai Yan said that in terms of moral virtue, even Confucius and Laozi cannot compare to Mozi.
+
+Mozi travelled from one crisis zone to another throughout the ravaged landscape of the Warring States, trying to dissuade rulers from their plans of conquest. According to the chapter "Gongshu" in ''Mozi'', he once walked for ten days to the state of Chu in order to forestall an attack on the state of Song. At the Chu court, Mozi engaged in nine simulated war games with [[Lu Ban|Gongshu Ban]], the chief military strategist of Chu, and overturned each one of his stratagems. When Gongshu Ban threatened him with death, Mozi informed the king that his disciples had already trained the soldiers of Song in his fortification methods, so it would be useless to kill him. The Chu king was forced to call off the war. On the way back, however, the soldiers of Song, not recognizing him, would not allow Mozi to enter their city, and he had to spend a night freezing in the rain. After this episode, he also stopped the state of Qi from attacking the state of Lu. He taught that defense of a city does not depend only on fortification, weaponry and food supply; it is also important to keep talented people close by and to put trust in them.
+
+==Philosophy==
+{{see also|Mozi (book)}}
+[[File:Chongwu city wall.JPG|alt=|thumb|The Mohists were experts at building fortifications and [[siege]]s]]
+Mozi's moral teachings emphasized self-reflection and authenticity rather than obedience to ritual. He observed that we often learn about the world through adversity ("Embracing Scholars" in ''Mozi''). By reflecting on one's own successes and failures, one attains true self-knowledge rather than mere conformity to ritual ("Refining Self" in ''Mozi''). Mozi exhorted people to lead a life of asceticism and self-restraint, renouncing both material and spiritual extravagance.
+
+Like Confucius, Mozi idealized the [[Xia Dynasty]] and the ancients of [[Chinese mythology]], but he criticized the Confucian belief that modern life should be patterned on the ways of the ancients. After all, he pointed out, what we think of as "ancient" was actually innovative in its time, and thus should not be used to hinder present-day innovation ("Against Confucianism, Part 3" in the ''Mozi''). Though Mozi did not believe that history necessarily progresses, as did [[Han Fei Zi]], he shared the latter's critique of [[destiny|fate]] ({{linktext|命}}, ''mìng''). Mozi believed that people were capable of changing their circumstances and directing their own lives. They could do this by applying their senses to observing the world, judging objects and events by their causes, their functions, and their historical bases. ("Against Fate, Part 3") This was the "three-prong method" Mozi recommended for testing the truth or falsehood of statements. His students later expanded on this to form the [[School of Names]].
+
+Mozi tried to replace what he considered to be the long-entrenched Chinese over-attachment to family and [[Chinese clan|clan]] structures with the concept of "impartial caring" or "universal love" ({{linktext|兼|愛}}, ''jiān ài''). In this, he argued directly against Confucians who had argued that it was natural and correct for people to care about different people in different degrees. Mozi, in contrast, argued that people in principle should care for all people equally, a notion that philosophers in other schools found absurd, as they interpreted this notion as implying no special amount of care or duty towards one's parents and family.
+
+Overlooked by those critics, however, is a passage in the chapter on "Self-Cultivation" which states, "When people near-by are not befriended, there is no use endeavoring to attract those at a distance." This point is also precisely articulated by a Mohist in a debate with Mencius (in the Mencius), where the Mohist argues in relation to carrying out universal love, that "We begin with what is near." Also, in the first chapter of the writings of Mozi on universal love, Mozi argues that the best way of being filial to one’s parents is to be filial to the parents of others. The foundational principle is that benevolence, as well as malevolence, is requited, and that one will be treated by others as one treats others. Mozi quotes a popular passage from the ''[[Book of Songs (Chinese)|Book of Odes]]'' to bring home this point: "When one throws to me a peach, I return to him a plum." One’s parents will be treated by others as one treats the parents of others. In pursuing this line of argument, Mozi was directly appealing to the idea of [[enlightened self-interest]] in social relations. Also of note is the fact that Mozi differentiated between "intention" and "actuality", thereby placing a central importance on the will to love, even though in practice it may very well be impossible to bring benefit to everyone.
+
+In addition, Mozi argued that benevolence comes to human beings "as naturally as fire turns upward or water turns downward", provided that persons in positions of authority illustrate benevolence in their own lives. In differentiating between the ideas of "universal" (''jian'') and "differential" (''bie''), Mozi said that "universal" comes from righteousness while "differential" entails human effort. Furthermore, Mozi’s basic argument concerning universal love asserts that universal love is supremely practical, and this argument was directed against those who objected that such love could not be put into practice.<!--what does this sentence mean?-->
+
+Mozi also held a belief in the power of ghosts and spirits, although he is often thought to have only worshipped them pragmatically. In fact, in his discussion on ghosts and spirits, he remarks that even if they did not exist, communal gatherings for the sake of making sacrificial offering would play a role in strengthening social bonds. Furthermore, for Mozi the will of [[Tian|Heaven]] ({{linktext|天}}, [[Tian|tiān]]) was that people should love one another, and that mutual love by all would bring benefit to all. Therefore, it was in everyone's interest that they love others "as they love themselves." Heaven should be respected because failing to do so would subject one to punishment. For Mozi, Heaven was not the "amoral", mystical nature of the [[Taoists]]. Rather, it was a benevolent, moral force that rewarded good and punished evil. Similar in some ways to the [[Abrahamic religions]], Mozi believed that all living things live in a realm ruled by Heaven, and Heaven has a will which is independent from and higher than the will of man. Thus he writes that "Universal love is the Way of Heaven," since "Heaven nourishes and sustains all life without regard to status." ("Laws and Customs" in ''Mozi'') Mozi's ideal of government, which advocated a meritocracy based on talent rather than background, also followed his idea of Heaven.
+
+===Ethics===
+{{main article|Mohist consequentialism}}
+{{quote|What is the purpose of houses? It is to protect us from the wind and cold of winter, the heat and rain of summer, and to keep out robbers and thieves. Once these ends have been secured, that is all. Whatever does not contribute to these ends should be eliminated.<ref name="Norden">{{Cite book| title = Introduction to Classical Chinese Philosophy | year = 2011 | last = Van Norden | first = Bryan W. | publisher = [[Hackett Publishing]] | isbn = 978-1-60384-468-0 | page = 52}}</ref>|Mozi|''Mozi'' (5th century BC) Ch 20}}
+[[File:Mencius2.jpg|alt=|thumb|left|Confucian philosopher [[Mencius]] was one of several critics of Mozi, in part because his philosophy lacked [[filial piety]]]]
+Mohist [[ethic]]s are considered a form of [[consequentialism]], sometimes called state consequentialism.<ref name="readings"/> Mohist ethics evaluates the moral worth of an action based on how it contributes to the stability of a state,<ref name="readings">{{Cite book| title = Readings in classical Chinese philosophy | year = 2005 | last =Ivanhoe | first = P.J. | last2= Van Norden | first2= Bryan William |publisher = [[Hackett Publishing]] | isbn = 978-0-87220-780-6|page=60|quote="he advocated a form of state consequentialism, which sought to maximize three basic goods: the wealth, order, and population of the state}}</ref> through social order, material wealth, and population growth. According to the ''[[Stanford Encyclopedia of Philosophy]]'', Mohist consequentialism, dating back to the 5th century BC, is the "world's earliest form of consequentialism, a remarkably sophisticated version based on a plurality of intrinsic goods taken as constitutive of human welfare."<ref>Fraser, Chris, "[http://plato.stanford.edu/entries/mohism/ Mohism]", ''[[The Stanford Encyclopedia of Philosophy]]'', Edward N. Zalta.</ref>
+
+Unlike [[utilitarianism]], which views pleasure as a moral good, "the basic goods in Mohist consequentialist thinking are ... order, material wealth, and increase in population".<ref name="Cambridge">{{Cite book| title = [[The Cambridge History of Ancient China]] | year = 2011 | last =Loewe | first = Michael | last2= Shaughnessy | first2= Edward L. |publisher = [[Cambridge University Press]] | isbn = 978-0-521-47030-8|page=761}}</ref> During Mozi's era, war and famines were common, and population growth was seen as a moral necessity for a harmonious society. The "material wealth" of Mohist consequentialism refers to [[Maslow's hierarchy of needs|basic needs]] like shelter and clothing, and the "order" of Mohist consequentialism refers to Mozi's stance against warfare and violence, which he viewed as pointless and a threat to social stability.<ref name="Norden"/> [[Stanford University|Stanford]] [[sinologist]] [[David S. Nivison|David Shepherd Nivison]], in ''[[The Cambridge History of Ancient China]]'', writes that the moral goods of Mohism "are interrelated: more basic wealth, then more reproduction; more people, then more production and wealth ... if people have plenty, they would be good, filial, kind, and so on unproblematically".<ref name="Cambridge"/> In contrast to [[Jeremy Bentham]], Mozi did not believe that individual happiness was important; the consequences of the [[State (polity)|state]] outweigh the consequences of individual actions.<ref name="Cambridge"/><!--"consequences for the state"?-->
+
+Mozi tended to evaluate actions based on whether they provide benefit to the people, which he measured in terms of an enlarged population (states were sparsely populated in his day), a prosperous economy, and social order. Like other consequentialist theories, Mozi thought that actions should be measured by the way they contribute to the "greatest societal good for what we have agreed to in a social contract". With this criterion Mozi denounced things as diverse as offensive warfare, expensive funerals, and even music and dance, which he saw as serving no useful purpose. Mozi did not object to music in principle—"It's not that I don't like the sound of the drum" ("Against Music")—but only because of the heavy tax burden such activities placed on commoners and also due to the fact that officials tended to indulge in them at the expense of their duties.<!--sounds like he's only talking about public official music-->
+
+==Works and influence==
+{{main article|Mozi (book)}}
+{{unreferenced section|date=September 2014}}
+[[File:Mozi.jpg|alt=A page covered in Chinese writing|thumb|A page from the ''Mozi'']]
+''"Mozi"'' is also the name of the philosophical text compiled by Mohists from Mozi's thought. This text originally consisted of 71 chapters. During the Han dynasty Confucianism dominated China. As Mohism is against Confucianism, the text ''"Mozi"'' was neglected. During the Song dynasty, only 61 chapters were left. Today, we have only 53 chapters through which we attempt to understand this school of thought, as compiled by [[Sun Yirang]]. Because Mohism disappeared as a living tradition from China, its texts were not well maintained, and many chapters are missing or in a corrupted state. For example, of the three chapters "Against Confucianism", only one remains.
+
+The collection of texts from "Mozi" is a rich source of insight into early Chinese dynastic history and culture. Much of Mozi's arguments are supported by the historical claims of even earlier records. His conversations with other renowned philosophers of that era are also recorded. From them, we can distinguish [[Mohism]] from other schools of thought more clearly.
+
+Mohism was suppressed under the [[Qin Dynasty|Qin]] and died out completely under the [[Han Dynasty|Han]], which made Confucianism the official doctrine. However, many of its ideas were dissolved into the mainstream of Chinese thought, since both Confucians such as [[Xun Kuang|Xunzi]] and Taoists such as [[Zhuang Zhou|Zhuangzi]] expressed sympathy with Mozi's concerns. The influence of Mozi is still visible in many Han works written hundreds of years later. In modern times, Mohism was given a fresh analysis. [[Sun Yat-Sen]] used "universal love" as one of the foundations for his idea of Chinese democracy. More recently, Chinese scholars under Communism have tried to rehabilitate Mozi as a "philosopher of the people", highlighting his rational-empirical approach to the world as well as his "proletarian" background.
+
+Some views claim that Mozi's philosophy was at once more advanced and less so than that of Confucius. His concept of "universal love" embraced a broader idea of human community than that of the Confucians, but he was less tolerant than Confucius in his condemnation of all that is not directly "useful," neglecting the humanizing functions of art and music. Zhuangzi, who criticized both the Confucians and the Mohists, had this in mind in his parables on the "usefulness of the useless". Of course, this insistence on usefulness comes from a time when war and famine were widespread and could well have made all the royal pageantry look frivolous.
+
+However, others would say the above view is not entirely accurate, and that in fact "universal love" (博愛), as well as "the world as a commonwealth shared by all" (天下為公) advocated by Sun Yat-Sen are Confucian ideas.<ref>[[Han Yu]]: "Universal love" (博愛, Boai) means [[Ren (Confucianism)|Ren]] (Humanity) (韓愈: 博愛之謂仁).</ref> "Universal love" (博愛, Boai) in Confucianism is a little different from Mozi's "universal love" (兼愛, Jian'ai): in Confucianism it tends to emphasize it as naturally befitting human relations, while in Mozi's ideas it tends to be community oriented and non-differentiated according to individual. Some modern-day supporters for Mozi (as well as Communism) make the claim that Mohism and modern Communism share a lot in terms of ideals for community life.  Others would claim that Mohism shares more with the central ideas of [[Christianity]], especially in terms of the idea of "universal love" (in Greek, "[[agape]]"), the "[[Golden Rule]]", and the relation of humanity to the supernatural realm.
+
+== Mohism and science ==
+According to [[Joseph Needham]], ''Mozi'' (collected writings of those in the tradition of Mozi, some of which might have been by Mozi himself) contains the following sentence: 'The cessation of motion is due to the opposing force... If there is no opposing force... the motion will never stop. This is as true as that an ox is not a horse.' which, he claims, is a precursor to Newton's first law of motion. ''Mozi'' also contains speculations in optics and mechanics that are similarly strikingly original, although their ideas were not taken up by later Chinese philosophers. The Mohist tradition is also highly unusual in Chinese thought in that it devoted time to developing principles of logic.<ref>{{Cite web|url=http://www.newworldencyclopedia.org/entry/Mozu#Mohism_and_Science|title=Mozu|work=[[New World Encyclopedia]]|access-date=2016-06-02}}</ref>
+
+==See also==
+{{Portal|China|Logic|Philosophy|Religion}}
+* ''[[A Battle of Wits (2006 film)|A Battle of Wits]]''&nbsp;– a historical film based around Mohism
+* [[History of geometry]]
+* [[List of people on stamps of the People's Republic of China]]
+* [[Fa (concept)|Fa]], an influential concept elaborated by Mozi
+* [[Quantum Experiments at Space Scale]], a joint Austrian-Chinese satellite launched in 2016, alternatively named "Mozi" or "Micius" because of his writings on optics.
+
+== References ==
+
+=== Citations ===
+{{Reflist}}
+
+=== Works cited ===
+* Fraser, Chris. [http://plato.stanford.edu/entries/mohism/ "Mohism,"]  article in the ''[[Stanford Encyclopedia of Philosophy]]''
+* {{cite book | first=A. C. | last=Graham | authorlink=Angus Charles Graham | chapter=Mo tzu 墨子 | editor-first=Michael, ed. | editor-last=Loewe | title=Early Chinese Texts – A Bibliographical Guide | pages=336–41 | year=1993 | publisher=Society for the Study of Early China & Institute of East Asian Studies, University of California Berkeley | location=Berkeley | isbn=1-55729-043-1 | ref=harv}}
+* {{cite book | first=David R. | last=Knechtges | authorlink=David R. Knechtges | chapter=''Mozi'' 墨子 | editor-first=David R. | editor-last=Knechtges | editor-first2=Taiping | editor-last2=Chang | title=Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One |url=https://books.google.com/books?id=mED9Vx10WokC&pg=645#v=onepage&q&f=false |location=Leiden | publisher=Brill | year=2010 | pages=677–81 | isbn=978-90-04-19127-3 | ref=harv}}
+* {{Cite book|year=1956|last1=Needham |first1=Joseph|authorlink1=Joseph Needham| last2=Wang| first2=Ling|authorlink2=Wang Ling (historian)|title=Science and Civilization in China| volume=2. ''History of Scientific Thought''|publisher=Cambridge University Press|isbn=0-521-05800-7}}. (Printings were 1956, 1962, 1969) See also the 1986 edition published in Taipei by Caves Books Ltd.
+
+== Further reading ==
+* [[Bertolt Brecht]]. ''Me-ti. Buch der Wendungen''. Suhrkamp, Frankfurt 1971.* [[Wing-tsit Chan]], ed. ''A Source Book in Chinese Philosophy''. Princeton University Press, Princeton 1969, {{ISBN|0-691-01964-9}}.
+* Wejen Chang, ''Traditional Chinese Jurisprudence: Legal Thought of Pre-Qin Thinkers''. Cambridge 1990.
+* Chris Fraser, ''The Philosophy of the Mòzi: The First Consequentialists'', New York, Columbia University Press, 2016.
+* Jane Geaney, “A Critique of A. C. Graham's Reconstruction of the ‘Neo-Mohist Canons,’” Journal of the American Oriental Society, 119, no. 1 (1999), pp. 1–11.
+* Angus C. Graham, ''Disputers of the TAO: Philosophical Argument in Ancient China'' (Open Court 1993). {{ISBN|0-8126-9087-7}}
+*—. ''Later Mohist Logic, Ethics and Science'' by A. C. Graham, (1978, reprinted 2004) The Chinese University Press, Hong Kong. 700 pages.
+* Chad Hansen, "Mozi: Language Utilitarianism: The Structure of Ethics in Classical China," ''The Journal of Chinese Philosophy'' 16  (1989) pp.&nbsp;355–380.
+*—. ''A Daoist Theory of Chinese Thought''. (New York: Oxford University Press, 1992)
+* Kung-chuan Hsiao. ''A History of Chinese Political Thought''. In: Volume One: From the Beginnings to the Sixth Century A.D.. Princeton University Press, Princeton 1979 (übersetzt von F. W. Mote).
+* Y. P. Mei ''Mo-tse, the Neglected Rival of Confucius''. London: Arthur Probsthain, 1934.
+* Ralf Moritz, ''Die Philosophie im alten China''. [[Deutscher Verlag der Wissenschaften]], Berlin 1990, {{ISBN|3-326-00466-4}}.
+* Peter J. Opitz, ''Der Weg des Himmels: Zum Geist und zur Gestalt des politischen Denkens im klassischen China''. Fink, München 1999, {{ISBN|3-7705-3380-1}}.
+* Helwig Schmidt-Glintzer, (ed.), ''Mo Ti: Von der Liebe des Himmels zu den Menschen''. Diederichs, München 1992, {{ISBN|3-424-01029-4}}.
+*—. ''Mo Ti: Solidarität und allgemeine Menschenliebe''. Diederichs, Düsseldorf/Köln 1975, {{ISBN|3-424-00509-6}}.
+*—. ''Mo Ti: Gegen den Krieg''. Diederichs, Düsseldorf/Köln 1975, {{ISBN|3-424-00509-6}}.
+* Aronovich Rubin Vitaly, ''Individual and State in Ancient China: Essays on Four Chinese Philosophers''. Columbia University Press, New York 1976, {{ISBN|0-231-04064-4}}.
+* Robin D. S. Yates, "The Mohists on Warfare: Technology, Technique, and Justification", ''Journal of the American Academy of Religion'', 47, mo. 3 (1980, Thematic Issue S), pp.&nbsp;549–603.
+
+==External links==
+{{Sisterlinks|b=no|n=no|s=Author:Mozi|v=no|voy=no|species=no|commons=Category:Mozi|d=Q272411|wikt=no}}
+*{{Dmoz|Society/Philosophy/Philosophers/M/Mocius/}}
+* [http://ctext.org/mozi Full text of the ''Mozi''] (Chinese with English translation based on Mei's translation.)
+* [http://www.iep.utm.edu/mozi/ Mozi] in the ''[[Internet Encyclopedia of Philosophy]]''
+
+{{Chinese philosophy}}
+{{Ethics}}
+{{Social and political philosophy}}
+{{Muslim saints}}
+{{Authority control}}
+
+[[Category:Mohism| ]]
+[[Category:5th-century BC philosophers]]
+[[Category:Ancient Chinese military engineers]]
+[[Category:Asian pacifists]]
+[[Category:Chinese ethicists]]
+[[Category:Chinese logicians]]
+[[Category:Chinese political philosophers]]
+[[Category:Consequentialists]]
+[[Category:Epistemologists]]
+[[Category:Moral psychology]]
+[[Category:Philosophers from Lu (state)]]
+[[Category:Social philosophers]]
+[[Category:470s BC births]]
+[[Category:390s BC deaths]]
+[[Category:Writers of lost works]]

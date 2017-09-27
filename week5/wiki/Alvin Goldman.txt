@@ -1,0 +1,91 @@
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| image            = 
+| caption          = 
+| name             = Alvin I. Goldman
+| birth_date       = 1938
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Epistemology]], [[philosophy of action]]
+| influences       = [[W.V.O. Quine]]
+| influenced       = 
+| notable_ideas    = [[Causal theory of knowledge]], [[social epistemology]]
+}}
+
+'''Alvin Ira Goldman''' (born 1938) is an American philosopher who is Board of Governors Professor of [[Philosophy]] and [[Cognitive Science]] at [[Rutgers University]] in [[New Jersey]] and a leading figure in [[epistemology]].
+
+==Education and career==
+
+Goldman earned his PhD from [[Princeton University]], and previously taught at the [[University of Michigan]] (1963-1980), the [[University of Illinois, Chicago]] (1980-1983) and the [[University of Arizona]] (1983-1994). He joined the Rutgers faculty in 1994.<ref>http://fas-philosophy.rutgers.edu/goldman/CV.pdf</ref> He has done influential work on a wide range of philosophical topics, but his principal areas of research are [[epistemology]], [[philosophy of mind]], and [[cognitive science]].
+
+He is married to the ethicist [[Holly Martin Smith]].
+
+==Philosophical work==
+
+===Action theory===
+
+Goldman's early book, ''A Theory of Human Action'' (a revised version of his Ph.D. thesis), presents a systematic way of classifying and relating the many actions we perform at any time.  Its influence was broad and can be found in, among other writings, John Rawls' book ''[[A Theory of Justice]]''.  Goldman's early work in action theory soon gave way to work in other branches of philosophy, most influentially epistemology.
+
+===Epistemology===
+
+Goldman's accounts of knowledge and justified belief, using notions like causation and reliability instead of normative concepts like permissibility and obligation, contributed to a philosophical approach that came to be known in the 1970s as [[naturalized epistemology]].  (Unlike [[W.V.O. Quine]]'s version of naturalized epistemology, however, Goldman's retains a traditional focus on questions of justification.)  Goldman's view emerged initially as part of the efforts in the 1960s to find a "fourth" condition in response to the [[Gettier]] challenge to the account of knowledge as "justified true belief."  In his 1967 paper, "[[Causal Theory of Knowledge|A Causal Theory of Knowing]]", Goldman proposed that knowledge amounts to true belief appropriately caused by the fact that makes it true.  Later, he claimed knowledge amounts to true belief that is produced by a reliable process.<ref>Goldman, Alvin I. ''Liaisons: Philosophy meets the cognitive and social sciences''. Massachusetts Institute of Technology Press, 1992. (Chapter 5, 85-103)</ref>
+
+Goldman has described his "naturalistic" approach to epistemology as splitting "epistemology (individual epistemology, anyway) into two parts.... The first part is dedicated to the 'analytic' task of identifying the criteria, or satisfaction conditions, for various normative epistemic statuses. With respect to the normative status of justifiedness (of belief), the proposed criterion is the reliability of the belief-forming processes by which the belief is produced. Defense of this criterion of justifiedness was not based on scientific psychology, but rather a familiar form of armchair methodology. The second part is the task where science enters the picture. Psychological science is required to identify the kinds of operations or computations available to the human cognizer, how well they work when operating on certain inputs and under certain conditions."<ref>http://www.3ammagazine.com/3am/thinking-about-mindreading-mirroring-and-embedded-cognition/</ref>
+
+More recently, Goldman has focused his epistemological efforts on questions of [[social epistemology]], of the different social mechanisms through which knowledge is transmitted in society.  His work in social epistemology has dealt with the law (especially evidence), voting and media, among other topics.  He attempts to provide (in his words) a less radical view of social epistemology than those suggested by [[culture theory|cultural theorists]] and [[postmodernism|postmodernists]] under that name.  His approach uses tools of [[analytic philosophy]] especially [[formal epistemology]] to analyze problems in social knowledge.  Some of this work is summarized in his book ''Knowledge in a Social World''.
+
+===Other work===
+
+Goldman has devoted significant time to showing how research in cognitive science is relevant to a variety of branches of philosophy including epistemology.  Much of this work appears in his books ''Epistemology and Cognition'', ''Philosophical Applications of Cognitive Science'', and ''Simulating Minds''.
+
+==Bibliography==
+* ''Action'' (1965)
+* "A Causal Theory of Knowing" in ''[[The Journal of Philosophy]]'' v. 64 (1967), pp.&nbsp;357–372.
+* ''A Theory of Human Action'' (1970)
+* "Epistemics: The Regulative Theory of Cognition," ''The Journal of Philosophy'' 75 (1978) pp.&nbsp;509–523.
+* "What is Justified Belief?" in ''Justification and Knowledge'' (1979), pp.&nbsp;1–23.
+* ''Epistemology and Cognition'' (1986)
+* ''Liaisons: Philosophy Meets the Cognitive and Social Sciences'' (1991)
+* ''Philosophical Applications of Cognitive Science'' (1993)
+* ''Readings in Philosophy and Cognitive Science'' (editor), (1993)
+* ''Knowledge in a Social World'' (1999)
+* ''Pathways to Knowledge: Private and Public'' (2004)
+* ''Simulating Minds'' (2006)
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+*[[Reliabilism]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* [http://fas-philosophy.rutgers.edu/goldman/ Alvin Goldman's home page]
+* [http://www.iep.utm.edu/n/nat-epis.htm Article partly devoted to Goldman's epistemic views]
+* [http://plato.stanford.edu/entries/reliabilism/ Stanford Encyclopedia of Philosophy entry on reliabilism, written by Goldman]
+* [http://plato.stanford.edu/entries/epistemology-naturalized/ Stanford Encyclopedia of Philosophy entry on naturalised epistemology, relevant to Goldman]
+
+{{Analytic philosophy}}
+{{Epistemology}}
+{{Philosophy of mind}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Goldman, Alvin}}
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Living people]]
+[[Category:1938 births]]
+[[Category:Princeton University alumni]]
+[[Category:Philosophers from Michigan]]
+[[Category:Philosophers from Arizona]]
+[[Category:Philosophers from Texas]]
+[[Category:Epistemologists]]
+[[Category:University of Michigan faculty]]
+[[Category:University of Arizona faculty]]
+[[Category:Rutgers University faculty]]
+[[Category:Action theorists]]
+[[Category:Philosophers of mind]]
+[[Category:Guggenheim Fellows]]

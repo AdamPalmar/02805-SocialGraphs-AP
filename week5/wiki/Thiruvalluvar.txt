@@ -1,0 +1,160 @@
+{{Use Indian English|date=October 2015}}
+{{Use dmy dates|date=September 2011}}
+{{About|Thiruvalluvar|the social group|Valluvar (caste)}}
+{{Infobox philosopher
+ | name             = Thiruvalluvar
+ | native_name      = திருவள்ளுவர்
+ | image            = Tiruvalluvar statue LIC.jpg
+ | image_size       =
+ | alt              =
+ | caption          = The Thiruvalluvar statue in [[Kanyakumari]]
+ | other_names      = Valluvar, Mudharpaavalar, Deivappulavar, Gnanavettiyaan, Maadhaanupangi, Naanmuganaar, Naayanaar, Poyyirpulavar, Dhevar, Perunaavalar{{sfn|P. R. Natarajan|2008|p=2}}
+ | birth_date       = Uncertain; dated variously from c. 4th century BCE to c. 7th century CE
+ | birth_place      = Unknown; [[Mylapore]], [[Madurai]] or Thirunayanarkurichi according to different sources
+ | notable_works    = [[Tirukkuṛaḷ]]
+ | region           = Present-day [[Tamil Nadu]], India
+ | notable_ideas    = Common ethics and morality
+}}
+'''Thiruvalluvar''', also known as '''Valluvar''', was a celebrated [[Tamil people|Tamil]] poet and [[philosopher]]. He is best known for ''[[Tirukkuṛaḷ]]'', a collection of couplets on ethics, political and economical matters, and love. The text is considered as one of the finest works of the [[Tamil literature]].
+
+Much of the information about Thiruvalluvar comes from legendary accounts, and little is known with certainty about his family background, religious affiliation, or birthplace. He lived in present-day [[Tamil Nadu]] state of India, and his [[flourit]] is dated variously from 4th century BCE to 7th century CE based on the traditional accounts and the linguistic analyses of his writings.
+
+== Background ==
+
+There is negligible authentic information about the life of Thiruvalluvar.{{sfn|Kamil Zvelebil|1973|p=155}} In fact, neither his actual name nor the original title of his book can be determined with certainty.{{sfn|Kamil Zvelebil|1975|p=125}} ''Tirukkuṛaḷ'' itself does not name its author. The name ''Thiruvalluvar'' was first mentioned in the later text ''Thiruvalluvarmaalai'' (10th century).{{sfn|Cutler Blackburn|2000|pp=449-482}}
+
+* One tradition claims that he was a [[Paraiyar]] weaver.{{sfn|Kamil Zvelebil|1975|p=124-125}}
+* Another theory is that he must have been from the agricultural caste of [[Vellalar]]s, because he extols agriculture.{{sfn|Kamil Zvelebil|1973|p=156}}
+* [[Raghava Iyengar|Mu Raghava Iyengar]] speculated that "valluva" in his name is a variation of "vallabha", the designation of a royal officer.{{sfn|Kamil Zvelebil|1973|p=156}}
+* [[S. Vaiyapuri Pillai]] derived his name from "valluvan" (a Paraiyar caste of royal drummers), and theorized that he was "the chief of the proclaiming boys analogous to a trumpet-major of an army".{{sfn|Kamil Zvelebil|1973|p=156}}
+
+The poem ''Kapilar Akaval'' (or ''Ahaval''), purportedly written by [[Kapilar]], describes its author as a brother of Valluvar. It states that they were children of a [[Pulaya]] woman named Ati (Adi) and a [[Brahmin]] named Pakavan (Bhagwan).{{sfn|Kamil Zvelebil|1975|p=227}} The poem claims that the couple had seven children, including three sons (Thiruvalluvar, Kapilar, Atikaman) and four sisters (Awai, Uppai, Uruvai and Velli).{{sfn|Kamil Zvelebil|1991|p=25}} However, this legendary account is spurious.{{sfn|Shuddhananda A. Sarma|2007|p=76}}{{sfn|Irāmaccantiran̲ Nākacāmi|1997|p=202}} [[Kamil Zvelebil]] dates ''Kapilar Ahaval'' to 15th century CE, based on its language.{{sfn|Kamil Zvelebil|1975|p=227}}
+
+Various biographies mention the name of Thiruvalluvar's wife as "Vasuki", but such details are of doubtful historicity.{{sfn|Mohan Lal|1992|p=4341}}
+
+[[George Uglow Pope]] called Thiruvalluvar "the greatest poet of South India", but according to [[Kamil Zvelebil]], he does not seem to have been a poet. According to Zvelebil, while the author handles the [[metre (poetry)|metre]] very skillfully, the ''Tirukkuṛaḷ'' rarely features "true and great poetry", which appears only in a few places, notably in the third book (pleasure). This suggests that Thiruvalluvar's main aim was not to produce a work of art, rather an instructive text focused on wisdom, justice and ethics.{{sfn|Kamil Zvelebil|1973|p=168}}
+
+== Date ==
+
+The ''Tirukkuṛaḷ'' has been dated variously from 300 BCE to 7th century CE. According to traditional accounts, it was the last work of the third [[Tamil Sangams|Sangam]], and was subjected to a divine test (which it passed). The scholars who believe this tradition, such as Somasundara Bharathiar and M Rajamanickam, date the text to as early as 300 BCE. Historian [[K. K. Pillay]] assigned it to the early 1st century CE.{{sfn|Kamil Zvelebil|1975|p=124}}
+
+Linguist [[Kamil Zvelebil]] is certain that ''Tirukkuṛaḷ'' does not belong to the [[Sangam literature|Sangam]] period, and dates it to somewhere between 450-500 CE.{{sfn|Kamil Zvelebil|1975|p=124}} His estimate is based on the language of the text, its allusions to the earlier works, and its borrowing from some Sanskrit treatises.{{sfn|Kamil Zvelebil|1973|p=156}} Zvelebil notes that the text features several grammatical innovations, that are absent in the older Sangam literature. The text also features a higher number of [[Sanskrit]] [[loan word]]s compared to these older texts.{{sfn|Kamil Zvelebil|1973|p=169}} According to Zvelebil, besides being part of the ancient Tamil literary tradition, the author was also a part of the "one great Indian ethical, didactic tradition", as a few of his verses seem to be translations of the verses in Sanskrit texts such as ''[[Dharmaśāstra|Mānavadharmaśāstra]]'' and [[Kautilya]]'s ''[[Arthaśāstra]].{{sfn|Kamil Zvelebil|1973|p=171}}
+
+[[S. Vaiyapuri Pillai]] assigned the work to c. 650 CE, believing that it borrowed from some Sanskrit works of 6th century CE.{{sfn|Kamil Zvelebil|1975|p=124}} Zvelebil disagrees with this assessment, pointing out that some of the words that Pillai believed to be Sanskrit loan words have now been proved to be of [[Dravidian languages|Dravidian]] origin by [[Thomas Burrow]] and [[Murray Barnson Emeneau]].{{sfn|Kamil Zvelebil|1973|p=171}}
+
+== Birthplace ==
+[[File:Thiruvalluvar Temple.JPG|thumb|A temple for Thiruvalluvar in [[Mylapore]]]]
+The poem ''Kapilar Akaval'' states that Thiruvalluvar was born on the top of an oil-nut tree in Mayilapuram ([[Mylapore]] in [[Chennai]]).{{sfn|Kamil Zvelebil|1991|p=25}} On the other hand, the poem number 21 of ''Tiruvalluvamalai'' claims that he was born in [[Madurai]].{{sfn|Kamil Zvelebil|1975|p=125}}
+
+In 2005, a 3-member research team from the [[Kanyakumari (town)|Kanyakumari]] Historical and Cultural Research Centre (KHCRC) claimed that Thiruvalluvar was born in Thirunayanarkurichi, a village in present-day [[Kanyakumari district]]. Their claim was based on an old [[Kani tribe|Kani]] tribal leader who told them that Thiruvalluvar was a king who ruled the "Valluvanadu" territory in the hilly tracts of the Kanyakumari district.<ref>{{cite news |url=http://zeenews.india.com/home/research-team-claims-to-have-found-thiruvalluvars-kingdom_213930.html |title=Research team claims to have found Thiruvalluvar's kingdom |publisher=Zee News |date=26 April 2005 }}</ref>
+
+== Religion ==
+
+Almost every religious group in India, including the Christians, have claimed Thiruvalluvar as one of their own.{{sfn|Kamil Zvelebil|1973|p=156}}
+
+=== Jainism ===
+
+[[Kamil Zvelebil]] believes that the ethics of the ''Tirukkuṛaḷ'' reflect the [[Jainism|Jain]] moral code (e.g. ''Tirukkuṛaḷ'' 251-260 talks about vegetarianis, and ''Tirukkuṛaḷ'' 321-333 talks against killing). Zvelebil states the text features "several purely Jaina technical terms", presenting the epithets of God as an example:{{sfn|Kamil Zvelebil|1973|p=157}}
+
+* ''Malarmicaiyekinan'' (''Tirukkuṛaḷ'' 3), "he who walked upon the [lotus] flower
+* ''Aravaliyantanan'' (''Tirukkuṛaḷ'' 3), "the Brahmin [who had] the wheel of dharma
+* ''Enkunattan'' (''Tirukkuṛaḷ'' 9), "one of the eight-fold qualities
+* ''Atipakavan'' (''Tirukkuṛaḷ'' 1), "the Primeval Lord
+
+Zvelebil notes that even the 13th century Hindu scholar [[Parimēlaḻakar]], who wrote a commentary on ''Tirukkuṛaḷ'', accepted that such epithets are applicable only to the Jain [[Arihant (Jainism)|Arhat]]. Some other epithets mentioned in the text also reflect a "strong ascetic flavour" characteristic of Jainism:{{sfn|Kamil Zvelebil|1973|p=157}}
+
+* ''Ventutal ventamai ilan'' (''Tirukkuṛaḷ'' 4), "he who has neither desire nor aversion
+* ''Porivayil aintavittan'' (''Tirukkuṛaḷ'' 6), "he who has destroyed the gates of the five senses
+
+Zvelebil further states that Thiruvalluvar seems to have been "cognizant of the latest developments" in Jainism.{{sfn|Kamil Zvelebil|1973|p=157}} Zvelebil theorizes that he was probably "a learned Jain with eclectic leanings", who was well-acquainted with the earlier Tamil literature, and also had some knowledge of the Sanskrit texts.{{sfn|Kamil Zvelebil|1973|p=155}}
+
+=== Hinduism ===
+[[File:திருவள்ளுவர் சிலை.JPG|thumb|A statue of Thiruvalluvar]]
+Multiple [[Hinduism|Hindu]] sects have claimed Thiruvalluvar as one of their own, and have tried to align his verses with their own teachings.{{sfn|Swamiji Iraianban|1997|p=13}} [[Shaivite]]s have characterised Thiruvalluvar as a devotee of Shiva, and have installed his images in their temples.{{sfn|Raj Pruthi|Bela Rani Sharma|1995|p=113}}
+
+=== Buddhism ===
+
+Anti-caste activist [[Iyothee Thass]], who converted to [[Buddhism]], claimed that Thiruvalluvar was originally called "Tiruvalla Nayanar", and was a Buddhist.{{sfn|K. A. Geetha|2015|p=49}} Thass described him as follows: Tiruvalla Nayanar was born in Madurai, as the son of King Kanchan and Queen Upakesi. When he grew up, the prince wandered across many countries, until he joined a Buddhist [[sangha|sangam]] at Thinnanur. There, he learned about the Buddhist doctrine from his guru Chakaya Munivar.{{sfn|K. A. Geetha|2015|p=50}}
+
+Thass further contended that the name "Tirukkuṛaḷ" is a reference to the Buddhist ''[[Tripiṭaka]]''.{{sfn|K. A. Geetha|2015|p=50}} He claims that Thiruvalluvar's book was originally called ''Tirikural'' ("Three Kurals"), because it adhered to the three Buddhist scriptures ''[[Abhidhamma Pitaka|Dhamma Pitaka]]'', ''[[Sutta Pitaka]]'', and ''[[Vinaya Pitaka]]''.{{sfn|K. A. Geetha|2015|p=49}}
+
+According to Thass, the legend that presents Thiruvalluvar as the son of a [[Brahmin]] father and a Paraiyar mother was invented by Brahmins, who wanted to Hinduise a Buddhist text.{{sfn|K. A. Geetha|2015|p=49}}
+
+=== Christianity ===
+
+Christian missionary [[George Uglow Pope]] claimed that the ''Tirukkuṛaḷ'' shows [[Christianity|Chrisitan]] influence, particularly from the [[Catechetical School of Alexandria|Alexandrian school]]. He theorized that Thiruvalluvar came into contact with Christian teachers such as [[Pantaenus]] in Mayilapur, and incorporated the ideas from the Christian scriptures in his text. Zvelebil states that Pope was "rather overenthusiastic in discovering strong traces of Christianity" in ''Tirukkuṛaḷ'', and dismisses Pope's hypothesis as based on "vague impressions".{{sfn|Kamil Zvelebil|1973|pp=156-157}}
+
+Since the 1960s, some South Indian Christians led by M. Deivanayagam at the [[Madras Christian College]], have characterized Thiruvalluvar as a disciple of [[Thomas the Apostle]].{{sfn|Jan A. B. Jongeneel|2009|p=111}} According to this theory, Thomas visited present-day Chennai, where Thiruvalluvar listened to his lectures on the [[Sermon of the Mount]].{{sfn|Mohan Lal|1992|p=4341}} Several Tamil scholars, both Christian and Hindu, have criticized this claim as inaccurate.{{sfn|Jan A. B. Jongeneel|2009|p=111}}
+
+== Literary works ==
+{{Main article|Tirukkuṛaḷ}}
+
+''Tirukkuṛaḷ'' is one of the most revered ancient works in the Tamil language. It contains 1330 couplets, which are divided into 133 sections of 10 couplets each. The first 38 sections are about ethics (''aram''), the next 70 about political and economic matters (''porul''), and the rest are about love (''kamam'').{{sfn|Kamil Zvelebil|1973|p=155}} The text has been translated into several languages,<ref>{{cite web | url=http://tamilelibrary.org/teli/thkrl.html | title=Translation of the Tamil literary work thirukkuRaL in world languages | publisher=K. Kalyanasundaram | accessdate=10 March 2012}}</ref> including a translation into Latin by [[Constanzo Beschi]] in 1699 which helped make the work known to European intellectuals.
+
+Thiruvalluvar is also believed to be the author of two Tamil texts on medicine, ''Gnana Vettiyan'' and ''Pancharathnam''; although many scholars claim that they were by a later author with the same name,<ref name="Cuppiramaṇiyan̲1980">{{cite book|author=Ca. Vē Cuppiramaṇiyan̲|title=Papers on Tamil studies|url=https://books.google.com/books?id=iqEtAAAAMAAJ|accessdate=11 December 2010|year=1980|publisher=International Institute of Tamil Studies}}</ref> since they appear to have been written in the sixteenth and seventeenth centuries. These books, 'Pancharathnam' and 'Gnana Vettiyan', contribute to Tamil science, literature and other ayurvedic medicines. <ref name="Zimmermann2007">{{cite book|author=Marion Zimmermann|title=A Short Introduction: The Tamil Siddhas and the Siddha Medicine of Tamil Nadu|url=https://books.google.com/books?id=H9uhs9snzwAC&pg=PA8|accessdate=14 December 2010|date=September 2007|publisher=GRIN Verlag|isbn=978-3-638-77126-9|pages=8–}}</ref>
+
+== Memorials ==
+{{Main article|Thiruvalluvar Statue|Valluvar Kottam}}
+[[File:இலண்டன் திருவள்ளுவர்.JPG|thumb|left|Thiruvalluvar statue at SOAS, University of London.]]
+[[File:Tiruvalluvar Statue Kanyakumari.jpg|250 px|thumb|right|[[Tiruvalluvar statue]] in [[Kanyakumari]]]]
+A temple-like memorial to Thiruvalluvar, [[Valluvar Kottam]], was built in [[Chennai]] in 1976.<ref name="Abram(Firm)2003"/>  This monument complex consists of structures usually found in [[Dravidian architecture|Dravidian temples]],<ref name="Tourist Guide to Tamil Nadu">{{cite book|title=Tourist Guide to Tamil Nadu|url=https://books.google.com/books?id=nGxbJqdEQrwC&pg=PA20|accessdate=12 December 2010|publisher=Sura Books|isbn=978-81-7478-177-2|pages=20–}}</ref> including a [[temple car]]<ref name="Hancock2008">{{cite book|author=Mary Elizabeth Hancock|title=The politics of heritage from Madras to Chennai|url=https://books.google.com/books?id=0duq2Vd_ahcC&pg=PA113|accessdate=12 December 2010|date=8 October 2008|publisher=Indiana University Press|isbn=978-0-253-35223-1|pages=113–}}</ref> carved from three blocks of [[granite]], and a shallow, rectangular pond.<ref name="Abram(Firm)2003">{{cite book|author1=David Abram|author2=Rough Guides (Firm)|title=South India|url=https://books.google.com/books?id=sEhJBfbhTAAC&pg=PA421|accessdate=12 December 2010|year=2003|publisher=Rough Guides|isbn=978-1-84353-103-6|pages=421–}}</ref> The auditorium adjoining the memorial is one of the largest in Asia and can seat up to 4000 people.<ref name="Kamath2000">{{cite book|author=Rina Kamath|title=Chennai|url=https://books.google.com/books?id=bw2vDg2fTrMC&pg=PA34|accessdate=12 December 2010|year=2000|publisher=Orient Blackswan|isbn=978-81-250-1378-5|pages=34–}}</ref>
+
+There is a 133-foot tall statue of Thiruvalluvar erected at [[Kanyakumari (town)|Kanyakumari]] at the southern tip of the Indian subcontinent, where the [[Arabian Sea]], the [[Bay of Bengal]], and the Indian Ocean converge.
+The 133 feet denote Tirukkuṛaḷ's 133 Chapters or ''athikarams'' and the show of three fingers denote the three themes ''Aram'', ''Porul'', and ''Inbam'', i.e. the sections on Morals, Wealth and Love. The statue was designed by [[V. Ganapati Sthapati]], a temple architect from Tamil Nadu.<ref name="TiruvaḷḷuvarSubramuniyaswami2000">{{cite book|author1=Tiruvaḷḷuvar|author2=Satguru Sivaya Subramuniyaswami|title=Tirukural|url=https://books.google.com/books?id=TGw-ef8ZrHoC&pg=PR32|accessdate=12 December 2010|date=1 January 2000|publisher=Abhinav Publications|isbn=978-81-7017-390-8|pages=31–32}}</ref>
+His statue was unveiled in Ulsoor, near [[Bengaluru]], on 9 August 2009, also making it the first of its kind for a poet of a local language to be installed in its near states other than his own home land at India.
+There is also a statue of Thiruvalluvar outside the [[School of Oriental and African Studies]] in [[Russell Square]], London.<ref>http://londondailyphoto.blogspot.co.uk/2006/06/tiruvalluvar.html</ref>
+
+The government of Tamil Nadu celebrates the 15th (16th On Leap Years) of January as (as Per Tamil Calendar தை-2) ''Thiruvalluvar Day'' as part of the [[Pongal]] celebrations in his honour.<ref name="Various">{{cite book|author=Various|title=Tourist Guide to South India|url=https://books.google.com/books?id=ta6AD7MNFioC&pg=PA13|accessdate=12 December 2010|publisher=Sura Books|isbn=978-81-7478-175-8|pages=13–}}</ref>
+
+== See also ==
+{{Portal|India|poetry}}
+* [[Sarvajna and Tiruvalluvar statue installation]]
+* [[Valluvar Kottam]], a monument dedicated to Thiruvalluvar
+
+== References ==
+{{reflist}}
+
+=== Bibliography ===
+{{ref begin}}
+* {{cite journal  |author=Cutler Blackburn |title =Corruption and Redemption: The Legend of Valluvar and Tamil Literary History |journal=Modern Asian Studies  |volume=34 |pages=449–482 |year=2000 |url=https://www.cambridge.org/core/journals/modern-asian-studies/article/corruption-and-redemption-the-legend-of-valluvar-and-tamil-literary-history/578480EEAB1B71821BBC5D2A9B42205F |doi=10.1017/S0026749X00003632 |accessdate=7 September 2017 |ref=harv }}
+* {{cite book |editor=Irāmaccantiran̲ Nākacāmi |editor-link=R. Nagaswamy |title=Studies in South Indian History and Culture|url=https://books.google.com/books?id=_kRuAAAAMAAJ|year=1997|publisher=V.R. Ramachandra Dikshitar Centenary Committee |oclc=37579357 |ref=harv }}
+* {{cite book |author=Jan A. B. Jongeneel |title=Jesus Christ in World History: His Presence and Representation in Cyclical and Linear Settings|url=https://books.google.com/books?id=S8uSmV3wKecC&pg=PA111 |year=2009 |publisher=Peter Lang |isbn=978-3-631-59688-3 |ref=harv }}
+* {{cite book |author=K. A. Geetha |title=Contesting Categories, Remapping Boundaries: Literary Interventions by Tamil Dalits |url=https://books.google.com/books?id=9vKmBgAAQBAJ&pg=PA49 |year=2015 |publisher=Cambridge Scholars |isbn=978-1-4438-7304-8 |ref=harv }}
+* {{cite book |author=Kamil Zvelebil |title=The Smile of Murugan: On Tamil Literature of South India |url=https://books.google.com/books?id=degUAAAAIAAJ&pg=PA155 |year=1973 |publisher=BRILL |isbn=90-04-03591-5 |page=155 |ref=harv }}
+* {{cite book |author=Kamil Zvelebil |title=Tamil Literature |series=Handbook of Oriental Studies |url=https://books.google.com/books?id=Kx4uqyts2t4C&pg=PA124 |year=1975 |publisher=BRILL |isbn=90-04-04190-7 |ref=harv }}
+* {{cite book |author=Kamil Zvelebil |title=Tamil Traditions on Subrahmaṇya-Murugan |url=https://books.google.com/books?id=nnIcAAAAIAAJ |year=1991 |publisher=Institute of Asian Studies |ref=harv }}
+* {{cite book |author=Mohan Lal |title=Encyclopaedia of Indian Literature: Sasay to Zorgot |url=https://books.google.com/books?id=KnPoYxrRfc0C&pg=PA4341 |year=1992 |publisher=Sahitya Akademi |isbn=978-81-260-1221-3 |ref=harv }}
+* {{cite book |author=P. R. Natarajan |title=Thirukkural: Aratthuppaal |edition=First |publisher = Uma Padhippagam |location=Chennai |year=2008 |language=Tamil |ref=harv }}
+* {{cite book |author1=Raj Pruthi |author2=Bela Rani Sharma |title=Buddhism Jainism And Women |url=https://books.google.com/books?id=BvoQAQAAIAAJ |year=1995 |publisher=Anmol |isbn=978-81-7488-085-7 |ref=harv }}
+* {{cite book |author=Shuddhananda A. Sarma |title=Tamil Siddhas: a study from historical, socio-cultural, and religio-philosophical perspectives |url=https://books.google.com/books?id=7qfXAAAAMAAJ |year=2007|publisher=Munshiram Manoharlal |ref=harv }}
+* {{cite book |author=Swamiji Iraianban |title=Ambrosia of Thirukkural |url=https://books.google.com/books?id=dPmMQoJkXV0C&pg=PA13 |year=1997 |publisher=Abhinav Publications |isbn=978-81-7017-346-5 |ref=harv }}
+{{ref end}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+* {{Internet Archive author |sname=Thiruvalluvar}}
+* {{Librivox author |id=5466}}
+{{Tirukkural}}
+{{Authority control}}
+
+[[Category:Tirukkural]]
+[[Category:Tamil poets]]
+[[Category:Indian male philosophers]]
+[[Category:Ancient Indian philosophers]]
+[[Category:Ancient Indian poets]]
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]
+[[Category:Indian male poets]]
+[[Category:Poets from Tamil Nadu]]
+[[Category:Nonviolence advocates]]
+[[Category:People from Tamil Nadu]]
+[[Category:Simple living advocates]]
+[[Category:Moral philosophers]]
+[[Category:Classical humanists]]
+[[Category:Philosophers from Tamil Nadu]]
+[[Category:Deified people]]
+[[Category:Philosophers of love]]
+[[Category:Political philosophers]]
+[[Category:Social philosophers]]
+[[Category:Philosophers of ethics and morality]]

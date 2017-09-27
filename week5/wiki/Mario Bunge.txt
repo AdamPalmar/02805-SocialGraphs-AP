@@ -1,0 +1,135 @@
+{{Infobox philosopher
+|region           = [[Western Philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = MarioBungesmall.jpg
+|name             = Mario Augusto Bunge
+|birth_date       = {{Birth date and age|1919|09|21}}
+|birth_place      = [[Buenos Aires]], [[Argentina]]
+|alma_mater       = [[National University of La Plata]] (Ph.D., 1952)
+|school_tradition = [[Analytic philosophy]]
+|main_interests   = [[Philosophy of science]]<br/>[[Philosophy of physics]]<br/>[[Emergentism]]{{·}} [[Philosophical realism|Realism]]
+|influences       = [[Carl Gustav Hempel]], [[Ernest Nagel]], [[Rudolf Carnap]], [[Ludwig von Bertalanffy]], [[Guido Beck]]<ref>Bunge relates that he "taught [himself] philosophy between 1936 and 1956" while he was a regular physics student (between 1938 and 1944), studying nuclear physics under Guido Beck (see: Mario Bunge, "Philosophy of Science and Technology: A Personal Report", ''Contemporary Philosophy'', Volume 8: ''Philosophy of Latin America'', pp. 245-272, edited by Guttorm Fløistad Kluwer).</ref>
+}}
+
+'''Mario Augusto Bunge''' ({{IPA-es|ˈbuŋxe|lang}}; born September 21, 1919) is an [[Argentina|Argentine]] [[philosophy|philosopher]], [[philosophy of science|philosopher of science]] and [[physics|physicist]] mainly active in [[Canada]].
+
+==Biography==
+Bunge began his studies at the [[National University of La Plata]], graduating with a [[Ph.D.]] in physico-mathematical sciences in 1952. He was professor of [[theoretical physics]] and philosophy, 1956&ndash;1966, first at La Plata then at [[University of Buenos Aires]]. He was, until his recent retirement at age 90, the Frothingham Professor of Logic and Metaphysics at [[McGill University]] in [[Montreal, Canada|Montreal]], where he had been since 1966.<ref name="MG"/><ref name="GF"/>
+
+Mario Bunge has been distinguished with sixteen honorary doctorates and four honorary professorships by universities from both the Americas and Europe. Bunge is a fellow of the [[American Association for the Advancement of Science]] (1984– ) and of the [[Royal Society of Canada]] (1992– ). In 1982 he was awarded the ''Premio Príncipe de Asturias'' ([[Prince of Asturias Award]]), in 2009 the [[Guggenheim Fellowship]],<ref name="GF"/><ref name="UO"/> and in 2014 the [[Ludwig von Bertalanffy]] Award in Complexity Thinking.<ref>http://www.bcsss.org/research/grants-and-prizes/ludwig-von-bertalanffy-award-in-complexity-thinking/</ref>
+
+==Work==
+Bunge is a prolific intellectual, having written more than 400 papers and 80 books, notably his monumental ''Treatise on Basic Philosophy'' in 8 volumes (1974–1989), a comprehensive and rigorous study of those philosophical aspects Bunge takes to be the core of modern philosophy: [[semantics]], [[ontology]], [[epistemology]], [[philosophy of science]] and [[ethics]].<ref name="GF"/> Here, Bunge develops a comprehensive [[scientific]] outlook which he then applies to the various natural and social sciences.
+
+His thinking embodies global [[systemics|systemism]], [[emergentism]], [[rationalism]], [[scientific realism]], [[materialism]] and [[consequentialism]]. Bunge has repeatedly and explicitly denied being a [[logical positivism|logical positivist]], and has written on [[metaphysics]]. In the [[politics|political]] arena, Bunge has defined himself as a "[[left-wing politics|left-wing]] [[liberalism|liberal]]" and [[democratic socialism|democratic socialist]], in the tradition of [[John Stuart Mill]] and [[José Ingenieros]].
+
+Popularly, he is known for his remarks considering [[psychoanalysis]] as an example of [[pseudoscience]].<ref>[http://www.realclearscience.com/2010/10/06/is_psychoanalysis_science_or_pseudoscience_237794.html RealClearScience - "Is Psychoanalysis Science or Pseudoscience?" Retrieved 16 November 2012.]</ref>
+
+==Publications (selection)==
+* 1959. ''Causality; the place of the causal principle in modern science.'' Cambridge: Harvard University Press.
+* 1960. ''La ciencia, su método y su filosofía''. Buenos Aires: Eudeba. (In French: ''La science, sa méthode et sa philosophie''. Paris: Vigdor, 2001, {{ISBN|2-910243-90-7}}.)
+* 1962. ''Intuition and Science''. Prentice-Hall. (In French: ''Intuition et raison''. Paris: Vigdor, 2001, {{ISBN|2-910243-89-3}}.)
+* 1967. ''Scientific Research. Strategy and Philosophy''. Berlin, New York: Springer-Verlag. Reprinted as ''Philosophy of Science'' (1998).
+* 1967. ''Foundations of Physics''. Berlin-Heidelberg-New York: Springer-Verlag (1967), Library of Congress Catalog Card Number 67-11999
+* 1973. ''Philosophy of Physics''. Dordrecht: Reidel.
+* 1980. ''The Mind-Body Problem''. Oxford: Pergamon.
+* 1983. "Demarcating Science from Pseudoscience," ''Fundamenta Scientiae'' 3: 369-388.
+* 1984. "What is Pseudoscience?" ''The Skeptical Inquirer''. Volume 9: 36-46.
+* 1987. "Why Parapsychology Cannot Become a Science," ''Behavioral and Brain Sciences'' 10: 576-577.
+* 1974–89. ''[[Treatise on Basic Philosophy]]'':<ref>Bunge's Treatise on Basic Philosophy stands as his major achievement. It encompasses a quadrivium which he considers "the nucleus of contemporary philosophy", namely, [[semantics]] (theories of meaning and truth), [[ontology]] (general theories of the world), [[epistemology]] (theories of knowledge), and [[ethics]] (theories of value and right action). For approximately two decades, Bunge engaged in writing his magnum opus in order to investigate and synthesize contemporary philosophy in a single grand system that is compatible with the advancement of modern human knowledge both scientifically and philosophically. A - Treatise on Basic Philosophy: ''Semantics'' (I & II), ''Ontology'' (III-IV), ''Epistemology and Methodology'' (V-VII) ''Axiology and Ethics'' (VIII). All of these 8 volumes in 9 parts are currently in print, available under the Springer-Verlag imprint.</ref> 8 volumes in 9 parts:
+** '''I''': ''Sense and Reference''. Dordrecht: Reidel, 1974. 
+** '''II''': ''Interpretation and Truth''. Dordrecht: Reidel, 1974. 
+** '''III''': ''The Furniture of the World''. Dordrecht: Reidel, 1977. 
+** '''IV''': ''A World of Systems''. Dordrecht: Reidel, 1979. 
+** '''V''': ''Epistemology and Methodology I: Exploring the World''. Dordrecht: Reidel, 1983. 
+** '''VI''': ''Epistemology and Methodology II: Understanding the World''. Dordrecht: Reidel, 1983.
+** '''VII''': ''Epistemology and Methodology III: Philosophy of Science and Technology: Part I. Formal and Physical Sciences''. Dordrecht: Reidel, 1985. ''Part II.'' ''Life Science, Social Science and Technology''. Dordrecht: Reidel, 1985. 
+** '''VIII''': ''Ethics: the Good and the Right''. Dordrecht: D. Reidel, 1989. 
+* 1996. ''Finding Philosophy in Social Science''. New Haven: Yale University Press.
+* 1997. ''Foundations of Biophilosophy'' (with Martin Mahner). New York: Springer.
+* 1998. ''Dictionary of Philosophy''. Amherst, N.Y.: Prometheus Books.
+* 1998. ''Philosophy of Science'', 2 Vols. New Brunswick, NJ: Transaction.
+* 1998. ''Social Science under Debate: A Philosophical Perspective''. Toronto: University of Toronto Press. 
+* 1999. ''The Sociology-Philosophy Connection''. New Brunswick, NJ: Transaction.
+* 2001: ''Scientific Realism: Selected Essays of Mario Bunge''. Edited by Martin Mahner. Amherst, N.Y.: Prometheus Books.
+* 2001. ''Philosophy in Crisis''. Amherst, N.Y.: Prometheus Books.
+* 2002. ''Philosophy of Psychology'', with [[Ruben Ardila]], Springer.
+* 2003. ''Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge''. Toronto: University of Toronto Press.
+* 2004: ''Über die Natur der Dinge. Materialismus und Wissenschaft'' (with Martin Mahner). Stuttgart: S. Hirzel Verlag.
+* 2006. ''Chasing Reality: Strife over Realism''. Toronto: University of Toronto Press.
+* 2009. ''Political Philosophy. Fact, Fiction, and Vision''. New Brunswick, NJ: Transaction.
+* 2010: ''Matter and Mind: A Philosophical Inquiry''. New York: Springer.
+* 2012: ''Evaluating Philosophies''. New York: Springer.
+* 2012: "Does Quantum Physics Refute Realism, Materialism and Determinism?", ''Science & Education'' 21(10): 1601-1610.
+* 2013: ''Medical Philosophy: Conceptual Issues in Medicine''. New Jersey: World Scientific Publishing Company.
+* 2016: ''Between Two Worlds: Memoirs of a Philosopher-Scientist''. New York: Springer.
+* 2017: ''Doing Science: In the Light of Philosophy''. New Jersey: World Scientific Publishing Company.
+
+==See also==
+*[[List of people from Montreal]]
+*[[Sociotechnology]]
+
+==References==
+{{reflist|refs=
+<ref name="GF">{{cite web|url=http://www.gf.org/fellows/2009-mario-a-bunge|title=Mario A. Bunge|publisher=John Simon Guggenheim Memorial Foundation|accessdate=29 January 2010}}</ref>
+<ref name="MG">{{cite web|url=https://www.mcgill.ca/reporter/40/06/bunge/|title=Mario Bunge: Philosophy in flux |last=Spitzberg|first=Daniel|publisher=McGill Reporter|accessdate=29 January 2010}}</ref>
+<ref name="UO">{{cite web|url=https://www.uottawa.ca/publications/interscientia/biographies/bunge.html|title=- BIOGRAPHY -  Mario Bunge, PhD, FRSC|publisher=University of Ottawa|accessdate=29 January 2010}}</ref>
+}}
+ 
+==Further reading==
+* [[VV.AA.]] (2003). ''Congreso-homenaxe internacional a Mario Bunge''. Mos (Galicia), Grupo Aletheia. [Includes articles '''in Spanish''' by M. Bunge (Inverse problems), J. Aracil (MB and systems theory), A. Barceló (Philosophy and economics: three Bungen notions), I, Morgado (Brain, mind and philosophy), J. Mosterín (Biographical sketch of MB), M. A. Quintanilla (Instrumental rationality) y Héctor Vucetich (Quantum mechanics and realism), and '''in English''' by M. Mahner (M. Bunge's philosophy of biology)]. 
+* Agassi, Joseph and Robert S. Cohen (eds.) (1982). ''Scientific Philosophy Today: Essays in Honor of Mario Bunge''. Dordrecht, [[D. Reidel]].
+* Denis, Andy (2003). [http://www.staff.city.ac.uk/andy.denis/research/jse.doc Methodology and policy prescription in economic thought: a response to Mario Bunge].
+* Denegri, Guillermo and Gladys E. Martínez (2000). ''Tópicos actuales en filosofía de la ciencia. Homenaje a Mario Bunge en su 80º aniversario''. Mar del Plata, Editorial Martín.
+* Marone, Luis and Rafael González del Solar (2000). <<[https://web.archive.org/web/20081218012213/http://www.ege.fcen.uba.ar/Ecodes/Publicaciones/articulo18.pdf Homenaje a Mario Bunge, o por qué las preguntas en Ecología deberían comenzar con "por qué".]>> In Denegri, Guillermo and Gladys E. Martínez (2000). ''Tópicos actuales en filosofía de la ciencia. Homenaje a Mario Bunge en su 80º aniversario''. Mar del Plata, Editorial Martín. pp.&nbsp;153–178.
+* Serroni-Copello, Raúl  (1989). ''Encuentros con Mario Bunge''. Asociación de Investigaciones en Psicología.
+* Vacher, Laurent-Michel (1993). ''Entretiens avec Mario Bunge''. Montreal, Liber.
+* Wan, Poe Yu-ze (2011). [http://www.nd.edu/~olizardo/papers/sae-wan-review.pdf ''Reframing the Social: Emergentist Systemism and Social Theory'']. Aldershot, England: Ashgate Publishing.
+* Weingartner, Paul and Georg J. W. Dorn (eds.). 1990. ''Studies on Mario Bunge's Treatise''. Amsterdam-Atlanta, GA, Rodopi.
+
+==External links==
+{{wikiquotes}}
+* [https://www.mcgill.ca/philosophy/people/faculty/bunge Mario Bunge's Home Page].
+* [http://www.ontology.co/biblio/bungem.htm Bibliography of selected publications].
+* [http://publications.mcgill.ca/mcgillnews/2005/11/12/the-philosophical-physicist/ The Philosophical Physicist].
+* [http://www.mariobunge.org Wen in honor Mario Bunge].
+
+{{Positivism}}<!-- Bunge is a notable critic of positivism and this fact is reflected in the 'Positivism' template. Please do not remove it! -->
+{{Authority control}}
+
+{{DEFAULTSORT:Bunge, Mario}}
+[[Category:1919 births]]
+[[Category:Living people]]
+[[Category:Argentine essayists]]
+[[Category:Male essayists]]
+[[Category:Argentine male writers]]
+[[Category:Argentine expatriates in Mexico]]
+[[Category:Argentine emigrants to Canada]]
+[[Category:Argentine philosophers]] 
+[[Category:Argentine physicists]]
+[[Category:Argentine socialists]]
+[[Category:Argentine social liberals]]
+[[Category:Argentine people of German descent]]
+[[Category:Atheist philosophers]]
+[[Category:Canadian atheists]]
+[[Category:Canadian philosophers]]
+[[Category:Guggenheim Fellows]]
+[[Category:National University of La Plata alumni]]
+[[Category:National Autonomous University of Mexico faculty]]
+[[Category:Systems scientists]]
+[[Category:Materialists]]
+[[Category:Rationalists]]
+[[Category:Writers from Buenos Aires]]
+[[Category:Writers from Montreal]]
+[[Category:Philosophers of science]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers of technology]]
+[[Category:Logicians]]
+[[Category:Canadian skeptics]]
+[[Category:Canadian socialists]]
+[[Category:Critics of parapsychology]]
+[[Category:Fellows of the Committee for Skeptical Inquiry]]
+[[Category:20th-century atheists]]
+[[Category:21st-century atheists]]

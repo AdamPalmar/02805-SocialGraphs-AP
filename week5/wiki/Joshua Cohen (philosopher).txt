@@ -1,0 +1,89 @@
+{{other people|Joshua Cohen}}
+{{BLP sources|date=December 2007}}
+{{Infobox person
+| name        = Joshua Cohen
+| image= Joshua Cohen.jpg
+| birthname   =
+| birth_date  = {{Birth year and age|1951}}
+| birth_place =
+| education   = [[Yale University]] undergrad; [[Harvard University]] PhD
+| occupation  = [[Political philosopher]] and professor at [[Stanford University]]; faculty, Apple University; co-editor of the ''[[Boston Review]]''; author of many books; frequent guest on [[BloggingHeads.tv]]
+| alias       =
+| title       =
+| family      =
+| spouse      =
+| children    =
+| relatives   =
+}}
+
+'''Joshua Cohen''' ({{IPAc-en|ˈ|k|oʊ|ən}}; born 1951) is an [[American philosopher]] specializing in [[political philosophy]].  He has taught at [[Stanford University]] and [[Massachusetts Institute of Technology]] and is currently a member of the faculty at [[Apple University]] and the [[University of California, Berkeley]].
+
+==Education and career==
+
+Cohen earned B.A. and M.A. degrees in philosophy from [[Yale University]] in 1973, and earned his Ph.D. at [[Harvard University]] under the direction of [[John Rawls]] 1979.  He taught at [[MIT]] from 1979 until 2007, when he moved to [[Stanford University]].  At Stanford, he was Marta Sutton Weeks Professor of Ethics in Society (2008–2014) and professor of political science, philosophy, and law (2006–2014)<ref>{{cite web 
+|url= https://politicalscience.stanford.edu/sites/default/files/josh_cv120214.pdf
+|title= Joshua Cohen, CV
+|publisher= [[Stanford University]]
+|format= PDF
+|page= 2
+|archiveurl= https://web.archive.org/web/20150113030414/https://politicalscience.stanford.edu/sites/default/files/josh_cv120214.pdf
+|archivedate= January 13, 2015
+|deadurl= no
+|accessdate= January 13, 2015
+}}</ref> At Stanford, Cohen was also one of the program leaders (along with [[Larry Diamond]] and [[Terry Winograd]]) for the Program on Liberation Technologies at Stanford's Freeman Spogli Institute for International Studies.  Cohen became part of the faculty of [[Apple University]] in 2011, joining full-time on October 15, 2014 and resigning from Stanford.  He also spends one day a week running a law and philosophy workshop series at the University of California, Berkeley.
+
+He has published articles and book in [[political philosophy]], including [[deliberative democracy]], and [[global justice]], as well as such topics as freedom of expression, electoral finance, and new models of democratic governance. His 2012 Comte Lectures at the [[London School of Economics]] discussed the issues he teaches about: mobile for development and human-centered design.<ref>http://www.lse.ac.uk/publicEvents/events/2012/05/20120516t1830vOT.aspx</ref>
+
+Cohen has been editor of ''[[Boston Review]]'' since 1991 (co-editor with Deb Chasman since 2002), and co-editor of many short anthologies based on articles first published in the magazine. He also frequently takes part in video discussions with other media personalities, for the site [[BloggingHeads.tv]].
+
+==Books==
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Rogers | first2 = Joel | author-link2 = Joel Rogers | title = On democracy | publisher = Penguin Books | location = Middlesex, England | year = 1983 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Rogers | first2 = Joel | author-link2 = Joel Rogers | title = Inequity and intervention: The Federal Budget and Central America | publisher = [[South End Press]] | location = Boston | year = 1986 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Rogers | first2 = Joel | author-link2 = Joel Rogers | title = Rules of the game | publisher = [[South End Press]] | location = Boston | year = 1986 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Rogers | first2 = Joel | author-link2 = Joel Rogers | title = Associations and democracy | publisher = [[Verso Books]] | series = [[The Real Utopias Project]] | date = 1995 | location = London | isbn = 1859849288 }} with [[Paul Q. Hirst]], [[Claus Offe]], [[Jane Mansbridge]], [[Andrew Szasz]], [[Andrew Levine]], [[Philippe C. Schmitte]], [[Wolfgang Streeck]], [[Ira Katznelson]], [[Ellen M. Immergut]], [[Iris Marion Young]], and [[Heinz Klug]].
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Rogers | first2 = Joel | author-link2 = Joel Rogers | title = The new inequality | publisher = Beacon Press | location = Boston | year = 1999 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Okin | first2 = Susan Moller | last3 = Nussbaum | first3 = Martha | last4 = Howard | first4 = Matthew | author-link2 = Susan Moller Okin | author-link3 = Martha Nussbaum | title = Is multiculturalism bad for women? | publisher = Princeton University Press | location = Princeton, New Jersey | year = 1999 | isbn = 9780691004327 }} [https://www.amherst.edu/media/view/88038/original/Susan%2BMoller%2BOkin.pdf Originally an essay (pdf).]
+* {{cite book | last1 = Cohen | first1 = Joshua | last2 = Shanley | first2 = Mary Lyndon | last3 = Chasman | first3 = Deborah | author-link2 = Mary Lyndon Shanley | title = Just marriage | publisher = Oxford University Press | location = Oxford UK New York | year = 2004 | isbn = 9780195176261 }}
+* {{cite book | last1 = Cohen | first1 = Joshua | title = Philosophy, politics, democracy: Selected papers | publisher = Harvard University Press | location = Cambridge | year = 2009 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | title = The arc of the moral universe and other papers| publisher = Harvard University Press | location = Cambridge | year = 2010 | isbn =  }}
+* {{cite book | last1 = Cohen | first1 = Joshua | title = Rousseau: A free community of equals | publisher = Oxford University Press | location = New York | year = 2011 | isbn =  }}
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons and category|Joshua Cohen (philosopher)|Joshua Cohen (philosopher)}}
+*{{cite web 
+|url= https://politicalscience.stanford.edu/people/joshua-cohen
+|title= Joshua Cohen. Political Science
+|publisher= [[Stanford University]]
+|at= Emeriti section of the website
+|archiveurl= https://web.archive.org/web/20150112031201/https://politicalscience.stanford.edu/people/joshua-cohen
+|archivedate= January 12, 2015
+|deadurl= no
+|accessdate= January 12, 2015
+}}
+*[http://bloggingheads.tv/?s=joshua+cohen Video debates featuring Cohen] on [[Bloggingheads.tv]]
+*{{YouTube|fiWJAdFTIxQ|Joshua Cohen on Citizens United}} 2011 Dewey Lecture at University of Chicago
+* [http://web.mit.edu/echemi/www/030402.html Joshua Cohen Playlist] Appearance on WMBR's ''[http://web.mit.edu/echemi/www/index.html Dinnertime Sampler]'' radio show April 2, 2003
+*[http://www2.lse.ac.uk/newsAndMedia/videoAndAudio/channels/publicLecturesAndEvents/player.aspx?id=1476 Joshua Cohen's 2012 Comte Lectures] On mobile-for-development and human-centered design.
+{{September group}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cohen, Joshua}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:American political philosophers]]
+[[Category:American political theorists]]
+[[Category:Harvard University alumni]]
+[[Category:Stanford University Department of Philosophy faculty]]
+[[Category:Yale University alumni]]
+
+
+{{US-philosopher-stub}}

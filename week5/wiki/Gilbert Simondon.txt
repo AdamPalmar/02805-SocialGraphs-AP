@@ -1,0 +1,145 @@
+{{more footnotes|date=August 2014}}
+{{Infobox philosopher
+|region           = [[Western Philosophy]]
+|era              = [[20th-century philosophy]]
+|name             = Gilbert Simondon
+|birth_date       = 2 October 1924
+|birth_place      = [[Saint-Étienne]]
+|death_date       = {{b-da|7 February 1989}}
+|death_place      = [[Palaiseau]]
+|alma_mater      =  [[University of Paris]]
+|school_tradition = [[Continental philosophy]]
+|main_interests   = [[information]], [[communication]], [[philosophy of nature]], [[philosophy of science]], [[epistemology]], [[technology]]
+|notable_ideas    = [[Individuation]], "transduction", "concrétisation", "transindividuel", "préindividuel"
+|influences       = [[André Leroi-Gourhan]], [[Norbert Wiener]]
+|influenced       = [[Gilles Deleuze|Deleuze]], [[Bernard Stiegler|Stiegler]]|
+}}
+'''Gilbert Simondon''' (2 October 1924 &ndash; 7 February 1989) was a French [[philosopher]] best known for his theory of [[individuation]], a major source of inspiration for [[Gilles Deleuze]] and [[Bernard Stiegler]].
+
+== Career ==
+Born in [[Saint-Étienne]], Simondon was a student of philosopher of science [[Georges Canguilhem]], philosopher [[Martial Guéroult]], and phenomenologist [[Maurice Merleau-Ponty]]. He studied at the [[Ecole Normale Supérieure]] and the [[Sorbonne]]. He defended his doctoral dissertations in 1958 at the [[University of Paris]]. His main thesis, ''L'individuation à la lumière des notions de Forme et d'Information'' (''Individuation in the light of the notions of Form and Information''), was published in two parts, the first in 1964 under the title ''L'individu et sa génèse physico-biologique'' (''Individuation and its physical-biological genesis'') at the Presses Universitaires de France, while it is only in 1989 that Aubier published the second part, ''L'individuation psychique et collective'' (''Psychic and collective individuation''). While his main thesis, which laid the foundations of his thinking, was not widely read until it was commented upon by [[Gilles Deleuze]] and, more recently, [[Bruno Latour]] and [[Bernard Stiegler]], his complementary thesis, ''Du mode d'existence des objets techniques'' (''On the mode of existence of technical objects'') was published by Aubier immediately after being completed (in 1958) and had an instant impact on a wide audience. It was only in 2005 that Jérôme Millon published a complete edition of the main thesis.
+
+== Individuation and technology ==
+In ''L'individuation psychique et collective'', Simondon developed a theory of individual and collective [[individuation]], in which the individual [[subject (philosophy)|subject]] is considered as an effect of individuation, rather than as a cause. Thus the individual atom is replaced by the neverending process of individuation. Simondon also conceived of "pre-individual fields" as the funds making individuation itself possible. Individuation is an always incomplete process, always leaving a "pre-individual" left-over, itself making possible future individuations. Furthermore, individuation always creates both an individual and a collective subject, which individuate themselves together. Simondon criticized [[Norbert Wiener]]'s theory of [[cybernetics]], arguing that "Right from the start, Cybernetics has accepted what all theory of technology must refuse: a classification of technological objects conducted by means of established criteria and following genera and species." Simondon aimed to overcome the shortcomings of cybernetics by developing a "general [[Phenomenology (philosophy)|phenomenology]]" of machines.
+
+== Influence ==
+Simondon's theory of [[individuation]] through [[Transduction (psychology)|transduction]] in a [[metastable]] environment was an important influence on the thought of [[Gilles Deleuze]], whose ''[[Difference and Repetition|Différence et répétition]]'' (1968), ''[[The Logic of Sense|Logique du sens
+]]'' (1969) and ''L'île déserte'' (2002) make explicit reference to Simondon's work. ''Gilbert Simondon: une pensée de l'individuation et de la technique'' (1994), the proceedings of the first conference devoted to Simondon's work, further charts his influence on such thinkers as [[François Laruelle]], [[Gilles Châtelet]], [[Anne Fagot-Largeau]], [[Yves Deforge]], [[René Thom]], and [[Bernard Stiegler]] (the latter having placed Simondon's theory of individuation at the very heart of his ongoing and multi-volume philosophical project). Another contributor to ''Gilbert Simondon: une pensée de l'individuation et de la technique'', Simondon's friend [[John Hart]]{{disambiguation needed|date=February 2014}}, was the instigator of the very first translation—from French into English c.1980—of Simondon's work (this at University of Western Ontario in Canada where Hart had founded both a Department of Computer Science and a Simondon-inspired network: the ATN, or [[Audio Tactile Network]] in 1964<ref>Mark Hayward and Ghislain Thibault, 'Machinic Milieus: Simondon, John Hart and Mechanology',From Disability History Newsletter, Fall 2013</ref>). Currently, Simondon can be seen as a major influence on the work of such scholars as [[Paolo Virno]], [[Jean-Hugues Barthélémy]], [[Thierry Bardini]], [[Luciana Parisi]], [[Brian Massumi]], [[Adrian Mackenzie]], [[Muriel Combes]], [[Carl Mitcham]], [[Andrew Feenberg]], [[Isabelle Stengers]], [[Thomas LaMarre]], [[Bruno Latour]] and [[Anne Sauvagnargues]].
+
+== Bibliography ==
+
+===Primary literature===
+*''Du mode d'existence des objets techniques'' (Méot, 1958; second ed. Paris: Aubier, 1989).
+*''L'individu et sa genèse physico-biologique (l'individuation à la lumière des notions de forme et d'information)'' (Paris: [[University Presses of France|PUF]], 1964; second ed. J.Millon, coll. Krisis, 1995).
+*''L'individuation psychique et collective'' (Paris, Aubier, 1989; reprinted in 2007 with a preface by Bernard Stiegler).
+
+'''Posthumous publications'''
+*''L’Invention dans les techniques'', Cours et conferences (Éd. du Seuil, coll. "Traces écrites").
+*''L’Individuation à la lumière des notions de forme et d’information'' (Jérôme Millon, coll. Krisis).
+*''Cours sur la perception (1964–1965)'', Préface de Renaud Barbaras (Editions de La Tansparence).
+*''Imagination et invention (1965–1966)'' (Editions de La Transparence, 2008).
+*''Communication et Information. Cours et Conférences'' (Éditions de La Transparence, 2010).
+*''Sur la technique'' (P.U.F., 2014).
+*''Sur la psychologie'' (P.U.F., 2015).
+*''Sur la philosophie'' (P.U.F., 2016).
+
+'''English translations'''
+*"Technical Mentality," trans. Arne De Boever, ''Parrhesia'' 07 (2009): 7-27 [http://www.parrhesiajournal.org/index.html]. 
+*"Techno Aesthetics," trans. Arne De Boever, ''Parrhesia'' 14 (2012): 1-8 [http://www.parrhesiajournal.org/parrhesia14/parrhesia14_simondon.pdf]. 
+*"Technical Individualization," in Joke Brouwer & Arjen Mulder (eds.), ''[http://www.naipublishers.nl/art/interact_e.html Interact or Die!]'' (Rotterdam: NAi, 2007). 
+*"The Essence of Technicity," trans. Ninian Mellamphy, Dan Mellamphy & Nandita Biswas Mellamphy, [http://www.euppublishing.com/doi/pdfplus/10.3366/dls.2011.0029 ''Deleuze Studies'' 5 (11.11.2011): 406-424],[http://www.academia.edu/4185570  &#91;2&#93;.  ] 
+*"The Genesis of the Individual," in Jonathan Crary & Sanford Kwinter (eds.), ''Incorporations'' (New York: Zone Books, 1992): 297–319.
+*"The Position of the Problem of Ontogenesis," trans. Gregory Flanders, ''Parrhesia'' 07 (2009): 4-16. [http://www.parrhesiajournal.org/index.html]. 
+* "The Limits of Human Progress," trans Sean Cubitt, ''Cultural Politics'', 8(2) (2010): 229-36.[http://culturalpolitics.dukejournals.org/ ''Cultural Politics'', 8(2) (2010): 229-36]
+*''Two Lessons on Animal and Man'' (Minneapolis: Univocal Publishing, 2012). 
+* Also see the [[Simondon#Online translations|''Online translations'']] section (below) for unpublished translations.
+
+===Secondary literature===
+*Morizot, Baptiste, ''Pour une théorie de la rencontre. Hasard et individuation chez Gilbert Simondon'' (Paris: Vrin, 2016; forward by Jean-Hugues Barthélémy).
+*Bontems, Vincent (dir.), ''Gilbert Simondon ou l'invention du futur'' (Paris: Klincksieck, 2016).
+*Alloa, Emmanuel, "[https://www.cairn.info/revue-critique-2015-5-page-356.htm Prégnances du devenir. Simondon et les images]", in ''Critique'' 816 (2015): 356 - 371 {{fr icon}}.
+*Alloa, Emmanuel & Judith Michalet, [https://www.academia.edu/31894400/Differences_in_Becoming._Gilbert_Simondon_and_Gilles_Deleuze_on_Individuation "Differences in Becoming. Gilbert Simondon and Gilles Deleuze on Individuation"] in Philosophy Today vol. 61 no. 3 (2017):  475-502.. 
+*Barthélémy, Jean-Hugues, ''Life and Technology: An Inquiry Into and Beyond Simondon'' (tr. B. Norman, Meson Press, 2015).
+*Bardin, Andrea, ''[https://www.springer.com/philosophy/epistemology+and+philosophy+of+science/book/978-94-017-9830-3 Epistemology and Political Philosophy in Gilbert Simondon. Individuation, Technics, Social Systems]'' (Springer, 2015).
+*Barthélémy, Jean-Hugues, ''Simondon'' (Paris: Les Belles Lettres, 2014).
+*Barthélémy, Jean-Hugues (dir.), ''Cahiers Simondon'' N° 1 to 6 (Paris: L'Harmattan, 2009-2015).
+*Barthélémy, Jean-Hugues, "Individuation and Knowledge. The refutation of idealism in Simondon's Heritage in France", translated by M. Hayward and A. De Boever, ''SubStance'', Special Issue "Gilbert Simondon", Issue 129, Vol. 41, N°3, 2012.
+*Barthélémy, Jean-Hugues, "What new Humanism today ?", translated by Chris Turner, ''Cultural Politics'', Vol. 6, Issue 2, Bergs Publishers, 2010.
+*Barthélémy, Jean-Hugues, "Du mort qui saisit le vif. Simondonian ontology today", trans. [[Justin Clemens]], [http://www.parrhesiajournal.org/index.html Parrhesia 7 (2009): 28-35].
+*Barthélémy, Jean-Hugues, ''Simondon ou l'encyclopédisme génétique'' (Paris: Presses Universitaires de France, 2008)
+*Barthélémy, Jean-Hugues, ''Penser l'individuation. Simondon et la philosophie de la nature'' (Paris: L'Harmattan, 2005). {{fr icon}}.
+*Barthélémy, Jean-Hugues, ''Penser la connaissance et la technique après Simondon'' (Paris: L'Harmattan, 2005). {{fr icon}}.
+*Bidet, Alexandra, Macé, Marielle. "S'individuer, s'émanciper, risquer un style (autour de Simondon)", ''Revue du Mauss'', n°38 - Emancipation, subjectivation, individuation. Psychanalyse, philosophie et science sociale, La Découverte, 2011, pp.&nbsp;269–284.
+*Caponi, Saverio, ''Gilbert Simondon. La tecnica e la vita'', Lulu.com, 2010.
+*Carrozzini, Giovanni, ''Gilbert Simondon filosofo della mentalité technique'', Mimesis, Milano 2011.
+*Carrozzini, Giovanni, ''Gilbert Simonodn: per un'assiomatica dei saperi. Dall'"ontologia dell'individuo" alla filosofia della tecnologia'', Manni, San Cesario di Lecce 2006
+*Chabot, Pascal, ''La philosophie de Simondon'' (Paris, Vrin, 2003). (English translation : "[http://www.bloomsbury.com/uk/the-philosophy-of-simondon-9781780933115/ The philosophy of Simondon.Between technology and individuation]", Bloomsbury, 2013)
+*Combes, Muriel, ''Gilbert Simondon and the Philosophy of the Transindividual'', translated by Thomas LaMarre, MIT Press 2013 (originally published in French: ''Simondon, Individu et collectivité'', Presses Universitaires de France 1999)
+* Critique no. 816 (2015), Special Issue on Gilbert Simondon, with texts by Elie During, Emmanuel Alloa, Irlande Saurin, Anne Sauvegnargues and Gilbert Simondon [http://www.leseditionsdeminuit.fr/f/index.php?sp=liv&livre_id=3125]
+*[[Gilles Deleuze|Deleuze, Gilles]], "On Gilbert Simondon," in ''Desert Islands and Other Texts, 1953–1974'' (Los Angeles & New York: Semiotext(e), 2004): 86–9. {{ISBN|1-58435-018-0}}
+*De Boever, Murray, Roffe & Ashley (eds.), ''[http://www.euppublishing.com/book/9780748677214 Gilbert Simondon: Being and Technology]'' ([http://www.euppublishing.com Edinburgh University Press], hardback: 2012; paperback: March 2013).
+*Dumouchel, Paul, "Gilbert Simondon's Plea for a Philosophy of Technology," in ''The Politics of Knowledge'' (Bloomington & Indianapolis: Indiana University Press, 1995): 255-71. {{ISBN|0-253-20940-4}}.
+*During, Elie, [http://ciepfc.rhapsodyk.net/article.php3?id_article=128 Simondon au pied du mur]. {{fr icon}}.
+*[[Gilbert Hottois|Hottois, Gilbert]], ''Simondon et la philosophie de la culture technique'' (Brussels: De Boeck, 1992). {{fr icon}}.
+*Mackenzie, Adrian, ''Transductions: Bodies and Machines at Speed'' (Continuum Press, 2002). {{ISBN|0-8264-5883-1}}
+*Massumi, Brian, ''Technical Mentality" Revisited: Brian Massumi on Gilbert Simondon,'' [http://www.parrhesiajournal.org/index.html Parrhesia 7 (2009): 36-45].
+*Mills, Simon, ''Gilbert Simondon - Information, Technology and Media'' (Rowman and Littlefield, 2016).
+*Revue philosophique de la France et de l'étranger, ''Gilbert Simondon'', n°3/2006.
+*[[Bernard Stiegler|Stiegler, Bernard]], ''[[Acting Out (book)|Acting Out]]'' (Stanford: Stanford University Press, 2009).
+*Stiegler, Bernard, [http://www.parrhesiajournal.org/parrhesia07/parrhesia07_stiegler.pdf The Theater of Individuation: Phase-shift and Resolution in Simondon and Heidegger], trans.  Kristina Lebedeva, ''Parrhesia'' 7 (2009): 46-57.
+*Stiegler, Bernard, ''[[Technics and Time, 1: The Fault of Epimetheus]]'' (Stanford: Stanford University Press, 1998).
+*Stiegler, Bernard, [http://multitudes.samizdat.net/Temps-et-individuation-technique.html Temps et individuation technique, psychique, et collective dans l’oeuvre de Simondon]. {{fr icon}}.
+*[[Alberto Toscano|Toscano, Alberto]], "Technical Culture and the Limits of Interaction: A Note on Simondon," in Joke Brouwer & Arjen Mulder (eds.), ''Interact or Die!'' (Rotterdam: NAi, 2007): 198-205.
+*Virno, Paolo, ''Angels and the General Intellect: Individuation in Duns Scotus and Gilbert Simondon,'' [http://www.parrhesiajournal.org/index.html Parrhesia 7 (2009): 58-67].
+
+==Film==
+François Lagarde and Pascal Chabot have made a movie on Simondon: [http://www.hors-oeil.com/index.php?option=com_content&task=view&id=67&Itemid=1 Simondon of the Desert (english translation)] with Anne Fagot-Largeault, Arne De Boever, Dominique Lecourt, Gilbert Hottois, Giovanni Carrozzini, Jean-Hugues Barthélémy, Jean Clottes, and music by Jean-Luc Guillonet.
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote}}
+
+===Online translations===
+*[http://philosophyofinformationandcommunication.files.wordpress.com/2013/02/gilbert-simondon-save-the-technical-object.pdf Save the Technical Object], link to PDF file of unpublished 2013 translation.
+*[https://archive.org/details/Simondon--ModeOfExistenceOfTechnicalObjectsinProgress MEOT / METO], link to PDF file of unpublished 2010 translation.
+* Also see the [[Simondon#Primary literature|''English translations'']] section (above) for published translations.
+
+===Other links===
+*[http://www.parrhesiajournal.org/ The Gilbert Simondon issue of ''Parrhesia''] 
+*[http://www.aphelis.net/blog/gilbert-simondon/ Filmed interview of Gilbert Simondon] on the subject of mechanology, 1968 {{fr icon}}.
+*[http://www.academia.edu/3337555 On Gilbert Simondon's Unified Theory of Technics and Technology, by François Laruelle]
+*[http://revues.mshparisnord.org/appareil/index.php?id=576 ''Autour de Simondon:'' List of articles about Simondon, by the revue online ''Appareil''] {{fr icon}}.
+*[https://link.springer.com/content/pdf/10.1007%2Fs13347-012-0092-5.pdf Sissel-Hoel and Van-der-Tuin on Simondon's link to Ernst Cassirer]
+*[http://www.gilbert.simondon.fr/content/biography Gilbert Simondon Biography by Nathalie Simondon]
+*[http://ciepfc.rhapsodyk.net/article.php3?id_article=128 "Simondon au pied du mur" by Elie During] {{fr icon}}. 
+*[http://www.academia.edu/4184556 Mode of Existence, English translation]. 
+*[http://www.academia.edu/4185570 On the Essence of Technicity].
+*[http://philosophyofinformationandcommunication.files.wordpress.com/2013/07/gilbert-simondon-biography1.pdf Simondon biography] 
+*[http://revues.mshparisnord.org/appareil/index.php?id=98 List of articles about Simondon] {{fr icon}}.
+*[https://appareil.revues.org/2205 Online Issue on Simondon], by Jean-Hugues Barthélémy (dir.)). 
+*[http://thefunambulist.net/2013/11/25/simondon-episode-01-for-an-allagmatic-architecture-introduction-to-the-work-of-gilbert-simondon/ "Simondon Week" on TheFunambulist.net]. 
+*[http://skhole.fr/penser-l-%C3%A9cole-avec-gilbert-simondon-par-jean-hugues-barth%C3%A9l%C3%A9my "Penser l'école avec Gilbert Simondon"] {{fr icon}}.
+*[http://www.mshparisnord.fr/cides/ CIDES (Centre International des Études Simondoniennes) a.k.a. ICSS (International Center for Simondon Studies)]
+*[http://www.canal-u.tv/themes__1/lettres_arts_langues_et_civilisation/quel_nouvel_humanisme_aujourd_hui_jean_hugues_barthelemy Conference-video on Gilbert Simondon and the New Enlightenment] {{fr icon}}.
+*[http://monoskop.org/Simondon Simondon at Monoskop.org], with extensive bibliography.
+*[https://fractalontology.wordpress.com/2007/11/28/a-short-list-of-gilbert-simondons-vocabulary/ A short list of Gilbert Simondon's vocabulary]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Simondon, Gilbert}}
+[[Category:1924 births]]
+[[Category:1989 deaths]]
+[[Category:People from Saint-Étienne]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:University of Paris alumni]]
+[[Category:20th-century French philosophers]]
+[[Category:Historians of technology]]
+[[Category:Metaphysicians]]
+[[Category:Philosophers of technology]]
+[[Category:Social philosophers]]
+[[Category:Epistemologists]]
+[[Category:Continental philosophers]]
+[[Category:20th-century historians]]
+[[Category:French male writers]]

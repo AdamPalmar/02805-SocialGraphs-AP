@@ -1,0 +1,174 @@
+{{about||the dancer|Leonard Reed|the policeman|Leonard "Nipper" Read}}
+{{Infobox economist
+| name             = Leonard Read
+| school_tradition = [[Austrian School]]
+| image            = Leonard_Read_w-_Mises,_Hazlitt_and_Fertig.jpg
+| image_size       =
+| caption          = [[Lawrence Fertig]], [[Ludwig von Mises]], Leonard Read and [[Henry Hazlitt]] (left to right)
+| birth_date       = {{birth date|1898|09|26}}
+| birth_place      = [[Hubbardston, Michigan|Hubbardston]], [[Michigan]], [[United States|U.S.]]
+| death_date       = {{Death date and age|1983|05|14|1898|09|26|mf=yes}}
+| death_place      =
+| nationality      = American
+| institution      = [[Foundation for Economic Education]] (founder)
+| field            =
+| alma_mater       =
+| influences       = [[Frédéric Bastiat]]<br>[[F.A. Hayek]]<br>[[Henry Hazlitt]]<br>[[Ludwig von Mises]]<br>[[Albert Jay Nock]]<br>[[Ayn Rand]]
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =   | repec_id =
+}}
+{{Austrian School sidebar}}
+{{Libertarianism sidebar}}
+'''Leonard Edward Read''' (September 26, 1898 – May 14, 1983) was the founder of the [[Foundation for Economic Education]] (FEE), which was one of the first modern [[Libertarianism in the United States|libertarian]] institutions of its kind in the United States. He wrote 29 books and numerous essays, including the well-known "[[I, Pencil]]" (1958).
+
+==Business career==
+
+After a stint in the [[United States Army Air Service]] during [[World War I]], Read started a grocery wholesale business in [[Ann Arbor, Michigan]], which was initially successful but eventually went out of business.  He moved to [[California]] where he started a new career in the tiny [[Burlingame, California|Burlingame]] [[Chamber of Commerce]] near [[San Francisco, California|San Francisco]]. Read gradually moved up the hierarchy of the [[United States Chamber of Commerce]], finally becoming general manager of the [[Los Angeles Chamber of Commerce|Los Angeles branch]], America's largest, in 1939.
+
+==Libertarian activism==
+
+During this period his views became progressively more [[libertarianism|libertarian]]. Apparently, it was in 1933, during a meeting with [[William C. Mullendore]], the executive vice president of [[Southern California Edison]], that Read was finally convinced that the [[New Deal]] was completely inefficient and [[morally bankrupt]]. Read was also profoundly influenced by his [[religion|religious beliefs]]. His [[pastor]], Reverend James W. Fifield, was minister of the 4,000-member First Congregational Church of Los Angeles, of which Read was also a board member. Fifield ran a "resistance movement" against the "[[Social Gospel|social gospel]]" of the New Deal, trying to convince ministers across the country to adopt libertarian "spiritual ideals." During the period when he worked for the Chamber of Commerce, Read was also deeply influenced by more secular figures, such as Albert Jay Nock, and, later, by Ayn Rand and the economists Ludwig von Mises and Henry Hazlitt.
+
+In 1945, [[Virgil Jordan]], the President of the [[National Industrial Conference Board]] (NICB) in New York, invited Read to become its executive vice president. Read realized he would have to leave the NICB to pursue full-time the promotion of free market, limited government principles. He resigned as a  result.<ref>[[Gary North (economist)|North, Gary]]. (August 7, 2002) [http://archive.lewrockwell.com/north/north117.html "Leonard E. Read's Small Tent Strategy"], [[LewRockwell.com]]</ref><ref>{{Citation
+  | last = Opitz
+  | first = Edmund A.
+  | author-link =
+  | title = Leonard E. Read: A Portrait
+  | journal = [[The Freeman]]
+  | volume = 48
+  | issue = 9
+  | pages =
+  |date=September 1998
+  | origyear =
+  | url = http://www.thefreemanonline.org/featured/leonard-e-read-a-portrait/
+  | jstor =
+  | doi =
+  | id =
+  | mr =
+  | zbl = }}</ref>
+
+One donor from his short time at NICB, David M. Goodrich, encouraged Read to start his own organization. With Goodrich's aid, as well as financial aid from the [[William Volker Fund]] and from [[Harold Luhnow]], Read and Hazlitt founded the Foundation for Economic Education in 1946, which, in turn, helped to inspire [[Friedrich Hayek]] to form the [[Mont Pelerin Society]] the following year. For a period in the 1940s, philosopher Ayn Rand was an important adviser, or "ghost," as they called it, to Read.<ref>Burns, Jennifer, ''[[Goddess of the Market|Goddess of the Market: Ayn Rand and the American Right]]'', 2010, Oxford Univ. Press, pp. 115–120.</ref>
+
+In 1950, Read joined the board of directors for the newly founded periodical ''The Freeman'', a free market magazine that was a forerunner of the conservative ''[[National Review]]'', to which Read was also a contributor. In 1954, Read arranged for the struggling magazine to be transferred to a for-profit company owned by FEE. In 1956, FEE assumed direct control of the magazine, turning it into a non-profit outreach tool for the foundation.<ref>{{cite news|last1=Poirot|first1=Paul|title=Consistently and Continuously Standing Against the Fallacies and Clichés of Politics|url=http://fee.org/freeman/detail/the-freeman-ideas-on-liberty|accessdate=3 March 2015|publisher=The Freeman|date=Jan 1, 2006}}</ref><ref>{{cite book |title=The Conservative Press in Twentieth-Century America |chapter=''Freeman'', 1950- |last=Hamilton |first=Charles H. |editor1-last=Lora |editor1-first=Ronald |editor2-last=Henry |editor2-first=William Longton (eds.) |location=Westport, Connecticut |publisher=Greenwood Publishing Group |year=1999 |isbn=0-313-21390-9 |oclc=40481045 |pages=321–27}}</ref><ref name="Doherty198-199">{{cite book |title=[[Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement]] |last=Doherty |first=Brian |authorlink=Brian Doherty (journalist) |location=New York |publisher=Public Affairs |year=2007 |isbn=978-1-58648-572-6 |oclc=76141517 |pages=198–99}}</ref>
+
+Read received an Honorary Doctoral Degree at [[Universidad Francisco Marroquín]] in 1976. He continued to work with FEE until his death in 1983.
+
+==Works==
+Read authored 29 books, some of which are still in print and sold by FEE.
+* ''Romance of Reality'' (New York: Dodd, Mead & Co., Inc., 1937) [http://fee.org/library/detail/romance-of-reality]
+* ''I'd Push the Button'' (New York: Joseph D. McGuire, 1946) [http://fee.org/library/detail/id-push-the-button]
+* ''Pattern for Revolt'' (1948) [http://fee.org/library/detail/pattern-for-revolt-2]
+* ''Students of Liberty'' (FEE, 1950) [http://fee.org/library/detail/students-of-liberty-2]
+* ''Outlook for Freedom'' (1951) [http://fee.org/library/detail/outlook-for-freedom]
+* ''Government – an Ideal Concept'' (FEE, 1954; 2nd edition 1997) {{ISBN|1-57246-061-X}} [http://fee.org/library/detail/governmentan-ideal-concept]
+* "I, Pencil" (FEE, 1958 & 2008) [http://www.fee.org/files/doclib/20121114_IPencilUpdatedCover2012.pdf]
+* ''Why Not Try Freedom?'' (FEE, 1958) [http://fee.org/library/detail/why-not-try-freedom-2]
+* ''Elements of Libertarian Leadership'' (FEE, 1962) [http://fee.org/library/detail/elements-of-libertarian-leadership-2]
+* ''Anything That's Peaceful: The Case for the Free Market'' (FEE, 1964; revised edition 1992; 2nd edition 1998) {{ISBN|1-57246-079-2}} [http://fee.org/publications/detail/anything-thats-peaceful]
+* ''The Free Market and Its Enemy'' (FEE, 1965) [http://fee.org/library/detail/the-free-market-and-its-enemy-2]
+* ''Deeper Than You Think'' (FEE, 1967) [http://fee.org/library/detail/deeper-than-you-think-2]
+* ''Where Lies This Fault?'' (FEE, 1967) [http://fee.org/library/detail/where-lies-this-fault]
+* ''Accent on the Right'' (FEE, 1968) [http://fee.org/library/detail/accent-on-the-right-2]
+* ''The Coming Aristocracy'' (FEE, 1969) [http://fee.org/publications/detail/the-coming-aristocracy-2]
+* ''Let Freedom Reign'' (FEE, 1969) [http://fee.org/publications/detail/let-freedom-ring-2]
+* ''Talking To Myself'' (FEE, 1970) [http://fee.org/library/detail/talking-to-myself-2]
+* ''Then Truth Will Out'' (FEE, 1971) [http://fee.org/publications/detail/then-truth-will-out-2]
+* ''To Free or Freeze, That is the Question'' (FEE, 1972) [http://fee.org/publications/detail/to-free-or-freeze-2]
+* ''Instead of Violence'' (FEE, 1973) [http://fee.org/library/detail/instead-of-violence]
+* ''Who's Listening'' (FEE, 1973) [http://fee.org/publications/detail/whos-listening-2]
+* ''Free Man's Almanac'' (FEE, 1974)
+* ''Having My Way'' (FEE, 1974) [http://fee.org/library/detail/having-my-way-2]
+* ''Castles in the Air'' (FEE, 1975) {{ISBN|0-910614-52-0}} [http://fee.org/library/detail/castles-in-the-air-2]
+* ''The Love of Liberty'' (FEE, 1975)
+* ''Comes the Dawn'' (FEE, 1976) [http://fee.org/publications/detail/comes-the-dawn-2]
+* ''Awake for Freedom's Sake'' (FEE, 1977) [http://fee.org/publications/detail/awake-for-freedoms-sake]
+* ''Vision'' (FEE, 1978) [http://fee.org/library/detail/vision-2]
+* ''Liberty: Legacy of Truth'' (FEE, 1978) [http://fee.org/library/detail/liberty-legacy-of-truth-2]
+* ''The Freedom Freeway'' (FEE, 1979) [http://fee.org/publications/detail/the-freedom-freeway-2]
+* ''Seeds of Progress'' (FEE, 1980) [http://fee.org/library/detail/seeds-of-progress-2]
+* ''Thoughts Rule the World'' (FEE, 1981) [http://fee.org/publications/detail/thoughts-rule-the-world]
+* ''How Do We Know'' (FEE, 1981) [http://fee.org/publications/detail/how-we-do-know]
+* ''The Path of Duty'' (FEE, 1982) [http://fee.org/library/detail/the-path-of-duty-2]
+* ''Clichés of Socialism'' (FEE, various)
+
+==See also==
+* [[Classical liberalism]]
+* [[Laissez-faire]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite encyclopedia |last1=Boudreaux |first1= Donald |authorlink1=Donald J. Boudreaux|last2=Slepko |first2=Nick |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=  Read, Leonard E. (1898–1983) |url= https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n256 |isbn= 978-1-4129-6580-4 |oclc=750831024| lccn = 2008009151 |pages=416–18 |quote= |ref= }}
+* {{Citation
+  | last = Greaves
+  | first = Bettina Bien
+  | author-link =
+  | title = Leonard E. Read, Crusader
+  | journal = The Freeman
+  | volume = 48
+  | issue = 9
+  | pages =
+  |date=September 1998
+  | origyear =
+  | url = http://www.thefreemanonline.org/featured/leonard-e-read-crusader/
+  | jstor =
+  | doi =
+  | id =
+  | mr =
+  | zbl = }}
+* {{Cite web
+  | last = Hornberger
+  | first = Jacob G.
+  | authorlink = 
+  | title = The Legacy of Leonard E. Read
+  | work =
+  | publisher = The Future of Freedom Foundation
+  |date=September 1991
+  | url = http://www.fff.org/freedom/0991a.asp
+  | format =
+  | doi =
+  | accessdate = }}
+* {{Citation
+  | last = Sennholz
+  | first = Mary
+  | author-link =
+  | title = Leonard Read, the Founder and Builder
+  | journal = The Freeman
+  | volume = 46
+  | issue = 5
+  | pages =
+  |date=May 1996
+  | url = http://www.thefreemanonline.org/featured/leonard-read-the-founder-and-builder/
+  | jstor =
+  | doi =
+  | id =
+  | mr =
+  | zbl = }}
+
+==External links==
+* [https://mises.org/literature.aspx?action=author&Id=1191 Books by Leonard Read] at the [[Ludwig von Mises Institute|Mises Institute]].
+* [http://fee.org Foundation for Economic Education]
+* [https://web.archive.org/web/20110501000000/https://www.ufm.edu/cms/es/honorary-doctoral-degrees Honoris Causa Doctaral degrees at University Francisco Marroquín]
+* {{Goodreads author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Read, Leonard}}
+[[Category:1898 births]]
+[[Category:1983 deaths]]
+[[Category:Austrian School economists]]
+[[Category:American essayists]]
+[[Category:American libertarians]]
+[[Category:American political philosophers]]
+[[Category:American political writers]]
+[[Category:American male writers]]
+[[Category:Mont Pelerin Society members]]
+[[Category:Old Right (United States)]]
+[[Category:20th-century American writers]]
+[[Category:American male essayists]]
+[[Category:20th-century essayists]]
+[[Category:People from Hubbardston, Michigan]]

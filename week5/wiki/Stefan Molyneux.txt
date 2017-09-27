@@ -1,0 +1,130 @@
+{{pp-semi|small=yes}}
+{{Distinguish|Stephen Molyneux}}
+{{Infobox person
+| name          = Stefan Molyneux
+| image         = Stefan Molyneux 2014-02-10.jpg
+| caption       = Stefan Molyneux in 2014
+| birth_name    = Stefan Basil Molyneux
+| birth_date    = {{Birth date and age|1966|9|24}}
+| birth_place   = [[Athlone]], [[Republic of Ireland]]
+| death_date    =
+| death_place   =
+| nationality   = Canadian
+| spouse        = 
+| alma_mater    = [[York University]] <small>(did not graduate)</small><br>[[McGill University]] <small>([[Bachelor of Arts|B.A.]])</small><br />[[University of Toronto]] <small>([[Master of Arts|M.A.]])</small>
+| occupation    = Host of ''Freedomain Radio'' podcast, YouTuber
+| known_for     =
+| notable_works = 
+| website       = {{URL|freedomainradio.com}}
+}}
+
+'''Stefan Basil Molyneux''' ({{IPAc-en|s|t|ə|ˈ|f|æ|n|_|ˈ|m|ɒ|l|ᵻ|nj|uː}}; born September 24, 1966) is an Irish-born Canadian [[podcast]]er and [[List of YouTubers|YouTuber]]. Molyneux, a [[Self-publishing|self-published]] author, usually speaks on topics including [[anarcho-capitalism]], politics, [[race and intelligence]],&nbsp;[[multiculturalism]], [[right-libertarianism]], [[anti-feminism]],<ref name="Goo"/> and familial relationships. 
+
+A supporter of [[Donald Trump presidential campaign, 2016|Donald Trump's presidential campaign]], he has been described as [[alt-right]] by ''[[Politico]]'' and ''[[The Washington Post]]'', and [[Right-wing politics|right-wing]] by ''[[CNN]]''.<ref>{{Cite web|url=http://www.cnn.com/2016/11/10/politics/why-donald-trump-won/index.html|title=How did Trump win? Here are 24 theories|last=CNN|first=Gregory Krieg|website=CNN|access-date=2017-07-24}}</ref><ref name="Politico17">{{Cite news|url=http://www.politico.com/magazine/story/2017/04/trump-alt-right-syria-war-214998|title=Trump’s Troll Army Isn’t Ready for War in Syria|work=Politico Magazine|access-date=2017-08-10}}</ref><ref name="Washp17">{{Cite news|url=https://www.washingtonpost.com/news/global-opinions/wp/2017/03/10/canadas-obsession-with-american-politics-is-nothing-to-apologize-for/|title=Canada’s obsession with American politics is nothing to apologize for|last=McCullough|first=J. J.|date=2017-03-10|work=The Washington Post|access-date=2017-08-10|last2=McCullough|first2=J. J.|language=en-US|issn=0190-8286}}</ref><ref name=":0" /> The ''Freedomain Radio'' internet community which he leads has sometimes been described as a cult.<ref name="Times-2009"/><ref name="Globe-2008" /><ref name=":1" /><ref name=":0" /> Molyneux formerly worked in the software industry.
+
+== Background ==
+Molyneux was born in Ireland and raised mainly in London before moving to Canada at age 11.<ref name=Mississauga-2003 />  Molyneux attended the [[Glendon College]] of [[York University]], where he was an actor at Theatre Glendon<ref name=Star-23Feb1988 /> and a member of the Debating Society.<ref name=ProTem-8Feb1988 /> He then attended the [[National Theatre School of Canada]] in Montreal.<ref name=Mississauga-2003 /><ref name=Burg-Star /> Molyneux received a B.A. in History from [[McGill University]] in 1991 and an M.A. in History from [[University of Toronto]] in 1993.<ref name=Burg-Star /><ref name=Globe-2008 />
+
+== Career ==
+In early 1995, he and his brother Hugh founded Caribou Systems Corporation, a Toronto-based provider of environmental database software. The company was sold in 2000.<ref name="Burg-Star" /><ref name="2002-01-28_Blue292" />
+
+In 2005, Molyneux began a podcast called ''Freedomain Radio'' (''FDR'').<ref name="freedomainradio" /> He uses the same name for the website on which he distributes his own writings, hosts podcast archives, and provides an [[Internet forum]] for ''FDR'' listeners. Molyneux also produces videos and commentary on current events, and he presents a weekly call-in show on which listeners can ask questions or discuss personal issues.<ref name="Globe-2008" /> Molyneux funds his efforts by soliciting direct payment from listeners and viewers.<ref name="Horsager-TheTrustEdge">{{cite book|url=https://books.google.com/books?id=x1piNkRJ9rEC&lpg=PP1&pg=PA25#v=onepage&q&f=false|title=The Trust Edge: How top leaders gain faster results, deeper relationships, and a stronger bottom line|last=Horsager|first=David|date=2012|publisher=Free Press|isbn=978-1-4767-1137-9|location=New York|pages=25–26|oclc=820783989}}</ref> As of August 2017, his channel has over 650 thousand subscribers and 190 million total video views.<ref>{{cite web|title=Stephan Molyneux Home Page|url=https://www.youtube.com/user/stefbot/about|website=YouTube|accessdate=27 August 2017|language=English}}</ref>
+
+In 2017, Molyneux interviewed James Damore, the [[Google]] employee who was fired after writing and distributing the [[Google's Ideological Echo Chamber]] memo.<ref name="Goo">{{cite web|title=Fired Google memo writer gives first big interviews to rightwing YouTubers|url=https://www.theguardian.com/technology/2017/aug/09/james-damore-google-memo-youtube-interviews|website=The Guardian|accessdate=26 August 2017|language=English|date=August 9, 2017}}</ref>
+
+== Views ==
+
+=== Alt-right ===
+Molyneux has been described as a part of the "[[alt-right]]" by ''Politico'', ''Metro'', ''NY Magazine,'' ''Vanity Fair,'' and ''CBS,'' and has been described as "one of the alt-right’s biggest YouTube stars" by ''Washington Post'' columnist [[J. J. McCullough]].<ref name="Politico17"/><ref name="Washp17" /><ref name=Metro17>{{Cite web|url=http://metro.co.uk/2017/08/19/heartbroken-mother-pens-open-letter-to-son-she-lost-to-alt-right-movement-6864145/|title=Heartbroken mother describes how she lost her son to alt-right movement|last=Smith|first=Adam|date=2017-08-19|website=Metro|access-date=2017-08-20}}</ref><ref>http://nymag.com/daily/intelligencer/2017/08/alt-right-demonstrations-scheduled-for-9-cities-next-weekend.html</ref><ref>https://www.vanityfair.com/news/2017/08/james-damore-google-silicon-valley-culture-war</ref><ref>http://sanfrancisco.cbslocal.com/2017/08/09/google-gender-essay-fired-engineer-james-damore-legal-options/</ref> ''Business Insider'' has characterized Molyneux as [[far-right]].<ref>{{Cite web|url=https://web.archive.org/web/20170823193054/http://uk.businessinsider.com/far-right-trump-backers-pan-afghanistan-speech-2017-8?r=US&IR=T|title=Trump Afghanistan speech faces backlash from far-right supporters - Business Insider|date=2017-08-23|access-date=2017-08-28}}</ref>
+
+=== Stateless society ===
+Molyneux theorizes that the pursuit of virtue in our personal lives could bring about a [[stateless society]] that abhors the initiation of force (see [[non-aggression principle]]). In addition, the free market (see [[anarcho-capitalism]]), [[polycentric law|polycentric legal system]]s and private "dispute resolution organizations" (DROs) could be empowered to find new and more peaceful ways of adjudicating [[common law]] infractions and contractual disputes.<ref name=molyneux-DRO>{{cite web|last=Molyneux|first=Stefan|title=The Stateless Society An Examination of Alternatives|url=http://www.lewrockwell.com/2005/10/stefan-molyneux/the-stateless-society-an-examination-of-alternatives/|publisher=[[LewRockwell.com]]|date=October 24, 2005|accessdate= May 8, 2014}}</ref>
+
+In 2012, libertarian philosopher [[David Gordon (philosopher)|David Gordon]] gave a critical examination of Molyneux's 2007 ''Universally Preferable Behaviour: A Rational Proof for Secular Ethics'' in ''The Mises Review'', stating, "He fails, and fails miserably. His arguments are often preposterously bad."<ref>{{cite web|url=http://mises.org/daily/6101/The-Molyneux-Problem |title=The Molyneux Problem &#124; Mises Daily |publisher=Mises.org |date=2012-07-04 |accessdate=2017-02-12}}</ref>  Gordon would reply again to Molyneux's own response to the criticisms.<ref>{{cite web|url=https://mises.org/library/mr-molyneux-responds |title=Mr. Molyneux Responds; Mises Daily |publisher=Mises.org |date=2012-07-11 |accessdate=2017-02-12}}</ref>
+
+=== Family of origin (FOO) relationships ===
+Molyneux refers to the family that people are born into as their "family of origin" or "FOO". Molyneux suggests that the family of origin relationships may not necessarily be desirable and in some circumstances may even be detrimental and thus for those individuals having suffered abusive childhood relationships it would be advantageous for them to sever such involuntary relationships as adults, or "deFOO".<ref name=Guardian-2008>{{cite news |url=https://www.theguardian.com/lifeandstyle/2008/nov/15/family-relationships-fdr-defoo-cult |title=You will never see me again |work=[[The Guardian]] |accessdate=January 7, 2009 |first=Kate |last=Hilpern |date=November 15, 2008}}</ref> In this way, he views all adult relationships as being voluntary and discretionary rather than obligatory. According to a 2008 article in ''[[The Guardian]]'', both Molyneux and his wife have "deFOOed".<ref name=Guardian-2008 />
+
+=== A Voice for Men ===
+Molyneux was a panelist at a 2014 Detroit conference held by the [[men's rights movement]] and [[manosphere]] organization, [[A Voice for Men]]. According to Jessica Roy of ''[[Time (magazine)|Time]]'' magazine, Molyneux argued that violence in the world is the result of how women treat their children, and that "If we could just get people to be nice to their babies for five years straight, that would be it for war, drug abuse, addiction, promiscuity, sexually transmitted diseases, ... Almost all would be completely eliminated, because they all arise from dysfunctional early childhood experiences, which are all run by women."<ref name="men">{{cite web|author=Roy, Jessica|url=http://time.com/2949435/what-i-learned-as-a-woman-at-a-mens-rights-conference/|title=What I Learned as a Woman at a Men's-Rights Conference|date=July 2, 2014|work=[[Time (magazine)|Time]]}}</ref>
+
+==Cult accusations==
+
+According to [[Steven Hassan]], a licensed mental health counselor with experience on cults, "Partly what's going on with the people on the Internet who are indoctrinated, they spend lots of hours on the computer. Videos can have them up all night for several nights in a row. Molyneux knows how to talk like he knows what he's talking about, despite very little academic research. He cites this and cites that, and presents it as the whole truth. It dismantles people's sense of self and replaces it with his sense of confidence about how to fix the world."<ref name=":0">Collins, Ben (February 5, 2016). [http://www.thedailybeast.com/articles/2016/02/05/meet-the-cult-leader-stumping-for-donald-trump.html Meet the 'Cult' Leader Stumping for Donald Trump.] ''The Daily Beast.'' Retrieved: October 12, 2016.</ref>
+
+In 2009, Tu Thanh Ha wrote that Molyneux was called the leader of a "therapy cult" following ''Freedomain Radio (FDR)'' community member Tom Bell breaking off all contact with his family.<ref name="Globe-2008" /> In April 2008, Bell had called in to the show asking about his [[veganism]] and his feeling of disgust towards people that eat meat.<ref name="Times-2009">{{cite news|last=Whipple|first=Tom|title=The mother and son torn apart by web 'cult' that destroys families |url=http://www.thetimes.co.uk/article/the-mother-and-son-torn-apart-by-web-cult-that-destroys-families-w8klkzndf50|date=January 10, 2009 |newspaper=[[The Times]] |pages=News: 34, 35 |location=London, England |accessdate=August 6, 2017}}</ref> Molyneux suggested that this disgust could have come from witnessing an authority figure who was cruel to animals.<ref name="Times-2009" /> Bell responded by describing memories of his father being verbally and physically cruel to the family cat, causing him to feel intimidated by the father, and then described his [[emotional detachment]] toward his mother and the rest of his family.<ref name="Times-2009" />
+
+The following month, Bell left a note stating he no longer wanted contact and left home. It was reported that, of the estimated 50,000 users of the website, about 20 ''FDR'' members had also "deFOOed" (disassociate from family of origin), and that many parents chose not to speak to the media in an effort to avoid alienating their children further.<ref name=Times-2009 /> A representative of the British [[Cult Information Centre]] said they were following ''FDR'', and noted that one sign of cults was that they cut people off from their families. Molyneux responded by saying that "If I advised a wife to leave an abusive husband, there would not be articles about how I am a cult leader."<ref name="Times-2009" />
+
+Molyneux and FOO were subjects of an investigative documentary by [[Channel 5 (UK)|Channel 5]] in the [[United Kingdom]], which aired on August 20, 2015.<ref name=":1">{{cite web|url=http://www.channel5.com/shows/trapped-in-a-cult |title=Trapped In A Cult? |publisher=Channel 5 |date=2015-08-20 |accessdate=2015-11-18}}</ref><ref>{{cite web|author=Daisy Wyatt |url=https://www.independent.co.uk/arts-entertainment/tv/reviews/trapped-in-a-cult--tv-review-disappointing-channel-5-shockdoc-fails-to-come-up-to-scratch-10464473.html |title=Trapped In A Cult? – TV review: Disappointing Channel 5 shock-doc fails to come up to scratch &#124; Reviews &#124; Culture |publisher=The Independent |date=2015-08-20 |accessdate=2015-11-18}}</ref>
+
+Molyneux and "deFOOing" were one of three subjects featured on the February 18th, 2016 episode of the documentary series [[Dark Net (TV series)|Dark Net]]. The episode clearly identifies ''Freedomain Radio'' as a cult.<ref>{{cite web|url=http://www.sho.com/dark-net/season/1/episode/5/trapped|title=Dark Net - Season 1 Episode 5|website=Showtime|accessdate=12 June 2017}}</ref>
+
+== References ==
+{{Reflist|30em|refs=
+
+<ref name="2002-01-28_Blue292">{{cite press release |title=Blue292 acquires Caribou Systems |url=http://www.blue292.com/pub/newsandevents/companyannouncements.aspx?a=view&id=1 |archiveurl=https://web.archive.org/web/20030802025924/http://www.blue292.com/pub/newsandevents/companyannouncements.aspx?a=view&id=1 |archivedate= August 2, 2003 |publisher=Blue292 |place=Durham, NC |date=January 28, 2002 |accessdate=June 6, 2014}}</ref>
+
+<ref name=Burg-Star>{{cite news|last=Burg|first=Robert|title=Their software keeps tabs on site data |url=http://docs.newsbank.com/s/InfoWeb/aggdocs/AWNB/10BBE23015C8E780/0EB2D3A803A21E8C?s_lang=en-US |newspaper=[[Toronto Star]], The |location=Ontario, Canada |page=Business: D1 |date=May 26, 1997 |via=''[[NewsBank]] (Access World News)'' |accessdate=June 18, 2014}}</ref>
+
+<ref name="freedomainradio">{{cite web|url=https://freedomainradio.com |title=Freedomain Radio – Home |publisher=Freedomainradio.com |date= |accessdate=2015-11-18}}</ref>
+
+<ref name=Globe-2008>{{cite news |last=Ha|first=Tu Thanh |url=https://www.theglobeandmail.com/technology/how-a-cyberphilosopher-convinced-followers-to-cut-off-family/article7511365/?page=all |title=How a cyberphilosopher convinced followers to cut off family |work=[[The Globe and Mail]] |accessdate=April 28, 2014 |date=December 12, 2008}}</ref>
+
+<ref name=Mississauga-2003>{{cite news |title=Author Stefan Molyneux To Russia, with love |url=http://docs.newsbank.com/s/InfoWeb/aggdocs/AWNB/10E4169AE30BF068/0EB2D3A803A21E8C?s_lang=en-US |newspaper=[[The Mississauga News]] |location=[[Mississauga]], Ontario |date=June 1, 2003 |page=Arts & Entertainment: 15 |via=''[[NewsBank]] (Access World News)'' |issn=0834-6585 |oclc= 290997481|accessdate=June 18, 2014 |quote=Molyneux is an Irish-born author who grew up in England and Africa before coming to Canada 25 years ago.}}</ref>
+
+<ref name=ProTem-8Feb1988>{{cite news|last=da Costa|first=Cathy |title=World Champions at Glendon |url=http://pi.library.yorku.ca/ojs/index.php/protem/article/download/15635/14559|format=PDF|work=Pro Tem|publisher=[[York University]]/[[Glendon College]] |date=February 8, 1988 |page=4|accessdate=May 9, 2014}}</ref>
+
+<ref name=Star-23Feb1988>{{cite news|last=Johnson|first=Phil |title=Horrors! Dracula's at Glendon College |url=http://docs.newsbank.com/s/InfoWeb/aggdocs/AWNB/10C28D2E2077D420/0EB2D3A803A21E8C?s_lang=en-US |newspaper=[[Toronto Star]], The |location=Ontario, Canada |date=February 23, 1988 |page=Neighbors: N17 |via=''[[NewsBank]] (Access World News)'' |accessdate=June 18, 2014}}</ref>
+}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category|Stefan Molyneux}}
+* {{Official website|http://freedomainradio.com|Official site – Freedomain Radio}}
+* {{YouTube|user=stefbot}}
+
+{{Alt-right footer}}
+{{Authority control}}
+
+{{DEFAULTSORT:Molyneux, Stefan}}
+[[Category:1966 births]]
+[[Category:21st-century Canadian novelists]]
+[[Category:21st-century essayists]]
+[[Category:Alt-right]]
+[[Category:Anarcho-capitalists]]
+[[Category:Canadian bloggers]]
+[[Category:Canadian essayists]]
+[[Category:Canadian Internet celebrities]]
+[[Category:Canadian male novelists]]
+[[Category:Canadian libertarians]]
+[[Category:Canadian people of Anglo-Irish descent]]
+[[Category:Canadian podcasters]]
+[[Category:Canadian political writers]]
+[[Category:Critics of the European Union]]
+[[Category:Critics of Islam]]
+[[Category:Opposition_to_Islam_in_Canada]]
+[[Category:Critics of multiculturalism]]
+[[Category:Critics of religions]]
+[[Category:Family and parenting writers]]
+[[Category:Irish emigrants to Canada]]
+[[Category:Irish essayists]]
+[[Category:Irish libertarians]]
+[[Category:Irish podcasters]]
+[[Category:Irish political writers]]
+[[Category:Libertarian theorists]]
+[[Category:Paleolibertarianism]]
+[[Category:Living people]]
+[[Category:Male essayists]]
+[[Category:Male critics of feminism]]
+[[Category:McGill University alumni]]
+[[Category:People associated with Bitcoin]]
+[[Category:People from Athlone]]
+[[Category:Philosophy writers]]
+[[Category:Race and intelligence controversy]]
+[[Category:Scientific racism]]
+[[Category:University of Toronto alumni]]
+[[Category:Voluntaryists]]
+[[Category:Writers from Ontario]]
+[[Category:York University alumni]]
+[[Category:YouTubers]]

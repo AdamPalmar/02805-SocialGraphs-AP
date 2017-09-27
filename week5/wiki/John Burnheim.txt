@@ -1,0 +1,38 @@
+{{Use dmy dates|date=October 2016}}
+{{Use Australian English|date=October 2016}}
+{{refimprove|date=May 2017}}
+'''John Burnheim''' (born in 1927 in [[Sydney]], [[Australia]])<ref>Sutherland, Keith [http://equalitybylot.wordpress.com/2011/06/30/john-burnheim-to-reason-why/ John Burnheim: To Reason Why] at Equality by Lot (Wordpress) blog, 30 June 2011. (It will be seen that John Burnheim is a respondent to the blog.) Accessed 24 October 2013</ref> is a former [[professor]] of General [[Philosophy]] at the [[University of Sydney]], [[Australia]].
+
+==Early career== 
+Burnheim was formerly a [[Roman Catholic]] [[priest]]<ref name="stove">Stove D. ''[http://www.sydneyline.com/Farewel%20to%20Arts.htm A Farewell to Arts] {{webarchive|url=https://web.archive.org/web/20091126040557/http://sydneyline.com/Farewel%20to%20Arts.htm |date=26 November 2009 }}'' from ''Quadrant'' May 1986, reproduced by Keith Windschuttle at The Sydney Line</ref> and, from 1958-1968, was rector of [[St John's College, University of Sydney#Rectors.5B12.5D|St John's]], the Catholic college attached to the university. He became a major figure in the disturbances of the 1970s that split the university's Department of Philosophy.{{cn|date=May 2017}}
+
+==Social theory==
+In his book ''[[Is Democracy Possible? The alternative to electoral politics]]'' (1985) Burnheim used the term "[[demarchy]]" (created by [[Friedrich Hayek]] in his [[Law, Legislation and Liberty]]) to describe a political system without the [[Sovereign state|state]] or bureaucracies, and based instead on randomly selected groups of decision makers. This has striking resemblances to classical democratic ideas, as reported by [[Thucydides]]. In 2006 Burnheim published a second edition with a new preface in which he directed the reader to an emphasis that "a polity organised by negotiation between specialised authorities would work much better than one based on centralised authority".<ref name=burnpref >Burnheim J. ''Is Democracy Possible?'' [http://setis.library.usyd.edu.au/pubotbin/toccer-new?id=burisde.xml&data=/usr/ot/&tag=democracy&part=front Preface to the second edition] At SETIS (Sydney University) (2006)</ref>
+
+Demarchy as Burnheim conceives it has two features that distinguish it from other proposals for selection by lot in politics.
+
+First, an insistence on putting distinct policy areas under mutually independent authorities which would settle problems of coordination  between them by negotiation or arbitration rather than by dictation from above. The point of this is to remedy the defect of existing democracies in which issues are settled according to the power strategies of politicians rather than the merits of the case.
+
+Second, that the committee in charge of each policy body should be statistically representative of those who are most substantially affected by their decisions. The hope is that this would lead to better decisions, not just the wishful thinking of populist spin.
+
+In 2016 John Burnheim published  ''The Demarchy Manifesto: for better public policy.''         Where  ''Is Democracy Possible'' is theoretical, the manifesto suggests a practical approach to current problems, aimed at divorcing the process of "enlightening, articulating and giving effect to public opinion" on selected issues of policy from the electoral party system. It envisaged setting up a public foundation, financed by private contributions, to conduct the proceedings, relying on the complete transparency and participatory amplitude of it proceedings to justify its claim to articulate a view that deserved to be seen as serious public opinion on a range of important matters. The key to complete openness is a website to which anybody who chooses to do so may contribute, dedicated to deciding the best way of dealing with a specific problem. Contributors would be expected to appeal to considerations that most people would accept as directly relevant to the particular problem. The editors would attempt to see that all the considerations that either ordinary people or experts might have were thoroughly debated, establishing the considerations a good solution should take into account. That discussion should lead to clarity about just what facts and values are relevant, but still leave a lot of disagreement about the relative weight placed on them in articulating an acceptable decision. A second small body would be charged with attempting to arrive at a practical compromise between conflicting considerations. The suggestion is that this should be a small committee, statistically represented af the interests most strongly advantaged or disadvantaged by what is to be decided. This body would also operate entirely by correspondence on line, open to comment at every stage.
+
+The book tries to tie this proposal up with a realistic approach to the more general issues of public goods, practical uncertainty, social processes and global problems.
+
+==References==
+{{reflist}}
+*Burnheim J,  ''To Reason Why: from religion to philosophy and beyond,'' Sydney University Press, 2011
+*Burnheim J, ''The Demarchy Manifesto: for better public policy ,'' imprint Academic, UK, SUP Australia, 2016
+*Franklin, J. (2003), ''Corrupting the Youth: A History of Philosophy in Australia'', [[Macleay Press]], ch. 11
+
+==External links==
+*{{worldcat id|lccn-n85-251510}}
+
+
+{{Authority control}}
+{{DEFAULTSORT:Burnheim, John}}
+[[Category:Australian philosophers]]
+[[Category:Political philosophers]]
+[[Category:Living people]]
+[[Category:University of Sydney faculty]]
+[[Category:1927 births]]

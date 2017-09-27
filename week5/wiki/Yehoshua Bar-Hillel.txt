@@ -1,0 +1,120 @@
+{{Infobox scientist
+| honorific_prefix  =
+| name              = Yehoshua Bar-Hillel
+| honorific_suffix  =
+| native_name       = 
+| native_name_lang  = 
+| image             = Yehoshua Bar-Hillel.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date |1915|09|08}}
+| birth_place       = [[Vienna]]
+| death_date        = {{death date and age |1975|09|25 |1915|09|08}}
+| death_place       = [[Jerusalem]]
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[philosophy]], [[mathematics]], [[linguistics]]
+| workplaces        = [[Hebrew University]], [[MIT]]<ref name="Strazny.2005"/>
+| patrons           = 
+| education         = 
+| alma_mater        = 
+| thesis_title      = Theory of syntactic categories<ref name="Strazny.2005">[http://www.hutchinsweb.me.uk/Bar-Hillel-2005.pdf ''Bar-Hillel,Yehoshua''], Encyclopedia of Linguistics, Philip Strazny (ed), New York, Fitzroy Dearborn, 2005, vol.1, pp. 124-126</ref>
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1945
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Bar-Hillel lemma]]<!---incomplete, to be extended--->
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = [[Maya Bar-Hillel|Maya]], Mira
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Yehoshua Bar-Hillel''' ({{lang-he|יהושע בר-הלל<!--rtl-->}}; 8 September 1915, [[Vienna]] – 25 September 1975, [[Jerusalem]]) was an Israeli [[philosopher]], [[mathematician]], and [[linguistics|linguist]]. He is perhaps best known for his pioneering work in [[machine translation]] and formal [[linguistics]].
+
+==Biography==
+Born '''Oscar Westreich''' in Vienna, [[Austria-Hungary]], he was raised in [[Berlin]]. In 1933 he emigrated to [[British Mandate of Palestine|Palestine]] with the [[Bnei Akiva]] youth movement, and briefly joined the [[kibbutz]] [[Tirat Zvi]] before settling in Jerusalem and marrying Shulamith.
+
+During [[World War II]], he served in the [[Jewish Brigade]] of the British Army. He fought with the [[Haganah]] during the [[1948 Arab-Israeli War|Israeli War of Independence]], losing an eye.
+
+Bar-Hillel received his PhD in Philosophy from the [[Hebrew University]] where he also studied mathematics under [[Abraham Fraenkel]], with whom he eventually coauthored ''Foundations of Set Theory'' (1958, 1973).
+
+Bar-Hillel was a major disciple of [[Rudolf Carnap]], whose ''Logical Syntax of Language'' much influenced him. He began a correspondence with Carnap in the 1940s, which led to a 1950 postdoc under Carnap at the [[University of Chicago]], and to his collaborating on Carnap's 1952 ''An Outline of the Theory of Semantic Information''.
+
+Bar-Hillel then took up a position at [[MIT]], where he was the first academic to work full-time in the field of [[Machine Translation]] Bar-Hillel organised the first International Conference on Machine Translation in 1952. Later he expressed doubts that general-purpose fully automatic high-quality machine translation would ever be feasible.{{ref|fahqut1}}{{ref|fahqut2}} He was also a pioneer in the field of [[information retrieval]].
+
+In 1953, Bar-Hillel joined the [[philosophy]] department at the [[Hebrew University]], where he taught until his death at age 60. His teachings and writings strongly influenced an entire generation of Israeli philosophers and linguists, including [[Asa Kasher]] and [[Avishai Margalit]]. In 1953, he founded a pioneering algebraic-computational linguistic group, and in 1961 he contributed to the proof of the [[pumping lemma]] for [[context-free languages]] (sometimes called the Bar-Hillel lemma). Bar-Hillel helped found the Hebrew University's department of [[Philosophy of Science]]. From 1966 to 1969 Bar-Hillel presided over the Division for Logic, Methodology and Philosophy of Science of the
+[[International Union of History and Philosophy of Science]].
+
+[[File:Prof. Daniel Kahneman and Prof. Maya Bar Hillel 2.jpg|thumb|150px|[[Maya Bar Hillel]] and [[Daniel Kahneman]]]]
+Bar-Hillel's daughter Maya Bar-Hillel is a [[cognitive psychology|cognitive psychologist]] at the [[Hebrew University]], known for her collaborations with [[Amos Tversky]] and for her role in critiquing [[Bible code]] study. His other daughter, Mira Bar-Hillel, is a freelance journalist who has worked for the ''[[London Evening Standard]]''. His granddaughter, [[Gili Bar-Hillel]], is the Hebrew translator of the [[Harry Potter]] series of books.
+
+==Related terms==
+*[[Categorial grammar]]
+*[[Indexical expression]]
+
+==Notes==
+#{{note|fahqut1}}[http://www.benjamins.com/cgi-bin/t_bookview.cgi?bookid=BTL%2014 Melby, Alan. The Possibility of Language (Amsterdam:Benjamins, 1995, 27-41)]
+#{{note|faqhut2}}[http://www.mt-archive.info/Bar-Hillel-1960-App3.pdf Appendix III of 'The present status of automatic translation of languages', Advances in Computers, vol.1 (1960), p.158-163. Reprinted in Y.Bar-Hillel: Language and information (Reading, Mass.: Addison-Wesley, 1964), p.174-179.]
+
+==Select bibliography==
+* {{cite journal | url=http://www.mt-archive.info/Bar-Hillel-1953.pdf | author=Yehoshua Bar-Hillel | title=Some Linguistic Problems Connected With Machine Translation | journal=[[Philosophy of Science]] | volume=20 |  pages=217&mdash;225 | year=1953 }}
+* {{cite journal | author=Yehoshua Bar-Hillel | title=Indexical Expressions | journal=Mind | volume=63 | number=251 | pages=359&mdash;379 | date=Jul 1954 }} 
+* {{cite report | url=http://www.dtic.mil/dtic/tr/fulltext/u2/400604.pdf | author=Yehoshua Bar-Hillel | title=Four lectures on Algebraic Linguistics and Machine Translation | institution=Hebrew University, Jerusalem | type=ASTIA Report | number=400604 | date=Jan 1963 }} 
+* {{cite book | author=Yehoshua Bar-Hillel | title=Language and Information:  Selected Essays on Their Theory and Application | location=Reading, MA | publisher=Addison-Wesley |  year=1964 }}
+* {{cite book | url=http://www.dlmpst.org/pages/past-congresses.php | editor=Yehoshua Bar-Hillel | title=Logic, Methodology and Philosophy of Science:  Proceedings of the 1964 International Congress | location=Amsterdam | publisher=North-Holland | year=1965 }}
+* {{cite book | author=Yehoshua Bar-Hillel |  title=Aspects of Language: Essays in Philosophy of Language, Linguistic Philosophy, and Methodology of Linguistics | location=Amsterdam | publisher=North-Holland | year=1970 }} 
+* {{cite book | isbn=9780720422559 | author= | editor=Yehoshua Bar-Hillel | title=Mathematical Logic and Foundations of Set Theory:  Colloquium Proceedings, Jerusalem, 1968 | location=Amsterdam | publisher=North-Holland Pub. Co. | series=Study in Logic and Foundation of Mathematics | volume= | date=Aug 1970 }}
+* {{cite book | url=https://link.springer.com/book/10.1007%2F978-94-010-1713-8 | isbn=978-90-277-0599-0 |  editor=Yehoshua Bar-Hillel | title=Pragmatics of Natural Languages: Proceedings of the 1970 International Working Symposium | location=Dordrecht | publisher=D. Reidel Publishing Co. | series=Synthese Library | volume=41 | year=1971 }}
+* {{cite book | isbn=9780080887050 | author1=Abraham Halevi Fraenkel |author2= Yehoshua Bar-Hillel  |author3= Azriel Levy | author1link=Abraham Halevi Fraenkel |author2link= Yehoshua Bar-Hillel  |author3link= Azriel Levy | title=Foundations of Set Theory | location= | publisher=Elsevier | series=Studies in Logic and the Foundations of Mathematics | volume=67 | edition=2nd | year=1973 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* "[http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf Yehoshua Bar-Hillel: A Philosopher's Contribution to Machine Translation]"
+* "[http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf Bar-Hillel and Machine Translation: Then and Now.]"
+* [http://www.tau.ac.il/humanities/cohn/activities/bar_hillel.html Bar-Hillel Colloquium.]
+* [http://www.time.com/time/magazine/article/0,9171,819777,00.html?promoid=googlep Translation Trouble]: ''Time'' Magazine article from 1954.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bar Hillel, Yehoshua}}
+[[Category:1915 births]]
+[[Category:1975 deaths]]
+[[Category:20th-century Israeli mathematicians]]
+[[Category:Austrian emigrants to Mandatory Palestine]]
+[[Category:Austrian Jews]]
+[[Category:German emigrants to Mandatory Palestine]]
+[[Category:Jewish emigrants from Nazi Germany]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Hebrew University of Jerusalem faculty]]
+[[Category:Jews in Mandatory Palestine]]
+[[Category:Israeli Jews]]
+[[Category:Israeli linguists]]
+[[Category:Israeli mathematicians]]
+[[Category:Israeli philosophers]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish scientists]]
+[[Category:Mathematical logicians]]
+[[Category:Members of the Israel Academy of Sciences and Humanities]]
+[[Category:People from Vienna]]
+[[Category:Philosophers of language]]
+[[Category:Mandatory Palestine military personnel of World War II]]

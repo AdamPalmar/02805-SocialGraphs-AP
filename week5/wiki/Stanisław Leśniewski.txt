@@ -1,0 +1,80 @@
+{{Infobox scientist
+| name              = Stanisław Leśniewski
+| image             = Stanisław Leśniewski.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date|1886|03|30|mf=y}}
+| birth_place       = [[Serpukhov]], [[Russian Empire]]
+| death_date        = {{death date and age|1939|05|13|1886|03|30|mf=y}}
+| death_place       = [[Warsaw]], [[Second Polish Republic|Poland]]
+| nationality       = Polish
+| fields            = [[Mathematics]]
+| workplaces        = [[University of Warsaw]]
+| alma_mater        = [[Lviv University]]
+| doctoral_advisor  = [[Kazimierz Twardowski]]
+| doctoral_students = [[Alfred Tarski]]
+| influences        =
+| influenced        = [[Denis Miéville]]
+| known_for         = [[Reism]]
+| awards            = 
+}}
+{{Cipher Bureau}}
+'''Stanisław Leśniewski''' (March 30, 1886 – May 13, 1939) was a [[Poland|Polish]] [[mathematician]], [[philosopher]] and [[logician]].
+
+Leśniewski went to a high school in [[Irkutsk]]. Later he attended lectures by [[Hans Cornelius]] at the [[Ludwig Maximilian University of Munich]] and lectures by [[Wacław Sierpiński]] at the [[Lviv University]].
+
+==Life==
+Leśniewski belonged to the first generation of the [[Lwów-Warsaw School of logic]] founded by [[Kazimierz Twardowski]]. Together with [[Alfred Tarski]] and  [[Jan Łukasiewicz]], he formed the ''troika'', which made the [[University of Warsaw]], during the [[Interbellum]], perhaps the most important research center in the world for [[formal logic]].
+
+His main contribution was the construction of three nested [[formal system]]s, to which he gave the Greek-derived names of protothetic, ontology, and [[mereology]]. ("Calculus of names" is sometimes used instead of [[ontology]], a term widely employed in [[metaphysics]] in a very different sense.) A good textbook presentation of these systems is Simons (1987), who compares and contrasts them with the variants of [[mereology]], more popular nowadays, descending from the ''calculus of individuals'' of Leonard and Goodman. Simons clarifies something that is very difficult to determine by reading Leśniewski and his students, namely that Polish mereology is a [[first-order logic|first-order theory]] isomorphic to what is now called classical extensional [[mereology]].
+
+While he did publish a fair body of work (Leśniewski, 1992, is his collected works in English translation), some of it in German, the leading language for mathematics of his day, his writings had limited impact because of their enigmatic style and highly idiosyncratic notation. Leśniewski was also a radical [[nominalist]]: he rejected [[axiomatic set theory]] at a time when that theory was in full flower. He pointed to [[Russell's paradox]] and the like in support of his rejection, and devised his three formal systems as a concrete alternative to set theory. Even though [[Alfred Tarski]] was his sole doctoral pupil, Leśniewski nevertheless strongly influenced an entire generation of Polish logicians and mathematicians via his teaching at the University of Warsaw. It is mainly thanks to the writings of his students (e.g., Srzednicki and Rickey 1984) that Leśniewski's thought is known.
+
+During the [[Polish-Soviet War]] of 1919-21, Leśniewski served the cause of Poland's independence by breaking [[Russian SFSR|Soviet Russian]] [[cipher]]s for the Polish [[General Staff]]'s [[Biuro Szyfrów|Cipher Bureau]].
+
+Leśniewski died suddenly of cancer, shortly before the [[Invasion of Poland (1939)|German invasion of Poland]], which resulted in the destruction of his [[Nachlass]].
+
+==Works==
+* 1988. ''Lecture Notes in Logic''. Kluwer. [http://www.ontology.co/lesniewskis.htm Table of Contents.]
+* 1992. ''Collected Works''. 2 vols. Kluwer. [http://www.ontology.co/lesniewskis.htm Table of Contents.]
+* 1929, "Über Funktionen, deren Felder Gruppen mit Rücksicht auf diese Funktionen sind", Fundamenta Mathematicae 13: 319-32.
+* 1929, "Grundzüge eines neuen Systems der Grundlagen der Mathematik", Fundamenta Mathematicae 14: 1-81.
+* 1929, "Über Funktionen, deren Felder Abelsche Gruppen in bezug auf diese Funktionen sind", Fundamenta Mathematicae 14: 242-51.
+
+==See also==
+* [[History of philosophy in Poland#Twentieth century|History of philosophy in Poland]]
+* [[List of Poles#Philosophy|List of Poles]]
+
+==Notes==
+{{no footnotes|date=June 2016 }}
+{{reflist}}
+
+==References==
+*[[Ivor Grattan-Guinness]], 2000. ''In Search of Mathematical Roots''. Princeton: Princeton University Press.
+* Luschei, Eugene, 1962. ''The Logical Systems of Lesniewski''. Amsterdam: North-Holland.
+* Miéville, Denis, 1984. "Un développement Des systèmes logiques de Stanislas Lesniewski", Peter Lang, European University Studies.
+* Simons, Peter, 1987. ''Parts: A Study in Ontology''. New York: Oxford University Press.
+* Srzednicki, J. T. J., and [[V. Frederick Rickey|Rickey, V. F.]], (eds.), 1984. ''Lesniewski's Systems: Ontology and Mereology''. Dordrecht: Kluwer.
+* Urbaniak, Rafal, 2013. ''Leśniewski's Systems of Logic and Foundations of Mathematics'', Dordrecht: Springer.
+* Wolenski, Jan, 1989. ''Logic and Philosophy in the Lwow-Warsaw School''. Dordrecht: Kluwer.
+
+==External links==
+*{{cite SEP |url-id=lesniewski |title=Lesniewski |last=Simons |first=Peter}}
+*{{cite SEP |url-id=lvov-warsaw |title=Lvov-Warsaw school |last=Woleński |first=Jan}}
+* Betti, Arianna, 2001, "[http://segr-did2.fmag.unict.it/~polphil/PolPhil/Tward/BettiSempit.html Sempiternal Truth: The Bolzano-Twardowski-Lesniewski connection.]"
+*[http://segr-did2.fmag.unict.it/~polphil/PolPhil/Lesnie/Lesnie.html Polish Philosophy: Stanislaw Lesniewski] by Francesco Coniglione and Arianna Betti.
+* Raul Corazzon's Theory and History of Ontology web page: [https://www.ontology.co/lesniewskis.htm Lesniewski.] 
+* [http://www.ontology.co/biblio/lesniewski-biblio.htm Selected bibliography of and about Lesniewski.] Includes the English translations and selected bibliography of the secondary literature.
+*{{MacTutor Biography|id=Lesniewski}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lesniewski, Stanislaw}}
+[[Category:1886 births]]
+[[Category:1939 deaths]]
+[[Category:People from Serpukhov]]
+[[Category:Polish logicians]]
+[[Category:Polish mathematicians]]
+[[Category:Polish philosophers]]
+[[Category:Biuro Szyfrów]]
+[[Category:University of Warsaw alumni]]

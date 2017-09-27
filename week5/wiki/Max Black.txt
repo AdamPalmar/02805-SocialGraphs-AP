@@ -1,0 +1,81 @@
+{{other people}}
+{{More footnotes|date=July 2011}}
+{{Infobox philosopher
+| name             = Max Black
+| image            = Max Black philosopher.jpg
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       = <!-- only use if different from name -->
+| birth_date       = {{birth date|1909|2|24}}
+| birth_place      = [[Baku]], [[Russian Empire]]
+| death_date       ={{death date and age|1988|08|27|1909|2|24}}
+| death_place      = [[Ithaca, New York]]
+| death_cause      = 
+| residence        = 
+| nationality      = British <br> American (naturalized)
+| religion         = [[Jewish]]
+| alma_mater       = [[Queens' College, Cambridge]]
+| notable_works    = ''The Identity of Indiscernibles''
+| awards           = 
+| signature        = 
+| signature_size   = 
+| signature_alt    = 
+| region           = Western Philosophy
+| era              = [[20th-century philosophy]]
+| school_tradition = [[Analytic philosophy]]
+| institutions     = [[Institute of Education]]<br>[[University of Illinois at Urbana-Champaign|University of Illinois]]<br>[[Cornell University]]
+| main_interests   = [[Philosophy of language]]<br>[[Philosophy of mathematics]]<br>[[Philosophy of science]]<br> [[Philosophy of art]]
+| notable_ideas    = Criticism of [[Identity of indiscernibles|Leibniz' Law]] 
+| influences       = [[Bertrand Russell]], [[Ludwig Wittgenstein]], [[G. E. Moore]], [[Frank P. Ramsey]], [[L. Susan Stebbing]]<ref>{{cite web|url=http://plato.stanford.edu/entries/emily-elizabeth-constance-jones/ |title=Emily Elizabeth Constance Jones (Stanford Encyclopedia of Philosophy) |website=Plato.stanford.edu |date= |accessdate=2016-04-28}}</ref>
+| influenced       = 
+| website          = <!-- {{URL|example.com}} -->
+}}
+
+'''Max Black''' (24 February 1909 – 27 August 1988) was a British-American philosopher, who was a figure in [[analytic philosophy]] in the first half of the twentieth century. He made contributions to the [[philosophy of language]], the [[philosophy of mathematics]] and [[philosophy of science|science]], and the [[philosophy of art]], also publishing studies of the work of philosophers such as [[Gottlob Frege|Frege]]. His translation (with [[Peter Geach]]) of Frege's published philosophical writing is a classic text.
+
+==Life and career==
+Born in [[Baku]], [[Azerbaijan]], of [[Jewish]] descent,<ref>''[[Encyclopaedia Judaica]]'', 2nd ed.</ref> Black grew up in [[London]], where his family had moved in 1912. He studied mathematics at [[Queens' College, Cambridge]] where he developed an interest in the [[philosophy of mathematics]]. [[Bertrand Russell|Russell]], [[Ludwig Wittgenstein|Wittgenstein]], [[G. E. Moore]], and [[Frank P. Ramsey|Ramsey]] were all at Cambridge at that time, and their influence on Black may have been considerable. He graduated in 1930 and was awarded a fellowship to study at [[Göttingen]] for a year.
+
+From 1931–36, he was mathematics master at the [[Royal Grammar School, Newcastle]].
+
+His first book was ''The Nature of Mathematics'' (1933), an exposition of ''[[Principia Mathematica]]'' and of current developments in the philosophy of mathematics.
+
+Black had made notable contributions to the metaphysics of [[Identity (philosophy)|identity]]. In his "The Identity of Indiscernibles", Black presents an objection to [[Identity of indiscernibles|Leibniz' Law]] by means of a hypothetical scenario in which he conceives two distinct spheres having exactly the same properties, thereby contradicting Leibniz' second principle in his formulation of "The Identity of Indiscernibles". By virtue of there being two objects, albeit with identical properties, the existence of two objects, even in a void, denies their identicality.
+
+He lectured in mathematics at the [[Institute of Education]] in London from 1936 to 1940. In 1940 he moved to the [[United States]] and joined the Philosophy Department at the [[University of Illinois at Urbana-Champaign]]. In 1946 he accepted a professorship in philosophy at [[Cornell University]]. In 1948, he became a [[naturalized citizen]] of the United States. Black advised the philosophy dissertation of American novelist [[William H. Gass]]. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1963.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=[[American Academy of Arts and Sciences]] |accessdate=July 26, 2011}}</ref> Black died in [[Ithaca, New York]] age 79. His younger brother was the architect Sir [[Misha Black]].
+
+==Selected bibliography==
+* Black, Max (1937). "Vagueness: An exercise in logical analysis". ''Philosophy of Science'' '''4''': 427–455. Reprinted in R. Keefe, P. Smith (eds.): ''Vagueness: A Reader'', MIT Press 1997, {{ISBN|978-0-262-61145-9}}
+* Black, Max (1949). ''Language and philosophy: Studies in method'', Ithaca: [[Cornell University Press]].
+* Black, Max (1954). “Metaphor,” ''Proceedings of the Aristotelian Society'', '''55''', pp.&nbsp;273–294.
+* Black, Max (1962). ''Models and metaphors: Studies in language and philosophy'', Ithaca: Cornell University Press.
+* Black, Max (1979). “More about Metaphor,” in A. Ortony (ed): ''Metaphor & Thought''.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www-groups.dcs.st-and.ac.uk/history/Biographies/Black.html O'Connor, J.J. and Robertson, E.F., "Max Black: Biography", School of Mathematics and Statistics, University of St Andrews, Scotland.]
+*[http://www.gap-system.org/~history/Biographies/Black.html Biography] at the MacTutor History of Mathematics Archive
+*[http://rmc.library.cornell.edu/EAD/htmldocs/RMA02466.html Guide to the Max Black Papers], Cornell University Library
+*[http://www.ditext.com/black/humbug.html The Prevalence of Humbug], The Prevalence of Humbug and Other Essays (Cornell University Press, 1983.
+
+{{Authority control}}
+{{DEFAULTSORT:Black, Max}}
+[[Category:1909 births]]
+[[Category:1988 deaths]]
+[[Category:Academics of the Institute of Education]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:Imperial Russian emigrants to the United Kingdom]]
+[[Category:British emigrants to the United States]]
+[[Category:British Jews]]
+[[Category:Cornell University faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Guggenheim Fellows]]
+[[Category:Jewish philosophers]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of science]]
+[[Category:Metaphor theorists]]

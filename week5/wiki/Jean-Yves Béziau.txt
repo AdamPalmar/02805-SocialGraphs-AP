@@ -1,0 +1,40 @@
+{{COI|date=May 2016}}
+{{BLP sources|date=January 2016}}
+[[File:jyb-jerusalem-2016.jpg|thumb|right|460px| Jean-Yves Béziau in [[Jerusalem]], January 2016]]
+
+'''Jean-Yves Béziau''' ({{lang-fr|bezjo|lang}}; born January 15, 1965 in [[Orléans, France]]) is a professor and researcher of the Brazilian Research Council — [[CNPq]] — at the [[University of Brazil]] in [[Rio de Janeiro]].
+
+==Career==
+Béziau works in the field of [[logic]]—in particular, [[paraconsistent logic]], the [[square of opposition]] and [[universal logic]].  He holds a Maîtrise in [[Philosophy]] from [[University of Paris 1|Pantheon-Sorbonne University]], a DEA in Philosophy from Pantheon-Sorbonne University, a [[PhD]] in Philosophy from the [[University of São Paulo]], a [[Master's degree|MSc]] and a PhD in Logic and Foundations of [[Computer Science]] from [[University of Paris 7|Denis Diderot University]].
+
+Béziau is the editor-in-chief of the journal ''[[Logica Universalis]]''<ref>{{Cite web|title = Logica Universalis|url = https://link.springer.com/journal/11787|website = SpringerLink|access-date = 2016-04-11}}</ref> and of the ''South American Journal of Logic'' - an online, open-access journal - as well as of the [[Springer Science+Business Media|Springer]] book series ''Studies in Universal Logic.''<ref>http://www.sa-logic.org/start1.html</ref><ref>https://www.springer.com/series/7391?detailsPage=titles</ref> He also co-edits ''College Publication's'' Portuguese-language book series ''Cadernos de Lógica e Filosofia''<ref>http://www.collegepublications.co.uk/clf/</ref>
+
+== Selected publications ==
+* "What is paraconsistent logic?"  In D. Batens et al. (eds.), ''Frontiers of Paraconsistent Logic'', Research Studies Press, Baldock, 2000, pp.&nbsp;95–111.  {{ISBN|0-86380-253-2}}
+* ''Handbook of Paraconsistency'' (ed. with [[Walter Carnielli]] and  [[Dov Gabbay]]).  London: College Publication, 2007.  {{ISBN|978-1-904987-73-4}}
+* "Semantic computation of truth based on associations already learned" (with [[Patrick Suppes]]), ''Journal of Applied Logic'', 2 (2004), pp.&nbsp;457–467.
+* "From paraconsistent logic to universal logic", ''Sorites'',  12 (2001), pp.&nbsp;5–32.
+* ''Logica Universalis: Towards a General Theory of Logic'' (ed.)  Basel: Birkhäuser Verlag, 2005, Second Edition 2007.  {{ISBN|3-7643-7259-1}}
+* "Logic is not logic", 'Abstracta' 6 (2010), pp.&nbsp;73–102.
+*  "The power of the hexagon", ''Logica Universalis'', 6 (2012), pp.&nbsp;1–43.
+*  "History of truth-values",  in D.M.Gabbay and J.Woods (eds) ''Handbook of the History of Logic'', Vol. 11 - Logic: a history of its central concepts, Elsevier, Amsterdam, 2012, pp.&nbsp;233–305
+* ''The Square of Opposition: a General Framework for Cognition'' (ed. with Gillman Payette).  Bern: Peter Lang, 2012.  {{ISBN|978-3-0343-0537-2}}
+* "The new rising of the square of opposition", in J.-Y.Béziau and D.Jacquette (eds), ''Around and Beyond the Square of Opposition'', Birkhäuser, Basel, 2012, pp.&nbsp;6–24.
+* ''La pointure du symbole'' (ed.)  Paris: Petra, 2014.  {{ISBN|978-2-84743-048-6}}
+*  "The relativity and universality of logic", ''Synthese'', 192 (2015), pp 1939–1954.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.jyb-logic.org/ Jean-Yves Beziau's personal homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Beziau, Jean-Yves}}
+[[Category:1965 births]]
+[[Category:Mathematical logicians]]
+[[Category:Living people]]
+[[Category:Logicians]]
+[[Category:People from Orléans]]
+[[Category:Paraconsistent logic]]

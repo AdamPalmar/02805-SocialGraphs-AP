@@ -1,0 +1,156 @@
+{{other people}}
+{{redirect|Sun Wu|the Three Kingdoms period state|Eastern Wu}}
+{{Infobox writer
+|name         = Sun Tzu
+|image        = Enchoen27n3200.jpg
+|alt          = A statue of Sun Tzu
+|caption      = Statue of Sun Tzu in [[Yurihama, Tottori]], in [[Japan]]
+|birth_date   = 544 BC (traditional)
+|birth_place  = Qi state
+|death_date   = 496 BC (traditional)
+|occupation   = Military general and tactician
+|period       = [[Spring and Autumn period|Spring and Autumn]]
+|subject      = Military strategy
+|notableworks = ''[[The Art of War]]''
+|ethnicity    = Chinese
+}}
+{{Infobox Chinese
+|pic               = Sunzi (Chinese characters).svg
+|piccap            = "Sunzi" in ancient [[seal script]] (top), [[kaishu|regular]] Traditional (middle), and Simplified (bottom) Chinese characters
+|picupright     = 0.45
+|t                 = 孫子
+|s                 = 孙子
+|l                 = "Master Sun"
+|p                 = Sūnzǐ
+|suz               = Sen-tsỳ
+|w                 = Sun<sup>1</sup>-tzŭ<sup>3</sup>
+|mi                = {{IPAc-cmn|s|un|1|.|zi|3}}
+|gr                = Suentzyy
+|j                 = Syun<sup>1</sup>-zi<sup>2</sup>
+|y                 = Syūn-jí
+|ci                = {{IPAc-yue|s|yun|1|.|z|i|2}}
+|poj               = Sun-chú
+|tl                = Sun-tsú
+|mc                = Swon-tsi<ref name="BaxSag">{{Citation|last1=Baxter |first1=William H. |last2=Sagart |first2=Laurent |last-author-amp=yes |url=http://crlao.ehess.fr/docannexe.php?id=1207 |title=Baxter–Sagart Old Chinese Reconstruction |year=2011 |accessdate=18 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20120425064509/http://crlao.ehess.fr/docannexe.php?id=1207 |archivedate=25 April 2012 |df= }}.</ref>
+|oc-bs             = &#42;{{IPA|[s]ˤu[n] tsəʔ}}
+|altname           = Sun Wu
+|t2                = 孫武
+|s2                = 孙武
+|tp2               = Sūn Wǔ
+|w2                = Sun Wu
+|mc2               = Swon-mɨo<sup>X</sup>
+|oc-bs2             = &#42;{{IPA|[s]ˤu[n] m(r)aʔ}}
+|altname3          =  Changqing
+|t3                =  長卿
+|s3                =  长卿
+|p3                =  Chángqīng
+|w3                =  Ch'ang-ch'ing
+|mc3               = Drɨang-khjæng
+|oc-bs3             = &#42;{{IPA|Cə-[N]-traŋ C.qʰraŋ}}
+}}
+
+'''Sun Tzu''' ({{IPAc-en|ˌ|s|uː|n|ˈ|d|z|uː}};<ref>[http://encyclopedia2.thefreedictionary.com/Sun+Tzu "Sun Tzu"]. ''[[Columbia Encyclopedia|Columbia Electronic Encyclopedia]]'' (2013).</ref> also rendered as '''Sun Zi 孫子''') was a Chinese general, [[military strategist]], and philosopher who lived in the [[Spring and Autumn period]] of ancient China. Sun Tzu is traditionally credited as the author of ''[[The Art of War]]'', a widely influential work of [[military strategy]] that has affected both Western and [[East Asia|Eastern]] philosophy. Aside from his legacy as the author of ''The Art of War'', Sun Tzu is revered in [[Chinese culture|Chinese]] and the [[Culture of Asia]] as a legendary historical figure. His birth name was '''Sun Wu''', and he was known outside of his family by his [[courtesy name]] '''Changqing'''. The name ''Sun Tzu'' by which he is best known in the West is an [[Chinese honorifics|honorific]] which means "Master [[Sun (surname)|Sun]]".
+
+Sun Tzu's historicity is uncertain. [[Sima Qian]] and other traditional historians placed him as a minister to [[King Helü of Wu|King Helü]] of [[state of Wu|Wu]] and dated his lifetime to 544&ndash;496 BC. Modern scholars accepting his historicity nonetheless place the existing text of ''The Art of War'' in the later [[Warring States period]] based upon its style of composition and its descriptions of warfare.<ref>{{Citation|last=Sawyer|first=Ralph D.|title=The Seven Military Classics of Ancient China|year=2007|publisher=Basic Books|location=New York|isbn=0-465-00304-4|pages=421–422}}.</ref> Traditional accounts state that the general's descendant [[Sun Bin]] also wrote a treatise on military tactics, also titled ''[[Sun Bin's Art of War|The Art of War]]''. Since both Sun Wu and Sun Bin were referred to as Sun Tzu in classical Chinese texts, some historians believed them identical prior to the rediscovery of Sun Bin's treatise in 1972.
+
+Sun Tzu's work has been praised and employed throughout [[East Asia]] since its composition. During the twentieth century, ''The Art of War'' grew in popularity and saw practical use in [[Western world|Western society]] as well. It continues to influence many competitive endeavors in Asia, Europe, and America including culture, politics,<ref name=wp>{{citation|last=Scott|first=Wilson|title=Obama meets privately with Jewish leaders|date=7 March 2013|url=https://articles.washingtonpost.com/2013-03-07/politics/37535039_1_nuclear-weapons-jewish-leaders-president-obama|newspaper=The Washington Post|publication-place=Washington, DC|accessdate = 22 May 2013}}.</ref><ref name=UPI>{{citation|title=Obama to challenge Israelis on peace|work=United Press International|date=8 March 2013|url=http://www.upi.com/Top_News/US/2013/03/08/Obama-to-challenge-Israelis-on-peace/UPI-70151362729600/|accessdate=22 May 2013}}.</ref> business,<ref name=Business>{{citation|last=Garner|first=Rochelle|title=Oracle's Ellison Uses 'Art of War' in Software Battle With SAP|work=Bloomberg|date=16 October 2006|url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=aFA0SRsqGq04|accessdate=18 May 2013}}.</ref> and sports,<ref name=Football>{{citation|last=Hack|first=Damon|title=For Patriots' Coach, War Is Decided Before Game|newspaper=The New York Times|date=3 February 2005|url=https://www.nytimes.com/2005/02/03/sports/football/03belichick.html?_r=0|accessdate = 18 May 2013}}.</ref> as well as modern warfare.
+
+==Life==
+[[File:Inscribed bamboo-slips of Art of War.jpg|thumb|The [[Yinqueshan Han Slips]] unearthed in 1972 include Sun Tzu's ''Art of War'', collection of [[Shandong Museum]]]]
+The oldest available sources disagree as to where Sun Tzu was born. The ''[[Spring and Autumn Annals]]'' states that Sun Tzu was born in [[Qi (state)|Qi]],<ref>{{harvnb|Sawyer|2007|p=151}}.</ref> while [[Sima Qian]]'s later ''[[Records of the Grand Historian]]'' (''Shiji'') states that Sun Tzu was a native of [[Wu (state)|Wu]].<ref>{{harvnb|Sawyer|2007|p=153}}.</ref> Both sources agree that Sun Tzu was born in the late [[Spring and Autumn period]] and that he was active as a general and strategist, serving [[kings of Wu|king]] [[King Helü|Helü]] of [[Wu (state)|Wu]] in the late sixth century BC, beginning around 512 BC. Sun Tzu's victories then inspired him to write ''The Art of War''. ''The Art of War'' was one of the most widely read military treatises in the subsequent [[Warring States period]], a time of constant war among seven nations {{ndash}} [[Zhao (state)|Zhao]], Qi, [[Qin (state)|Qin]], [[Chu (state)|Chu]], [[Han (state)|Han]], [[Wei (state)|Wei]], and [[Yan (state)|Yan]] {{ndash}} who fought to control the vast expanse of fertile territory in Eastern China.<ref name=mcneilly3>{{harvnb|McNeilly|2001|pp=3–4}}.</ref>
+
+One of the more well-known stories about Sun Tzu, taken from Sima Qian, illustrates Sun Tzu's temperament as follows: Before hiring Sun Tzu, the King of Wu tested Sun Tzu's skills by commanding him to train a [[harem]] of 180 concubines into soldiers. Sun Tzu divided them into two companies, appointing the two concubines most favored by the king as the company commanders. When Sun Tzu first ordered the concubines to face right, they giggled. In response, Sun Tzu said that the general, in this case himself, was responsible for ensuring that soldiers understood the commands given to them. Then, he reiterated the command, and again the concubines giggled. Sun Tzu then ordered the execution of the king's two favored concubines, to the king's protests. He explained that if the general's soldiers understood their commands but did not obey, it was the fault of the officers. Sun Tzu also said that, once a general was appointed, it was his duty to carry out his mission, even if the king protested. After both concubines were killed, new officers were chosen to replace them. Afterwards, both companies, now well aware of the costs of further frivolity, performed their maneuvers flawlessly.<ref name=bradford134>{{harvnb|Bradford|2000|pp=134–135}}.</ref>
+
+Sima Qian claimed that Sun Tzu later proved on the battlefield that his theories were effective (for example, at the [[Battle of Boju]]), that he had a successful military career, and that he wrote ''The Art of War'' based on his tested expertise.<ref name=bradford134/> However, the ''[[Zuo zhuan]]'', a historical text written centuries earlier than the ''Shiji'', provides a much more detailed account of the Battle of Boju, but does not mention Sun Tzu at all.<ref name="zuozhuan">{{citation|chapterurl=http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.17&toc.depth=1&toc.id=0&doc.lang=bilingual|chapter=Duke Ding|volume=XI|title=[[Zuo Zhuan]]|author=[[Zuo Qiuming]]|language=Chinese, English|accessdate=30 November 2011}}.</ref>
+
+===Historicity===
+Beginning around the 12th century, some scholars began to doubt the historical existence of Sun Tzu, primarily on the grounds that he is not mentioned in the historical classic ''Zuo zhuan'', which mentions most of the notable figures from the Spring and Autumn period.{{sfnp|Gawlikowski|Loewe|1993|p=447}}  The name "Sun Wu" ({{lang|zh|孫武}}) does not appear in any text prior to the ''Shiji'',{{sfnp|Mair|2007|p=9}} and may have been a made-up descriptive cognomen meaning "the fugitive warrior": the surname "Sun" can be glossed as the related term "fugitive" (''xùn'' {{lang|zh|遜}}), while "Wu" is the ancient Chinese virtue of "martial, valiant" (''wǔ'' {{lang|zh|武}}), which corresponds to Sunzi's role as the hero's ''[[doppelgänger]]'' in the story of [[Wu Zixu]].<ref name="Victor H 2007 pp. 9-10">[[Victor H. Mair|Mair, Victor H.]] (2007). ''The Art of War: Sun Zi's Military Methods''. New York: Columbia University Press. pp. 9-10. {{ISBN|978-0-231-13382-1}}.</ref> Skeptics cite possible historical inaccuracies and anachronisms in the text, and that the book was actually a compilation from different authors and military strategists. Attribution of the authorship of ''The Art of War'' varies among scholars and has included people and movements including Sun; [[state of Chu|Chu]] scholar [[Wu Zixu]]; an anonymous author; a school of theorists in [[state of Qi|Qi]] or [[state of Wu|Wu]]; [[Sun Bin]]; and others.<ref>{{harvnb|Sawyer|2005|pp=34–35}}.</ref> Sun Bin appears to have been an actual person who was a genuine authority on military matters, and may have been the inspiration for the creation of the historical figure "Sunzi" through a form of [[euhemerism]].<ref name="Victor H 2007 pp. 9-10"/> The name Sun Wu does appear in later sources such as the ''Shiji'' and the ''[[Wu Yue Chunqiu]]''.<ref>{{harvnb|Sawyer|2007|pp=176–177}}.</ref> The only historical battle attributed to Sun Tzu, the [[Battle of Boju]], has no record of him fighting in that battle.<ref name="Daryl">{{cite web|url=http://www.newhistorian.com/the-art-of-war/3232/|title=The Art of War|publisher=''New Historian''|author=Worthington, Daryl}} March 13, 2015</ref>[[File:Battle of Boju.png|thumb|400px|Situation during the Battle of Boju]]
+
+The appearance of features from ''The Art of War'' in other historical texts is considered to be proof of his historicity and authorship. Certain strategic concepts, such as terrain classification, are attributed to Sun Tzu. Their use in other works such as ''[[The Methods of the Sima]]'' is considered proof of Sun Tzu's historical priority.<ref name=sawyer149>{{harvnb|Sawyer|1994|pp=149–150}}.</ref> According to Ralph Sawyer, it is very likely Sun Tzu did exist and not only served as a general but also wrote the core of the book that bears his name.<ref name="sawyer"/> It is argued that there is a disparity between the large-scale wars and sophisticated techniques detailed in the text and the more primitive small-scale battles that many believe predominated in China during the 6th century BC. Against this, Sawyer argues that the teachings of Sun Wu were probably taught to succeeding generations in his family or a small school of disciples, which eventually included Sun Bin. These descendants or students may have revised or expanded upon certain points in the original text.<ref name="sawyer">{{harvnb|Sawyer|2007|pp=150–151}}.</ref>
+
+Skeptics who identify issues with the traditionalist view point to possible anachronisms in ''The Art of War'' including terms, technology (such as anachronistic [[crossbows]] and the unmentioned [[cavalry]]), philosophical ideas, events, and military techniques that should not have been available to Sun Wu.<ref>Yang, Sang. ''The Art of War''. Wordsworth Editions Ltd (December 5, 1999). pp. 14-15. {{ISBN|978-1853267796}}</ref><ref name="Asian History">{{cite web|url=http://asianhistory.about.com/od/ancientchina/p/Sun-Tzu-Art-of-War.htm|title=Sun Tzu and the Art of War|publisher=''Asian History''|author=Szczepanski, Kallie}} February 04, 2015</ref> Additionally, there are no records of professional generals during the [[Spring and Autumn period]]; these are only extant from the [[Warring States period]], so there is doubt as to Sun Tzu's rank and generalship.<ref name="Asian History"/> This caused much confusion as to when ''The Art of War'' was actually written. The first traditional view is that it was written in 512 BC by the historical Sun Wu, active in the last years of the Spring and Autumn period (c. 722-481 BC). A second view, held by scholars such as Samuel Griffith, places ''The Art of War'' during the middle to late Warring States period (c. 481-221 BC). Finally, a third school claims that the slips were published in the last half of the 5th century BC; this is based on how its adherents interpret the bamboo slips discovered at Yin-ch’ueh-shan in 1972 AD.<ref>{{cite web|url=http://www.classicsofstrategy.com/2015/11/sun-tzu-the-art-of-war-c-500-300-bc.html|title=Sun Tzu, The Art of War (c. 500-300 B.C.)|publisher=''Classics of Strategy''|author=Morrow, Nicholas}} February 04, 2015</ref>
+
+==''The Art of War''==
+{{Main article|The Art of War}}
+[[File:Bamboo book - binding - UCR.jpg|thumb|left|upright|A copy of ''The Art of War'' written on bamboo|alt=A bamboo book]]
+''[[The Art of War]]'' is traditionally ascribed to Sun Tzu. It presents a [[philosophy of war]] for managing conflicts and winning battles. It is accepted as a [[masterpiece]] on strategy and has been frequently cited and referred to by generals and theorists since it was first published, translated, and distributed internationally.<ref name="McNeilly1">{{harvnb|McNeilly|2001|p=5}}.</ref>
+
+There are numerous theories concerning when the text was completed and concerning the identity of the author or authors, but archeological recoveries show ''The Art of War'' had taken roughly its current form by at least the early [[Han dynasty|Han]].<ref>{{harvnb|Sawyer|2007|p=423}}.</ref> Because it is impossible to prove definitively when the ''Art of War'' was completed before this date, the differing theories concerning the work's author or authors and date of completion are unlikely to be completely resolved.<ref>{{harvnb|Sawyer|2007|p=150}}.</ref> Some modern scholars believe that it contains not only the thoughts of its original author but also commentary and clarifications from later military theorists, such as [[Li Quan (general)|Li Quan]] and [[Du Mu]].
+
+Of the military texts written before the [[Qin's wars of unification|unification of China]] and [[Shi Huangdi]]'s subsequent [[Burning of books and burying of scholars|book burning]] in the second century BC, six major works have survived. During the much later [[Song dynasty]], these six works were combined with a [[Tang dynasty|Tang]] text into a collection called the ''[[Seven Military Classics]]''. As a central part of that compilation, ''The Art of War'' formed the foundations of orthodox military theory in early modern China. Illustrating this point, the book was required reading to pass the tests for imperial appointment to military positions.<ref>{{harvnb|Sawyer|1994|pp=13–14}}.</ref>
+
+Sun Tzu's ''Art of War'' uses language that may be unusual in a Western text on warfare and strategy.<ref>{{harvnb|Simpkins|Simpkins|1999|pp=131–33}}.</ref> For example, the eleventh chapter states that a leader must be "serene and inscrutable" and capable of comprehending "unfathomable plans". The text contains many similar remarks that have long confused Western readers lacking an awareness of the [[East Asian religions|East Asian context]]. The meanings of such statements are clearer when interpreted in the context of [[Taoism|Taoist]] thought and practice. Sun Tzu viewed the ideal general as an [[Enlightenment (spiritual)|enlightened]] Taoist master, which has led to ''The Art of War'' being considered a prime example of Taoist strategy.
+
+The book has also become popular among political leaders and those in [[business management]]. Despite its title, ''The Art of War'' addresses strategy in a broad fashion, touching upon [[public administration]] and planning. The text outlines theories of battle, but also advocates [[diplomacy]] and the cultivation of relationships with other nations as essential to the health of a state.<ref name="McNeilly1"/>
+
+On April 10, 1972, the [[Yinqueshan Han Tombs]] were accidentally unearthed by construction workers in [[Shandong]].<ref name=shandong>{{citation|title=Yinqueshan Han Bamboo Slips|url=http://www.sdwenbo.com/art.asp?id=26&type=6|date=24 April 2008|publisher=[[Shandong Provincial Museum]]|language=Chinese}}.</ref><ref name="Clements">{{citation|last=Clements|first=Jonathan|title=The Art of War: A New Translation|date=21 June 2012|publisher=Constable & Robinson Ltd|isbn=978-1-78033-131-7|pages=77–78}}.</ref> Scholars uncovered a [[Yinqueshan Han Slips|collection of ancient texts]] written on unusually well-preserved [[bamboo slips]]. Among them were ''The Art of War'' and [[Sun Bin]]'s ''Military Methods''.<ref name="Clements"/> Although Han dynasty bibliographies noted the latter publication as extant and written by a descendant of Sun, it had previously been lost. The rediscovery of Sun Bin's work is regarded as extremely important by scholars, both because of Sun Bin's relationship to Sun Tzu and because of the work's addition to the body of military thought in Chinese late antiquity.<ref>朱文章(Sydney Wen-Jang Chu) ； 李承禹(Cheng-Yu Lee) ''Just another Masterpiece: the Differences between Sun Tzu's the Art of War and Sun Bin's the Art of War''. http://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20121108003-201301-201302010022-201302010022-59-73</ref> The discovery as a whole significantly expanded the body of surviving [[Warring States]] military theory. Sun Bin's treatise is the only known military text surviving from the Warring States period discovered in the twentieth century and bears the closest similarity to ''The Art of War'' of all surviving texts.
+
+==Legacy==
+Sun Tzu's ''Art of War'' has influenced many notable figures. [[Sima Qian]] recounted that China's first historical [[emperor of China|emperor]], [[state of Qin|Qin]]'s [[Shi Huangdi]], considered the book invaluable in ending the time of the [[Warring States]]. In the 20th century, the [[Chinese Communist]] leader [[Mao Zedong]] partially credited his 1949 victory over [[Chiang Kai-shek]] and the [[Kuomintang]] to ''The Art of War''. The work strongly influenced Mao's [[Little Red Book|writings about guerrilla warfare]], which further influenced communist insurgencies around the world.<ref name="McNeilly2"/>
+
+''The Art of War'' was introduced into Japan {{circa|lk=no|AD 760}} and the book quickly became popular among Japanese generals. Through its later influence on [[Oda Nobunaga]], [[Toyotomi Hideyoshi]], and [[Tokugawa Ieyasu]],<ref name="McNeilly2">{{harvnb|McNeilly|2001|pp=6–7}}.</ref> it significantly affected the [[Edo Period|unification of Japan]] in the early modern era. Prior to the [[Meiji Restoration]], mastery of its teachings was honored among the [[samurai]] and its teachings were both exhorted and exemplified by influential ''[[daimyō]]s'' and [[shogun]]s. Subsequently, it remained popular among the [[Imperial Japanese Army|Imperial Japanese armed forces]]. The [[Admiral of the Fleet]] [[Tōgō Heihachirō]], who led Japan's forces to victory in the [[Russo-Japanese War]], was an avid reader of Sun Tzu.<ref>{{harvnb|Tung|2001|p=805}}.</ref>
+
+[[Ho Chi Minh]] translated the work for his Vietnamese officers to study. His general [[Vo Nguyen Giap]], the strategist behind victories over [[Franco-Vietnamese War|French]] and [[Vietnam War|American]] forces in [[Vietnam]], was likewise an avid student and practitioner of Sun Tzu's ideas.<ref>{{citation|url=http://www.sonshi.com/duiker.html|title=Interview with Dr. William Duiker|work=Sonshi.com|accessdate=5 February 2011}}.</ref><ref>{{citation|url=http://findarticles.com/p/articles/mi_m0PBZ/is_3_83/ai_109268913/?tag=untagged |archive-url=https://archive.is/20120629011131/http://findarticles.com/p/articles/mi_m0PBZ/is_3_83/ai_109268913/?tag=untagged |dead-url=yes |archive-date=2012-06-29 |title=Learning from Sun Tzu |newspaper=Military Review |date=May–June 2003 }}.</ref><ref>{{citation|last1=Forbes|first1=Andrew|last2=Henley|first2=David|last-author-amp=yes|year=2012|title=The Illustrated Art of War: Sun Tzu|publisher=Cognoscenti Books|location=Chiang Mai|asin=B00B91XX8U}}.</ref>
+
+America's Asian conflicts against [[Imperial Japan|Japan]], [[North Korea]], and [[North Vietnam]] brought Sun Tzu to the attention of American military leaders. The [[Department of the Army]] in the [[United States]], through its [[Command and General Staff College]], has directed all units to maintain libraries within their respective headquarters for the continuing education of personnel in the art of war. ''The Art of War'' is mentioned as an example of works to be maintained at each facility, and staff duty officers are obliged to prepare short papers for presentation to other officers on their readings.<ref>{{Citation|author=U.S. Army|year=c. 1985|title=Military History and Professional Development|publisher=Combat Studies Institute|location=U.S. Army Command and General Staff College, Fort Leavenworth, Kansas|id=85-CSI-21 85}}. ''The Art of War'' is mentioned for each unit's acquisition in "Military History Libraries for Duty Personnel" on page 18.</ref> Similarly, Sun Tzu's ''Art of War'' is listed on the [[United States Marine Corps|Marine Corps]] Professional Reading Program.<ref>{{citation|url=http://www.marines.mil/news/messages/Pages/2005/MARINE%20CORPS%20PROFESSIONAL%20READING%20PROGRAM.aspx|title=Marine Corps Professional Reading Program|work=U.S. Marine Corps}}.</ref> During the [[Gulf War]] in the 1990s, both Generals [[Norman Schwarzkopf Jr.]] and [[Colin Powell]] employed principles from Sun Tzu related to deception, speed, and striking one's enemy's weak points.<ref name="McNeilly2"/> However, the United States and other Western countries have been criticised for not truly understanding Sun Tzu's work and not appreciating ''The Art of War'' within the wider context of Chinese society.<ref name=Hall>{{cite web|last1=Hall|first1=Gavin|title=Review - Deciphering The Art of War|url=http://blogs.lse.ac.uk/lsereviewofbooks/2015/01/10/book-review-deciphering-sun-tzu-how-to-read-the-art-of-war/|website=LSE Review of Books|accessdate=23 March 2015}}</ref>
+
+Daoist rhetoric is a component incorporated in the ''Art of War''. According to Steven C. Combs in "Sun-zi and the ''Art of War'': The Rhetoric of Parsimony",<ref name="Combs 276–294">{{cite journal|last=Combs|first=Steven C.|title=Sun-zi and the Art of War: The Rhetoric of Parsimony|journal=Quarterly Journal of Speech|date=August 2000|volume=3|pages=276–294|doi=10.1080/00335630009384297}}</ref>  warfare is "used as a metaphor for rhetoric, and that both are philosophically based arts."<ref name="Combs 276–294"/>  Combs writes "Warfare is analogous to persuasion, as a battle for hearts and minds."<ref name="Combs 276–294"/> The application of ''The Art of War'' strategies throughout history is attributed to its philosophical rhetoric. Daoism is the central principle in the ''Art of War''. Combs compares ancient Daoist Chinese to traditional Aristotelian rhetoric, notably for the differences in persuasion. Daoist rhetoric in the art of war warfare strategies is described as "peaceful and passive, favoring silence over speech".<ref name="Combs 276–294"/> This form of communication is parsimonious. Parsimonious behavior, which is highly emphasized in ''The Art of War'' as avoiding confrontation and being spiritual in nature, shapes basic principles in Daoism.<ref>{{cite journal|last=Galvany|first=Albert|title=Philosophy, Biography, and Anecdote: On the Portrait of Sun Wu|journal=Philosophy East and West|date=October 2011|volume=61|issue=4|pages=630–646|doi=10.1353/pew.2011.0059}}</ref>
+
+Mark McNeilly writes in ''[[Sun Tzu and the Art of Modern Warfare]]'' that a modern interpretation of Sun and his importance throughout Chinese history is critical in understanding China's push to becoming a superpower in the twenty-first century. Modern Chinese scholars explicitly rely on historical strategic lessons and ''The Art of War'' in developing their theories, seeing a direct relationship between their modern struggles and those of China in Sun Tzu's time. There is a great perceived value in Sun Tzu's teachings and other traditional Chinese writers, which are used regularly in developing the strategies of the Chinese state and its leaders.<ref>{{harvnb|McNeilly|2001|p=7}}.</ref>
+
+In 2008, producer [[Zhang Jizhong]] adapted Sun Tzu's life story into a 40-episode historical drama television series entitled ''[[Bing Sheng]]'', starring Zhu Yawen as Sun Tzu.<ref>{{citation|url=http://data.ent.sina.com.cn/tv/7129.html|title=Bing Sheng|publisher=sina.com|language=Chinese}}.</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin|colwidth=35em}}
+*{{cite book | last = Ames | first = Roger, T. | title = Sun-tzu: The Art of Warfare: The First English Translation Incorporating the Recently Discovered Yin-chʻüeh-shan Texts | publisher = Ballantine Books | location = New York | year = 1993 | isbn = 034536239X }}
+*{{citation|last=Bradford|first=Alfred S.|title=With Arrow, Sword, and Spear: A History of Warfare in the Ancient World|year=2000|publisher=Praeger Publishers|isbn=0-275-95259-2}}
+*{{cite book|title=Early Chinese Texts: A Bibliographical Guide|last2=Loewe|first2=Michael|publisher=Society for the Study of Early China; Institute of East Asian Studies, University of California, Berkeley|year=1993|isbn=1-55729-043-1|editor-last=Loewe|editor-first=Michael|location=Berkeley|pages=446–55|chapter=''Sun tzu ping fa'' 孫子兵法|ref = harv|first1=Krzysztof|last1=Gawlikowski|authorlink2=Michael Loewe}}
+*{{citation|last=McNeilly|first=Mark R.|title=Sun Tzu and the Art of Modern Warfare|year=2001|publisher=Oxford University Press|isbn=0-19-513340-4}}.
+*{{cite book|title=The Art of War: Sun Zi's Military Methods|last=Mair|first=Victor H.|publisher=Columbia University Press|year=2007|isbn=978-0-231-13382-1|location=New York|pages=|authorlink=Victor H. Mair}}
+*{{citation|last=Sawyer|first=Ralph D.|title=The Art of War|year=1994|publisher=Westview Press|isbn=0-8133-1951-X}}.
+*{{citation|last=Sawyer|first=Ralph D.|title=The Essential Art of War|year=2005|publisher=Basic Books|isbn=0-465-07204-6}}.
+*{{citation|last=Sawyer|first=Ralph D.|title=The Seven Military Classics of Ancient China|year=2007|publisher=Basic Books|isbn=0-465-00304-4}}.
+*{{citation|last=Simpkins|first=Annellen|title=Taoism: A Guide to Living in the Balance|year=1999|ref=harv|last2=Simpkins|first2=C. Alexander|publisher=Tuttle Publishing|isbn=978-0-8048-3173-4|last-author-amp=yes}}.
+*{{Citation|last=Tao|first=Hanzhang|title=The Art of War|year=1998|ref=harv|last2=Wilkinson|first2=Robert|publisher=Wordsworth Editions|isbn=978-1-85326-779-6}}.
+*{{citation|last=Tung|first=R.L.|title=Comparative Management:Critical Perspectives on Business and Management|year=2001|volume=3|chapter=Strategic Management Thought in East Asia|publisher=Routledge|editor-last=Warner|editor-first=Malcolm}}.
+{{Refend}}
+
+==External links==
+{{Sister project links |wikt=no |commons=Category:Sun Tzu |b=no |n=no |q=Sun Tzu |s=Author:Sun Tzu |v=no |species=no }}
+; Translations
+* {{Gutenberg author |id=Sunzi}}
+* {{Internet Archive author |search=("Sun Tzu" OR "Sun Wu" OR "Sun Zi" OR "Sunzi" OR "Changqing")}}
+* {{Librivox author |id=3534}}
+* [http://www.sonshi.com/ Sun Tzu's ''Art of War''] at Sonshi
+* [https://web.archive.org/web/20080527081835/http://www.ndu.edu/inss/siws/cont.html Sun Tzu and Information Warfare] at the Institute for National Strategic Studies of [[National Defense University]]
+
+; Sun Tzu sites
+* [http://www.sonshi.com/index.html Sun Tzu's ''Art of War''] [http://www.sonshi.com/about.html Sonshi.com]. Reviews of translations, interviews with translators, notices of activities.
+* [http://www.dmoz.org/Arts/Literature/World_Literature/Chinese/Sun_Tzu Sun Tzu] [http://www.dmoz.org/docs/en/about.html DMOZ Open Directory Project] Collection of links to online translations and resources on Sun Tzu.
+* [http://www.victoryoverwar.com/about.html Victory Over War] Formed by the Denma Group to supplement their translation with notes, reviews, and discussion.
+
+{{Chinese philosophy}}
+{{Social and political philosophy}}
+{{Portal bar|China|Biography}}
+
+{{Good article}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sun Tzu}}
+[[Category:544 BC births]]
+[[Category:496 BC deaths]]
+[[Category:6th-century BC Chinese people]]
+[[Category:5th-century BC Chinese people]]
+[[Category:6th-century BC writers]]
+[[Category:5th-century BC writers]]
+[[Category:Ancient Chinese military writers]]
+[[Category:Military strategists]]
+[[Category:Military theorists]]
+[[Category:Political realists]]
+[[Category:Zhou dynasty generals]]
+[[Category:Zhou dynasty philosophers]]
+[[Category:Zhou dynasty writers]]
+[[Category:Sun Tzu|*]]

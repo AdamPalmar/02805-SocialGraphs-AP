@@ -1,0 +1,67 @@
+{{Infobox scientist
+| name = Theodor Zwinger
+| image = Theodorus Zwingerus Basiliensis, medicus (détail).jpg
+| image_size = 
+| caption = Theodor Zwinger<ref name=sourceImage/>
+| birth_date = {{birth date|1533|8|2|df=y}}
+| birth_place = [[Basel]]
+| death_date = {{death date and age|1588|3|10|1533|8|2|df=y}}
+| death_place = Basel
+| residence = 
+| nationality = [[Swiss (people)|Swiss]]
+| field = Medicine
+| work_institutions = 
+| alma_mater = [[University of Basel]], [[University of Lyon]] and [[University of Padua]]
+| doctoral_advisor = [[Bassiano Landi]]
+| academic_advisors = [[Thomas Platter]]<br>[[Petrus Ramus]]<br>[[Vettore Trincavelli]]<br>[[Gabriele Falloppio]]
+| doctoral_students = [[Petrus Ryff]]
+| influences        =
+| influenced        = [[Thomas Moffet]]
+| known_for = 
+| author_abbrev_bot = 
+| prizes = 
+| religion = Reformed
+| footnotes = 
+}}
+
+'''Theodor Zwinger the Elder''' (2 August 1533 – 10 March 1588) was a [[Switzerland|Swiss]] physician and [[humanism|humanist]] [[scholar]]. He made significant contributions to the emerging genres of reference and travel literature.<ref name="google">{{cite book|title=English Travellers of the Renaissance|author=Howard, C.M.|date=1914|publisher=Burt Franklin Publisher|isbn=9780833717450|url=https://books.google.is/books?id=WHgpr0I7Cm0C|page=26|accessdate=2014-12-07}}</ref> He was the first distinguished representative of a prominent Basel academic family.<ref>[http://www.stroux.org/patriz_f/stQV_f/Zi_f.pdf « Auszug Stamm Zwimmer frühe Generationen »] — family tree.</ref>
+
+==Life and work==
+
+Zwinger was the son of Leonhard Zwinger, a furrier who had become a citizen of Basel in 1526. His mother was Christina Herbster, the sister of [[Johannes Oporinus]] (Herbster) the famed humanist printer. After Zwinger’s father’s death, Christina married the noted humanist [[Conrad Lycosthenes]] (Wolffhart).
+
+Zwinger studied at universities in [[University of Basel|Basel]], [[University of Lyon|Lyon]], and [[Paris]] before taking a doctorate in medicine at the [[University of Padua]] with [[Bassiano Landi]], the successor of [[Johannes Baptista Montanus]]. In Paris he studied with the iconoclastic philosopher [[Petrus Ramus]]. He joined the faculty of the University of Basel as a member of the ''consilium facultatis medicae'' from 1559. At Basel he held successively chairs in Greek (1565), Ethics (1571), and finally theoretical medicine (1580).<ref>Miescher, Friedrich (1860), ''Die medizinische Facultät in Basel und ihr Aufschwung unter F. Plater und C. Bauhin: mit dem Lebensbilde von Felix Plater: zur vierten Säcularfeier der Universität Basel'', 6. September 1860. Basel: Schweighauser. pp. 18–19.</ref> While originally hostile to [[Paracelsus]], in his later career he took an interest in Paracelsian medical theory for which he experienced some hostility. He associated with Paracelsians such as [[Thomas Moffet]] and [[Petrus Severinus]].<ref>Shackelford, Jole, ''[https://books.google.com/books?id=D8Lf_NBW3TIC&pg=PA288 A Philosophical Path for Paracelsian Medicine: The Ideas, Intellectual Context, and Influence of Petrus Severinus (1540/2–1602)]'' (Copenhagen: Museum Tusculanum Press, 2004), pp. 287–288.</ref>
+
+Zwinger was the editor of the early encyclopedia ''Theatrum Humanae Vitae'' (editions 1565, 1571, 1586, 1604). The work is considered "perhaps the most comprehensive collection of knowledge to be compiled by a single individual in the early modern period."<ref>Helmut Zedelmaier, "Navigieren im Text-Universum: Theodor Zwingers Theatrum Vitae Humanae," ''Metaphorik'' 14 (2008): 113: "Theodor Zwingers Theatrum vitae humanae ist die vielleicht umfangreichste Wissenssammlung, die ein einzelner Mensch je in der frühen Neuzeit erstellte."</ref> He was able to draw on the knowledge base of his stepfather Conrad Lycosthenes in compiling the ''Theatrum Humanae Vitae''.
+
+Zwinger’s son, [[Jakob Zwinger]], briefly served as his successor as editor of the ''Theatrum''. His descendant [[Theodor Zwinger the Younger]] (1597–1654) was a prominent preacher and theology professor.
+
+== Zwinger's works ==
+*[[Conrad Lycosthenes|Lycosthenes, Conrad]]; Zwinger, Theodor. [https://books.google.com/books?id=3I7Yd8y2VOYC&pg=PP5 ''Theatrum vitæ humanæ''], Basel, 1565, 1571, 1586, 1596 et 1604, 5&nbsp;vol. totalling 4376 pages (on line: the 1586 edition) — an early [[encyclopedia]]
+* ''Morum philosophia poetica ex Veterum utriusque linguæ poetarum thesauris cognoscendæ veritatis et exercendæ virtutis'', Basel, 1575 : [https://books.google.com/books?id=LB08AAAAcAAJ&printsec=frontcover vol.&nbsp;1] (books 1 to 4) ; [http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10184751_00005.html vol.&nbsp;2] (books 5 to 18) — [Poetical philosophy]
+* [https://babel.hathitrust.org/cgi/pt?id=njp.32101078502661;view=1up;seq=5 ''Methodus apodemica in eorum gratiam, qui cum fructu in quocunq[ue&#93; tandem vitæ genere peregrinari cupiunt''], Basel, 1577 — an early example of travel literature
+
+== References ==
+{{Reflist
+ |30em
+ | refs =
+    <ref name=sourceImage>[http://daten.digitale-sammlungen.de/~db/0003/bsb00033227/images/index.html?id=00033227&groesser=&fip=fsdrxsxdsydewqeneayasdasweayayztssdas&no=14&seite=304 Source]. [[Bayerische Staatsbibliothek]], Munich, urn:nbn:de:bvb:12-bsb00033227-3</ref>
+
+}}
+
+== Further reading ==
+* Almási, Gábor (2009). ''The uses of Humanism : [[Johannes Sambucus]] (1531–1584), [[Andreas Dudith]] (1533–1589), and the Republic of Letters in East Central Europe'', Brill, 387&nbsp;p., ''passim'' — [https://books.google.com/books?id=cXuIh5Aa3SMC&pg=PR3 Excerpts]
+* Gilly, Carlos (1979). "Zwischen Erfahrung und Spekulation: Theodor Zwinger und die religiöse und kulturelle Krise seiner Zeit." (in German) ''Basler Zeitschrift für Geschichte und Altertumskunde'' 77 (1977): 57–137 & 79: 125–233.
+* {{cite book |last= Herzog |first= J. W. | title= Athenae rauricae: Sive catalogus professorum Academiae Basiliensis ab A. MCCCCLX ad A. MDCCLXXVIII. Cum brevi singulorum biographia. Adjecta est recensio omnium eiusdem Academiae rectorum | page=208 | publisher= Car. Aug. Serini | |language=Latin |year= 1778 | location = Basel | url= https://books.google.com/books?id=XQsOAAAAYAAJ&pg=PA208#v=onepage&q&f=false | oclc= 43215846 }}
+
+== External links ==
+* [http://www.uni-mannheim.de/mateo/camenaref/adam/adam2/s333.html Latin biography by Melchior Adam, 1620]
+* [http://www.digitale-sammlungen.de/index.html?c=autoren_index&l=de&ab=Zwinger%2C+Theodor Works of Theodor Zwinger at the [[Munich Digitization Center]]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zwinger, Theodor}}
+[[Category:1533 births]]
+[[Category:1588 deaths]]
+[[Category:16th-century Swiss physicians]]
+[[Category:People from Basel-Stadt]]

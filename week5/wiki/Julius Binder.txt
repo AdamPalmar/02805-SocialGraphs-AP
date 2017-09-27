@@ -1,0 +1,80 @@
+{{About|the German philosopher of law|See de:Julius Binder|Július Binder|Other person|Binder (surname)}}
+{{Infobox person
+|name = Julius Binder
+|image = Voit_208_Julius Binder.jpg
+|image_size = 250px
+|alt = Julius Binder
+|caption = Julius Binder
+|birth_name =
+|birth_date = {{Birth date|1870|5|12|df=y}}
+|birth_place = [[Würzburg]]
+|death_date = {{Death date and age|1939|8|28|1870|5|12|df=y}}
+|death_place = [[Göttingen]]
+|nationality = Germany
+|citizenship = Germany
+|other_names =
+|known_for =
+|alma_mater =
+|employer =
+|occupation = philosopher of law ({{lang-de|Rechtsphilosoph}})<br>{{Expand section|date=August 2011}}<br>
+; Related person:
+[[Rudolf Stammler]], {{Interlanguage link multi|Karl Larenz|de}}, {{Interlanguage link multi|Gerhard Dulckeit|de}}, [[Walther Schönfeld]], {{Interlanguage link multi|Max Pohlenz|de}}, [[Ludwig Prandtl]], {{Interlanguage link multi|Hermann Thiersch|de}}, {{Interlanguage link multi|Hugo Willrich|de}}, {{Interlanguage link multi|Hermann Kees|de}}; [[Carl Schmitt]], [[Ernst Forsthoff]]
+|years_active =
+|home_town = [[Würzburg]]
+|salary =
+|networth =
+|height =
+|weight =
+|title =
+|term =
+|predecessor =
+|successor =
+|party = {{Expand section|date=August 2011}}
+* {{Interlanguage link multi|Corps Bavaria Würzburg|de}}
+}}
+
+'''Julius Binder''' (May 12, 1870 in [[Würzburg]] &ndash; August 28, 1939 in [[Göttingen]]) was a German [[philosophy of law|philosopher of law]]. He is principally known as an opponent of legal positivism, and for having remained as an active scholar during the 1930s in [[Nazi Germany]] who did not speak out against the prevailing government of that time.
+
+== Life ==
+After studying law in Würzburg with honors (1894) and Habilitation (1898), he became professor in Rostock (1900), Erlangen (1903), Würzburg (1913) and Göttingen (1919). He founded the "International Hegel Federal" and became a member of the [[Göttingen Academy of Sciences]].
+
+After he had applied in earlier works the concept of rights from [[Immanuel Kant]] (as in: "Legal concept and idea of law" from the year 1915), he later became a strong critic of [[Neokantianism|Neokantian]] legal philosophy, especially the philosophy of law of Rudolf Stammler. Since the 1920s, Julius Binder—and later along with Karl Larenz, Gerhard Dulckeit and Walther Schönfeld –- he applied a [[Neohegelian]] approach to jurisprudence in the system of the so-called "objective idealism". Binder was the academic teacher of the German legal philosopher and [[Civil law (legal system)|civil law]] proponent Karl Larenz. He rejected [[legal positivism]].
+
+In addition, Binder, along with others such as [[Ernst Forsthoff]], [[Carl Schmitt]], Karl Larenz among legal philosophers, did not criticize the Nazi legal system.<ref>Kaufmann, Arthur: Rechtsphilosophie und Nationalsozialismus. In: Rottleuthner, Hubert: Recht, Rechtsphilosophie und Nationalsozialismus. Vorträge aus der Tagung der deutschen Sektion der internationalen Vereinigung für Rechts- und Sozialphilosophie in der Bundesrepublik Deutschland vom 11. und 12. Oktober 1982 in Berlin (West). Wiesbaden 1983, S. 1–19.</ref>
+
+Since 1890 he was a member of the Corps Bavaria Würzburg.<ref>[[Kösener Corpslisten]] 1960, '''138''', 512</ref>
+
+== Literary works ==
+* [http://socserv2.mcmaster.ca/~econ/ugcm/3ll3/binder/index.html ''Das Problem der Juristischen Persönlichkeit''] (1907)
+* ''Rechtsbegriff und Rechtsidee'', 1915
+* ''Philosophie der Rechts'', 1925
+* ''Grundlegung zur Rechtsphilosophie'', 1935
+* ''System der Rechtsphilosophie'', 1937
+
+==References==
+{{Reflist}}
+==External links==
+* {{Internet Archive author |sname=Julius Binder}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Binder, Julius}}
+[[Category:1870 births]]
+[[Category:1939 deaths]]
+[[Category:19th-century German people]]
+[[Category:20th-century German people]]
+[[Category:Philosophers of law]]
+[[Category:19th-century philosophers]]
+[[Category:20th-century philosophers]]
+[[Category:19th-century jurists]]
+[[Category:20th-century jurists]]
+[[Category:Hegelian philosophers]]
+[[Category:University of Göttingen faculty]]
+[[Category:People of Nazi Germany]]
+[[Category:People from Würzburg]]
+[[Category:People from Göttingen]]
+
+
+{{Germany-academic-bio-stub}}
+{{Germany-philosopher-stub}}
+{{Germany-law-bio-stub}}

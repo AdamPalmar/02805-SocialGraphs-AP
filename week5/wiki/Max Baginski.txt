@@ -1,0 +1,60 @@
+{{For|the German entrepreneur Max Baginski|Leo Maximilian Baginski}}
+'''Max Baginski''' (1864&nbsp;– November 24, 1943) was a [[German-American]] [[anarchist]].
+
+Baginski was born in 1864 in [[Bartenstein]] (now [[Bartoszyce]]), a small [[East Prussia]]n town. His father was shoemaker who had been active in the [[1848 revolution]] and was thus shunned by the conservative inhabitants of the village. Under his fathers influence, Baginski read [[Freethought|freethinker]] [[August Specht]]'s writings and ''[[Berliner Freie Presse]]'', [[Johann Most]]'s newspaper, in his youth. After school Baginski became his father's apprentice.
+
+Already a staunch socialist, Baginski moved to [[Berlin]] in 1882. He emigrated to the [[United States|U.S.]] in 1893. From 1894 to 1901, he was an editor of the ''[[Chicago Worker]]'' newspaper. He helped publishing the 1906-07 issues of the magazine ''[[Freedom (newspaper)|Freedom]]'' and editorials for the anarchist magazine ''[[Mother Earth (magazine)|Mother Earth]]'' in [[New York City]].
+
+This is a quote from the first issue of Mother Earth Magazine. {{Quotation|The State Socialists love to assert that at present we live in the age of individualism; the truth, however, is that individuality was never valued at so low a rate as to-day. Individual thinking and feeling are incumbrances and not recommendations on the paths of life. Wherever they are found on the market they meet with the word "adaptation." Adapt yourself to the demands of the reigning social powers, act the obedient servant before them, and if you produce something be sure that it does not run against the grain of your "superiors," or say adieu to success, reputation and recompense. Amuse the people, be their clown, give them platitudes about which they can laugh, prejudices which they hold as righteousness and falsehoods which they hold as truths. Paint the whole, crown it with regard for good manners, for society does not like to hear the truth about itself. Praise the men in power as fathers of the people, have the devourers of the common wealth parade along as benefactors of mankind. Of course, the force which humbles humanity in this manner is far from openly declaring itself as force. It is masked, and in the course of time it has learned to step forward with the least possible noise. That diminishes the danger of being recognized. ''Without Government'', By Max Baginski, 1906<ref>[http://www.gutenberg.org/files/26600/26600-h/26600-h.htm ''Mother Earth Vol 1 No 1 March 1906'']</ref>}}
+
+Baginski died at [[Bellevue Hospital]] in New York on November 24, 1943.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+<references />
+*{{Citation
+ | last=Rocker
+ | first=Rudolf
+ | author-link=Rudolf Rocker
+ | publication-date=1948
+ | contribution=Max Baginski
+ | title=Rudolf Rocker: Aufsatzsammlung
+ | publication-place=Frankfurt
+ | publisher=Verlag Freie Gesellschaft
+ | volume=2
+ | isbn =3-88215-037-8
+ | year=1980
+}}
+
+==External links==
+* [http://recollectionbooks.com/bleed/Encyclopedia/BaginskyMax.htm Max Baginski Page] from the Daily Bleed's Anarchist Encyclopedia
+* [http://www.anarchy-movement.org/anarchist.php?ID=6/ A brief description of Baginski's life]
+* [http://www.katesharpleylibrary.net/t4b9j4 Max Baginski, The right to live]
+
+{{start box}}
+{{s-media}}
+{{succession box|title=Editor of ''[[Freiheit (1879)|Freiheit]]''|years=1907 &ndash; 1910|before=Helene Minkin|after=''Publication closed''}}
+{{end box}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baginski, Max}}
+[[Category:1864 births]]
+[[Category:1943 deaths]]
+[[Category:People from Bartoszyce]]
+[[Category:People from the Province of Prussia]]
+[[Category:German anarchists]]
+[[Category:20th-century American philosophers]]
+[[Category:American anarchists]]
+[[Category:Anarcho-communists]]
+[[Category:German emigrants to the United States]]
+[[Category:German philosophers]]
+[[Category:German revolutionaries]]
+[[Category:German male writers]]
+
+
+{{anarchist-stub}}
+{{US-poli-bio-stub}}

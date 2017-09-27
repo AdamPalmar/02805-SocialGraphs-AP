@@ -1,0 +1,65 @@
+{{Use dmy dates|date=October 2016}}
+{{Use Australian English|date=October 2016}}
+{{Infobox philosopher
+| <!-- Scroll down to edit this page -->
+  <!-- Philosopher Category -->
+  region          = Western Philosophy
+| era             = [[Contemporary philosophy]]
+| <!-- Images -->
+  image           =
+| caption   =
+| signature       = |
+  <!-- Information -->
+  name          = Paul Robert Patton
+| birth_date    = 1950
+| birth_place   = [[Australia]]
+| death_date    =
+| death_place   =
+| school_tradition  = [[Continental Philosophy]]
+| main_interests    = [[French philosophy]], [[Political philosophy]]
+| influences    = [[Gilles Deleuze|Deleuze]] [[Michel Foucault|Foucault]] [[Louis Althusser|Althusser]] [[John Rawls|Rawls]] [[Jacques Derrida|Derrida]]
+| influenced    = [[Moira Gatens|Gatens]] [[Craig Lundy|Lundy]] [[Sean Bowden|Bowden]]
+| notable_ideas = 
+}}
+
+'''Paul Robert Patton''' (born 1950) is Scientia Professor of [[Philosophy]] in the School of History and Philosophy at the [[University of New South Wales]], [[Sydney]], [[Australia]], where he has been since 2002. Patton is known for his publications and conference presentations that have brought recognition to Australian Continental [[political philosophy]].
+
+==Life and career==
+Patton received a B.A. and M.A. from the [[University of Sydney]], and, in 1979, received a Doctorat D'Universite from [[Paris VIII]] ([[Vincennes]]). Before he took up his professorship at University of New South Wales, Patton lectured at the [[Australian National University]], in [[Canberra]], Australia, and the University of Sydney. Patton is a member of the [[Australasian Association of Philosophy]].
+
+Patton has published widely on aspects of 20th-century [[French philosophy]]. Including focus on the works of [[Deleuze]], [[Derrida]] and [[Michel Foucault|Foucault]]. He edited Volume 7 (Post-Postructuralism) of ''The History of Continental Philosophy'', which was published by Acumen in 2010.
+
+Between 2000 and 2006, Patton appeared in a number of [[Australian Broadcasting Corporation|ABC]] radio broadcasts, including 'The Descent of Man,'[http://www.abc.net.au/science/descent/voices.htm] on ABC Radio National's Science Show in 2000, 'Deleuze and Democracy' in 2005,<ref>[http://www.abc.net.au/rn/philosopherszone/stories/2005/1398272.htm]</ref> and 'Where philosophy gets done' in 2006,<ref>[http://www.abc.net.au/rn/philosopherszone/stories/2006/1782956.htm]</ref> both on the show 'The Philosopher's Zone'.
+
+In 1994 and 1997 Patton was a Visiting Fellow at the Humanities Research Centre, at Australian National University. In 2005, he was a Visiting Fellow of the Scots Philosophical Society, at the [[University of Dundee]] in [[Scotland]].
+
+==Books==
+* (2000) ''Deleuze and the Political''. [[Routledge]].
+* (2010) ''Deleuzian Concepts: Philosophy, Colonization, Politics''. Stanford University Press.
+* Translator: (1994) Deleuze, Gilles. ''[[Difference and Repetition]]''. Columbia University Press
+
+==See also==
+*[[Australasian Society for Continental Philosophy]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://hal.arts.unsw.edu.au/about-us/people/paul-patton/ Patton at UNSW]
+* [http://aap.org.au/expert/patton.html Australasian Association of Philosophy Expert Pages: Paul Patton. (Accessed 28 Oct 2007).]
+* [https://hal.arts.unsw.edu.au/about-us/people/paul-patton/ Paul Patton's home page at UNSW. (Accessed 13 January 2014).]
+* [http://www.blackwell-compass.com/subject/philosophy/profile?person=PattonPaul Philosophy Compass, Paul Patton page. (Accessed 28 Oct 2007).]
+
+{{Authority control}}
+{{DEFAULTSORT:Patton, Paul}}
+[[Category:Australian philosophers]]
+[[Category:Political philosophers]]
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:University of New South Wales faculty]]
+[[Category:Continental philosophers]]
+[[Category:Australian academics]]
+[[Category:University of Sydney alumni]]
+[[Category:University of Paris alumni]]

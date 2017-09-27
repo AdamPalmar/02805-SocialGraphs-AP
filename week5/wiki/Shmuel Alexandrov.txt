@@ -1,0 +1,48 @@
+Rabbi '''Shmuel Alexandrov''' of [[Bobruisk]] ({{lang-he|שמואל אלכסנדרוב}}; 1865–1941) was a prominent student of the [[Volozhin Yeshiva]], who became close to the tradition of [[Chabad]] Hasidism. Alexandrov was a [[Orthodox Judaism|Jewish Orthodox]] mystical thinker, philosopher and [[individualist anarchism|individualist anarchist]], whose religious thought, an original blending of [[Kabbalah]], [[Orthodox Judaism]], contemporary [[philosophy]] and secular literature, are marked by [[universalism]] and some degree of [[antinomianism]].<ref>Luz, Ehud 1981 "Spiritualism and religious anarchism in the teaching of Shmuel Alexandrov" (Hebrew). Daat, no. 7 (summer): 121-138.</ref><ref>
+{{cite web
+|url=http://www.jcrelations.net/en/?item=1913
+|title=Universalist Trends in Jewish Religious Thought: Some Russian Perspectives
+|publisher=Jewish-Christian Relations
+|accessdate=2008-03-02
+|last=Argusky
+|first=Mikhail
+}}
+</ref> His works include ''פך השמן'' ("the Oil Jug"), a commentary on [[Pirkey Avot]], and a large collection of essays, ''מכתבי מחקר וביקורת'' ("Letters of Research and Investigation"). Alexandrov was influenced by the anarchistic implications of the work of [[Rav Kook]] (the first [[Ashkenazi]] chief rabbi of the British [[Mandate for Palestine]]), from which he sought to derive practical instruction.<ref name=kook>{{cite book |last=Ish |first=Shalom |title=Rav Avraham Itzhak Hacohen Kook |publisher=State University of New York Press |location=Albany |year=1993 |isbn=0-7914-1369-1 }}</ref> Another influence on Alexandrov was Russian philosopher [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]].<ref>Konstantin Burmistrov (Institute of Philosophy, Russian Academy of Sciences, Moscow, Russia) ''On the History of Russian-Jewish Intellectual Relations: Vladimir Solovyev and Rabbi Shmuel Alexandrov''</ref> Alexandrov lived all his life in Bobruisk and perished in [[the Holocaust]].<ref name=hamutal>
+{{cite book
+|chapterurl=http://www.bgu.ac.il/~baryosef/Eng/research/jewish_vladimir_reception.htm
+|chapter=The Jewish Reception of Vladimir Solovyov
+|accessdate=2008-03-02
+|title=Vladimir Solovyov: Reconciler and Polemicist
+|editor-first=Ewert |editor-last=von Zweerde
+|last=Bar-Yosef
+|first=Hamutal
+}}
+  {{webarchive |url=https://web.archive.org/web/20110611235511/http://www.bgu.ac.il/~baryosef/Eng/research/jewish_vladimir_reception.htm |date=June 11, 2011 }}</ref>
+
+==See also==
+*[[Anarchism and Orthodox Judaism]]
+*[[Jewish anarchism]]
+
+==Further reading==
+*“Shmuel Alksandrov”, ''Sefer Bobruisk'' (Bobruoisk book), ed. Yehuda Slutski Tel-Aviv, 1967, vol. 1, p.&nbsp;322
+*Mikhail Agursky, “Universalist Trends in Jewish Religious Thought”, ''Immanuel''  18 (Fall 1984), pp.&nbsp;49–51
+*A. Greenboim, ''Rabanei Brit-ha-Moetsot  bein milkhamot ha-olam'' (Rabbis in the Soviet Union between the World Wars), Jerusalem: The Institute for Research and Documentation of East-European Jewry, 1994, p.&nbsp;10.
+
+==References==
+{{reflist}}
+
+{{Anarchism}}
+
+{{DEFAULTSORT:Alexandrov, Shmuel}}
+[[Category:1865 births]]
+[[Category:1941 deaths]]
+[[Category:20th-century philosophers]]
+[[Category:Jewish anarchists]]
+[[Category:Jewish philosophers]]
+[[Category:Lithuanian Orthodox rabbis]]
+[[Category:Rabbis who died in the Holocaust]]
+[[Category:Individualist anarchists]]
+[[Category:Russian anarchists]]
+
+
+{{anarchist-stub}}

@@ -1,0 +1,28 @@
+'''Martin Stokhof''' (born 1950, [[Amsterdam]]) is a [[Netherlands|Dutch]] [[logic]]ian and [[Philosophy|philosopher]]. Stokhof wrote a joint [[Doctor of Philosophy|Ph.D.]] dissertation with [[Jeroen Groenendijk]] on the [[semantics]] of questions, under the supervision of [[Renate Bartsch]] and [[Johan van Benthem (logician)|Johan van Benthem]]. He was also an important figure in the development of [[dynamic semantics]] (together with Groenendijk, Veltman and others). He is also known for his work on [[Ludwig Wittgenstein]].
+
+He is a former director of the [[Institute for Logic, Language and Computation]] at the [[University of Amsterdam]] and a member of the group collectively publishing under the [[pseudonym]] [[L. T. F. Gamut]].<ref>Preface to ''Logic, Language and Meaning'', by [[L. T. F. Gamut]], University of Chicago Press, 1991.</ref>
+
+In 2006 he was elected member of the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web|author= |url=https://www.knaw.nl/en/members/members/6560 |title=Martin Stokhof |publisher=Royal Netherlands Academy of Arts and Sciences |date= |accessdate=30 July 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://staff.science.uva.nl/~stokhof/ Stokhof's university homepage]
+
+{{Authority control}}
+{{DEFAULTSORT:Stokhof, Martin}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Dutch logicians]]
+[[Category:Dutch academics]]
+[[Category:20th-century Dutch philosophers]]
+[[Category:21st-century Dutch philosophers]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Semanticists]]
+[[Category:Writers from Amsterdam]]
+[[Category:University of Amsterdam alumni]]
+[[Category:University of Amsterdam faculty]]
+
+
+{{Netherlands-philosopher-stub}}

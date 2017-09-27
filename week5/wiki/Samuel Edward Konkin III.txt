@@ -1,0 +1,71 @@
+{{infobox philosopher
+| name             = Samuel Edward Konkin III
+| image            =
+| other_names      = SEK3
+| known_for        = [[Agorism]]
+| birth_date       = {{Birth date|1947|7|8}}
+| birth_place      = [[Saskatchewan]]
+| death_date       = {{Death date and age|2004|2|23|1947|7|8}}
+| death_place      = [[West Los Angeles]], [[California]], [[United States]]
+| main_interests   = [[Anarchism]], [[Economics]],  [[Natural law]], [[Political economy]]
+| influences       = [[Robert LeFevre|LeFevre]], [[Ludwig von Mises|Mises]], [[Murray Rothbard|Rothbard]], [[Harry Elmer Barnes]], [[C. Wright Mills]], [[James J. Martin]], [[Lysander Spooner]]
+| children = 1
+| spouse = Sheila Wymer
+| notable_ideas    = Founder of [[agorism]]<br>Coined the term "[[minarchist]]"
+}}
+{{Libertarianism sidebar}}
+'''Samuel Edward Konkin III''' (8 July 1947 – 23 February 2004), also known as '''SEK3''', was the author of the publication ''[[New Libertarian Manifesto]]'' and a proponent of a political philosophy which he named [[agorism]].
+
+==Personal life==
+Konkin was born in [[Saskatchewan]], to Samuel Edward Konkin II and Helen. He had one brother, Alan. He married Sheila Wymer during 1990 and had one son, Samuel Evans-Konkin IV. The marriage ended soon afterward.{{citation needed|date=December 2013}} Konkin was also notable for his style of dress: "To show his [[Anarchism|anarchist]] beliefs, he dressed completely in black, a color associated with that movement since the late nineteenth century."<ref name=Gordon>[[David Gordon (philosopher)|Gordon, David]] (2011-04-01) [http://archive.lewrockwell.com/gordon/gordon88.1.html Sam Konkin and Libertarian Theory], ''[[LewRockwell.com]]''</ref>
+
+On 23 February 2004, Konkin died in his apartment in [[West Los Angeles]], [[California]], of [[natural causes]]. He was buried alongside his father in [[Edmonton]], [[Alberta]].{{citation needed|date=December 2013}}
+
+==Political opinions==
+{{See also|Agorism|Counter-Economics}}
+
+Konkin considered libertarianism as radical. He was an initiator of the Agorist Institute.
+
+Konkin [[non-voting|rejected voting]], believing it to be inconsistent with [[libertarianism|libertarian]] ethics.  He likewise opposed involvement with the US [[Libertarian Party (United States)|Libertarian Party]], which he regarded as a [[Statism|statist]] co-option of libertarianism. He was an opponent of influential [[minarchist]] philosopher [[Robert Nozick]], and referred to Nozick's devotees as "Nozis."<ref name=Gordon/>
+
+Konkin presents his strategy for achieving a libertarian society in his aforementioned manifesto.  Since he rejected voting and other means by which people typically attempt social change, he encouraged people to withdraw their consent from the state by devoting their economic activities to [[black market]] and [[grey market]] sources, which would not be taxed or regulated. "Konkin called transactions on these markets, as well as other activities that bypassed the State, '[[counter-economics]].' Peaceful transactions take place in a free market, or [[agora]]: hence his term '[[agorism]]' for the society he sought to achieve."<ref name=Gordon/> He also strongly opposed the idea of [[intellectual property]].<ref name=Gordon/><ref>Samuel Edward Konkin III [http://www.enemigosdelestado.com/copywrongs-by-samuel-edward-konkin-iii Copywrongs], ''EnemigosdelEstado.com''</ref>
+
+Konkin was editor and publisher of the irregularly-produced ''New Libertarian Notes'' (1971–1975), the ''New Libertarian Weekly'' (1975–1978), and finally ''New Libertarian'' magazine (1978–1990), the last issue of which was a special [[science fiction]] tribute featuring a [[Robert A. Heinlein]] cover (issue 187, 1990).
+
+==Criticisms==
+Political theorist Ulrike Heider criticized Konkin in her book ''Anarchism: Left, Right, and Green'' for endorsing [[historical revisionism]]. Konkin personally rejected [[Holocaust denial]] but endorsed the [[Institute for Historical Review]] because its freedom of speech was being disputed.<ref>{{cite book |last=Heider |first=Ulrike |title=Anarchism |publisher=City Lights Books |location=San Francisco |year=1994 |isbn=978-0-87286-289-0 }}</ref> Konkin was also willing to allot advertisement space to the IHR in The New Libertarian, spoke at an IHR conference in 1981, and was a member of the IHR Journal for Historical Review's Editorial Advisory Committee and a contributor to the Journal. In 1984, Konkin wrote a positive review of revisionist historian [[James J. Martin]]'s book on [[Raphael Lemkin]] (published by the IHR) that disputes the extremity of the Holocaust; in the review, entitled "Thrusting the Stake into Lemkin's Bleeding Heart," Konkin makes sympathetic reference to Martin's "proof" that a "[m]assive Jewish exodus from Germany and Poland in 1940. [left] few to be 'exterminated'" and that the [[Katyn Massacre]] of Polish officer corps was "'probably the only genuine mass atrocity of World War Two which was accompanied by evidence.'"<ref>{{citation |url=http://www.ihr.org/jhr/v05/v05p388_Martin.html |last=Konkin |first=Samuel |title=Thrusting the Stake into Lemkin's Bleeding Heart |year=1984}}</ref>
+
+==See also==
+* [[Economic secession]]
+* [[Victor Koman]]
+* [[J. Neil Schulman]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.agorism.info/ Agorism.info] has archived Konkin writings and pamphlets in PDF format
+* [http://www.spaz.org/~dan/individualist-anarchist/software/konkin-interview.html Interview with Konkin]
+* [https://mises.org/daily/3412 Konkin on Libertarian Strategy], by [[Murray Rothbard]]
+* [http://archive.lewrockwell.com/gordon/gordon88.1.html Sam Konkin and Libertarian Theory], by [[David Gordon (philosopher)|David Gordon]]
+* [http://www.kopubco.com/nl.html KoPubCo] back issues of ''New Libertarian''
+* [http://www.anthonyflood.com/rothbardkonkin.htm Murray Rothbard, "Konkin on Libertarian Strategy" followed by Samuel E. Konkin, "Reply to Rothbard"] at AnthonyFlood.com
+* [http://www.isil.org/resources/fnn/2004spring/sek-iii-riggenbach.html Obituary for SEK3] by Jeff Riggenbach
+* [http://www.philosborn.joeuser.com/index.asp?c=1&AID=8979 Obituary for Sam Konkin] by Phil Osborn
+* {{Goodreads author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Konkin III, Samuel Edward}}
+[[Category:1947 births]]
+[[Category:2004 deaths]]
+[[Category:American anarchists]]
+[[Category:American libertarians]]
+[[Category:American political writers]]
+[[Category:American male writers]]
+[[Category:American revolutionaries]]
+[[Category:American anarcho-capitalists]]
+[[Category:Left-libertarians]]
+[[Category:Libertarian theorists]]
+[[Category:Revolution theorists]]
+[[Category:Science fiction fans]]

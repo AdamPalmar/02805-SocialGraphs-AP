@@ -1,0 +1,125 @@
+{{Infobox philosopher
+| birth_date      = 1967
+| occupation  = [[Philosopher]]  ([[Ph.D.]] in philosophy from [[University of Pittsburgh]])
+| title       = Chair of the Department and Professor of Philosophy on the Graduate Faculty of [[The New School for Social Research]]
+| region           = [[Western Philosophy]]
+| era              = [[20th Century Philosophy]], 21st Century Philosophy
+| image            = ACrary Kreutzberg 2017-2.jpg
+| image_size       = 
+| caption           = Alice Crary, Berlin, 2017
+| birth_place       = [[Seattle, WA]], USA
+|school_tradition = [[Analytic philosophy|Analytic]]
+|main_interests    = [[Moral Philosophy]], [[Philosophy and Literature]], Philosophy and Animals, Wittgenstein and Austin, Feminism and Philosophy
+|notable_ideas     = Moral thought beyond moral judgment; Wider view of objectivity; Faulty logic of the [[math wars]]
+|influences        = [[Ludwig Wittgenstein]]{{·}}[[Cora Diamond]]{{·}}[[Stanley Cavell]]{{·}}[[John McDowell]]{{·}}[[Iris Murdoch]]{{·}}[[J. L. Austin|John Austin]]
+|influenced        = [https://philpapers.org/rec/JEAKHA Jean-Marie Vivaldi]{{·}}[https://www.emerson.edu/academics/faculty-guide/profile/david-kishik/3209 David Kishik]{{·}}[http://www.hil.no/om_hoegskolen/alle_ansatte_ved_hoegskolen_i_lillehammer_hil/anstein_gregersen Anstein Gregersen]{{·}}[https://philosophy.berkeley.edu/people/detail/384 Aloisia Moser]{{·}}[http://vanderbilt.academia.edu/MattCongdon Matthew Congdon]{{·}}[http://csun.academia.edu/RobinMuller Robin Muller]{{·}}[http://www.cairn.info/publications-de-Chalier-Jonathan--98288.htm Johnathan Chalier]{{·}}[http://www.unr.edu/philosophy/6-fisette.html Jason Fisette]{{·}}[http://fordham.academia.edu/JannavanGrunsven Janna van Grunsven]{{·}}[https://www.uis.no/om-uis/kontakt-oss/finn-ansatt/wittusen-cato-article73972-11198.html Cato Wittusen]
+| alma_mater       = AB, Philosophy, Harvard University, 1990; PhD, Philosophy, University of Pittsburgh, 1999<ref>{{cite web|url=https://www.newschool.edu/nssr/faculty/Alice-Crary/ |title=Alice Crary - Professor of Philosophy|publisher=Newschool.edu |date= |accessdate=2017-09-01}}</ref>
+}}
+
+'''Alice Crary''' ({{IPAc-en|ˈ|k|r|ɛər|i}}; born 1967) is an American [[philosopher]], Professor of Philosophy at the Graduate Faculty, and founding Co-Chair of the Gender and Sexuality Studies program at [[The New School for Social Research]] (NSSR) in New York City. She is well known for her numerous scholarly works on the moral dimension of language, as well as edited collections on Wittgenstein, Cora Diamond, and Stanley Cavell. Crary is the author of two monographs on ethics, [http://www.hup.harvard.edu/catalog.php?isbn=9780674034617 ''Beyond Moral Judgment''] (Harvard, 2007) and [http://www.hup.harvard.edu/catalog.php?isbn=9780674967816 ''Inside Ethics: On the Demands of Moral Thought''] (Harvard, 2016), an [[Association of College and Research Libraries]] Choice [[Outstanding Academic Title]] of 2016.
+
+While finishing her doctorate in philosophy at the University of Pittsburgh in the 1990s, she co-edited and wrote the introduction to the [[New Wittgenstein|The New Wittgenstein]], which continues to influence debates over Wittgenstein's philosophy.<ref>P.M.S. Hacker, [http://info.sjc.ox.ac.uk/scr/hacker/docs/Wittgenstein,%20Carnap%20and%20the%20New%20American%20Wittgensteinians.pdf Wittgenstein, Carnap and the New American Wittgensteinians], Philosophical Quarterly 53 (2003), pp.&nbsp;1 –23.</ref><ref>{{cite web|url=http://www.uea.ac.uk/~j339/isnewwnew.htm |title=Is The New Wittgenstein Really New |publisher=Uea.ac.uk |date=2000-12-09 |accessdate=2014-03-06}}</ref><ref>{{cite web|url=http://philpapers.org/rec/PROTNW |title=Ian Proops, The new Wittgenstein: A critique |doi=10.1111/1468-0378.00142 |publisher=PhilPapers |date=2009-01-28 |accessdate=2014-03-06}}</ref><ref>http://uva.academia.edu/MartinStokhof/Papers/138936/The_quest_for_purity._Another_look_at_the_New_Wittgenstein</ref>  She was a Humboldt Foundation Scholar in 2009–10 at [[Goethe University]] in Frankfurt and a Rockefeller Fellow in 2003–4 at [[Princeton University]].  Crary has lectured and taught widely in the U.S. and abroad in academic and public fora, including the [http://www.worldcat.org/title/ethics-society-politics-proceedings-of-the-35th-international-wittgenstein-symposium-kirchberg-am-wechsel-austria-2012/oclc/862933486?referer=di&ht=edition International Wittgenstein Symposium in Kirchberg Austria], the [[Columbia University]] Society of Fellows in the Humanities, the [http://dukepal.org/2011/11/29/alice-crary-w-g-sebald-and-the-ethics-of-narrative-a-reading-of-austerlitz/ Center for Philosophy, Art, and Literature] at [[Duke University]], the [http://www.uis.no/?lang=en_GB University of Stavanger], [[Queen's University]] in Kingston Ontario, [[Colgate University]], and [http://bkpp.tumblr.com/post/101108648505/11-3-alice-crary-on-the-importance-of-being Brooklyn Public Philosophers] in NYC.
+
+Crary's writings address [[Ethics|moral philosophy]], [[Ludwig Wittgenstein|Wittgenstein]], [[philosophy and literature]], [[feminist philosophy|feminism and philosophy]], the writings of [[J.M. Coetzee]], [[W.G. Sebald]], and [[Leo Tolstoy]], and issues surrounding [[animal rights|philosophy and animals]] and [[Disabilities affecting intellectual abilities|cognitive disability]].
+
+==Scholarship==
+
+[http://www.hup.harvard.edu/catalog.php?isbn=9780674034617 ''Beyond Moral Judgment''] "defends a version of moral objectivism which turns on the idea that participation in moral life involves sensitivities, affective responses, and acquired proclivities: subjective capacities which nevertheless allow us to be receptive to objective features of the world,"<ref>M. Abbott. [http://www.euppublishing.com/doi/full/10.3366/film.2017.0057 The Look of Silence and the Problem of Monstrosity]. Film-Philosophy, Volume 21 Issue 3, Page 392-409, Sept 2017.</ref> and has been influential in recent discussions on ethics in aesthetics, film theory, feminism, and metaethics.<ref>A. Srinivasan. [http://users.ox.ac.uk/~corp1468/Research_&_Writing_files/Feminism%20and%20Metaethics%20-%20Routledge.pdf Feminism & Metaethics]</ref>
+
+Crary's second book, [http://www.hup.harvard.edu/catalog.php?isbn=9780674967816 ''Inside Ethics: On the Demands of Moral Thought''] (January 2016, Harvard University Press), discusses the nature and difficulty of moral thought about human beings and animals, addressing topics ranging from moral development to cognitive disability.  As noted in a contemporary [http://ndpr.nd.edu/news/68325-inside-ethics-on-the-demands-of-moral-thought/ review],
+
+{{quotation|Most contemporary ethicists assume that any objective representation of human and animal life must be developed outside of ethics, using the normatively neutral methods of, for example, the natural sciences. Crary, in contrast, argues that humans and animals have empirically observable moral characteristics, recognition of which is crucial to moral thought, but which are inaccessible to us when we limit ourselves to neutral methods. Good, "world-guided" moral thought, according to Crary, requires the use of capacities such as moral imagination, the exercise of which is elicited by methods (including various narrative techniques) that are characteristic of the arts and humanities. Works employing such methods contribute directly to moral understanding by drawing us into the imaginative exploration of other moral perspectives....Crary embarks on a radical re-visioning of objective reality as including, rather than excluding, moral values. The idea that reality includes objective moral values combines objectivism (the idea that moral judgments are essentially concerned with how things are) with internalism (the idea that moral judgments have direct bearing on our reasons for acting). The dominant stance in philosophical ethics, she points out, is to embrace a hard metaphysic that rejects one or both of these ideas. Crary identifies, as the unquestioned starting point for such a metaphysic, the "familiar and allegedly scientific worldview" (31) according to which the natural sciences have exclusive authority to tell us what reality is objectively like. A central part of [the book] is devoted to showing how both Peter Singer and Christine Korsgaard accept this starting point and embrace, in different ways, the hard metaphysic to which it leads.| A.C. Westlund, ''Notre Dame Philosophical Reviews 2016.07.13''|}}
+
+Another [http://hypatiaphilosophy.org/HRO/reviews/content/292/ review] summarizes the main claims of Inside Ethics as follows:
+
+{{quotation|Among the theses that Crary propounds in service of her ultimate goal are: there are observable and essentially practical moral properties, objectively describing humans and animals requires an ethical sensitivity to those moral properties, being a human and being an animal are by themselves morally significant properties, and literature is an irreplaceable vehicle of moral reflection for grasping the moral significance of humans and other animals....She proposes what I would call a post-Romantic perspective that takes our possibilities for moral response to be equally affective and rational. Crary encourages us to take more seriously the moral thought of those engaged with the most vulnerable humans and animals. This seems to me of the highest importance and part of an expansive program for moral thought that demands further philosophical exploration.| John Hacker-Wright, ''Hypatia Online Reviews 292''|}}
+
+Crary is a member of a number of international research groups devoted to subjects such as [[feminist philosophy]] and [[ordinary language philosophy]].
+
+==Graduate students and teaching==
+Crary currently directs eleven PhD theses in the Department of Philosophy at [[The New School for Social Research]].  In July 2016, she served on the faculty of the [http://blogs.newschool.edu/tcds/democracy-diversity-institute-wroclaw-2016/democracy-diversity-institute-wroclaw-2016-faculty/ Transregional Center for Democratic Studies] at the 25th anniversary NSSR Europe Democracy and Diversity Institute in Wroclow, Poland.
+
+==Popular writing==
+Her commentary, with [[W. Stephen Wilson]], on the faulty logic behind the K-12 education "[[Math Wars]]" appeared in [[The New York Times]] philosophy blog, The Stone.<ref>[http://opinionator.blogs.nytimes.com/2013/06/16/the-faulty-logic-of-the-math-wars/ A. Crary and W.S. Wilson, The Faulty Logic of The Math Wars. The New York Times, June 16, 2013]</ref>
+
+===Selected publications===
+;Books&nbsp;– monographs
+*[http://www.hup.harvard.edu/catalog.php?isbn=9780674967816 ''Inside Ethics: On the Demands of Moral Thought''] (Cambridge, Harvard University Press, 2016). (Reviewed in [http://metapsychology.mentalhelp.net/poc/view_doc.php?type=book&id=7673&cn=135 Notre Dame Philosophical Reviews] and [http://hypatiaphilosophy.org/HRO/reviews/content/292 Hypatia] as well as [https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2016_0013_0002_0307_0310 Environmental Philosophy], the [http://www.nordicwittgensteinreview.com/article/view/3410 Nordic Wittgenstein Review], [http://www.laviedesidees.fr/L-importance-d-etre-un-chien.html La Vie des Ideés], [http://choice360.org/blog/review-of-the-week-1-30-17 Choice], and the [https://kiej.georgetown.edu/book-reviews/archive/crary-2016-2/ Kennedy Institute of Ethics Journal]).  The book's philosophical content and linkage with liberal arts education are discussed in recent interviews at the [http://blog.apaonline.org/2016/11/02/why-philosophy-needs-literature-interview-with-alice-crary/ APA blog] and [http://socialresearchmatters.org/2071-2/?platform=hootsuite Social Research Matters] as well as [http://www.ilsole24ore.com/art/cultura/2016-08-05/progresso-morale-piccoli-passi-171754.shtml?uuid=ADhwQAz&refresh_ce=1 Il Sole 24 Ore (in Italian)]. 
+*[http://www.hup.harvard.edu/catalog.php?isbn=9780674034617 ''Beyond Moral Judgment''] (Cambridge, Harvard University Press, 2007). (Reviewed in Analytic Philosophy, Choice, The European Journal of Philosophy, Ethics (twice), Hypatia, Metapsychology Online Reviews, Mind, Notre Dame Philosophical Reviews, Philo, and The Pluralist and discussed at a 2008 [https://www.scribd.com/doc/55503380/Crary-2008-APA-Response-to-Pippin-and-Grau  “Author Meets Critics”] session at the Eastern Division Meeting of the APA.)
+;Books&nbsp;– edited volumes
+*[https://ndpr.nd.edu/news/23271-wittgenstein-and-the-moral-life-essays-in-honor-of-cora-diamond/ ''Wittgenstein and the Moral Life: Essays in Honor of Cora Diamond''] (Cambridge, MIT Press, 2007).
+*[https://books.google.com/books?id=5Wp_AgAAQBAJ&pg=PR1&lpg=PR1&dq=reading+cavell&source=bl&ots=DLc_qUcdbZ&sig=FjfvQq-3uD7o3My4ZTApwYDB0jo&hl=en&sa=X&ei=xMo_Va-lKPeMsQSkpYHwAw&ved=0CEwQ6AEwCw#v=onepage&q=reading%20cavell&f=false ''Reading Cavell''] (New York, Routledge, 2006 (co-edited with Sanford Shieh)).
+*''[[New Wittgenstein|The New Wittgenstein]]'' (New York, Routledge, 2000 (co-edited with Rupert Read)).
+;Selected articles
+*"Feminist thought and rational authority: Getting things in perspective," ''New Literary History'', Vol. 46, no.2 (Spring 2015), pp.&nbsp;287–308.
+*"A Radical Perfectionist: Revisiting Cavell in the Light of Kant," ''Journal of Aesthetic Education'', Vol. 48, no.3 (2014), pp.&nbsp;87–98.
+*“Dogs and Concepts,” ''Philosophy'', vol.87, no.2 (April 2012), pp.&nbsp;215–237.
+*“W.G. Sebald and the Ethics of Narrative,” ''Constellations'', Vol. 19, no. 3, (Spring 2012), pp.&nbsp;494–508. 
+*“A Brilliant Perspective: Diamondian Ethics,” ''Philosophical Investigations'', vol.34, no.4 (October 2011), pp.&nbsp;331–352.
+*“Minding What Already Matters: A Critique of Moral Individualism,” ''Philosophical Topics'', vol.38, no.1 (Spring 2011), pp.&nbsp;17–49.
+*“J.M. Coetzee, Moral Thinker,” in Anton Leist and Peter Singer, eds., ''Coetzee and Ethics: Philosophical Perspectives on Literature'' New York, Columbia University Press, 2010), pp.&nbsp;249–268.
+*“Ethics and the Logic of Life,” in ''SATS: The Nordic Journal of Philosophy'', vol.10, no.2 (2009), pp.&nbsp;5–34.
+*“Wittgenstein’s Commonsense Realism about the Mind” in Ilva Gustafsson, Camilla Kronqvist and Michael McEachrane, eds., ''Emotions and Understanding: Wittgensteinian Perspectives'' (London, Palgrave Macmillan, 2009), pp.&nbsp;12–26.
+*“Humans, Animals, Right and Wrong,” in Alice Crary, ed., ''Wittgenstein and the Moral Life'', pp.&nbsp;381–404.
+*“Wittgenstein and Ethics: a discussion in reference to On Certainty” in Daniele Moyal-Sharrock and William Brenner, eds., ''Readings of Wittgenstein’s On Certainty'' (London, Palgrave-MacMillan, 2005), pp.&nbsp;275–301.
+*“What Do Feminists Want in an Epistemology?” in Peg O’Connor and Naomi Scheman, eds., ''Re-Reading the Canon: Feminist Interpretations of Wittgenstein'' (University Park, PA, Penn State Press, 2002), pp.&nbsp;97–118.
+*“The Happy Truth: J.L. Austin’s How to Do Things With Words,” ''Inquiry'', vol.45, no.1 (Spring 2002), pp.&nbsp;1–22.
+*“A Question of Silence: Feminist Theory and Women’s Voices,” ''Philosophy'', vol.76, no.96 (July 2001), pp.&nbsp;371–395.
+*“Wittgenstein's Philosophy in Relation to Political Thought” in Alice Crary and Rupert Read, eds. ''The New Wittgenstein'', pp.&nbsp;118–145.
+*“Does the Study of Literature Belong in Moral Philosophy? Some Reflections in the Light of Ryle's Thought,” ''Philosophical Investigations'', vol.23, no.4 (October 2000), pp.&nbsp;315–350.
+
+===Invited lectures and awards===
+*Member, [https://www.sss.ias.edu/ Institute for Advanced Study, School of Social Science], Princeton, NJ, 2017–18
+* Fellow, [http://www.oxfordanimalethics.com/ Oxford Centre for Animal Ethics],<ref>http://www.oxfordmail.co.uk/news/15213732.Oxford_animal_ethics_centre_recruits_100_international_academics/</ref> Oxford, UK, 2017-
+*The Graham Kennedy Memorial Lecture ("Seeing Animal Suffering"), Queens University, Kingston, Ontario, Canada, 2016
+*Elias J. and Rosa Lee Nemir Audi Lecture, Colgate College, Hamilton, NY, 2016
+*[http://www.humboldt-foundation.de/web/humboldt-fellowship-experienced.html Alexander von Humboldt Foundation Fellowship for Experienced Researchers], Goethe University, Frankfurt, Germany, 2009–2010
+*University Distinguished Teaching Award, The New School, NY, 2005
+*Faculty Fellow, Heyman Center for the Humanities, Columbia University, NY, 2004-2005
+*Laurance S. Rockefeller Visiting Fellow, University Center for Human Values, Princeton University, NJ, 2003-2004
+*Charlotte W. Newcombe Doctoral Dissertation Fellowship (study of ethical and religious values), University of Pittsburgh, PA, 1997-1998
+*Harvard University Certificate of Distinction in Teaching (Bok Center), Cambridge, MA, 1993-1994
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+* [[List of female philosophers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.newschool.edu/nssr/faculty/Alice-Crary/ New School for Social Research Homepage]
+*[http://philpapers.org/profile/54744/ PhilPapers Profile]
+*[https://www.youtube.com/watch?v=zFSrTirT_KA Recording of Prof. Alice Crary: "Wittgenstein and Ethics," lecture given on June 2, 2005 at the "Wittgenstein, Philosophy & Language" conference in Skjolden, Norway, June 1-4, 2005]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crary, Alice}}
+[[Category:1967 births]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century women writers]]
+[[Category:21st-century women writers]]
+[[Category:21st-century American philosophers]]
+[[Category:American ethicists]]
+[[Category:American feminists]]
+[[Category:Philosophers from Washington (state)]]
+[[Category:Philosophers from New York (state)]]
+[[Category:American women academics]]
+[[Category:Analytic philosophers]]
+[[Category:Disability studies academics]]
+[[Category:Epistemologists]]
+[[Category:Feminist philosophers]]
+[[Category:Feminist studies scholars]]
+[[Category:Gender studies academics]]
+[[Category:Harvard University alumni]]
+[[Category:Living people]]
+[[Category:The New School faculty]]
+[[Category:Writers from Seattle]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:Women philosophers]]
+[[Category:Animal rights scholars]]
+[[Category:Critics of postmodernism]]
+[[Category:Wittgensteinian philosophers]]

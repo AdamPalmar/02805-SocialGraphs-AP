@@ -1,0 +1,33 @@
+[[Image:hundt p119.jpg|right|thumb|250px|From Magnus Hundt's ''Antropologium de hominis dignitate.'' (Bologna, 1523).]]
+
+'''Magnus Hundt''' or '''Magnus canis''' (1449 in [[Magdeburg]] – 1519 in [[Meissen|Meißen]]),<ref name="ChoulantGarrison1920">{{cite book|author1=Ludwig Choulant|author2=Fielding Hudson Garrison|author3=Edward Clark Streeter|title=History and Bibliography of Anatomic Illustration: In Its Relation to Anatomic Science and the Graphic Arts|url=https://books.google.com/books?id=-nRAAAAAYAAJ&pg=PA125|year=1920|publisher=University of Chicago Press|pages=125}}</ref> also known as '''Parthenopolitanus''', was a [[Germany|German]] [[philosopher]], [[physician]] and [[theologian]]. Hundt coined the term [[anthropology]], and he and [[Otto Casmann]] have been mentioned as founders of anthropology since they used the term in the 16th century.<ref name="Medicine">{{cite book|author=Israel Institute of the History of Medicine|title=Koroth|url=https://books.google.com/books?id=lev_H1Ie0zcC&pg=PA19|publisher=BRILL|pages=19|id=GGKEY:34XGYHLZ7XY}}</ref>
+
+==Background==
+Hundt was born in [[Magdeburg]] in 1449 and began his studies in [[Leipzig]] at the age of 33, receiving a Baccalaureate in 1484. In 1487, the year he received his advanced degree, he was appointed dean of the Faculty of Arts, and in 1499 he became rector of the University. At some point in his career he is believed to have served as physician to [[Count Schlick of Joachimsthal]]. His interests went beyond medicine, and in 1510 he received a doctorate in theology and held a chair in same subject at the University in [[Meissen]], where the University of Leipzig had relocated because of the [[Bubonic plague|plague]]. He died in that city in 1519. During his lifetime, Hundt, also known as Magnus Hund and Magnus Canis ("Big Dog" in Latin), composed a book on grammar, commentaries on [[Augustine of Hippo|St. Augustine]] and [[Peter Lombard|Pierre Lombard]], and diverse philosophical works.
+
+==''Antropologium''==
+Magnus Hundt's ''Antropologium de hominis dignitate, natura et proprietatibus, de elementis, partibus et membris humani corporis'', published in Leipzig in 1501, serves to explain the body not only anatomically and physiologically, but philosophically and religiously too, stating that humans were created in the image of God and represent a microcosm of the world as God created it. Although the field has evolved to mean something different from how it is used in this work, Hundt's ''Antropologium'' contains the first mention ever of the term anthropology. ''Antropologium'' contains 17 woodcut illustrations of [[human anatomy]], one of which, the human head on the verso of the title page, is repeated once. The illustrations are schematic, rather than accurate depictions. Some of the smaller images first appeared, though often in a more crude form, in [[Johann Peyligk]]'s ''Philosophie Naturalis Compendium'' (Leipzig: Melchior Lotter, 1499).
+
+==References==
+{{reflist}}
+
+* Choulant, L. ''History and bibliography of anatomic illustration.'' Trans. and annotated by Mortimer Frank. (New York: Hafner, 1962).
+* Gysel, C. "L'odonto-stomatologie de Johann Peyligk (1499) et de Magnus Hundt (1501)." ''Revue d'odonto-stomatologie'', t. XV, no. 3 (mai-juin 1986), p.&nbsp;187-198.
+* ''Morton's Medical Bibliography (Garrison and Morton).'' Ed. By Jeremy Norman. Fifth ed. (Aldershot, Hants, England : Scolar Press ; Brookfield, Vt., USA : Gower Pub. Co., 1991). No. 363.3.
+* Adapted from public domain text at [http://www.nlm.nih.gov/exhibition/historicalanatomies/hundt_home.html Magnus Hundt Biography]. Historical Anatomies on the Web. US National Library of Medicine.
+
+==External links==
+* [http://www.nlm.nih.gov/exhibition/historicalanatomies/hundt_home.html Magnus Hundt: ''Antropologium de hominis dignitate, natura et proprietatibus, de elementis, partibus et membris humani corporis.'' (Leipzig, 1501)]. Selected pages scanned from the original work. Historical Anatomies on the Web. US National Library of Medicine.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hundt}}
+[[Category:1449 births]]
+[[Category:1519 deaths]]
+[[Category:16th-century German Catholic theologians]]
+[[Category:16th-century Roman Catholic theologians]]
+[[Category:Medieval German physicians]]
+[[Category:16th-century German physicians]]
+[[Category:German male writers]]
+[[Category:15th-century physicians]]
+[[Category:Medieval German theologians]]

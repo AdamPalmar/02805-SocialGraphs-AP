@@ -1,0 +1,94 @@
+'''Jerrold Levinson''' (born 11 July 1948 in [[Brooklyn]]) is [[Professors in the United States|Distinguished Professor]] of [[Philosophy]] at the [[University of Maryland, College Park]].  He is particularly noted for his work on the [[aesthetics]] of [[music]], as well as for his search for meaning and [[ontology]] in [[film]], [[art]] and [[humour]].
+
+==Biography==
+Levinson started his studies in 1965 at the [[Massachusetts Institute of Technology]], where he gained a [[Bachelor of Science|BS Degree]] in Philosophy and Chemistry in 1969. He continued his studies at the [[University of Michigan]]. There he achieved his [[doctorate]] in philosophy in 1974.<ref name = NG/>
+
+During 1974-1975, Jerrold Levinson was visiting assistant professor at SUNY Albany. In 1976 he became assistant professor at the University of Maryland, was promoted to associate professor in 1982 and full professor in 1991. In 2004 he was accorded the title of Distinguished University Professor.
+
+Levinson has been visiting professor at several universities in the U.S., such as the [[Johns Hopkins University]] and [[Columbia University]]. He has also held visiting appointments in other countries, such as England ([[University of London]] and [University of Kent]), New Zealand ([[University of Canterbury]]), France ([[University of Rennes|Université de Rennes]]), Belgium ([[Université Libre de Bruxelles]]), Portugal ([[University of Lisbon|Universidade de Lisboa]]) and Switzerland ([[List of universities in Switzerland|Conservatorio della Svizzera Italiana]]). During 2010-2011 he held an International [[Francqui Foundation|Francqui]] Chair <ref>[http://www.francquifoundation.be/ang/chaires%20Internationales%20Historique.htm  Fondation Francqui]</ref> at the [[Katholieke Universiteit Leuven]] (Belgium), and in 2011 received the Premio Internazionale of the Società Italiana d'Estetica.
+
+In 2003 Levinson co-directed a [[National Endowment for the Humanities]] Summer Institute, ''Art, Mind, and Cognitive Science'', and during 2001-2003 was President of the American Society for Aesthetics.
+
+==Philosophy==
+Levinson's interest in the aesthetics of music has led to an examination of musical ontology from a historical-contextual perspective, and of performance with an emphasis on performing means. He has posited theories of evaluating music and has considered the legitimacy of emotional response in musical appreciation. Within his study of performance he has also examined the distinctness of performing and critical interpretation.<ref name = NG>The New Grove Dictionary of Music and Musicians, edited by S. Sadie & J. Tyrell, 2nd ed., London, 2001, [https://stuiterproxy.kuleuven.be/subscriber/article/grove/music/,DanaInfo=www.oxfordmusiconline.com+52016?source=omo_gmo&type=biography&search=quick&q=Jerrold+Levinson&pos=1&_start=1#firsthit]</ref>
+
+Levinson advocates the position that music has the same relation to thought as does language; 
+i.e., if language is an expression of thought, so is music.  This is particularly revealed in his analysis of [[Wittgenstein]]'s ideas on the meaning in music:
+:''What Wittgenstein is underscoring here about the appreciation of music is this. Music is not understood in a vacuum, as a pure structure of sounds fallen from the stars, one which we receive via some pure faculty of musical perception. Music is rather inextricably embedded in our form of life, a form of life that is, as it happens, essentially linguistic. Thus music is necessarily apprehended, at least in part, in terms of the language and linguistic practices that define us and our world.''<ref>
+{{cite journal
+ | title =       Musical Thinking
+ | author =      Jerrold Levinson
+ | journal =   [[Journal of Music and Meaning]] 
+ | url =         http://www.musicandmeaning.net/issues/showArticle.php?artID=1.2
+ | date =        Fall 2003 
+ | pages = vol. 1, section 2
+}}</ref>
+This raises interesting points in the debate on [[absolute music]].
+
+==Bibliography==
+'''Books:'''<ref name = UM>[http://www.philosophy.umd.edu/deptwebsite/people/corefaculty/levinson_jerrold.html  University of Maryland: Department of Philosophy]</ref>
+* ''Music, Art, and Metaphysics'', Ithaca: Cornell UP, 1990; 2nd edition, Oxford: Oxford UP, 2011.
+* ''The Pleasures of Aesthetics'', Ithaca: Cornell UP, 1996.
+* ''Music in the Moment'', Ithaca: Cornell UP, 1998.
+* ''Aesthetics and Ethics'', ed., Cambridge UP, 1998.
+* ''Oxford Handbook of Aesthetics'', ed., Oxford UP, 2003.
+* ''Contemplating Art'', Oxford: Oxford UP, 2006.
+* ''Musical Concerns'', Oxford: Oxford UP, 2015
+
+'''Articles/papers:'''<ref name = UM/><ref>Search [[JSTOR]]</ref>
+* ''Properties and Related Entities'', in Philosophy and Phenomenological Research, 39(1), 1978.
+* ''The Particularisation of Attributes'', in Australasian Journal of Philosophy, 58 (2), 1980
+* ''What a Musical Work Is'', in The Journal of Philosophy, 77(1), 1980.
+* ''Aesthetic Uniqueness'', in The Journal of Aesthetics and Art Criticism, 38(4), 1980.
+* ''Autographic and Allographic Art Revisited'', in Philosophical Studies, 38(4), 1980
+* ''Truth in Music'', in The Journal of Aesthetics and Art Criticism, 40(2), 1981.
+* ''Gewirth on Absolute Rights'', in The Philosophical Quarterly, 32(126), 1982.
+* ''Hybrid Art Forms'', in Journal of Aesthetic Education, 18(4), 1984.
+* ''Titles'', in The Journal of Aesthetics and Art Criticism, 44(1), 1985.
+* ''Evaluating Musical Performance'', in Journal of Aesthetic Education, 21(1), 1987.
+* ''A Note on Categorical Properties and Contingent Identity'', in The Journal of Philosophy, 85(12), 1988.
+* ''Refining Art Historically'', in The Journal of Aesthetics and Art Criticism, 47(1), 1989.
+* ''Musical Literacy'', in Journal of Aesthetic Education, 24(1) Special Issue: Cultural Literacy and Arts Education, 1990.
+* ''Philosophy as an Art'', in Journal of Aesthetic Education, 24(2), 1990.
+* ''The Place of Real Emotion in Response to Fictions'', in The Journal of Aesthetics and Art Criticism, 48(1), 1990.
+* ''A Refiner's Fire: Reply to Sartwell and Kolak'', in The Journal of Aesthetics and Art Criticism, 48(3), 1990.
+* ''Further Fire: Reply to Haines'', in The Journal of Aesthetics and Art Criticism, 49(1), 1991.
+* ''Musical Profundity Misplaced'', in The Journal of Aesthetics and Art Criticism, 50(1), 1992.
+* ''Seeing, Imaginarily, at the Movies'', in The Philosophical Quarterly, 43(170), 1993.
+* ''Extending Art Historically'', in The Journal of Aesthetics and Art Criticism, 51(3), 1993.
+* ''Being Realistic about Aesthetic Properties'', in The Journal of Aesthetics and Art Criticism, 52(3), 1994.
+* ''Still Hopeful: Reply to Karl and Robinson'', in The Journal of Aesthetics and Art Criticism, 53(2), 1995.
+* ''Critical Notice of Malcolm Budd, Values of Art'', in Mind, New Series, 105(420), 1996.
+* ''Wollheim on Pictorial Representation'', in The Journal of Aesthetics and Art Criticism, 56(3), 1998.
+* ''Who's Afraid of a Paraphrase?'', in Theoria, 67, 2001.
+* ''Hume's Standard of Taste: The Real Problem'', in The Journal of Aesthetics and Art Criticism, 60(3), 2002.
+* ''The Irreducible Historicality of the Concept of Art'', in British Journal of Aesthetics 42, 2002.
+* ''The Real Problem Sustained: Reply to Wieand'', in The Journal of Aesthetics and Art Criticism, 61(4), 2003.
+* ''Intrinsic Value and the Notion of a Life'', in The Journal of Aesthetics and Art Criticism, 62(4), 2004.
+* ''Music as Narrative and Music as Drama'', in Mind and Language, 19, 2004.
+* ''Erotic Art and Pornographic Pictures'', in Philosophy and Literature, 29, 2005.
+* ''What Are Aesthetic Properties?'', in Proceedings of the Aristotelian Society, Supplement 78, 2005.
+* ''Concatenationism, Architectonicism, and the Appreciation of Music'', in Revue Internationale de Philosophie, 2006.
+* ''Why There Are No Tropes'', in Philosophy, 81, 2006.
+* ''Musical Expressiveness as Hearability-as-Expression'', in Contemporary Debates in Aesthetics, M. Kieran, ed., Blackwell, 2006.
+* ''Music and Philosophy'', in Topoi, 28, 2009
+* ''The Aesthetic Appreciation of Music'', in British Journal of Aesthetics, 49, 2009.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Levinson, Jerrold}}
+[[Category:American philosophers]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Philosophers of art]]
+[[Category:Living people]]
+[[Category:1948 births]]
+[[Category:University of Michigan alumni]]
+[[Category:American male writers]]
+[[Category:20th-century male writers]]
+[[Category:20th-century American writers]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American philosophers]]

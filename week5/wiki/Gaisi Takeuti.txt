@@ -1,0 +1,88 @@
+{{Infobox scientist
+| honorific_prefix  =
+| name              = Gaisi Takeuti
+| honorific_suffix  =
+| native_name       = 竹内 外史
+| native_name_lang  = ja
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date |1926|01|25}}
+| birth_place       = 
+| death_date        = {{death date and age |2017|05|10|1926|01|25}}
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = Japanese
+| fields            = Mathematics
+| workplaces        = University of Illinois at Urbana-Champaign 
+| patrons           = 
+| education         = Tokyo University
+| alma_mater        = Princeton
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Work in proof theory
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+{{nihongo|'''Gaisi Takeuti'''|竹内 外史|Takeuchi Gaishi|extra=January 25, 1926 – May 10, 2017<ref>[https://list.math.cas.cz/pipermail/proof-complexity/2017-May/000206.html]</ref>}} was a [[Japan]]ese [[mathematician]], known for his work in [[proof theory]].<ref>{{harvnb|Takeuti|2013}}.</ref>
+
+After graduating from [[Tokyo University]], he went to [[Princeton University|Princeton]] to study under [[Kurt Gödel]]. 
+<!-- Cite? He was one of the few people that Godel could feel comfortable with. --> 
+He later became a professor at the [[University of Illinois at Urbana-Champaign]]. Takeuti was president (2003–2009) of the [[Kurt Gödel Society]], having worked on the respected book ''Memoirs of a Proof Theorist: Godel and Other Logicians''.  His goal was to prove the consistency of the real numbers.  To this end, [[Takeuti conjecture|Takeuti's conjecture]] speculates that a [[sequent calculus|sequent]] formalisation of [[second-order logic]] has [[cut-elimination theorem|cut-elimination]].<ref>{{harvnb|Takeuti|1953}}. An erratum to this article was published in the same journal (24:149–156, 1954).</ref>  He is also known for his work on [[ordinal notation|ordinal diagrams]] with Akiko Kino.
+
+== Publications ==
+
+* {{cite journal |ref=harv| last1=Takeuti | first1=Gaisi | title=On a generalized logic calculus | year=1953 | journal=[[Japanese Journal of Mathematics]] | issn=0075-3432 | volume=23 | pages=39–96}}
+*{{citation|mr= 0349390 |last=Takeuti|first= Gaisi|last2= Zaring|first2= Wilson M.|title= Introduction to axiomatic set theory|series= Graduate Texts in Mathematics|volume= 1|publisher= Springer-Verlag|place= New York-Berlin|year= 1971|isbn=0-387-90683-5}}
+*{{citation|mr=0416914  |last=Takeuti|first= Gaisi|last2= Zaring|first2= Wilson M.|title= Axiomatic set theory|series= Graduate Texts in Mathematics|volume= 8|publisher= Springer-Verlag|place= New York-Berlin|year= 1973}}
+* {{cite book|ref=harv|last1=Takeuti|first1=Gaisi|title=Proof theory|edition=Second|publisher=Dover Publications|location=Mineola, New York|year=2013|origyear=1975|isbn=978-0-486-49073-1}}
+*{{citation|mr=0505474  |last= Takeuti|first= Gaisi|title= Two applications of logic to mathematics|series= Publications of the Mathematical Society of Japan|volume= 13|publisher=  Princeton University Press|place= Princeton, N.J.|year= 1978|isbn= 0-691-08212-X}}
+*{{citation|mr=1984952  |last= Takeuti|first= Gaisi |title=Memoirs of a proof theorist. Gödel and other logicians|origyear=1998|publisher= World Scientific Publishing Co., Inc., |place=River Edge, NJ|year= 2003|isbn= 9789812382795}}
+
+== Notes ==
+<references/>
+
+== External links ==
+{{Portal|Japan|Biography|Mathematics}}
+*[https://kgs.logic.at/organization/our-presidents Presidents of the Kurt Gödel Society]
+*[http://kurt.scitec.kobe-u.ac.jp/sml03/ Takeuti Symposium (contains relevant birthdate information)]
+*{{webarchive |url=https://web.archive.org/web/20060926190817/http://www.math.cas.cz/~lc98/proc.ps |date=September 26, 2006 |title=Logic Colloqium ’98 Proceedings (contains biography) }}
+*{{mathgenealogy|42046}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Takeuti Gaisi}}
+[[Category:1926 births]]
+[[Category:2017 deaths]]
+[[Category:Japanese logicians]]
+[[Category:Proof theorists]]
+[[Category:Japanese philosophers]]
+[[Category:University of Tokyo alumni]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+
+
+{{japan-scientist-stub}}
+{{Asia-mathematician-stub}}

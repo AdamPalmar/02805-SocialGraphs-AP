@@ -1,0 +1,44 @@
+'''Hartry H. Field''' (born 1946) is an American philosopher. He is Silver Professor of Philosophy at [[New York University]] and notable contributor to philosophy of language, mind, and mathematics.  He previously taught at [[Princeton University]], the [[University of Southern California]] and The Graduate Center of the [[City University of New York]].  He earned his Ph.D. in philosophy from [[Harvard University]] under the direction of [[Hilary Putnam]].
+
+==Biography==
+His first work was a commentary on [[Alfred Tarski]]'s theory of [[truth]], which he has worked on since 1972.  His current view on this matter is in favor of a [[deflationary theory of truth]]. His most influential work produced in this period is probably "Theory Change and the Indeterminacy of Reference" (''Journal of Philosophy'', 70, 14: 462-481), in which he introduced the concept of partial [[denotation]].
+
+In the 1980s, Field started a project in the [[philosophy of mathematics]] discussing mathematical [[fictionalism]], the doctrine that all mathematical statements are merely useful fictions, and shouldn't be taken to be literally true.  More precisely, Field holds that the existence of  [[set (mathematics)|sets]] may be denied, in opposition to [[Willard Van Orman Quine|Quine]] and [[Hilary Putnam|Putnam]].<ref>Yablo, Stephen. [http://www.nyu.edu/gsas/dept/philo/courses/factual/papers/YabloMistake.pdf "Does Ontology Rest on a Mistake?"] ''Aristotelian Society Supplementary Volume'' 72.1 (1998) p. 231.</ref>
+
+Field is also Distinguished Research Professor in the Department of Philosophy, [[University of Birmingham]], UK.<ref>[http://www.birmingham.ac.uk/staff/profiles/philosophy/field-hartry.aspx Professor Hartry Field] - Department of Philosophy - University of Birmingham</ref>
+
+Much of his current work is in the semantic [[paradox]]es. In 2008, he gave the [[John Locke Lectures]], entitled "Logic, Normativity, and Rational Revisability."<ref>[http://www.philosophy.ox.ac.uk/lectures/john_locke_lectures John Locke Lectures] - Faculty of Philosophy, University of Oxford</ref>
+
+==Books==
+*''Science Without Numbers'', Blackwell, 1980
+*''Realism, Mathematics and Modality'', Blackwell, 1989
+*''Truth and the Absence of Fact'', Oxford University Press 2001
+*''Saving Truth from Paradox'', Oxford University Press, 2008
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://philosophy.fas.nyu.edu/object/hartryfield Field, Hartry], Philosophy - New York University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Field, Hartry}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Harvard University alumni]]
+[[Category:21st-century American philosophers]]
+[[Category:Philosophers of mathematics]]
+[[Category:New York University faculty]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of mind]]
+[[Category:Guggenheim Fellows]]
+
+
+{{US-mathematician-stub}}
+{{US-philosopher-stub}}

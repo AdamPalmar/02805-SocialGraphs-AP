@@ -1,0 +1,59 @@
+{{about||the artist|Bjarni Jónsson (artist)|the Icelandic footballer|Bjarni Jónsson (footballer)}}
+{{icelandic name|Bjarni}}
+{{Infobox scientist
+| name              = Bjarni Jónsson
+| image             = Bjarni Jónsson.jpg
+| image_size        = 
+| caption           = 
+| birth_date        =  {{Birth date |1920|2|15|mf=y}}
+| birth_place       = Dragháls, Iceland
+| death_date        = {{nowrap|{{death date and age|2016|9|30|1920|2|15}}}}
+| death_place       = [[Cincinnati, Ohio]], U.S.
+| nationality       = Icelandic
+| fields            = [[Mathematics]], [[logic]]
+| workplaces        = [[Brown University]]<br>[[Vanderbilt University]]<br>[[University of Minnesota, Minneapolis]]
+| alma_mater        = [[University of California, Berkeley]]
+| doctoral_advisor  = [[Alfred Tarski]]
+| doctoral_students = {{Interlanguage link multi|Peter Fillmore|de}}<br>[[Fred Galvin|Frederick Galvin]]
+| known_for         = 
+| awards            = 
+}}
+'''Bjarni Jónsson''' (February 15, 1920 – September 30, 2016)<ref>{{cite book|title=American Men & Women of Science - Volume 4|year=2009|publisher=R.R. Bowker Company. Database Publishing Group|isbn=0787665274|page=148}}</ref> was an Icelandic [[mathematician]] and [[logician]] working in [[universal algebra]], [[lattice theory]], [[model theory]] and [[set theory]]. He was [[emeritus]] [[Distinguished Professor]] of [[Mathematics]] at [[Vanderbilt University]] and the honorary editor in chief of ''[[Algebra Universalis]]''. He received his PhD in 1946 at [[UC Berkeley]] under supervision of [[Alfred Tarski]].<ref>{{MathGenealogy|id=19851}}</ref><ref>{{cite web|url=https://news.vanderbilt.edu/2016/10/12/noted-algebraist-bjarni-jonsson-dies/|title=Noted algebraist Bjarni Jónsson dies|first=David|last=Salisbury|work=vanderbilt.edu|accessdate=14 October 2016}}</ref>
+
+[[subdirectly irreducible algebra#JonssonsLemma|Jónsson's Lemma]] as well as several mathematical objects are named after him, among them [[Jónsson algebra]]s, ω-[[Jónsson function]]s, [[Jónsson cardinal]]s, [[Jónsson term]]s, [[Jónsson–Tarski algebra]]s and [[General frame|Jónsson–Tarski duality]].
+
+In 2012, he became a fellow of the [[American Mathematical Society]].<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2013-01-26.</ref>
+
+==Publications==
+*{{Citation | last1=Jónsson | first1=Bjarni | title=Topics in universal algebra | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Lecture Notes in Mathematics | doi=10.1007/BFb0058648 | mr=0345895 | year=1972 | volume=250}}
+
+==Bibliography about Bjarni Jónsson==
+* Kirby A. Baker, ''Bjarni Jónsson's contributions in algebra'', Algebra Universalis, September 1994, Volume 31, Issue 3, pp. 306-336.
+* J. B. Nation, ''Jónsson's contributions to lattice theory'', Algebra Universalis, September 1994, Volume 31, Issue 3, pp. 430–445.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://as.vanderbilt.edu/math/history/in-memoriam/bjarni-jonsson/ Bjarni Jónsson's homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jonsson, Bjarni}}
+[[Category:1920 births]]
+[[Category:Icelandic logicians|Bjarni Jonsson]]
+[[Category:Algebraists]]
+[[Category:Lattice theorists]]
+[[Category:20th-century mathematicians]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Vanderbilt University faculty]]
+[[Category:Icelandic scholars|Bjarni Jonsson]]
+[[Category:Knattspyrnufélag Akureyrar players]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Icelandic philosophers]]
+[[Category:Tarski lecturers]]
+[[Category:2016 deaths]]
+
+
+{{europe-mathematician-stub}}
+{{Iceland-scientist-stub}}

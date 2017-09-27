@@ -1,0 +1,59 @@
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image       = 
+|image_size       = 
+|caption     = 
+|name             = Harry Burrows Acton
+|birth_date       = {{birth date|1908|06|02}}
+|birth_place      = [[London]]
+|death_date       = {{death date and age|1974|06|16|1908|06|02}}
+|death_place      = [[Edinburgh]]
+|school_tradition = [[Libertarianism]]<ref>[[Tom G. Palmer]] (ed.), ''Why Liberty'', Jameson Books, 2013, p. 30.</ref>
+|main_interests   = 
+|notable_ideas    = 
+|influences       = 
+|influenced       = 
+|signature        = 
+}}
+[[File:The grave of H B Acton, Grange Cemetery, Edinburgh.JPG|thumb|The grave of H B Acton, Grange Cemetery, Edinburgh]]
+'''Harry Burrows Acton''' (June 2, 1908 – June 16, 1974), usually cited as '''H. B. Acton''', was an English academic in the field of [[political philosophy]], known for books defending the [[morality]] of [[capitalism]], and attacking [[Marxism-Leninism]].<ref name="BioDict20CPhil">{{cite book | title=Biographical Dictionary of Twentieth-Century Philosophers | year=1996 | publisher=Routledge | location=London | pages=4 | isbn=0-415-06043-5}}</ref> He in particular produced arguments on the incoherence of [[Marxism]], which he described as a 'farrago' (in philosophical terms). His book ''The Illusion of the Epoch'', in which this appears, is a standard point of reference. Other interests were the [[Marquis de Condorcet]], [[Hegel]], [[John Stuart Mill]], [[Herbert Spencer]], [[F. H. Bradley]], [[Bernard Bosanquet (philosopher)|Bernard Bosanquet]] and [[Sidney Webb]].
+
+He had teaching positions at the [[London School of Economics]], [[Bedford College (London)|Bedford College]], the [[University of Edinburgh]] where he occupied the Chair of Moral Philosophy, and the [[University of Chicago]]. He was editor of ''Philosophy'', the journal of the [[Royal Institute of Philosophy]], of which he was for a time Director. He was president of the [[Aristotelian Society]] from 1952 to 1953.
+
+He is buried in [[Grange Cemetery]] in [[Edinburgh]] close to the main entrance.
+
+==Works==
+*''The Illusion of the Epoch: Marxism-Leninism as a Philosophical Creed'' (1955)
+*''The Philosophy of Language in Revolutionary France'' (1959) Dawes Hicks Lecture of the [[British Academy]]
+*''What Marx Really Said'' (1967)
+*''Philosophy of Punishment'' (1969) editor
+*''Kant's moral philosophy'' (1970)
+*''The Morals of Markets: an Ethical Exploration'' (1971) essays edited by [[David Gordon (philosopher)|David Gordon]] and Jeremy Shearmur. 2nd edition (1993), [[Liberty Fund]], {{ISBN|978-0-86597-106-6}}
+*''The Right to Work and the Right to Strike'' (1972)
+*''The ethics of capitalism (The Company and its Responsibilities)'' (1972)
+*''The idea of a spiritual power: 1973 Auguste Comte memorial trust lecture'' (1974)
+
+== References ==
+{{Reflist}}
+
+==External links==
+* H.B. Acton, ''The Illusion of the Epoch: Marxism-Leninism as a Philosophical Creed'' (Indianapolis: Liberty Fund, 2003). ''See original text in [http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=877&Itemid=99999999 The Online Library of Liberty]''.
+
+{{Authority control}}
+{{DEFAULTSORT:Acton, H.B.}}
+[[Category:1908 births]]
+[[Category:1974 deaths]]
+[[Category:Writers from London]]
+[[Category:20th-century philosophers]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Academics of Royal Holloway, University of London]]
+[[Category:English philosophers]]
+[[Category:English political philosophers]]
+[[Category:People educated at St Olave's Grammar School]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:English political writers]]
+[[Category:University of Chicago faculty]]
+[[Category:Burials at the Grange Cemetery]]
+[[Category:English social commentators]]

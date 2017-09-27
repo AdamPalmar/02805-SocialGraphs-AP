@@ -1,0 +1,75 @@
+{{Other people|William Johnson}}
+'''William Ernest Johnson''' (23 June 1858 – 14 January 1931), usually cited as '''W. E. Johnson''', was a British philosopher and [[logician]] mainly remembered for his ''Logic'' (1921–1924), in 3 volumes. In 1924, in volume III he introduced the important concept of [[Exchangeable random variables|exchangeability]].<ref>Zabell (1992)</ref>
+
+==Life and career==
+Johnson  was born in Cambridge on 23 June 1858 to William Henry Farthing Johnson and his wife, Harriet (nee Brimley). He was their fifth child. The family were baptists and political liberals<ref>{{cite book|author=Broad, C.D.| chapter=William Ernest Johnson|editor=Broad, C. D.|title=Ethics and the History of Philosophy|date=1952|publisher=Routledge & K. Paul|location=London|pages=94-95}}</ref>.
+
+He attended the Llandaff House School, Cambridge where his father was the proprietor and headteacher, then the Perse School, Cambridge, and the Liverpool Royal Institution School<ref>{{cite web|last1=Braithwaite|first1=R. B.|title=Johnson, William Ernest (1858–1931)|url=http://www.oxforddnb.com/view/article/34206|website=Oxford Dictionary of National Biography|accessdate=20 June 2017}}</ref>. At the age of around eight he became seriously ill and he developed severe asthma and lifelong ill health. Due to this his education was frequently disrupted<ref>{{cite book|author=Broad, C.D.| chapter=William Ernest Johnson|editor=Broad, C. D.|title=Ethics and the History of Philosophy|date=1952|publisher=Routledge & K. Paul|location=London|page=99}}</ref>. 
+
+In 1879 he entered [[King's College, Cambridge]] to read mathematics having won a scholarship and he was 11th Wrangler in 1882. He stayed on to study for the Moral Sciences Tripos from which graduated in 1883 with a First Class degree<ref>{{acad|id=JHN878WE|name=Johnson, William Ernest}}</ref>. 
+
+In 1895 he married Barbara Keymer. After her sudden death in 1904 his sister Fanny moved in with him to care for his two sons
+
+Having failed to win a prize-fellowhip, he spent some time teaching mathematics. His first teaching post was as a lecturer in Psychology and Education at the Cambridge Women's Training College which he held for several years. In 1896 thanks to [[Henry Sidgwick]]'s efforts he was appointed as University lecturer at the [[University of Cambridge]]. In 1902 he was elected a [[Fellow]] of [[King's College, Cambridge|King's College]], and Sidgwick Lecturer in Moral Sciences,<ref>{{Cite newspaper The Times |articlename=University intelligence |day_of_week=Monday |date=17 March 1902 |page_number=11 |issue=36717| }}</ref>. His students included [[John Maynard Keynes]], [[Frank P. Ramsey|Frank Ramsey]], [[Ludwig Wittgenstein]], [[C.D. Broad]] and [[Dorothy Wrinch]]. He held these positions for nearly thirty years until his death in 1931.<ref>{{acad|id=JHN878WE|name=Johnson, William Ernest}}</ref>.
+
+In 1923 he was elected a Fellow of the [[British Academy]].
+
+He died in St Andrew's Hospital, Northampton, on 14 January 1931 and is buried at Grantchester, Cambridgeshire.
+
+==Work==
+
+Johnson had ill health and was a famous procrastinator and he therefore published little. His major publication was a three volume work ''Logic'' (1921-1924) which was based on his lectures. This may never have been published if it hadn't been for the efforts of Newnham student Naomi Bentwich (1891-1988). Naomi persuaded him to publish, typed and co-edited the manuscript and encouraged him to finish the project.  The  preface  to  the  first  volume  carries  the  acknowledgement:  "I  have  to  express  my  great  obligations  to  my  former  pupil,  Miss  Naomi  Bentwich,  without  whose encouragement and valuable assistance in the composition and arrangement  of  the  work,  it  would  not  have  been  produced  in  its  present form"<ref>{{cite book|last1=Johnson|first1=W. E.|title=Logic|date=1921|publisher=Cambridge University Press}}</ref>. 
+
+''Logic'' ensured his election to the British Academy but by his death it appeared dated. Johnson can be seen as a member of the British logic "old guard" pushed aside by the ''[[Principia Mathematica]]'' of [[Alfred North Whitehead]] and [[Bertrand Russell]]. Yet an article entitled "The Logical Calculus" (Johnson 1892) reveals that he had nontrivial technical capabilities in his youth, and that he was significantly influenced by the formal logical work of [[Charles Sanders Peirce]]. The article begins as follows:
+
+<blockquote>
+"As a material machine economises the exertion of force, so a symbolic calculus economises the exertion of intelligence ... the more perfect the calculus, the smaller the intelligence compared to the results."
+</blockquote>
+
+[[A. N. Prior]]'s ''Formal Logic'' cites this article several times <ref>{{cite journal|last1=Prior|first1=A. N.|title=Determinables, Determinates and Determinants|journal=Mind|date=1949|volume=58|pages=1-20|url=http://www.jstor.org/stable/2254522}}</ref>. 
+
+John Passmore tells us:
+<blockquote>
+"His neologisms, as rarely happens, have won wide acceptance: such phrases as “ostensive definition”, such contrasts as those between ... “determinates” and “determinables”, “continuants” and “occurrents”, are now familiar in philosophical literature" (Passmore 1966, p. 344).
+</blockquote>
+
+Johnson also wrote three papers on economics (1891; 1894; 1913). ‘The Pure Theory of Utility Curves’ (1913)<ref>{{cite journal|last1=Johnson|first1=W. E.|title=The Pure Theory of Utility Curves|journal=The Economic Journal|date=1913|volume=23|pages=483-513|url=http://www.jstor.org/stable/2221661}}</ref> was an important paper, representing "a considerable advance in the development of utility theory" <ref>{{cite book|editor1-last=Baumol|editor1-first=W. J.|editor2-last=Goldfeld|editor2-first=S.N.|title=Precursors in Mathematical Economics: An Anthology|date=1968|publisher=London School of Economics and Political Science.|page=96}}</ref>. Johnson was an influence on his student, [[John Maynard Keynes]]. Johnson was a colleague of Keynes's father, [[John Neville Keynes]]. He was a [[Cambridge Apostle]].
+
+==Selected publications==
+
+* ''Logic'', 3 vols (Cambridge 1921-1924)
+* 'The Logical Calculus', ''Mind'', 1 (1892): 3-30. http://www.jstor.org/stable/2247399
+* 'Analysis of Thinking', ''Mind'', 27 (1918): 1-21. http://www.jstor.org/stable/2248822
+* 'Probability', ''Mind'' 41 (1932): 1–16. http://www.jstor.org/stable/2250183
+
+==See also==
+* [[L. Susan Stebbing]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [[Ivor Grattan-Guinness|Grattan-Guinness, Ivor]] (2000), ''The Search for Mathematical Roots 1870–1940''. Princeton University Press.
+* Johnson, W. E. (1892), "The Logical Calculus", ''Mind'' 1 (New Series), 3–30, 235–250, 340–357.
+* {{cite book
+  | last = Passmore
+  | first = John
+  | authorlink = John Passmore
+  | coauthors = 
+  | title = A Hundred Years of Philosophy (2nd ed.)
+  | publisher = London: Penguin (1957)
+  | year = 1966
+  | location = 
+  | url = 
+  | doi = 
+  | isbn =  }}
+* [[David H. Sanford|Sanford, David H.]] (2011), "[http://plato.stanford.edu/entries/determinate-determinables/ Determinates vs. Determinables]" in the online ''Stanford Encyclopedia of Philosophy''.
+* {{ cite journal | author=Zabell, S. L. | title=Predicting the unpredictable | year=1992 | journal=Synthese | volume=90 | page=205 | doi=10.1007/bf00485351}}
+
+{{Authority control}}
+{{DEFAULTSORT:Johnson, William Ernest}}
+[[Category:1858 births]]
+[[Category:1931 deaths]]
+[[Category:Fellows of King's College, Cambridge]]
+[[Category:British logicians]]
+[[Category:British philosophers]]
