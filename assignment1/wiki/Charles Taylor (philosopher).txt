@@ -1,0 +1,432 @@
+{{other people||Charles Taylor (disambiguation){{!}}Charles Taylor}}
+{{Infobox philosopher
+|era              = [[20th-century philosophy]]
+|image       = Charles Taylor.jpg
+|caption     = Taylor in 2012
+|signature        =
+|name             = Charles Taylor
+|honorific_suffix = {{Post-nominals|country=CAN|CC|GOQ|FBA|FRSC|size=100%}}
+|birth_name       = Charles Margrave Taylor
+|birth_date       = {{Birth date and age|1931|11|05}}
+|birth_place      = [[Montreal]], [[Quebec]], [[Canada]]
+|alma_mater       = {{unbulleted list | [[McGill University]] | [[Balliol College, Oxford]]}}
+|school_tradition = [[Analytic philosophy|Analytic]]<br>[[Communitarianism]]<br>[[Hermeneutics]]<ref name=ramberg>{{cite web|title= Hermeneutics|author1=Bjorn Ramberg |author2=Kristin Gjesdal |publisher= Stanford Encyclopedia of Philosophy |url= http://plato.stanford.edu/entries/hermeneutics/|accessdate= 2017-09-12}}</ref>
+|main_interests   = {{unbulleted list|[[Political philosophy]]|[[Cosmopolitanism]]|[[Secularism]]|[[Religion]]|[[Modernity]]}}
+|institutions     = {{unbulleted list|[[All Souls College, Oxford]]|[[McGill University]]|[[Northwestern University]]}}
+|notable_ideas    = 
+|influences       = [[Aristotle]], [[Plato]], [[Georg Wilhelm Friedrich Hegel|Hegel]], [[Karl Marx|Marx]], [[Alexis de Tocqueville|Tocqueville]], [[Maurice Merleau-Ponty|Merleau-Ponty]], [[Max Weber|Weber]], [[Émile Durkheim|Durkheim]], [[Ludwig Wittgenstein|Wittgenstein]], [[Michael Polanyi|M. Polanyi]], [[Paul Ricoeur|Ricoeur]], [[Martin Heidegger|Heidegger]], [[William James|James]], [[Hubert Dreyfus|Dreyfus]], [[Daniel Bell|Bell]], [[Christopher Lasch|Lasch]], [[Gilles Lipovetsky|Lipovetsky]]{{sfn|Taylor|1992|p=14}}
+|influenced       = [[Axel Honneth|Honneth]], [[Michael Walzer|Walzer]], [[Michael Sandel|Sandel]], [[Nikolas Kompridis|Kompridis]], [[Christian Smith (sociologist)|Smith]], [[Ken Wilber|Wilber]]
+|awards           = {{unbulleted list|[[Templeton Prize]] <small>(2007)</small>|[[List of Kyoto Prize winners|Kyoto Prize]] <small>(2008)</small>|[[Kluge Prize|John W. Kluge Prize]] <small>(2015)</small>|[[Berggruen Philosophy Prize|Berggruen Prize]] <small>(2016)</small>|}}
+}}
+
+{{Communitarianism sidebar|expanded=Important thinkers}}
+
+'''Charles Margrave Taylor''' {{Post-nominals|country=CAN|CC|GOQ|FBA|FRSC}} (born November 5, 1931) is a [[Canadians|Canadian]] [[philosopher]] from [[Montreal]], [[Quebec]], and [[professor emeritus]] at [[McGill University]] best known for his contributions to [[political philosophy]], the [[philosophy of social science]], [[history of philosophy]] and [[intellectual history]]. This work has earned him the prestigious [[Kyoto Prize]], the [[Templeton Prize]], the [[Berggruen Philosophy Prize|Berggruen Prize for Philosophy]], and the [[Kluge Prize|John W. Kluge Prize]], in addition to widespread esteem among philosophers.
+
+In 2007, Taylor served with [[Gérard Bouchard]] on the Bouchard-Taylor Commission on [[reasonable accommodation]] with regard to cultural differences in the province of Quebec.
+
+==Career==
+Taylor attended [[Selwyn House School]] from 1941 to 1946<ref>{{cite web |title=Charles Taylor '46 receives world's largest cash award|url=http://www.selwyn.ca/podium/default.aspx?t=204&tn=Charles+Taylor+%2746+receives+world%E2%80%99s+largest+cash+award&nid=374132&ptid=39795&sdb=False&pf=pglw&mode=0&vcm=False |publisher=Selwyn House School |accessdate=October 11, 2015 |date=March 15, 2007}}</ref> and began his undergraduate education at [[McGill University]] ([[B.A.]] in History in 1952). He continued his studies at the [[University of Oxford]], first as a [[Rhodes Scholar]] at [[Balliol College]] (B.A. in  [[Philosophy, Politics and Economics]]) in 1955, and then as a post-graduate ([[D.Phil.]] in 1961), under the supervision of [[Isaiah Berlin]] and [[G. E. M. Anscombe]].{{sfn|Brown|Collinson|Wilkinson|1996|pp=774–776}}
+
+He succeeded [[John Plamenatz]] as [[Chichele Professor of Social and Political Theory]] at the [[University of Oxford]] and became a [[Fellow#Oxford, Cambridge and Dublin|Fellow]] of [[All Souls College, Oxford|All Souls College]]. For many years, both before and after Oxford, he was Professor of [[political science|Political Science]] and [[Philosophy]] at [[McGill University]] in [[Montreal|Montreal, Quebec]], [[Canada]], where he is now [[professor emeritus]].{{sfn|Brown|Collinson|Wilkinson|1996|pp=774–776}} Taylor was also a Board of Trustees Professor of Law and Philosophy at [[Northwestern University]] in [[Evanston, Illinois|Evanston]] for several years after his retirement from McGill.
+
+Taylor was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1986.{{sfn|American Academy of Arts and Sciences|p=536}} In 1991, Taylor was appointed to the [[Conseil de la langue française]] in the province of [[Quebec]], at which point he critiqued Quebec's commercial sign laws.  In 1995, he was made a Companion of the [[Order of Canada]]. In 2000, he was made a Grand Officer of the [[National Order of Quebec]]. He was awarded the 2007 [[Templeton Prize]] for progress towards research or discoveries about spiritual realities, which includes a cash award of US$1.5 million. In 2007 he and [[Gérard Bouchard]] were appointed to head a one-year Commission of Inquiry into what would constitute "reasonable accommodation" for minority cultures in his home province of Quebec, Canada.<ref>[http://www.accommodements.qc.ca/index-en.html Commission de consultation sur les pratiques d'accommodement reliées aux différences culturelles<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080701183623/http://www.accommodements.qc.ca/index-en.html |date=July 1, 2008 }}</ref>  In June 2008, he was awarded the [[Kyoto Prize]] in the arts and philosophy category.  The Kyoto Prize is sometimes referred to as the Japanese Nobel.<ref>{{cite press release |title=Dr. Charles Taylor to Receive Inamori Foundation's 24th Annual Kyoto Prize for Lifetime Achievement in "Arts and Philosophy" |url=http://www.kyotoprize.org/pressrel_062008_taylor.htm |location=Kyoto, Japan |publisher=Inamori Foundation |date=June 20, 2008 |access-date=February 15, 2016 |archive-url=https://web.archive.org/web/20090421010024/http://www.kyotoprize.org/pressrel_062008_taylor.htm |archive-date=April 21, 2009}}</ref> In 2015, he was awarded the [[Kluge Prize|John W. Kluge Prize for Achievement in the Study of Humanity]], a prize he shared with philosopher [[Jürgen Habermas]].<ref>{{cite press release |date=August 11, 2015 |title=Philosophers Habermas and Taylor to Share $1.5 Million Kluge Prize |url=http://www.loc.gov/today/pr/2015/15-125.html |location=Washington |publisher=Library of Congress |issn=0731-3527 |access-date=February 15, 2016}}</ref> In 2016, he was awarded the inaugural $1 million [[Berggruen Prize]] for being "a thinker whose ideas are of broad significance for shaping human self-understanding and the advancement of humanity." <ref>{{Cite news|url=https://www.nytimes.com/2016/10/05/books/canadian-philosopher-wins-1-million-prize.html|title=Canadian Philosopher Wins $1 Million Prize|last=Schuessler|first=Jennifer|date=October 4, 2016|newspaper=The New York Times|issn=0362-4331|access-date=October 4, 2016}}</ref>
+
+==Views==
+In order to understand Taylor's views, it is helpful to understand his philosophical background, especially his writings on [[Georg Wilhelm Friedrich Hegel]], [[Ludwig Wittgenstein]], [[Martin Heidegger]], and [[Maurice Merleau-Ponty]]. Taylor rejects [[naturalism (philosophy)|naturalism]] and formalist [[epistemology|epistemologies]]. He is part of an influential intellectual tradition of [[Canadian idealism]] that includes [[John Watson (philosopher)|John Watson]], Paxton Young, [[C. B. Macpherson]], and [[George Grant (philosopher)|George Grant]].{{sfn|Meynell|2011}}
+
+In his essay "To Follow a Rule", Taylor explores why people can fail to follow [[wiktionary:rule|rule]]s, and what kind of [[knowledge]] it is that allows a person to successfully follow a rule, such as the arrow on a sign. The intellectualist tradition presupposes that to follow directions, we must know a set of [[proposition]]s and [[premise]]s about how to follow directions.{{citation needed|date=June 2017}}
+
+Taylor argues that Wittgenstein's solution is that all interpretation of rules draws upon a tacit background. This background is not more rules or premises, but what [[Wittgenstein]] calls [[Form of life (philosophy)|"forms of life"]]. More specifically, Wittgenstein says in the ''[[Philosophical Investigations]]'' that "Obeying a rule is a practice." Taylor situates the interpretation of rules within the practices that are incorporated into our bodies in the form of habits, dispositions, and tendencies.{{citation needed|date=June 2017}}
+
+Following Heidegger, Merleau-Ponty, [[Hans-Georg Gadamer]], [[Michael Polanyi]], and Wittgenstein, Taylor argues that it is mistaken to presuppose that our understanding of the world is primarily mediated by representations. It is only against an unarticulated background that representations can make sense to us. On occasion we do follow rules by explicitly representing them to ourselves, but Taylor reminds us that rules do not contain the principles of their own application: application requires that we draw on an unarticulated understanding or  "sense of things"—the background.{{citation needed|date=June 2017}}
+
+==Taylor's critique of naturalism==
+Taylor defines naturalism as a family of various, often quite diverse theories that all hold "the ambition to model the study of man on the natural sciences."{{sfn|Taylor|1985a|p=1}}
+
+Philosophically, naturalism was largely popularized and defended by the unity of science movement that was advanced by [[logical positivism|logical positivist]] philosophy. In many ways, Taylor's early philosophy springs from a critical reaction against the logical positivism and naturalism that was ascendant in Oxford while he was a student.
+
+Initially, much of Taylor's philosophical work consisted of careful conceptual critiques of various naturalist research programs. This began with his 1964 dissertation ''The Explanation of Behaviour'', which was a detailed and systematic criticism of the [[Behaviorism|behaviourist]] psychology of [[B. F. Skinner]]{{sfn|Taylor|1964}} that was highly influential at mid-century.
+
+From there, Taylor also spread his critique to other disciplines. The still hugely influential essay "Interpretation and the Sciences of Man" was published in 1972 as a critique of the political science of the behavioural revolution advanced by giants of the field like David Easton, Robert Dahl, Gabriel Almond, and Sydney Verba.{{sfn|Taylor|1985b}} In an essay entitled "The Signiﬁcance of Signiﬁcance: The Case for [[Cognitive Psychology]]", Taylor criticized the naturalism he saw distorting the major research program that had replaced B. F. Skinner's behaviourism.{{sfn|Taylor|1983|pp=141–169}}
+
+But Taylor also detected naturalism in fields where it was not immediately apparent. For example, in 1978's "Language and Human Nature", he found naturalist distortions in various modern "designative" theories of language,{{sfn|Taylor|1985c}} while in ''[[Sources of the Self]]'' (1989) he found both naturalist error and the deep moral, motivational sources for this outlook in various individualist and [[Utilitarianism|utilitarian]] conceptions of selfhood.
+
+==Taylor and hermeneutics==
+Concurrent to Taylor's critique of naturalism was his development of an alternative. Indeed, Taylor's mature philosophy begins when as a doctoral student at Oxford he turned away, disappointed, from [[analytic philosophy]] in search of other philosophical resources which he found in French and German [[hermeneutics]] and [[phenomenology (philosophy)|phenomenology]].<ref>"Interview with Charles Taylor: The Malaise of Modernity" by David Cayley: http://www.cbc.ca/ideas/episodes/2011/04/11/the-malaise-of-modernity-part-1---5/</ref>
+
+The hermeneutic tradition develops a view of human understanding and cognition as centred on the decipherment of meanings (as opposed to, say, foundational theories of brute verification or an apodictic rationalism). Taylor's own philosophical outlook can broadly and fairly be characterized as hermeneutic. This is clear in his championing of the works of major figures within the hermeneutic tradition such as [[Wilhelm Dilthey]], Heidegger, Merleau Ponty, and Gadamer.{{sfn|Taylor|1985d}} It is also evident in his own original contributions to hermeneutic and interpretive theory.{{sfn|Taylor|1985d}}
+
+==Communitarian critique of liberalism==
+Taylor (as well as [[Alasdair MacIntyre]], [[Michael Walzer]], and [[Michael Sandel]]) is associated with a [[Communitarianism|communitarian]] critique of [[Liberalism|liberal]] theory's understanding of the "self". Communitarians emphasize the importance of social institutions in the development of individual meaning and identity.
+
+In his 1991 [[Massey Lecture]] "The Malaise of Modernity", Taylor argued that political theorists—from [[John Locke]] and [[Thomas Hobbes]] to [[John Rawls]] and [[Ronald Dworkin]]—have neglected the way in which individuals arise within the context supplied by societies. A more realistic understanding of the "self" recognizes the social background against which life choices gain importance and meaning.
+
+==Philosophy and sociology of religion==
+{{further information|A Secular Age}}
+
+Taylor's later work has turned to the philosophy of religion, as evident in several pieces, including the lecture "A Catholic Modernity" and the short monograph "Varieties of Religion Today: William James Revisited".<ref>A Catholic Modernity?: Charles Taylor's Marianist Award Lecture, ed. James Heft (New York: Oxford University Press, 1999); Varieties of Religion Today (Cambridge, MA: Harvard University Press, 2002).</ref>
+
+Taylor's most significant contribution in this field to date is his book ''A Secular Age'' which argues against the [[secularization]] thesis of [[Max Weber]], Steve Bruce, and others.{{sfn|Taylor|2007}} In rough form, the secularization thesis holds that as modernity (a bundle of phenomena including science, technology, and rational forms of authority) progresses, religion gradually diminishes in influence. Taylor begins from the fact that the modern world has not seen the disappearance of religion but rather its diversification and in many places its growth.{{sfn|Taylor|2007|pp=1–22}}  He then develops a complex alternative notion of what secularization actually means given that the secularization thesis has not been borne out. In the process, Taylor also greatly deepens his account of moral, political, and spiritual modernity that he had begun in ''Sources of the Self''.
+
+==Politics==
+Taylor was a candidate for the [[social democratic]] [[New Democratic Party]] in [[Mount Royal (electoral district)|Mount Royal]] on three occasions in the 1960s, beginning with the [[Canadian federal election, 1962|1962 federal election]] when he came in third behind [[Liberal Party of Canada|Liberal]] [[Alan Macnaughton|Alan MacNaughton]]. He improved his standing in [[Canadian federal election, 1963|1963]], coming in second. Most famously, he also lost in the [[Canadian federal election, 1965|1965 election]] to newcomer and future [[Prime Minister of Canada|prime minister]], [[Pierre Trudeau]]. This campaign garnered national attention. Taylor's fourth and final attempt to enter the [[Canadian House of Commons]] was in the [[Canadian federal election, 1968|1968 federal election]], when he came in second as an NDP candidate in the riding of [[Dollard (electoral district)|Dollard]]. In 1994 he coedited a paper on human rights with [[Vitit Muntarbhorn]] in Thailand.{{sfn|Muntarbhorn|Taylor|1994}} In 2008, he endorsed the NDP candidate in Westmount—Ville-Marie, [[Anne Lagacé Dowson]]. He was also a professor to Canadian politician and former leader of the New Democratic Party [[Jack Layton]].
+
+In 2010, Taylor said [[multiculturalism]] was a work in progress that faced challenges. He identified tackling [[Islamophobia]] in Canada as the next challenge.<ref>{{cite news |title=Part 5: 10 leaders on how to change multiculturalism |url=https://www.theglobeandmail.com/news/national/time-to-lead/multiculturalism/part-5-10-leaders-on-how-to-change-multiculturalism/article1745221/?from=1923091 |department=Our Time to Lead |newspaper=The Globe and Mail | date=June 21, 2012 |access-date=February 15, 2016}}</ref>
+
+==Interlocutors==
+{{div col|colwidth=18em}}
+*[[Richard Rorty]]
+*[[Bernard Williams]]
+*[[Alasdair MacIntyre]]: [[Charles Taylor (philosopher)#Communitarian critique of liberalism|critique of liberalism]]
+*[[Will Kymlicka]]
+*[[Martha Nussbaum]]
+*[[Kwame Appiah]]: [[Kwame Anthony Appiah#Selected essays|on Taylor's "The Politics of Recognition"]]
+*[[Hubert Dreyfus]]: [[Hubert Dreyfus#Background|philosophical influence]]; [[Charles Taylor (philosopher)#Selected books by Taylor|co-author]]
+*[[Quentin Skinner]]
+*[[Talal Asad]]
+*[[Arjun Appadurai]]: [[Arjun Appadurai#The social imaginary|on the imaginary]]
+*[[Paul Berman]]
+*[[William E. Connolly]]
+*[[Robert Bellah]]: [[Charles Taylor (philosopher)#External links|on Taylor's ''A Secular Age'']]
+*[[John Milbank]]
+*[[Stuart Hall (cultural theorist)|Stuart Hall]]
+*[[Catherine Pickstock]]
+*[[James Tully (philosopher)|James Tully]]: [[James Tully (philosopher)#Recent Public Lectures|on Taylor on "Deep Diversity"]]
+*[[Jürgen Habermas]]: [[Charles Taylor (philosopher)#Career|shared Kluge prize]]
+*[[Glen Coulthard]]
+{{div col end}}
+
+==Selected works by Taylor==
+;Books
+*1964. ''The Explanation of Behaviour''. Routledge Kegan Paul.
+*1975. ''Hegel''. Cambridge University Press.
+*1979.  ''Hegel and Modern Society''. Cambridge University Press.
+*1985. ''Philosophical Papers'' (2 volumes).
+*1989. ''[[Sources of the Self|Sources of the Self: The Making of Modern Identity]]''. [http://www.hup.harvard.edu/catalog.php?isbn=9780674824263 Harvard University Press]
+*1992. ''The Malaise of Modernity'', being the published version of Taylor's [[Massey Lectures]]. Reprinted in the U.S. as ''The Ethics of Authenticity''. [http://www.hup.harvard.edu/catalog.php?isbn=9780674268630  Harvard University Press]
+*1993. ''Reconciling the Solitudes: Essays on Canadian Federalism and Nationalism''. [http://mqup.mcgill.ca/book.php?bookid=1182 McGill-Queen's University Press]
+*1994. ''Multiculturalism: Examining The Politics of Recognition''. [http://press.princeton.edu/titles/5090.html Princeton University Press]
+*1995. ''Philosophical Arguments''. [http://www.hup.harvard.edu/catalog.php?isbn=9780674664777 Harvard University Press]
+*1999. ''A Catholic Modernity?''.
+*2002. ''Varieties of Religion Today: William James Revisited''. [http://www.hup.harvard.edu/catalog.php?isbn=9780674012530 Harvard University Press]
+*2004. ''Modern Social Imaginaries''. Duke University Press.
+*2007. ''[[A Secular Age]]''. [http://www.hup.harvard.edu/catalog.php?isbn=9780674026766 Harvard University Press]
+*2011. ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674055322 Dilemmas and Connections: Selected Essays].''  Harvard University Press.
+*2015. With Hubert Dreyfus, ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674967519 Retrieving Realism].'' Harvard University Press.
+*2016. ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674660205 The Language Animal: The Full Shape of the Human Linguistic Capacity]'', Harvard University Press.
+
+;Book chapters
+* "The diversity of goods" in {{cite book | editor-last1 = Sen | editor-first1 = Amartya | editor-last2 = Williams | editor-first2 = Bernard | editor-link1 = Amartya Sen | editor-link2 = Bernard Williams | title = Utilitarianism and beyond | pages = 129–144 | publisher = Cambridge University Press | location = Cambridge | year = 1982 | isbn = 9780511611964 | ref = harv | postscript = .}}
+
+==See also==
+*[[List of people from Montreal]]
+
+==Notes==
+{{Reflist|35em}}
+
+==References==
+{{refbegin|35em|indent=yes}}
+: {{cite book
+|author=American Academy of Arts and Sciences
+|chapter=T
+|chapter-url=http://www.amacad.org/publications/BookofMembers/ChapterT.pdf
+|title=Book of Members, 1780–2012
+|publisher=American Academy of Arts and Sciences
+|access-date=February 15, 2016
+|ref=harv
+}}
+: {{cite book
+|year=1996
+|editor1-last=Brown
+|editor1-first=Stuart
+|editor2-last=Collinson
+|editor2-first=Diané
+|editor3-last=Wilkinson
+|editor3-first=Robert
+|title=Biographical Dictionary of Twentieth-Century Philosophers
+|location=London
+|publisher=Routledge 
+|pages=774–776
+|isbn=978-0-415-06043-1
+|ref=harv
+}}
+: {{cite book
+|last=Meynell
+|first=Robert
+|year=2011
+|title=Canadian Idealism and the Philosophy of Freedom: C.B. Macpherson, George Grant and Charles Taylor
+|location=Montreal
+|publisher=McGill-Queen's University Press
+|isbn=978-0-7735-3798-9
+|ref=harv
+}}
+: {{cite book
+|last1=Muntarbhorn
+|first1=Vitit
+|author1-link=Vitit Muntarbhorn
+|last2=Taylor
+|first2=Charles
+|year=1994
+|title=Road to Democracy: Human Rights and Human Development in Thailand
+|location=Montreal
+|publisher=International Centre for Human Rights and Democratic Development
+|ref=harv
+}}
+: {{cite book
+|last1=Taylor
+|first1=Charles
+|year=1964
+|title=The Explanation of Behaviour
+|series=International Library of Philosophy and Scientific Method
+|location=London
+|publisher=Routledge & Kegan Paul
+|ref=harv
+}}
+: {{cite book
+|last1=Taylor
+|first1=Charles
+|author-mask={{long dash}}
+|year=1983
+|chapter=The Significance of Significance: The Case for Cognitive Psychology
+|editor1-last=Mitchell
+|editor1-first=Sollace
+|editor2-last=Rosen
+|editor2-first=Michael
+|editor2-link=Michael E. Rosen
+|title=The Need for Interpretation: Contemporary Conceptions of the Philosopher’s Task
+|location=New Jersey
+|publisher=Humanities Press
+|isbn=978-0-391-02825-8
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=1985a
+|chapter=Introduction
+|editor-last=Taylor
+|editor-first=Charles
+|title=Human Agency and Language
+|series=Philosophical Papers
+|volume=1
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|pages=1–12
+|isbn=978-0-521-31750-4
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=1985b
+|orig-year=1972
+|chapter=Interpretation and the Sciences of Man
+|editor-last=Taylor
+|editor-first=Charles
+|title=Philosophy and the Human Sciences
+|series=Philosophical Papers
+|volume=2
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|pages=15–57
+|isbn=
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=1985c
+|orig-year=1978
+|chapter=Language and Human Nature
+|editor-last=Taylor
+|editor-first=Charles
+|title=Human Agency and Language
+|series=Philosophical Papers
+|volume=1
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|pages=215–247
+|isbn=978-0-521-31750-4
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=1985d
+|chapter=Self-Interpreting Animals
+|editor-last=Taylor
+|editor-first=Charles
+|title=Human Agency and Language
+|series=Philosophical Papers
+|volume=1
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|pages=45–76
+|isbn=978-0-521-31750-4
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=1992
+|orig-year=1991
+|title=The Ethics of Authenticity
+|location=Cambridge, Massachusetts
+|publisher=Harvard University Press
+|isbn=978-0-674-26863-0
+|ref=harv
+}}
+: {{cite book
+|last=Taylor
+|first=Charles
+|author-mask={{long dash}}
+|year=2007
+|title=[[A Secular Age]]
+|location=Cambridge, Massachusetts
+|publisher=Belknap Press of Harvard University Press
+|isbn=978-0-674-02676-6
+|ref=harv
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin|35em|indent=yes}}
+: {{cite journal
+|last=Perreau-Saussine
+|first=Émile
+|year=2005
+|title=Une spiritualité libérale? Alasdair MacIntyre et Charles Taylor en conversation
+|url=http://www.sps.cam.ac.uk/pol/staff/eperreausaussine/rfsp_552_0299.pdf
+|trans-title=A Liberal Spirituality? Alasdair MacIntyre and Charles Taylor in Conversation
+|language=fr
+|format=PDF
+|journal=Revue Française de Science Politique
+|publisher=Presses de Sciences Po.
+|volume=55
+|issue=2
+|pages=299–315
+|archive-url=https://web.archive.org/web/20090327023117/http://www.polis.cam.ac.uk/contacts/staff/eperreausaussine/rfsp_552_0299.pdf
+|archive-date=March 27, 2009
+|access-date=February 15, 2015
+}}
+: {{cite book
+|last=Redhead
+|first=Mark
+|year=2002
+|title=Charles Taylor: Thinking and Living Deep Diversity
+|series=Twentieth-Century Political Thinkers
+|location=Lanham, Maryland
+|publisher=Rowman & Littlefield
+|isbn=978-0-7425-2126-1
+}}
+: {{cite journal
+|last=Skinner
+|first=Quentin
+|author-link=Quentin Skinner
+|year=1991
+|title=Who Are 'We'? Ambiguities of the Modern Self
+|journal=Inquiry
+|volume=34
+|issue=2
+|pages=133–153
+|doi=10.1080/00201749108602249
+|subscription=yes
+}}
+: {{cite journal
+|last=Temelini
+|first=Michael
+|year=2014
+|title=Dialogical Approaches to Struggles Over Recognition and Distribution
+|journal=Critical Review of International Social and Political Philosophy
+|volume=17
+|issue=4
+|pages=423–447
+|doi=10.1080/13698230.2013.763517
+|subscription=yes
+}}
+: {{cite book
+|year=1994
+|editor1-last=Tully
+|editor1-first=James
+|editor1-link=James Tully (philosopher)
+|editor2-last=Weinstock
+|editor2-first=Daniel M.
+|title=Philosophy in an Age of Pluralism: The Philosophy of Charles Taylor in Question
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|isbn=978-0-521-43150-7
+}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+{{Commons category|Charles Taylor (philosopher)}}
+* [http://www.nd.edu/~rabbey1/ A comprehensive bibliography that includes all of Taylor's works as well as secondary literature on Taylor's philosophy, interviews, media, and resources.]
+* [http://www.the-utopian.org/2010/09/Spiritual-Gains.html A wide-ranging interview with Charles Taylor, including Taylor's thoughts about his own intellectual development.]
+* [https://web.archive.org/web/20090205180813/http://theotherjournal.com/article.php?id=375 An Interview with Charles Taylor Part 1],[https://web.archive.org/web/20081011235718/http://theotherjournal.com/article.php?id=376 Part 2] and [https://web.archive.org/web/20081011235728/http://theotherjournal.com/article.php?id=440 Part 3]
+* [http://www.ssrc.org/blogs/immanent_frame/ The Immanent Frame] a [[blog]] with posts by Taylor, [[Robert Bellah]], and others concerning Taylor's book ''A Secular Age''
+* [http://www.marxists.org/reference/subject/philosophy/works/us/taylor.htm Text of Taylor's essay "Overcoming Epistemology"'']
+* [http://bearspace.baylor.edu/Scott_Moore/www/Taylor_info.html Links to secondary sources, reviews of Taylor's works, reading notes]
+* [http://goodreads.ca/lectures/taylor/rel_violence04.html Lecture notes to Charles Taylor's talk on Religion and Violence (with a link to the audio) Nov 2004]
+* [http://www.goodreads.ca/lectures/taylor/larkin-stuart04.html Lecture notes to Charles Taylor's talk on 'An End to Mediational Epistemology', Nov 2004]
+* [http://jan.ucc.nau.edu/~jgr6/NMT/Taylor_Index.html Study guide to ''Philosophical Arguments'' and ''Philosophical Papers 2'']
+* [https://web.archive.org/web/20070430180323/http://www.templetonprize.org/bios.html Templeton Prize announcement]
+* [https://web.archive.org/web/20100501182937/http://www.philosophers.co.uk/cafe/phil_may2003.htm Short essay by Dene Baker, ''philosophers.co.uk'']
+* [http://elplandehiram.org/documentos/JoustingNYC/Politics_of_Recognition.pdf Taylor's famous essay ''The Politics of Recognition'']
+* [http://yearbooks.mcgill.ca/viewbook.php?campus=downtown&book_id=1952#page/234/mode/2up Charles Taylor on McGill Yearbook] when he graduated in 1952
+* [http://samizdat.qc.ca/cosmos/philo/MalaiseofModernity_PG.htm A Review of The Malaise of Modernity].
+
+;Online videos of Charles Taylor
+*[https://www.youtube.com/watch?v=o6-UcVX8Fto&list=PLyYCSKWs8iYhxJzATF5z6Owzp_O9CIwx_ Berggruen Prize Winner Charles Taylor on the Big Questions]; series of videos produced by the [[Berggruen Institute]] 
+* [http://vimeo.com/7803207 Can Human Action Be Explained?]; Charles Taylor gives a lecture at Columbia University
+* {{YouTube|DKVnLwsl5JI|A Political Ethic of Solidarity}}; Charles Taylor gives a lecture on a future politics self-consciously based on differing views and foundations in Milan
+* {{YouTube|hA1dtTTmv0g|"Spiritual Forgetting"}}; Charles Taylor at awarding of Templeton Prize
+* {{fr icon}} [http://www.cerium.ca/video/2006-2007/argument01/conference.asx «La religion dans la Cité des modernes : un divorce sans issue?» (14/10/2006)]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }} ; Charles Taylor and [[Pierre Manent]], Musée des Beaux-Arts de Montréal,  [http://www.cerium.ca/article3231.html «Les grandes conférences Argument»].
+
+{{Ethics}}
+{{Social and political philosophy}}
+{{Templeton Prize Laureates}}
+{{Kyoto Prize in Arts and Philosophy - Thought and Ethics}}
+
+{{Portal bar|Biography|Montreal|Philosophy of science|Religion|Social and political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Taylor, Charles}}
+[[Category:1931 births]]
+[[Category:Canadian philosophers]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Action theorists]]
+[[Category:Analytic philosophers]]
+[[Category:Canadian political theorists]]
+[[Category:Canadian Rhodes Scholars]]
+[[Category:New Democratic Party candidates for the Canadian House of Commons]]
+[[Category:Quebec candidates for Member of Parliament]]
+[[Category:Companions of the Order of Canada]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Grand Officers of the National Order of Quebec]]
+[[Category:Heidegger scholars]]
+[[Category:Living people]]
+[[Category:Moral philosophers]]
+[[Category:Northwestern University faculty]]
+[[Category:Ontologists]]
+[[Category:People from Montreal]]
+[[Category:Templeton Prize laureates]]
+[[Category:McGill University alumni]]
+[[Category:Roman Catholic philosophers]]
+[[Category:Anglophone Quebec people]]
+[[Category:Scholars of nationalism]]
+[[Category:Canadian political philosophers]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:Chichele Professors of Social and Political Theory]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Kyoto laureates in Arts and Philosophy]]
+[[Category:Philosophers of social science]]
+[[Category:Fellows of the British Academy]]

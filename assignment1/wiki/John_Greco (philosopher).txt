@@ -1,0 +1,226 @@
+'''John Greco''' holds the Leonard and Elizabeth Eslick Chair in Philosophy at [[Saint Louis University]]. He received his Ph.D. from [[Brown University]] in 1989, where he studied under [[Ernest Sosa]], and his AB from [[Georgetown University]] in 1983. His research interests are in epistemology and metaphysics and he has published widely on virtue epistemology, epistemic normativity, skepticism, and Thomas Reid. He is the Editor of [[American Philosophical Quarterly]].<ref>''The Blackwell Guide to Epistemology'' [1999, 2004], back cover.</ref> For 2013-15, together with [[Eleonore Stump]], he holds a $3.3 million grant from the [[John Templeton Foundation]] for a project on intellectual humility.<ref name="humility">{{cite web|title=The Philosophy and Theology of Intellectual humility|url=http://humility.slu.edu|accessdate=2014-04-24}}</ref>
+
+==Philosophical genealogy==
+* [[Alonzo Church]]
+** [[Nicholas Rescher]]
+*** [[Ernest Sosa]]
+**** John Greco<ref name=Genealogy>{{cite web|title=Philosophy Family Tree|url=https://philosophyfamilytree.wikispaces.com|accessdate=25 April 2014}}</ref>
+
+==Bibliography==
+
+{{Cite journal
+| volume = 85
+| issue = 2
+| pages = 245–277
+| last = Greco
+| first = John
+| title = Internalism and epistemically responsible belief
+| journal = Synthese
+| accessdate = 2014-04-23
+| date = 1990
+| url = https://link.springer.com/article/10.1007/BF00484794
+| doi=10.1007/bf00484794
+}}
+
+{{Cite journal
+| volume = 23
+| issue = 3
+| pages = 413–432
+| last = Greco
+| first = John
+| title = Virtues and vices of virtue epistemology
+| journal = Canadian Journal of Philosophy
+| accessdate = 2014-04-23
+| date = 1993
+| url = http://www.tandfonline.com/doi/pdf/10.1080/00455091.1993.10717329
+| doi=10.1080/00455091.1993.10717329
+}}
+
+{{Cite journal
+| volume = 26
+| issue = 1-2
+| pages = 81–96
+| last = Greco
+| first = John
+| title = A second paradox concerning responsibility and luck
+| journal = Metaphilosophy
+| accessdate = 2014-04-23
+| date = 1995
+| url = http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9973.1995.tb00557.x/full
+| doi=10.1111/j.1467-9973.1995.tb00557.x
+}}
+
+{{Cite journal
+| volume = 33
+| issue = s13
+| pages = 273–296
+| last = Greco
+| first = John
+| title = Agent reliabilism
+| journal = Nous
+| accessdate = 2014-04-23
+| date = 1999
+| url = http://onlinelibrary.wiley.com/doi/10.1111/0029-4624.33.s13.13/abstract
+| doi=10.1111/0029-4624.33.s13.13
+}}
+
+{{Cite journal
+| last = Greco
+| first = John
+|author2=Ernest Sosa
+| title = The Blackwell guide to epistemology
+| accessdate = 2014-04-23
+| date = 1999
+| url = http://philpapers.org/rec/GRETBG
+}}
+
+{{Cite book
+| publisher = Rowman & Littlefield Publishers
+| last = Goldman
+| first = Alvin
+|author2=Ernest Sosa |author3=Hilary Kornblith |author4=John Greco |author5=Jonathan Dancy |author6=Laurence Bonjour |author7=Linda Zagrebsky |author8=Julia Driver |author9=James Montmarquet |author10=Christopher Hookway
+ | title = Knowledge, Belief, and Character: Readings in Contemporary Virtue Epistemology
+| accessdate = 2014-04-23
+| date = 2000
+| url = https://books.google.com/books?hl=en&lr=&id=5c4zAAAAQBAJ&oi=fnd&pg=PR3&dq=john+greco&ots=_zgiRlQkjd&sig=h2vPVvKNMqoGvBSGMpvQvgjCYoA
+}}
+
+{{Cite journal
+| pages = 287–315
+| last = Greco
+| first = John
+| title = Virtues in epistemology
+| journal = Oxford handbook of epistemology
+| accessdate = 2014-04-23
+| date = 2002
+| url = https://books.google.com/books?hl=en&lr=&id=fLENuh8b1N8C&oi=fnd&pg=PA287&dq=john+greco&ots=MIDOR8qG17&sig=Maw7DXI4UHGydDvM2oAGKYCaTFM
+}}
+
+{{Cite journal
+| last = Greco
+| first = John
+| title = `Knowledge as Credit for True Belief
+| accessdate = 2014-04-23
+| date = 2003
+| url = http://philpapers.org/rec/GREKAC
+}}
+
+{{Cite journal
+| pages = 257–269
+| last = Greco
+| first = John
+| title = Justification is not internal
+| journal = Contemporary debates in epistemology
+| accessdate = 2014-04-23
+| date = 2005
+| url = https://books.google.com/books?hl=en&lr=&id=sZZXTqeGn28C&oi=fnd&pg=PA325&dq=john+greco&ots=Tv9byr8pAK&sig=C8zZmazRfKxgpAYx5wJhfNZxCds
+}}
+
+{{Cite book
+| publisher = Cambridge University Press
+| last = Greco
+| first = John
+| title = Putting skeptics in their place: The nature of skeptical arguments and their role in philosophical inquiry
+| accessdate = 2014-04-23
+| date = 2007
+| url = https://books.google.com/books?hl=en&lr=&id=XfrTHY8Zg_QC&oi=fnd&pg=PP1&dq=john+greco&ots=yTn2TqSD-P&sig=cfpwXYU4-N10viGFmw-co96gvd8
+}}
+
+{{Cite journal
+| volume = 17
+| issue = 1
+| pages = 57–69
+| last = Greco
+| first = John
+| title = The nature of ability and the purpose of knowledge
+| journal = Philosophical issues
+| accessdate = 2014-04-23
+| date = 2007
+| url = http://onlinelibrary.wiley.com/doi/10.1111/j.1533-6077.2007.00122.x/full
+| doi=10.1111/j.1533-6077.2007.00122.x
+}}
+
+{{Cite journal
+| volume = 58
+| issue = 232
+| pages = 416–436
+| last = Greco
+| first = John
+| title = What's wrong with contextualism?
+| journal = The Philosophical Quarterly
+| accessdate = 2014-04-23
+| date = 2008
+| url = http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9213.2008.535.x/full
+| doi=10.1111/j.1467-9213.2008.535.x
+}}
+
+{{Cite journal
+| volume = 142
+| issue = 1
+| pages = 17–26
+| last = Greco
+| first = John
+| title = Knowledge and success from ability
+| journal = Philosophical Studies
+| accessdate = 2014-04-23
+| date = 2009
+| url = https://link.springer.com/article/10.1007/s11098-008-9307-0
+| doi=10.1007/s11098-008-9307-0
+}}
+
+{{Cite journal
+| pages = 313–22
+| last = Greco
+| first = John
+| title = The value problem
+| journal = Epistemic value
+| accessdate = 2014-04-23
+| date = 2009
+| url = http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/32943_103625.pdf
+}}
+
+{{Cite journal
+| last = Greco
+| first = John
+| title = Achieving knowledge
+| journal = A Virtue-Theoretic Account of Epistemic Normativity. Cambridge
+| accessdate = 2014-04-23
+| date = 2010
+| url = http://www.langtoninfo.com/web_content/9780521144315_frontmatter.pdf
+}}
+
+{{Cite book
+| publisher = Cambridge University Press
+| last = Greco
+| first = John
+| title = Achieving knowledge: A virtue-theoretic account of epistemic normativity
+| accessdate = 2014-04-23
+| date = 2010
+| url = https://books.google.com/books?hl=en&lr=&id=xi7vh3U5cggC&oi=fnd&pg=PR3&dq=john+greco&ots=RNsFBujfIG&sig=C7fywO_K5m95YAPDdH6Wb9AT4Bg
+}}
+
+{{Cite journal
+| last = Greco
+| first = John
+|author2=John Turri
+| title = Virtue epistemology
+| accessdate = 2014-04-23
+| date = 2011
+| url = http://philpapers.org/rec/GREVE-3
+}}
+
+==Notes==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Greco, John}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Epistemologists]]
+[[Category:American philosophers]]
+[[Category:Saint Louis University faculty]]
+[[Category:Fordham University faculty]]
+
+
+{{US-philosopher-stub}}

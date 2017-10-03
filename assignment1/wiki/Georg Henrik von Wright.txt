@@ -1,0 +1,124 @@
+{{Infobox philosopher
+| name             = Georg Henrik von Wright
+| image            = GHvonWright.jpg
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       =
+| birth_date       = 14 June 1916
+| birth_place      = [[Helsinki]], [[Finland]]
+| death_date       = {{Death date and age|df=yes|2003|06|16|1916|06|14}}
+| death_place      = Helsinki, Finland
+| death_cause      =
+| era              = [[20th-century philosophy]]
+| region           = [[Western Philosophy]]
+| religion         =
+| school_tradition = [[Analytic philosophy]]
+| main_interests   = [[Modal logic]], [[philosophy of action]], [[philosophy of language]], [[philosophy of mind]], [[philosophy of science]]
+| notable_ideas    = 
+| alma_mater       = [[University of Helsinki]]<br>(1934–1937, 1939–1941;<br>PhD, 1941)<br>[[University of Cambridge]]<br>(1939; no degree)
+| institutions     = [[University of Cambridge]]<br>[[University of Helsinki]]<br>[[Cornell University]]
+| influences       = [[Eino Kaila]], [[Ludwig Wittgenstein]], [[Charles Sanders Peirce]], [[Oswald Spengler]], [[C. D. Broad]], [[R. B. Braithwaite]], [[G. E. Moore]], [[Jürgen Habermas]]
+| influenced       = [[Jaakko Hintikka]], [[Karl-Otto Apel]], [[Peter Hacker]]
+| signature        = 
+| signature_alt    = 
+| website          = <!-- {{URL|example.com}} -->
+}}
+'''Georg Henrik von Wright''' ({{IPA-sv|ˈjeːɔrj ˈhɛnːrɪk fɔnˈvrɪkːt|lang}}, 14 June 1916 &ndash; 16 June 2003) was a [[Finland|Finnish]] [[philosopher]], who succeeded [[Ludwig Wittgenstein]] as professor at the [[University of Cambridge]]. He published in [[English language|English]], [[Finnish language|Finnish]], [[German language|German]], and [[Swedish language|Swedish]], having belonged to the [[Finland Swedish|Swedish-speaking]] minority of Finland. Von Wright was of both Finnish and 17th-century [[Scottish people|Scottish]] ancestry.<ref>{{cite web|url=https://suvut.genealogia.fi/wrights/JohanPetterWrightinjaNilsWrightinjalkelaisia.pdf |title=Georg Wrightin jälkeläisiä |publisher=suvut.genealogia.fi |accessdate=April 24, 2009 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20110720181246/http://suvut.genealogia.fi/wrights/JohanPetterWrightinjaNilsWrightinjalkelaisia.pdf |archivedate=July 20, 2011 |df= }}</ref>
+
+==Work==
+Von Wright's writings come under two broad categories. The first is [[analytic philosophy]] and [[philosophical logic]] in the Anglo-American vein. His 1951 books, ''An Essay in Modal Logic'' and ''Deontic Logic'', were landmarks in the postwar rise of formal modal logic and its [[deontic logic|deontic]] version. He was an authority on Wittgenstein, editing his later works. He was the leading figure in the Finnish philosophy of his time, specializing in [[philosophical logic]], [[philosophical analysis]], [[philosophy of action]], [[philosophy of language]], [[philosophy of mind]], and the close study of [[Charles Sanders Peirce]].
+
+The other vein in von Wright's writings is moralist and [[pessimism|pessimist]]. During the last twenty years of his life, under the influence of [[Oswald Spengler]], [[Jürgen Habermas]] and the [[Frankfurt School]]'s reflections about modern [[Rationality]], he wrote prolifically. His best known article from this period is entitled ''The Myth of Progress'', and it questions whether our apparent material and technological progress can really be considered "[[progress (history)|progress]]".
+
+In the last year of his life, among his other honorary degrees, he held an [[honorary degree]] at the [[University of Bergen]].<ref>{{cite news|title=Nytt om navn|last=|first=|date=17 January 2002|work=Aftenposten|page=14|language=Norwegian}}</ref>
+
+== Bibliography ==
+[[Image:Georg Henrik von Wright home 1.jpg|thumb|180px|Von Wright's home on Laivurinkatu street, Helsinki: a commemorative plaque marking his long-term residence in the house was fixed to the outer wall in 2006.]] 
+*''The Logical Problem of Induction'', PhD thesis, 31 May 1941<ref>von Wright Georg Henrik. ''The logical problem of induction.'' ''Acta philosophica fennica'', vol. 3. ''Societas Philosophica'', Helsinki. Distributed by Akateeminen Kirjakauppa, Helsinki (Helsingfors) 1941, 258 pp.</ref>
+*''Den logiska empirismen'' (Logical Empirism), in Swedish, 1945
+*''Über Wahrscheinlichkeit'' (On Chance), in German, 1945
+*''An Essay in Modal Logic'', 1951
+*''A Treatise on Induction and Probability'', 1951
+*''Deontic Logic'', 1951
+*''Tanke och förkunnelse'' (Thought and Preaching), in Swedish, 1955
+*''Logical Studies'', 1957
+*''Logik, filosofi och språk'' (Logic, philosophy and language), in Swedish, 1957
+*''The Varieties of Goodness'', 1963. (1958-60 [[Gifford Lectures]] in the [[University of St. Andrews]], [http://www.giffordlectures.org/Browse.asp?PubID=TPVARG&Cover=TRUE online]) He considered this his best and most personal work.
+*''Norm and Action'', 1963 (1958-60 Gifford Lectures, St. Andrews, [http://www.giffordlectures.org/Browse.asp?PubID=TPNORM&Cover=TRUE online])
+*''The Logic of Preference'', 1963
+*''Essay om naturen, människan och den vetenskaplig-tekniska revolutionen'' (Essay on Nature, Man and the Scientific-Technological Revolution), in Swedish, 1963
+*''An Essay in Deontic Logic'', 1968
+*''Time, Change and Contradiction'', 1969
+*''Tieteen filosofian kaksi perinnettä'' (The Two Traditions of the Philosophy of Science), in Finnish, 1970
+*''Explanation and Understanding'', 1971
+*''Causality and Determinism'', 1974
+*''Handlung, Norm und Intention'' (Action, Norm and Intention), in German, 1977
+*''Humanismen som livshållning'' (Humanism as an approach to Life), in Swedish, 1978
+*''Freedom and Determination'', 1980
+*''Wittgenstein'', 1982
+*''Philosophical Papers I-III'', 1983–1984
+*''Of Human Freedom'', 1984. (1984 [[Tanner Lectures]] at the [[University of Helsinki]], [http://tannerlectures.utah.edu online])
+*''Filosofisia tutkielmia'' (Philosophical Dissertations), in Finnish, 1985
+*''Vetenskapen och förnuftet'' (Science and Reason), in Swedish, 1986
+*''Minervan Pöllö'' (The Owl of Minerva), in Finnish, 1991
+*''Myten om framsteget'' (The Myth of Progress), in Swedish, 1993
+*''The Tree of Knowledge'', 1993
+*''Att förstå sin samtid'' (To Understand one's own Time), in Swedish, 1994
+*''Six Essays in Philosophical Logic'', 1996
+*''Viimeisistä ajoista. Ajatusleikki'' (On the End Times. A Thought Experiment.), in Finnish, 1997
+*''Logiikka ja humanismi'' (''Logic and Humanism''), in Finnish, 1998
+*''In the Shadow of Descartes'', 1998
+*''Mitt liv som jag minns det'' (My Life as I Remember it), in Swedish, 2001
+
+Von Wright edited posthumous publications by [[Ludwig Wittgenstein|Wittgenstein]], which were published by [[Wiley-Blackwell|Blackwell]] (unless otherwise stated):
+*	1961. ''Notebooks 1914-1916''.
+*	1967. ''Zettel'' (Translated into English as ''Culture and Value'').
+*	1969. ''On Certainty''.
+*	1971. ''ProtoTractatus—An Early Version of Tractatus Logico- Philosophicus''. [[Cornell University Press]].
+*	1973. ''Letters to C.K. Ogden with Comments on the English Translation of the [[Tractatus Logico-Philosophicus]]''.
+*	1974. ''Letters to Russell, Keynes and Moore''.
+*	1978 (1956). ''Remarks on the Foundations of Mathematics''.
+*	1980. ''Remarks on the Philosophy of Psychology. Vols 1,2''.
+*	1980. ''Culture and Value'' (English translation of ''Zettel'').
+*	1982. ''Last Writings on the Philosophy of Psychology, Vol. 1''. ''Vol. 2'', 1992.
+
+Von Wright also edited extracts from the diary of [[David Pinsent]], also published by [[Wiley-Blackwell|Blackwell]]:
+*       1990. '' A Portrait of Wittgenstein as a Young Man: From the Diary of David Hume Pinsent 1912-1914", {{ISBN|978-0-63117-5117}}.
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* [https://www.theguardian.com/news/2003/jul/04/guardianobituaries.highereducation Obituary – ''The Guardian''] 
+* [http://www.britannica.com/biography/G-H-von-Wright G.H. von Wright – Britannica.com]
+
+==External links==
+* [http://375humanistia.helsinki.fi/en/humanists/georg-henrik-von-wright Georg Henrik von Wright in ''375 humanists''.] Faculty of Arts, University of Helsinki, 13 May 2015.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wright, Georg Henrik}}
+[[Category:1916 births]]
+[[Category:2003 deaths]]
+[[Category:Writers from Helsinki]]
+[[Category:People from Uusimaa Province (Grand Duchy of Finland)]]
+[[Category:Swedish-speaking Finns]]
+[[Category:Finnish people of Scottish descent]]
+[[Category:Finnish nobility]]
+[[Category:Finnish philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of mind]]
+[[Category:Finnish humanists]]
+[[Category:Logicians]]
+[[Category:Finnish writers in Swedish]]
+[[Category:Writers from Uusimaa]]
+[[Category:Selma Lagerlöf Prize winners]]
+[[Category:Modal logicians]]
+[[Category:Virtue ethicists]]
+[[Category:20th-century philosophers]]
+[[Category:University of Helsinki alumni]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Academics of the University of Helsinki]]
+[[Category:Fellows of the British Academy]]

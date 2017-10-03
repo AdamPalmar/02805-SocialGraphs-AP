@@ -1,0 +1,184 @@
+{{About|the French philosopher}}
+{{pp-vandalism|small=yes}}
+
+{{Infobox philosopher
+|region = Western Philosophy
+|era    = [[18th-century philosophy]]
+|image  = Montesquieu 1.png
+|caption = Anonymous portrait (1728)
+|name    = Montesquieu
+|birth_date  = 18 January 1689
+|birth_place = [[Château de la Brède]], [[La Brède]], [[Aquitaine]], France
+|death_date  = {{death date and age|df=yes|1755|2|10|1689|1|18}}
+|death_place = [[Paris]], France
+|school_tradition = [[Age of Enlightenment|Enlightenment]]
+|main_interests   = [[Political Philosophy]]
+|influences    = [[Aristotle]], [[Cicero]], [[Thomas Hobbes]], [[Polybius]], [[René Descartes]], [[Nicolas Malebranche]], [[Jean Bodin]], [[John Locke]], [[Acts of Union 1707|18th-century English constitution]]
+|influenced    = [[David Hume]], [[Thomas Paine]], [[Jean-Jacques Rousseau|Rousseau]], [[Edmund Burke]], [[United States Constitution]] and political system, [[Georg Wilhelm Friedrich Hegel|G.W.F Hegel]], [[Alexis de Tocqueville]], [[Émile Durkheim]], [[Hannah Arendt]], [[Adam Ferguson]]
+|notable_ideas = Separation of state powers: [[Executive (government)|executive]], [[legislative]], [[judicial]]; classification of systems of government based on their principles
+}}
+
+'''Charles-Louis de Secondat, Baron de La Brède et de Montesquieu''' ({{IPAc-en|ˈ|m|ɒ|n|t|ə|s|k|juː}};<ref>[http://dictionary.reference.com/browse/montesquieu "Montesquieu"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{IPA-fr|mɔ̃tɛskjø|lang}}; 18 January 1689 – 10 February 1755), generally referred to as simply '''Montesquieu''', was a [[France|French]] [[lawyer]], [[intellectual|man of letters]], and [[political philosophy|political philosopher]] who lived during the [[Age of Enlightenment]].
+
+He is famous for his articulation of the theory of [[separation of powers]], which is implemented in many [[constitution]]s throughout the world. He is also known for doing more than any other author to secure the place of the word "[[despotism]]" in the political lexicon.<ref name="Boesche 1990 1">{{Harvnb|Boesche|1990|p=1}}.</ref>
+
+== Biography ==
+[[File:Chateau la brede.jpg|thumb|left|Château de la Brède]]
+Montesquieu was born at the [[Château de la Brède]] in southwest France, {{convert|25|km}} south of [[Bordeaux]].<ref>{{cite web|url=https://maps.google.com/maps?client=safari&oe=UTF-8&q=bordeaux%20map&ie=UTF-8&hq=&hnear=0xd5527e8f751ca81:0x796386037b397a89,Bordeaux,%20France&gl=us&ei=J4tmUrypF8u4kQe1-oDIBA&ved=0CC4Q8gEwAA|title=Google Maps|publisher=}}</ref> His father, Jacques de Secondat, was a soldier with a long noble ancestry. His mother, Marie Françoise de Pesnel, who died when Charles was seven, was an heiress who brought the title of Barony of La Brède to the Secondat family.<ref>Sorel, A. ''Montesquieu''. London, George Routledge & Sons, 1887 (Ulan Press reprint, 2011), p. 10. {{ASIN|B00A5TMPHC}}</ref> After the death of his mother he was sent to the [[Catholic]] [[College of Juilly]], a prominent school for the children of French nobility, where he remained from 1700 to 1711.<ref>Sorel (1887), p. 11.</ref> His father died in 1713 and he became a ward of his uncle, the Baron de Montesquieu.<ref>Sore (1887), p. 12.</ref> He became a counselor of the Bordeaux [[Parliament]] in 1714. In 1715 he married Jeanne de Lartigue, a [[Protestant]], who eventually bore him three children.<ref>Sorel (1887), pp. 11–12.</ref> The Baron died in 1716, leaving him his fortune as well as his title, and the office of [[Président à Mortier]] in the Bordeaux Parliament.<ref>Sorel (1887), pp. 12–13.</ref>
+
+Montesquieu's early life occurred at a time of significant governmental change. [[England]] had declared itself a [[constitutional monarchy]] in the wake of its [[Glorious Revolution]] (1688–89), and had joined with [[Scotland]] in the [[Union of 1707]] to form the [[Kingdom of Great Britain]]. In France the long-reigning [[Louis XIV]] died in 1715 and was succeeded by the five-year-old [[Louis XV]]. These national transformations had a great impact on Montesquieu; he would refer to them repeatedly in his work.
+
+[[File:Montesquieu, De l'Esprit des loix (1st ed, 1748, vol 1, title page).jpg|thumb|upright|The title page of the first volume of Montesquieu's ''[[:File:Montesquieu, De l'Esprit des loix (1st ed, 1748, vol 1).pdf|De l'Esprit des loix]]'' (1st ed., 1748)]]
+
+Montesquieu withdrew from the [[lawyer|practice of law]] to devote himself to study and writing. He achieved literary success with the publication of his ''Lettres persanes'' (''[[Persian Letters]]'', 1721), a satire representing society as seen through the eyes of two imaginary [[Persian people|Persian]] visitors to [[Paris]] and Europe, cleverly criticizing the absurdities of contemporary French society. He next published ''[[Considerations on the Causes of the Greatness of the Romans and their Decline|Considérations sur les causes de la grandeur des Romains et de leur décadence]]'' (''Considerations on the Causes of the Grandeur and Decadence of the Romans'', 1734), considered by some scholars, among his three best known books, as a transition from ''The Persian Letters'' to his master work. ''De l'Esprit des Lois'' (''[[The Spirit of the Laws]]'') was originally published anonymously in 1748. The book quickly rose to influence [[political thought]] profoundly in Europe and America. In France, the book met with an unfriendly reception from both supporters and opponents of the regime. The Catholic Church banned ''l'Esprit''&nbsp;– along with many of Montesquieu's other works&nbsp;– in 1751 and included it on the [[Index Librorum Prohibitorum|Index of Prohibited Books]]. It received the highest praise from the rest of Europe, especially Britain.
+
+Montesquieu was also highly regarded in the British colonies in [[British North America|North America]] as a champion of liberty (though not of American independence). [[Political science|Political scientist]] Donald Lutz found that Montesquieu was the most frequently quoted authority on government and politics in colonial pre-revolutionary British America, cited more by the American founders than any source except for the [[Bible]].<ref>{{Harvnb|Lutz|1984}}.</ref> Following the American [[revolution]], Montesquieu's work remained a powerful influence on many of the [[United States|American]] founders, most notably [[James Madison]] of [[Virginia]], the "Father of the [[U.S. Constitution|Constitution]]". Montesquieu's philosophy that "government should be set up so that no man need be afraid of another"<ref>Montesquieu, [http://etext.lib.virginia.edu/etcbin/toccer-new2?id=MonLaws.xml&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=137&division=div2 ''The Spirit of the Laws'', Book 11, Chapter 6, "Of the Constitution of England."] Electronic Text Center, University of Virginia Library, Retrieved 1 August 2012{{Dead link|date=March 2017}}</ref> reminded Madison and others that a free and stable foundation for their new national government required a clearly defined and balanced separation of powers.
+
+Besides composing additional works on society and politics, Montesquieu traveled for a number of years through Europe including [[Austria]] and [[Hungary]], spending a year in [[Italy]] and 18 months in England where he became a freemason, admitted to the ''Horn Tavern'' Lodge in Westminster,<ref>{{Harvnb|Berman|2012|p=[https://books.google.com/books?id=oQTvxkhqomsC&pg=PA150 150]}}.</ref> before resettling in France] He was troubled by poor eyesight, and was completely [[blindness|blind]] by the time he died from a high fever in 1755. He was buried in the [[Église Saint-Sulpice, Paris]].
+
+== Philosophy of history ==
+Montesquieu's philosophy of history minimized the role of individual persons and events. He expounded the view in ''Considérations sur les causes de la grandeur des Romains et de leur décadence'' that each historical event was driven by a principal movement:
+
+{{Quote|It is not chance that rules the world. Ask the Romans, who had a continuous sequence of successes when they were guided by a certain plan, and an uninterrupted sequence of reverses when they followed another. There are general causes, moral and physical, which act in every monarchy, elevating it, maintaining it, or hurling it to the ground. All accidents are controlled by these causes. And if the chance of one battle{{mdash}}that is, a particular cause{{mdash}}has brought a state to ruin, some general cause made it necessary for that state to perish from a single battle. In a word, the main trend draws with it all particular accidents.<ref>{{citation |title=Considerations on the Causes of the Greatness of the Romans and their Decline|author=Montesquieu|year=1734|publisher=The Free Press|url=http://www.constitution.org/cm/ccgrd_l.htm|accessdate=30 November 2011}} Ch. XVIII.</ref>'' }}
+
+In discussing the transition from the Republic to the Empire, he suggested that if Caesar and Pompey had not worked to usurp the government of the Republic, other men would have risen in their place. The cause was not the ambition of Caesar or Pompey, but the ambition of man.
+
+== Political views ==
+{{Republicanism sidebar}}
+Montesquieu is credited as being among the progenitors, which include [[Herodotus]] and [[Tacitus]], of [[anthropology]], as being among the first to extend comparative methods of classification to the political forms in human societies. Indeed, the French political anthropologist [[Georges Balandier]] considered Montesquieu to be "the initiator of a scientific enterprise that for a time performed the role of cultural and social anthropology".<ref>{{Harvnb|Balandier|1970|p=3}}.</ref> According to social anthropologist [[D. F. Pocock]], Montesquieu's ''[[The Spirit of the Laws]]'' was "the first consistent attempt to survey the varieties of human society, to classify and compare them and, within society, to study the inter-functioning of institutions."<ref>{{Harvnb|Pocock|1961|p=[https://archive.org/stream/socialanthropolo00poco#page/8/mode/2up 9]}}.<br />{{Harvnb|Tomaselli|2006|p=9}}, similarly describes it as "among the most intellectually challenging and inspired contributions to political theory in the eighteenth century. [... It] set the tone and form of modern social and political thought."</ref> Montesquieu's political anthropology gave rise to his theories on government. When [[Catherine the Great]] wrote her ''[[Nakaz]]'' (Instruction) for the Legislative Assembly she had created to clarify the existing Russian law code, she avowed borrowing heavily from Montesquieu's ''Spirit of the Laws'', although she discarded or altered portions that did not support Russia's absolutist bureaucratic monarchy.<ref>{{Harvnb|Ransel|1975|p=179}}.</ref>
+
+Montesquieu's most influential work divided French society into three classes (or ''[[trias politica]]'', a term he coined): the [[monarchy]], the [[aristocracy]], and the [[commons]]. Montesquieu saw two types of governmental power existing: the [[sovereign]] and the [[Public administration|administrative]]. The administrative powers were the [[executive (government)|executive]], the [[legislative]], and the [[judicial]]. These should be separate from and dependent upon each other so that the influence of any one power would not be able to exceed that of the other two, either singly or in combination. This was a radical idea because it completely eliminated the three [[Estates of the realm|Estates]] structure of the French Monarchy: the [[clergy]], the aristocracy, and the people at large represented by the [[French States-General|Estates-General]], thereby erasing the last vestige of a [[feudalism|feudalistic]] structure.
+
+Likewise, there were three main forms of government, each supported by a social "principle": [[monarchy|monarchies]] (free governments headed by a hereditary figure, e.g. king, queen, emperor), which rely on the principle of honor; [[republic]]s (free governments headed by popularly elected leaders), which rely on the principle of virtue; and despotisms (enslaved governments headed by [[dictator]]s), which rely on fear. The free governments are dependent on fragile constitutional arrangements. Montesquieu devotes four chapters of ''The Spirit of the Laws'' to a discussion of England, a contemporary free government, where liberty was sustained by a balance of powers. Montesquieu worried that in France the intermediate powers (i.e., the nobility) which moderated the power of the prince were being eroded. These ideas of the control of power were often used in the thinking of Maximilien de [[Robespierre]].
+
+Montesquieu was somewhat ahead of his time in advocating major reform of slavery in ''The Spirit of the Laws''. As part of his advocacy he presented a satirical [https://en.wikiquote.org/wiki/The_Spirit_of_the_Laws#Book_XV:_In_What_Manner_the_Laws_of_Civil_Slavery_Relate_to_the_Nature_of_Climate hypothetical list of arguments for slavery], which has been open to [[contextomy]]. However, like many of his generation, Montesquieu also held a number of views that might today be judged controversial. He firmly accepted the role of a hereditary aristocracy and the value of [[primogeniture]], and while he endorsed the idea that a woman could head a state, he held that she could not be effective as the head of a family.
+
+While addressing French readers of his ''General Theory'', [[John Maynard Keynes]] described Montesquieu as "the real French equivalent of Adam Smith, the greatest of your economists, head and shoulders above the physiocrats in penetration, clear-headedness and good sense (which are the qualities an economist should have)."<ref>See the [https://www.scribd.com/doc/11392072/The-General-Theory-of-Employment-Interest-and-Money preface] to the French edition of Keynes' ''General Theory''.{{Dead link|date=March 2017}}<br />See also {{Harvnb|Devletoglou|1963}}.</ref>
+
+== Meteorological climate theory ==
+Another example of Montesquieu's anthropological thinking, outlined in ''[[The Spirit of the Laws]]'' and hinted at in ''[[Persian Letters]]'', is his [[meteorological]] climate theory, which holds that [[climate]] may substantially influence the nature of man and his society. By placing an emphasis on environmental influences as a material condition of life, Montesquieu prefigured modern anthropology's concern with the impact of material conditions, such as available energy sources, organized production systems, and technologies, on the growth of complex socio-cultural systems.
+
+He goes so far as to assert that certain climates are superior to others, the temperate climate of France being ideal. His view is that people living in very warm countries are "too hot-tempered", while those in northern countries are "icy" or "stiff". The climate of middle Europe is therefore optimal. On this point, Montesquieu may well have been influenced by a similar pronouncement in [[Histories (Herodotus)|''The Histories'' of Herodotus]], where he makes a distinction between the "ideal" temperate climate of Greece as opposed to the overly cold climate of Scythia and the overly warm climate of Egypt. This was a common belief at the time, and can also be found within the medical writings of Herodotus' times, including the "On Airs, Waters, Places" of the Hippocratic corpus. One can find a similar statement in ''[[Germania (book)|Germania]]'' by [[Tacitus]], one of Montesquieu's favorite authors.
+
+[[Philip M. Parker]] in his book ''Physioeconomics'' endorses Montesquieu's theory and argues that much of the economic variation between countries is explained by the physiological effect of different climates.
+
+From a sociological perspective [[Louis Althusser]], in his analysis of Montesquieu's revolution in method,<ref>{{Harvnb|Althusser|1972}}.</ref> alluded to the seminal character of anthropology's inclusion of material factors, such as climate, in the explanation of social dynamics and political forms. Examples of certain climatic and geographical factors giving rise to increasingly complex social systems include those that were conducive to the rise of agriculture and the domestication of wild plants and animals.
+
+== List of principal works ==
+{{French literature sidebar}}
+* Memoirs and discourses at the Academy of Bordeaux (1718–1721): including discourses on echoes, on the renal glands, on weight of bodies, on transparency of bodies and on natural history.
+* ''Spicilège'' (''Gleanings'', 1715 onward)
+* ''Système des idées'' (''System of Ideas'', 1716)
+* ''[[Persian Letters|Lettres persanes]]'' (''Persian Letters'', 1721)
+* ''Le Temple de Gnide'' (''The Temple of Gnidos'', a novel; 1725)
+* ''[[:fr:Histoire Véritable|Histoire véritable]]'' (''True History'', a reverie; c. 1723–c. 1738)
+* ''[[Considerations on the Causes of the Greatness of the Romans and their Decline|Considérations sur les causes de la grandeur des Romains et de leur décadence]]'' (''Considerations on the Causes of the Greatness of the Romans and their Decline'', 1734) at [http://gallica.bnf.fr/ark:/12148/btv1b8613371v/f7.image.r=.langEN Gallica]
+* ''Arsace et Isménie'' (''Arsace and Isménie'', a novel; 1742)
+* ''De l'esprit des lois'' (''[[The Spirit of the Laws|(On) The Spirit of the Laws]]'', 1748) ([[:File:Montesquieu, De l'Esprit des loix (1st ed, 1748, vol 1).pdf|volume 1]] and [[:File:Montesquieu, De l'Esprit des loix (1st ed, 1748, vol 2).pdf|volume 2]] from [http://gallica.bnf.fr/ Gallica])
+* ''La défense de «L'Esprit des lois»'' (''In Defence of "The Spirit of the Laws"'', 1750)
+* ''Essai sur le goût'' (''Essay on Taste'', pub. 1757)
+* ''Mes Pensées'' (''My Thoughts'', 1720–1755)
+
+== See also ==
+{{Portal|Philosophy}}
+* [[Environmental determinism]]
+* [[Liberalism]]
+* [[List of abolitionist forerunners]]
+* [[List of liberal theorists]]
+* [[Napoleon]]
+* [[Politics of France]]
+* [[Jean-Baptiste de Secondat]] (1716–1796), his son
+* [[U.S. Constitution#Republics and fundamental law|U.S. Constitution]], influences
+
+== References ==
+
+=== Notes ===
+{{Reflist}}
+
+=== Bibliography ===
+
+==== Articles and chapters ====
+{{Refbegin|colwidth=30em|indent=yes}}
+:{{Cite journal
+  |authorlink= Roger Boesche
+  |last= Boesche |first= Roger |year= 1990
+  |title= Fearing Monarchs and Merchants: Montesquieu's Two Theories of Despotism
+  |journal= [[The Western Political Quarterly]] |volume= 43 |number= 4 |pages= 741–61
+  |jstor= 448734 |ref= harv |doi=10.1177/106591299004300405}}
+:{{Cite journal
+  |last= Devletoglou |first= Nicos E. |year= 1963
+  |title= Montesquieu and the Wealth of Nations
+  |journal= [[The Canadian Journal of Economics and Political Science]] |volume= 29 |issue= 1 |pages= 1–25
+  |jstor= 139366 |ref= harv }}
+:{{Cite journal
+  |last= Lutz |first= Donald S. |year= 1984
+  |title= The Relative Influence of European Writers on Late Eighteenth-Century American Political Thought
+  |journal= [[American Political Science Review]] |volume= 78 |number= 1 |pages= 189–97
+  |jstor= 1961257 |ref= harv |doi=10.2307/1961257}}
+:{{Cite book|last=Person, James Jr., ed., "Montesquieu" (excerpts from chap. 8)|title=''in'' Literature Criticism from 1400 to 1800 ''(Gale Publishing: 1988), vol. 7, pp.&nbsp;350–52''|postscript=.|ref=harv}}
+:{{Cite book|last=Tomaselli|first=Sylvana|authorlink=Sylvana Windsor, Countess of St Andrews|chapter=The spirit of nations|title=''In [[Mark Goldie]] and Robert Wokler, eds.,'' The Cambridge History of Eighteenth-Century Political Thought ''(Cambridge: Cambridge University Press, 2006)''|pages=9–39|ref={{Harvid|Tomaselli|2006}}}}
+{{Refend}}
+
+==== Books ====
+{{Refbegin|colwidth=30em|indent=yes}}
+:{{Citation|author=Althusser, Louis|authorlink=Louis Althusser|title=Politics and History: Montesquieu, Rousseau, Marx ''(London and New York, NY: [[New Left Books]], 1972)''|postscript=.|ref={{Harvid|Althusser|1972}}}}
+:{{Citation|last1=Auden, W. H.|author1-link=W. H. Auden|last2=Kronenberger, Louis|author2-link=Louis Kronenberger|title=The Viking Book of Aphorisms ''(New York, NY: [[Viking Press]], 1966)''|postscript=.|ref={{Harvid|Auden|Kronenberger|1966}}}}
+:{{Citation|author=Balandier, Georges|authorlink=Georges Balandier|title=Political Anthropology ''(London: [[Penguin Books|Allen Lane]], 1970)''|postscript=.|ref={{Harvid|Balandier|1970}}}}
+:{{Citation | last = Berman | first = Ric | year = 2012 | title = The Foundations of Modern Freemasonry: The Grand Architects – Political Change and the Scientific Enlightenment, 1714–1740 ''(Eastbourne: Sussex Academic Press, 2012)'' | postscript = . | ref = {{Harvid|Berman|2012}} }}
+:{{Citation|last=Pangle, Thomas|authorlink=Thomas Pangle|title=Montesquieu's Philosophy of Liberalism ''(Chicago, IL: [[University of Chicago Press]], 1973)''|postscript=.|ref={{Harvid|Pangle|1973}}}}
+:{{Citation|last=Pocock|first=D. F.|title=Social Anthropology ''(London and New York, NY: [[Sheed and Ward]], 1961)''|postscript=.|ref={{Harvid|Pocock|1961}}}}
+:{{Citation|author=Ransel, David L.|title=The Politics of Catherinian Russia: The Panin Party'' (New Haven, CT: [[Yale University Press]], 1975)|postscript=.|ref={{Harvid|Ransel|1975}}}}
+:{{Citation|last=Schaub, Diana J.|title=Erotic Liberalism: Women and Revolution in Montesquieu's 'Persian Letters' ''(Lanham, MD: [[Rowman & Littlefield]], 1995)''|postscript=.|ref={{Harvid|Schaub|1995}}}}
+:{{Citation|last=Shackleton, Robert|authorlink=Robert Shackleton|title=Montesquieu; a Critical Biography ''(Oxford: [[Clarendon Press]], 1961)''|postscript=.|ref={{Harvid|Shackleton|1961}}}}
+:{{Citation|last=Shklar, Judith|title=Montesquieu ''(Oxford [[Past Masters (book series)|Past Masters]] series). (Oxford and New York, NY: [[Oxford University Press]], 1989)''|postscript=.|ref={{Harvid|Shklar|1989}}}}
+:{{Citation|last=Spurlin, Paul M.|title=Montesquieu in America, 1760–1801 ''(Baton Rouge: [[Louisiana State University Press]], 1941; reprint, New York: Octagon Books, 1961)''|postscript=.|ref={{Harvid|Spurlin|1961}}}}
+{{Refend}}
+
+== External links ==
+{{Commons category|Montesquieu}}
+{{Wikiquote}}
+{{wikisource author}}
+* {{Gutenberg author |id=Montesquieu,+Charles+de+Secondat,+baron+de}}
+* {{Internet Archive author}}
+* {{Librivox author|id=5314}}
+* [http://onlinebooks.library.upenn.edu/webbin/book/search?author=Montesquieu&amode=words Free full-text works online]
+* [https://archive.org/details/spirit_laws_01_1212 ''The Spirit of Laws (Volume 1)''] 1748 English audio
+* [https://web.archive.org/web/20100408075609/http://www.livres-et-ebooks.fr/auteur/Montesquieu-2214/ Complete ebooks collection of Montesquieu] in French.
+* [http://ouclf.iuscomp.org/articles/montesquieu.shtml Montesquieu, "Notes on England"]
+* [http://www.newadvent.org/cathen/10536a.htm Montesquieu] in The Catholic Encyclopedia.
+* [http://plato.stanford.edu/entries/montesquieu/ Montesquieu] in The Stanford Encyclopedia of Philosophy.
+* [https://web.archive.org/web/20060402230244/http://oregonstate.edu/instruct/phl302/philosophers/montesquieu.html Timeline of Montesquieu's Life]
+* [https://web.archive.org/web/20091119203009/http://www.saintahon.com/GB/main.html Château Saint Ahon] – Historic estate once owned by Charles de Montesquieu{{Dead link|date=March 2017}}
+* [http://athena.unige.ch/athena/montesquieu/montesquieu_lettres_persanes.html ''Lettres persanes'' at athena.unige.ch] {{fr icon}}
+
+{{Académie française Seat 2}}
+{{Age of Enlightenment}}
+{{French Revolution}}
+{{Social and political philosophy}}
+{{Liberalism}}
+{{Use dmy dates|date=August 2012}}
+{{Authority control}}
+
+[[Category:1689 births]]
+[[Category:1755 deaths]]
+[[Category:18th-century French novelists]]
+[[Category:18th-century French writers]]
+[[Category:18th-century philosophers]]
+[[Category:Barons of France]]
+[[Category:Contributors to the Encyclopédie (1751–72)]]
+[[Category:Early Modern philosophers]]
+[[Category:Enlightenment philosophers]]
+[[Category:Fellows of the Royal Society]]
+[[Category:French Freemasons]]
+[[Category:French male novelists]]
+[[Category:French monarchists]]
+[[Category:French philosophers]]
+[[Category:French political writers]]
+[[Category:French Roman Catholics]]
+[[Category:Montesquieu]]
+[[Category:Members of the Académie française]]
+[[Category:Members of the Prussian Academy of Sciences]]
+[[Category:People from Gironde]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of law]]
+[[Category:Political philosophers]]

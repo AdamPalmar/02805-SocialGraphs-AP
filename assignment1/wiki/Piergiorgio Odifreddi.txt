@@ -1,0 +1,101 @@
+{{Infobox person
+| name          = Piergiorgio Odifreddi
+| image         = Piergiorgio_Odifreddi_-_Trento_2012_02.JPG
+| alt           = <!-- descriptive text for use by the blind and visually impaired's speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{Birth date and age|1950|7|13|df=y}}
+| birth_place   = [[Cuneo]]
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|1950|7|13|df=y}} -->
+| death_place   = 
+| nationality   = Italian
+| other_names   = 
+| occupation    = Mathematician
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+'''Piergiorgio Odifreddi''' (born 13 July 1950 in [[Cuneo]]) is an Italian mathematician, [[logician]] and aficionado of the [[history of science]], who is also extremely active as a [[popular science]] writer and essayist, especially in a perspective of philosophical [[atheism]] as a member of the [[UAAR|Italian Union of Rationalist Atheists and Agnostics]]. He is philosophically and politically near to [[Bertrand Russell]] and [[Noam Chomsky]].
+
+==Early life and education==
+Born in [[Cuneo]] in the [[Piedmont]], he received his ''[[Laurea]]'' ''cum laude'' in mathematics in [[Turin]] in 1973. He then specialized in the United States at the [[University of Illinois at Urbana–Champaign]] and [[UCLA]] from 1978 and 1980, and in the Soviet Union at [[Novosibirsk State University]] in 1982 and 1983.
+
+==Teaching career==
+From 1983 to 2007, he taught logic at the [[University of Turin]], and from 1985 to 2003 he was visiting professor at [[Cornell University]], where he collaborated with [[Anil Nerode]], Richard Platek, and [[Richard Shore]]. From 2001 to 2003 he taught at ''Università Vita-Salute San Raffaele'', which was founded by Luigi Maria Verzé.<ref>[https://it.wikinews.org/wiki/Intervista_a_Piergiorgio_Odifreddi ''Interview with Piergiorgio Odifreddi'' on Wikinews]</ref>
+
+He has been visiting professor at [[Monash University]] in [[Melbourne]] in 1988, the [[Chinese Academy of Sciences]] in Beijing in 1992 and in 1995, the ''Università di Nanchino'' in 1998, Buenos Aires Universitt in 2001 and the ''Italian Academy'' at [[Columbia University]] in 2006.<ref>[http://odifreddi.blogautore.repubblica.it/2011/12/21/da-montesquieu-a-napolitano/comment-page-3/#comment-35898 Il Non-Senso della vita – Blog di Piergiorgio Odifreddi]</ref>
+
+==Writing==
+He has written editorials and books reviews for ''La rivista dei libri'' (the Italian edition of the [[New York Review of Books]]), is a regular contributor to ''[[Le Scienze]]'' (the Italian edition of [[Scientific American]]), and has also written for several newspapers such as [[La Repubblica]], [[La Stampa]] and the weekly [[L'Espresso]]. The television stations ''Radio Tre'', ''[[RAI Due]]'' and ''[[RAI Tre]]'' have hosted many of his discussions on various scientific topics.
+
+== Political views ==
+Odifreddi was heavily influenced by [[Bertrand Russell]] and [[Noam Chomsky]].<ref>[http://www.piergiorgioodifreddi.it/wp-content/uploads/2010/10/chomsky.pdf Odifreddi interviews Noam Chomsky]</ref> He repeatedly manifested his opposition to US policies, in particular against that of [[George W. Bush]] and [[Israel]], as indicated in his writings ''Non siamo tutti americani'',<ref>[https://web.archive.org/web/20070101155809/http://www.vialattea.net/odifreddi/guerra.htm ''No al terrorismo. Ma quale?'']</ref> ''La dannata Terra Santa''<ref>[https://web.archive.org/web/20140203105738/http://www.teneraerbetta.it/index.php/component/content/article/12-blog-tenera/disappunti-di-viaggio/1707-la-dannata-terra-santa ''La dannata Terra Santa'']</ref> and the controversial ''Intervista a Hitler'',<ref>[http://www.piergiorgioodifreddi.it/wp-content/uploads/2010/10/hitler.pdf Interview with Adolf Hitler]</ref> in his book ''Il matematico impertinente''.
+
+His views on Israel "immodestly inspired" by [[José Saramago]] and Noam Chomsky caused protests, which led to the deletion of an editorial he wrote in his blog at [[la Repubblica]] on November 2012,<ref>[http://www.forumcivico.it/dieci-volte-peggio-dei-nazisti-articolo-censurato-repubblica-885.html ''«Dieci volte peggio dei nazisti» — The censored articled on Repubblica'']</ref> where he talked about [[Operation Pillar of Defense|the Israeli incursion]] in the [[Gaza Strip]]. In protest of the censorship, he decided to close his blog with a bitter post,<ref>[http://odifreddi.blogautore.repubblica.it/2012/11/20/809-giorni-di-liberta/ 809 giorni di libertà – Il non-senso della vita 2.0 – Blog – Repubblica.it]</ref><ref>[http://www.ilfattoquotidiano.it/2012/11/20/repubblica-cancella-post-di-odifreddi-lui-lascia-meglio-fermarsi/419844/ Repubblica cancella il post di Odifreddi su Israele. Lui lascia: “Meglio fermarsi”]. ''Il Fatto Quotidiano'', Novembre 20, 2012.</ref> eventually re-opening it years later.
+
+== Radio and Television ==
+Odifreddi had over 400 TV appearances in Italy, the most notable being:
+* 2002 – ''Chi ha ucciso Fermat?'', directed by Vittorio Attamante – 20 episodes on Radio2 for ''Alle otto della sera''.<ref>[http://www.radio.rai.it/radio2/alleotto/fermat/ Radio Due]</ref>
+* 2004 – ''Vite da logico'', directed by Vittorio Attamante – 20 episodes on Radio2 for ''Alle otto della sera''.<ref>[http://www.radio.rai.it/radio2/alleotto/vitedalogico/ Radio Due]</ref>
+* 2008 – ''In Cammino verso Santiago de Compostela'', with Sergio Valzania and Franco Cardini – 33 episodes on Radio3 for ''Il Cammino''.<ref>[http://www.radio.rai.it/radio3/ilcammino/index.cfm Radio 3 – Il cammino]</ref>
+* 2009 – ''A tutto Darwin'' – 5 episodes on Radio3 for Radio3 scienza, with interviews to [[Dario Fo]].<ref>[http://www.radio.rai.it/radio3/view.cfm?Q_EV_ID=277000# Radio 3]</ref>
+* 2009 – ''Buon compleanno, Darwin!'', directed by Caterina Olivetti – 20 episodes on Radio2 for ''Alle otto della sera''.<ref>[http://www.radio.rai.it/radio2/alleotto/darwin/ Radio 2]</ref>
+* 2009 – ''A tutto Galileo'' – 5 episodes on Radio3 for Radio3 scienza, with interviews to [[Roberto Benigni]]<ref>[http://www.radio.rai.it/radio3/view.cfm?Q_EV_ID=296808# Radio 3]</ref> and [[Riccardo Giacconi]].<ref>[http://www.radio.rai.it/radio3/view.cfm?Q_EV_ID=297104 Radio 3]</ref>
+
+==Other activities==
+Piergiorgio Odifreddi participated in the [[Stock Exchange of Visions]] project in 2007.
+
+==Honors==
+*1998 –  Galileo Prize of the ''Italian Mathematical Union''.
+*2002 –  [[Peano Prize]] of Mathesis
+*2005 –  Commander [[OMRI]]
+
+== Works ==
+
+===Academic writings===
+*''Classical recursion Theory'', North Holland – [[Elsevier]], 1988, {{ISBN|9780080886596}}; 2nd edn. 1992, {{ISBN|0-444-89483-7}}<ref>{{cite journal|author=Shoenfield, J. R.|title=Review: ''Classical recursion theory'' by P. Odifreddi|journal=Bull. Amer. Math. Soc. (N.S.)|year=1993|volume=28|issue=1|pages=182–183|url=http://www.ams.org/journals/bull/1993-28-01/S0273-0979-1993-00346-X/S0273-0979-1993-00346-X.pdf|doi=10.1090/s0273-0979-1993-00346-x}}</ref>
+*''Classical recursion Theory. Volume II'', North Holland – Elsevier, 1999
+
+===Popular writings===
+
+*''Il Vangelo secondo la Scienza'', [[Einaudi (publishing house)|Einaudi]], 1999, {{ISBN|88-06-14930-X}} (The Gospel According to Science)
+*''La matematica del Novecento'', prefazione di [[Gian-Carlo Rota]], Einaudi, 2000, {{ISBN|88-06-15153-3}} (The Mathematics of the 20th Century)
+**''The Mathematical Century: The 30 greatest problems of the last 100 years'', translated by Arturo Sangalli, forward by [[Freeman Dyson]], 2004, [[Princeton University Press]] {{ISBN|0-691-09294-X}} 
+*''Il computer di Dio'', Cortina, 2000, {{ISBN|88-7078-663-3}} (God's Computer)
+*''C'era una volta un paradosso'', Einaudi, 2001, {{ISBN|88-06-15090-1}} (Once upon a time there was a paradox)
+*''La repubblica dei numeri'', Cortina, 2002, {{ISBN|88-7078-776-1}} (The Republic of Numbers)
+*''Zichicche'', Dedalo, 2003, {{ISBN|88-220-6260-4}} 
+*''Il diavolo in cattedra. La logica matematica da Aristotele a Kurt Gödel'', Einaudi, 2003, {{ISBN|88-06-16721-9}} (The Devil in the Professor's Chair: Mathematical Logic from Aristotle to Kurt Goedel)
+*''Divertimento geometrico – Da Euclide ad David Hilbert'', [[Bollati Boringhieri]], 2003, {{ISBN|88-339-5714-4}} (Geometric Diversions – From Euclid to Hilbert)
+*''Le menzogne di Ulisse. L'avventura della logica da Parmenide ad Amartya Sen'', [[Longanesi]], 2004, {{ISBN|88-304-2044-1}} (Ulysses' Lies. The Adventure of Logic from Parmenides to Amartya Sen)
+*''Il matematico impertinente'', Longanesi, 2005, {{ISBN|88-304-2222-3}} (The Impertinent Mathematician)
+*''Penna, pennello, bacchetta: le tre invidie del matematico'', [[Laterza (publishing house)|Laterza]], 2005, {{ISBN|88-420-7643-0}} (Pen, brush, baton: the three envies of the mathematician)
+*''Idee per diventare matematico'', [[Zanichelli]], 2005, {{ISBN|88-08-07063-8}} (Ideas for becoming a mathematician)
+* ''Incontri con menti straordinarie'', [[Longanesi]], 2006, {{ISBN|88-304-2346-7}} (Meetings with extraordinary minds)
+* ''Che cos'è la logica?'', [[Luca Sossella editore]], 2006, {{ISBN|88-89829-19-2}} (What is logic?)
+* ''La scienza espresso: Note brevi, semibrevi e minime per una biblioteca scientifica universale'', [[Einaudi (publishing house)|Einaudi]], 2006, {{ISBN|978-88-06-18258-8}} (Science express)
+*''Perché non-possiamo essere cristiani (e meno che mai cattolici)'', Longanesi, 2007, {{ISBN|978-88-304-2427-2}} (Why we cannot be Christians (much less Catholics))
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons}}
+*[http://www.piergiorgioodifreddi.it/  Piergiorgio Odifreddi's Official Site (IT)]
+*[http://plato.stanford.edu/entries/recursive-functions/ Article by Odifreddi on Recursive Functions in Stanford Encyclopedia of Philosophy]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Odifreddi, Piergiorgio}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:People from Cuneo]]
+[[Category:Atheism activists]]
+[[Category:Italian atheists]]
+[[Category:Cornell University faculty]]
+[[Category:Critics of Christianity]]
+[[Category:Italian science writers]]
+[[Category:Italian logicians]]
+[[Category:University of Turin faculty]]
+[[Category:20th-century atheists]]
+[[Category:21st-century atheists]]

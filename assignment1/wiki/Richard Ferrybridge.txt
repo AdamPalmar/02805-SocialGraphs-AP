@@ -1,0 +1,17 @@
+'''Richard Ferrybridge'''<ref>Richard Feribrigge, Ferribrigge, Ferrybrigge, Ferabrich, Ferebrich, Ferebrigge, Ferebrigus, Ferabricius etc.</ref> was an English [[Scholasticism|Scholastic]] [[logician]] of the fourteenth century.
+
+His works include a ''Tractatus de veritate sive logica'', and the ''Consequentiae''.<ref>Printed 1493 in Venice as Ricardus de Ferabrich; [http://mediaevalia.unipr.it/html/autori/riccardoferabrich/consequentie.pdf page (PDF)].</ref> He is alluded to in ''[[The Anatomy of Melancholy]]''.<ref>As Ferribrigge, [http://www.exclassics.com/anatomy/anat155.htm].</ref>
+
+==References==
+*{{cite ODNB|id=53184|title=Feribrigge, Richard|first=E. J.|last=Ashworth}}
+
+==Notes==
+{{reflist}}
+
+{{DEFAULTSORT:Ferrybridge, Richard}}
+[[Category:English logicians]]
+[[Category:14th-century English people]]
+[[Category:English philosophers]]
+
+
+{{England-bio-stub}}

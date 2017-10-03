@@ -1,0 +1,47 @@
+'''Barry Stroud''' ({{IPAc-en|s|t|r|aʊ|d}}; born 1935, [[Toronto]]) is a [[Canadians|Canadian]] philosopher known for his work on [[philosophical skepticism]], [[David Hume]], and [[Ludwig Wittgenstein]], among other topics. 
+
+==Biography==
+Stroud received a B.A. in philosophy from the [[University of Toronto]], followed by a Ph.D. in philosophy from [[Harvard University]], under the direction of [[Morton White]]. Since 1961, Stroud has worked at the [[University of California, Berkeley]]. In 1987, he gave the [[John Locke Lectures]] at [[Oxford University|Oxford]].<ref>http://www.philosophy.ox.ac.uk/lectures/john_locke_lectures/past_lectures</ref> In 2007 he was named Willis S. and Marion Slusser [[Professor]] of [[Philosophy]] in the Berkeley Philosophy Department.
+
+He is an elected Fellow of the [[American Academy of Arts & Sciences]] and a Corresponding Fellow of the [[British Academy]].<ref>{{cite web|url=http://www.britac.ac.uk/fellowship/sections/index.cfm?member%3D2899 |title=Archived copy |accessdate=2015-07-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20150709190151/http://www.britac.ac.uk/fellowship/sections/index.cfm?member=2899 |archivedate=2015-07-09 |df= }}</ref>
+
+==Selected works==
+* (1977) ''Hume''. [[Routledge]] (Winner of the Matchette Prize in 1979).
+* (1984) ''The Significance of Philosophical Scepticism''. [[Oxford University Press]]. {{ISBN|978-0-19-824761-6}}.
+* (1999) ''The Quest for Reality: Subjectivism & the Metaphysics of Colour''. Oxford University Press. {{ISBN|978-0-19-513388-2}}.
+* (2000) ''Understanding Human Knowledge: Philosophical Essays''. Oxford University Press. {{ISBN|978-0-19-825033-3}}.
+* (2000) "Meaning, Understanding, and Practice: Philosophical Essays". Oxford University Press. {{ISBN|978-0-19-825034-0}}.
+* (2011) "Engagement and Metaphysical Dissatisfaction: Modality and Value". Oxford University Press. {{ISBN|978-0-19-976496-9}}.
+* (2011) "Philosophers Past and Present: Selected Essays". Oxford University Press. {{ISBN|978-0-19-960859-1}}.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://philosophy.berkeley.edu/stroud/ Faculty page at the University of Berkeley]
+*[https://web.archive.org/web/20100610070725/http://www.tannerlectures.utah.edu/lectures/documents/stroud89.pdf The Study of Human Nature and the Subjectivity of Value], The [[Tanner Lectures on Human Values]]. Delivered at The University of Buenos Aires, June 7, 1988
+*[http://nigelwarburton.typepad.com/philosophy_bites/2007/12/barry-stroud-on.html Barry Stroud on Scepticism], podcast interview, December 16, 2007
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stroud, Barry}}
+[[Category:Living people]]
+[[Category:Epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:Guggenheim Fellows]]
+[[Category:People from Toronto]]
+[[Category:University of Toronto alumni]]
+[[Category:Harvard University alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:American philosophers]]
+[[Category:Canadian philosophers]]
+[[Category:Wittgensteinian philosophers]]
+[[Category:1935 births]]
+
+
+{{US-philosopher-stub}}

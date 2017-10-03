@@ -1,0 +1,521 @@
+{{For|the French footballer|René Girard (footballer)}}
+{{refimprove|date=November 2015}}
+{{Infobox scientist
+ | name              = René Girard
+ | image             = René Girard.jpg
+ | image_size        = 225px
+ | caption           = Girard in 2007
+ | birth_name        = René Noël Théophile Girard
+ | birth_date        = {{Birth date|df=y|1923|12|25}}
+ | birth_place       = [[Avignon]], France
+ | death_date        = {{death date and age|df=y|2015|11|4|1923|12|25}}
+ | death_place       = [[Stanford, California|Stanford]], [[California]], U.S.
+ | citizenship       =
+ | nationality       =
+ | fields            =
+ | workplaces        = [[Duke University]], <br />[[Bryn Mawr College]], <br />[[Johns Hopkins University]], <br />[[University at Buffalo, The State University of New York|State University of New York at Buffalo]], <br />[[Stanford University]]
+ | alma_mater        = [[École Nationale des Chartes]] ([[Master's degree|MA]])<br />[[Indiana University]] ([[PhD]])
+ | doctoral_advisor  =
+ | academic_advisors =
+ | doctoral_students =
+ | notable_students  = [[Peter Thiel]], [[Andrew Feenberg]]
+ | known_for         = [[René Girard#Mimetic desire|Mimetic desire]]<br />[[Scapegoat]] mechanism as origin of sacrifice and foundation of human [[culture]]
+ | influences        = [[Claude Lévi-Strauss]]
+ | influenced        =
+ | awards            = [[Académie française]] ([[List of members of the Académie française#Seat 37|Seat 37]])<br />Knight of the [[Légion d’honneur]]<br />Commandeur of the [[Ordre des Arts et des Lettres]]
+ | signature         = Signature René Girard.svg
+ | footnotes         =
+ | spouse            = Martha Girard<ref name = StanfordObit />
+ | children          = 3
+}}
+
+'''René Noël Théophile Girard''' ({{IPAc-en|ʒ|i|ˈ|r|ɑr|d}}; {{IPA-fr|ʒiʁaʁ|lang}}; 25 December 1923 – 4 November 2015) was a French<!--American (he may have spent most of his life teaching in the US but where is it indicated that he also had American citizenship?)--> [[historian]], [[literary critic]], and [[Philosophy of social science|philosopher of social science]] whose work belongs to the tradition of [[anthropological philosophy]]. Girard was the author of nearly thirty books, with his writings spanning many academic domains. Although the reception of his work is different in each of these areas, there is a growing body of secondary literature on his work and his influence on disciplines such as [[literary criticism]], [[critical theory]], [[anthropology]], [[theology]], [[psychology]], [[mythology]], [[sociology]], [[economics]], [[cultural studies]], and [[philosophy]].
+
+Girard's fundamental ideas, which he had developed throughout his career and provided the foundation for his thinking, were that desire is [[Mimesis|mimetic]] (i.e. all of our desires are borrowed from other people), that all conflict originates in mimetic desire (mimetic rivalry), that the [[Scapegoating#The "scapegoat mechanism" in philosophical anthropology|scapegoat mechanism]] is the origin of sacrifice and the foundation of human [[culture]], and religion was necessary in human evolution to control the violence that can come from mimetic rivalry, and that the Bible reveals these ideas and denounces the scapegoat mechanism.
+
+Girard was also a member of the [[Académie française]] from 2005 until his death on 4 November 2015.
+
+== Biography ==
+{{lang |fr|René Noël Théophile Girard}} was born in Avignon on 25 December 1923.{{Efn | {{lang|fr|Noël}} is also French for "Christmas", the day on which René Girard was born.}}  Between 1943 and 1947, he studied [[medieval history]] at the [[École des Chartes]], Paris.  The subject of his thesis was "Private life in Avignon in the second half of the fifteenth century" ("{{lang|fr|La vie privée à Avignon dans la seconde moitié du XVe siècle}}").<ref name="ReferenceA">An excerpt from this thesis was reprinted in the René Girard issue of ''[[Les Cahiers de l'Herne]]'' (2008).</ref> {{Page needed |date=August 2015}}
+
+In 1947, Girard went to [[Indiana University]] on a one-year fellowship. He was to spend most of his career in the United States. The subject of his [[PhD]] at Indiana University was "American Opinion of France, 1940–1943".<ref name="ReferenceA" /> Although his research was in history, he was also assigned to teach [[French literature]], the field in which he would first make his reputation as a literary critic by publishing influential essays on such authors as [[Albert Camus]] and [[Marcel Proust]]. He received his PhD in 1950 and stayed at Indiana University until 1953.  He occupied positions at [[Duke University]] and [[Bryn Mawr College]] from 1953 to 1957, after which he moved to [[Johns Hopkins University]], Baltimore, where he became a full professor in 1961. In that year, he also published his first book: ''{{lang |fr|Mensonge romantique et vérité romanesque}}'' (''Deceit, Desire and the Novel'', 1966).
+
+For several years he moved back and forth between the [[University at Buffalo, The State University of New York|State University of New York at Buffalo]] and Johns Hopkins University. The two most important books he published in this period are ''{{lang|fr|La Violence et le sacré}}'' (1972; ''[[Violence and the Sacred]]'', 1977) and ''{{lang |fr|Des choses cachées depuis la fondation du monde}}'' (1978; ''[[Things Hidden Since the Foundation of the World]]'', 1987).
+
+In 1981 he became Andrew B. Hammond Professor of French Language, Literature, and Civilization at [[Stanford University]], where he stayed until his retirement in 1995. During this period, he published ''{{lang |fr|Le Bouc émissaire}}'' (1982), ''{{lang|fr|La route antique des hommes pervers}}'' (1985), ''A Theatre of Envy: William Shakespeare'' (1991) and ''{{lang |fr|Quand ces choses commenceront ...}}'' (1994).  In 1990, a group of scholars founded the [[Colloquium on Violence and Religion]] (COV&R) with a goal to "explore, criticize, and develop the [[Mimesis|mimetic model]] of the relationship between violence and religion in the genesis and maintenance of culture".<ref>[http://www.uibk.ac.at/theol/cover/bulletin/xtexte/bulletin01-1.html#_1_1 'The rationale for and goals of "The Bulletin of the Colloquium on Violence & Religion"'] ''COV&R-Bulletin'' No. 1 (September 1991)</ref><ref>[http://www.uibk.ac.at/theol/cover/bulletin/xtexte/bulletin06-4.html "Constitution and By-Laws of the Colloquium on Violence and Religion"] ''COV&R-Bulletin'' No. 6 (March 1994)</ref> This organization organizes a yearly conference devoted to topics related to mimetic theory, [[scapegoating]], violence, and religion. Girard is Honorary Chair of COV&R. Cofounder and first president of the COV&R was the Roman Catholic theologian [[Raymund Schwager]].<!--move to separate page about COV&R-->
+
+In 1985, he received his first honorary degree at the [[Vrije Universiteit Amsterdam]] in the Netherlands; several others followed later. On 17 March 2005 Girard was elected to the [[Académie française]].
+
+His work has inspired interdisciplinary research projects and experimental research such as the Mimetic Theory project sponsored by the [[John Templeton Foundation]].<ref>{{Citation
+ | title = Imitation, Mimetic Theory, and Religions and Cultural Evolution - A Templeton Advanced Research Program
+ | publisher = Mimetic theory
+ | url = http://www.mimetictheory.org/
+}}.</ref>
+
+On 4 November 2015 Girard died at his residence in [[Stanford, California]], following a long illness.<ref name = StanfordObit>{{Cite web
+ | title = Stanford professor and eminent French theorist René Girard, member of the Académie Française, dies at 91
+ | last = Haven | first = Cynthia
+ | publisher = [[Stanford University]]
+ | url = http://news.stanford.edu/news/2015/november/rene-girard-obit-110415.html
+ | date = November 4, 2015 | access-date = November 4, 2015
+}}</ref>
+
+==Girard's thought==
+=== Mimetic desire ===
+After almost a decade of teaching [[French literature]] in the United States, Girard began to develop a new way of speaking about literary texts.  Beyond the "uniqueness" of individual works, he looked for their common structural properties, having observed that characters in great fiction evolved in a system of relationships otherwise common to the wider generality of novels. But there was a distinction to be made:
+
+{{Quote | Only the great writers succeed in painting these mechanisms faithfully, without falsifying them: we have here a system of relationships that paradoxically, or rather not paradoxically at all, has less variability the greater a writer is.{{Sfn | Girard | 1994 | p = 32}}}}
+
+So there did indeed exist "psychological laws" as Proust calls them.<ref>For example in ''Time Regained'' (''{{lang|fr|Le Temps retrouvé}}'', volume 7 of ''Remembrance of Things Past''): "It is the feeling for the general in the potential writer, which selects material suitable to a work of art because of its generality. He only pays attention to others, however dull and tiresome, because in repeating what their kind say like parrots, they are for that very reason prophetic birds, spokesmen of a psychological law." In French: "...{{lang |fr|c'est le sentiment du général qui dans l'écrivain futur choisit lui-même ce qui est général et pourra entrer dans l'œuvre d'art. Car il n'a écouté les autres que quand, si bêtes ou si fous qu'ils fussent, répétant comme des perroquets ce que disent les gens de caractère semblable, ils s'étaient faits par là même les oiseaux prophètes, les porte-paroles d'une loi psychologique}}."</ref> These laws and this system are the consequences of a fundamental reality grasped by the novelists, which Girard called "the [[Mimesis|mimetic]] character of desire." This is the content of his first book, ''Deceit, Desire and the Novel'' (1961). We borrow our desires from others. Far from being autonomous, our desire for a certain object is always provoked by the desire of another person—the model—for this same object. This means that the relationship between the subject and the object is not direct: there is always a triangular relationship of subject, model, and object. Through the object, one is drawn to the model, whom Girard calls the mediator: it is in fact the model who is sought. Girard calls desire "metaphysical" in the measure that, as soon as a desire is something more than a simple need or appetite, "all desire is a desire to be",{{Sfn | Girard | 1994 | p = 32}} it is an aspiration, the dream of a fullness attributed to the mediator.
+
+Mediation is external when the mediator of the desire is socially beyond the reach of the subject or, for example, a fictional character, as in the case of [[Amadis de Gaula]] and [[Don Quixote]]. The [[hero]] lives a kind of folly that nonetheless remains optimistic. Mediation is internal when the mediator is at the same level as the subject. The mediator then transforms into a rival and an obstacle to the acquisition of the object, whose value increases as the rivalry grows. This is the universe of the novels of [[Stendhal]], [[Gustave Flaubert|Flaubert]], [[Proust]] and [[Fyodor Dostoevsky|Dostoevsky]], which are particularly studied in this book.
+
+Through their characters, our own behaviour is displayed.  Everyone holds firmly to the illusion of the authenticity of one's own desires; the novelists implacably expose all the diversity of lies, dissimulations, maneuvers, and the snobbery of the Proustian heroes; these are all but "tricks of desire", which prevent one from facing the truth: envy and jealousy. These characters, desiring the being of the mediator, project upon him superhuman virtues while at the same time depreciating themselves, making him a god while making themselves slaves, in the measure that the mediator is an obstacle to them.  Some, pursuing this logic, come to seek the failures that are the signs of the proximity of the ideal to which they aspire. This can manifest as a heightened experience of the universal pseudo-[[Sadomasochism|masochism]] inherent in seeking the unattainable, which can, of course, turn into [[Sadomasochism|sadism]] should the actor play this part in reverse{{Citation needed|reason=How is seeking failure masochism? How do sadism and masochism relate to the article?|date=January 2013}}.
+
+This fundamental focus on mimetic desire would be pursued by Girard throughout the rest of his career. The stress on imitation in humans was not a popular subject when Girard developed his theories,{{Citation needed|reason=Girard probably said this in an interview, but where?|date=January 2009}} but today there is independent support for his claims coming from empirical research in psychology and neuroscience (see below). Farneti (2013) also discusses the role of mimetic desire in intractable conflicts, using the case study of the Israeli-Palestinian conflict and referencing Girard's theory. He posits that intensified conflict is a product of the imitative behaviors of Israelis and Palestinians, entitling them ‘Siamese twins'.
+
+=== Violence and the sacred ===
+{{See also|Double bind#Girard.27s mimetic double bind|l1=Girard's mimetic double bind}}
+Since the [[Mimesis|mimetic]] rivalry that develops from the struggle for the possession of the objects is contagious, it leads to the threat of violence.  Girard himself says, "If there is a normal order in societies, it must be the fruit of an anterior crisis."{{Sfn | Girard | 1994 | p = 29}}  Turning his interest towards the anthropological domain, Girard began to study anthropological literature and proposed his second great hypothesis: the victimization process, which is at the origin of archaic religion and which he sets forth in his second book ''Violence and the Sacred'' (1972).
+
+If two individuals desire the same thing, there will soon be a third, then a fourth. This process quickly snowballs. Since from the beginning desire is aroused by the other (and not by the object) the object is soon forgotten and the mimetic conflict transforms into a general antagonism. At this stage of the crisis the antagonists will no longer imitate each other's desires for an object, but each other's antagonism. They wanted to share the same object, but now they want to destroy the same enemy. So, a paroxysm of violence would tend to focus on an arbitrary victim and a unanimous antipathy would, mimetically, grow against him. The brutal elimination of the victim would reduce the appetite for violence that possessed everyone a moment before, and leaves the group suddenly appeased and calm. The victim lies before the group, appearing simultaneously as the origin of the crisis and as the one responsible for this miracle of renewed peace. He becomes sacred, that is to say the bearer of the prodigious power of defusing the crisis and bringing peace back. Girard believes this to be the genesis of archaic religion, of ritual sacrifice as the repetition of the original event, of myth as an account of this event, of the taboos that forbid access to all the objects at the origin of the rivalries that degenerated into this absolutely traumatizing crisis. This religious elaboration takes place gradually over the course of the repetition of the mimetic crises whose 
+
+resolution brings only a temporary peace. The elaboration of the rites and of the taboos constitutes a kind of empirical knowledge about violence.{{Citation needed |date=August 2015}}
+
+Although explorers and anthropologists have not been able to witness events similar to these, which go back to the earliest times, indirect evidence for them abounds, such as the universality of ritual sacrifice and the innumerable myths that have been collected from the most varied peoples. If Girard's theory is true, then we will find in myths the culpability of the victim-god, depictions of the selection of the victim, and his power to beget the order that governs the group. Girard found these elements in numerous myths, beginning with that of [[Oedipus]], which he analyzed in this and later books.  On this question he opposes {{lang|fr|[[Claude Lévi-Strauss]]}}.{{Citation needed |date=August 2015}}
+
+The phrase "scapegoat mechanism" was not coined by Girard himself; it had been used earlier by [[Kenneth Burke]] in ''Permanence and Change'' (1935) and ''A Grammar of Motives'' (1940). However, Girard took this concept from Burke and developed it much more extensively as an interpretation of human culture.{{Citation needed |date=August 2015}}
+
+In ''Things Hidden Since the Foundation of the World'' (1978), Girard develops the implications of this discovery. The victimary process is the missing link between the animal world and the human world, the principle that explains the humanization of primates. It allows us to understand the need for sacrificial victims, which in turn explains the hunt which is primitively ritual, and the domestication of animals as a fortuitous result of the acclimatization of a reserve of victims, or agriculture. It shows that at the beginning of all culture is archaic religion, which [[Durkheim]] had sensed.<ref>{{Cite book
+ | title = The elementary forms of the religious life, a study in religious sociology
+ | last = Durkheim | first = Emile
+ | publisher = G. Allen & Unwin | location = London
+ | url = https://archive.org/details/elementaryformso00durkrich
+ | date = 1915 | access-date = 2014-05-19
+}}</ref> The elaboration of the rites and taboos by proto-human or human groups would take infinitely varied forms while obeying a rigorous practical sense that we can detect: the prevention of the return of the mimetic crisis. So we can find in archaic religion the origin of all political or cultural institutions.
+
+According to Girard, just as the theory of [[natural selection]] of species is the rational principle that explains the immense diversity of forms of life, the victimization process is the rational principle that explains the origin of the infinite diversity of cultural forms. The analogy with [[Charles Darwin|Darwin]] also extends to the scientific status of the theory, as each of these presents itself as a hypothesis that is not capable of being proven experimentally, given the extreme amounts of time necessary to the production of the phenomena in question, but which imposes itself by its great explanatory power.
+
+=== Origin of language ===
+According to Girard, the [[origin of language]] is also related to scapegoating. After the first victim, after the murder of the first scapegoat, there were the first prohibitions and rituals, but these came into being before representation and  language, hence before culture. And that means that "people" (perhaps not human beings) "will not start fighting again".<ref name="MuellerInterview1996" /> Girard says:
+{{Quote | If mimetic disruption comes back, our instinct will tell us to do again what the sacred has done to save us, which is to kill the scapegoat.  Therefore it would be the force of substitution of immolating another victim instead of the first. But the relationship of this process with representation is not one that can be defined in a clear-cut way. This process would be one that moves towards representation of the sacred, towards definition of the ritual as ritual and prohibition as prohibition. But this process would already begin prior the representation, you see, because it is directly produced by the experience of the misunderstood scapegoat.<ref name="MuellerInterview1996" />}}
+
+According to Girard, the substitution of an immolated victim for the first, is "the very first symbolic sign created by the hominids".<ref>{{harvnb|Girard|2004|p=157}}.  {{lang|fr|"premier signe symbolique jamais inventé par les hominidés"}}</ref>  Girard also says this is the first time that one thing represents another thing, standing in the place of this (absent) one. This substitution is the beginning of [[Mental representation|representation and language]], but also the beginning of sacrifice and ritual. The genesis of language and ritual is very slow and we must imagine that there are also kinds of rituals among the animals: "It is the originary scapegoating which prolongs itself in a process which can be infinitely long in moving from, how should I say, from instinctive ritualization, instinctive prohibition, instinctive separation of the antagonists, which you already find to a certain extent in animals, towards representation."<ref name = "MuellerInterview1996" />
+
+Unlike [[Eric Gans]], Girard does not think that there is an original scene during which there is "a sudden shift from non-representation to representation",<ref name="MuellerInterview1996">{{Citation
+ | title = Interview with René Girard
+ | last = Müller | first = Markus
+ | journal = Anthropoetics
+ | volume = II | number = 1
+ | url = http://www.anthropoetics.ucla.edu/ap0201/interv.htm
+ | date = June 1996 | access-date = November 2008
+}}.</ref> or a sudden shift from animality to humanity. According to the French sociologist {{lang|fr|Camille Tarot}}, it is hard to understand how the process of representation (symbolicity, language...) actually occurs and he has called this a ''black box'' in Girard's theory.<ref>{{Citation
+ | title = Le symbolique et le sacré
+ | trans-title = The symbolic & the sacred
+ | last = Tarot | first = Camille
+ | publisher = {{lang|fr|La Découverte}} | place = Paris
+ | year = 2008 | page = 860
+ | language = fr
+}}.</ref>
+
+Girard also says:
+{{Quote | One great characteristic of man is what they [the authors of the modern theory of evolution] call neoteny, the fact that the human infant is born premature, with an open skull, no hair and a total inability to fend for himself. To keep it alive, therefore, there must be some form of cultural protection, because in the world of mammals, such infants would not survive, they would be destroyed.  Therefore there is a reason to believe that in the later stages of human evolution, culture and nature are in constant interaction. The first stages of this interaction must occur prior to language, but they must include forms of sacrifice and prohibition that create a space of non-violence around the mother and the children which make it possible to reach still higher stages of human development. You can postulate as many such stages as are needed. Thus, you can have a transition between ethology and anthropology which removes, I think, all philosophical postulates. The discontinuities would never be of such a nature as to demand some kind of sudden intellectual illumination.<ref name="MuellerInterview1996" />}}
+
+=== Judeo-Christian scriptures ===
+==== Biblical text as a science of man ====
+In ''Things Hidden Since the Foundation of the World'', Girard discusses for the first time Christianity and the [[Bible]]. The [[Gospel]]s ostensibly present themselves as a typical mythical account, with a victim-god lynched by a unanimous crowd, an event that is then commemorated by Christians through ritual sacrifice — a material re-presentation in this case — in the [[Eucharist]].  The parallel is perfect except for one detail: the truth of the innocence of the victim is proclaimed by the text and the writer. The mythical account is usually built on the lie of the guilt of the victim in as much as it is an account of the event seen from the viewpoint of the anonymous lynchers.  This ignorance is indispensable to the efficacy of the sacrificial violence.{{Citation needed |date=August 2015}}
+
+The evangelical "good news" clearly affirms the innocence of the victim, thus becoming, by attacking ignorance, the germ of the destruction of the sacrificial order on which rests the equilibrium of societies.  Already the [[Old Testament]] shows this turning inside-out of the mythic accounts with regard to the innocence of the victims ([[Abel]], [[Joseph (Hebrew Bible)|Joseph]], [[Job (Biblical figure)|Job]]…), and the Hebrews were conscious of the uniqueness of their religious tradition. With the Gospels, it is with full clarity that are unveiled these "things hidden since the foundation of the world" (Matthew 13:35), the foundation of social order on murder, described in all its repulsive ugliness in the account of the [[Passion (Christianity)|Passion]].{{Citation needed |date=August 2015}}
+
+This revelation is even clearer because the text is a work on desire and violence, from the serpent setting alight the desire of [[Eve]] in paradise to the prodigious strength of the mimetism that brings about the denial of [[Saint Peter|Peter]] during the Passion (Mark 14: 66–72; Luke 22:54–62). Girard reinterprets certain biblical expressions in light of his theories; for instance, he sees "scandal" (''[[Stumbling block|skandalon]]'', literally, a "snare", or an "impediment placed in the way and causing one to stumble or fall"<ref>{{Citation
+ | title = The New Testament Greek Lexicon
+ | publisher = Study light
+ | contribution = Skandalon
+ | contribution-url = http://www.studylight.org/lex/grk/view.cgi?number=4625
+}}.</ref>) as signifying mimetic rivalry, for example Peter's denial of Jesus.<ref>{{Citation
+ | title = Are the Gospels Mythical?
+ | last = Girard | first = René
+ | journal = First Things
+ | url = http://www.firstthings.com/article.php3?id_article=3856
+ | date = April 1996
+}}.</ref> No one escapes responsibility, neither the envious nor the envied: "Woe to the man through whom scandal comes" (Matthew 18:7).{{Citation needed |date=August 2015}}
+
+==== Christian society ====
+The evangelical revelation contains the truth on the violence, available for two thousand years, Girard tells us. Has it put an end to the sacrificial order based on violence in the society that has claimed the gospel text as its own religious text? No, he replies, since in order for a truth to have an impact it must find a receptive listener, and people do not change that quickly. The gospel text has instead acted as a ferment that brings about the decomposition of the sacrificial order. While medieval Europe showed the face of a sacrificial society that still knew very well how to despise and ignore its victims, nonetheless the efficacy of sacrificial violence has never stopped decreasing, in the measure that ignorance receded. Here Girard sees the principle of the uniqueness and of the transformations of the Western society whose destiny today is one with that of human society as a whole.{{Citation needed |date=August 2015}}
+
+Does the retreat of the sacrificial order mean less violence?  Not at all; rather, it deprives modern societies of most of the capacity of sacrificial violence to establish temporary order.  The "innocence" of the time of the ignorance is no more. On the other hand, Christianity, following the example of [[Judaism]], has desacralized the world, making possible a utilitarian relationship with nature.  Increasingly threatened by the resurgence of mimetic crises on a grand scale, the contemporary world is on one hand more quickly caught up by its guilt, and on the other hand has developed such a great technical power of destruction that it is condemned to both more and more responsibility and less and less innocence. So, for example, while empathy for victims manifests progress in the moral conscience of society, it nonetheless also takes the form of a competition among victims that threatens an escalation of violence.{{Citation needed |date=August 2015}}
+
+== Influence ==
+=== Psychology and neuroscience ===
+Jean-Michel Oughourlian in his book A mime named desire ("Un mime nommé désir" - Grasset 1982) has used Girard's theories in psychopathology. Hysteria and obsession are explained through mimetic rivalry and the priority of desire.
+
+Girard's work is also attracting increasing interest from empirical researchers investigating human [[imitation]] (among them [[Andrew Meltzoff]] and [[Vittorio Gallese]]). Recently, empirical studies into the mechanism of desire have suggested some intriguing correlations with Girard's theory on the subject. For instance, clinical psychologist Scott R. Garrels wrote:
+{{Quote | What makes Girard's insights so remarkable is that he not only discovered and developed the primordial role of psychological mimesis (...) during a time when imitation was quite out of fashion, but he did so through investigation in literature, cultural anthropology, history, and ultimately returning to religious texts for further evidence of mimetic phenomena. The parallels between Girard's insights and the only recent conclusions made by empirical researchers concerning imitation (in both development and the evolution of species) are extraordinary (...).<ref>{{Citation
+ | title = Imitation, Mirror Neurons, & Mimetic Desire: Convergent Support for the Work of Rene Girard
+ | last = Garrels | first = Scott R
+ | page = 29
+ | url = http://girardianlectionary.net/covr2004/garrelspaper.pdf
+ | format = [[Portable document format|PDF]]
+ | date = 1 May 2004
+}} (an earlier version of the paper that appeared as {{Citation
+ | title = Imitation, Mirror Neurons and Mimetic Desire: Convergence between the Mimetic Theory of René Girard and Empirical Research on Imitation
+ | last = Garrels | first = Scott R
+ | journal = Contagion: Journal of Violence, Mimesis, and Culture
+ | year = 2006 | volume = 12-13 | pages = 47–86
+ | url = http://msupress.msu.edu/journals/cont/pdf/Cont.%2012-13%20Garrels%2047-86.pdf
+}}).</ref>}}
+
+===Economics and globalization===
+The mimetic theory has also been applied in the study of economics, most notably in ''{{lang|fr|La violence de la monnaie}}'' (1982) by [[Michel Aglietta]] and [[André Orléan]]. Orléan was also a contributor to the volume ''René Girard'' in ''[[Les cahiers de l'Herne]]'' ("{{lang |fr|Pour une approche girardienne de l'homo oeconomicus}}").<ref>{{Citation
+ | title = René Girard
+ | number = 89 | pages = 261–65
+ | series = Cahier de L'Herne
+}}.</ref> According to the philosopher of technology [[Andrew Feenberg]]:
+{{Quote | In ''{{lang|fr|La violence de la monnaie}}'', Aglietta and Orléan follow Girard in suggesting that the basic relation of exchange can be interpreted as a conflict of 'doubles', each mediating the desire of the Other. Like Lucien Goldmann, they see a connection between Girard's theory of mimetic desire and the Marxian theory of [[commodity fetishism]]. In their theory, the market takes the place of the sacred in modern life as the chief institutional mechanism stabilizing the otherwise explosive conflicts of desiring subjects.<ref>{{Citation
+ | contribution = Fetishism and Form: Erotic and Economic Disorder in Literature
+ | last = Feenberg | first = Andrew
+ | title = Violence and Truth
+ | editor-last = Dumouchel | editor-first = Paul
+ | publisher = Athlone Press & Stanford University Press
+ | year = 1988 | pages = 134–51
+ | url = https://www.sfu.ca/~andrewf/Girard.htm
+}}.</ref>}}
+
+In an interview with the ''Unesco Courier'', anthropologist and social theorist Mark Anspach (editor of the ''René Girard'' issue of ''Les Cahiers de l'Herne'') explains that Aglietta and Orléan (who were very critical of economic rationality) see the classical theory of economics as a myth. According to Anspach, the vicious circle of violence and vengeance generated by mimetic rivalry gives rise to the [[gift economy]], as a means to overcome it and achieve a peaceful reciprocity: "Instead of waiting for your neighbour to come steal your yams, you offer them to him today, and it is up to him to do the same for you tomorrow. Once you have made a gift, he is obliged to make a return gift. Now you have set in motion a positive circularity."<ref name = "anspach_unesco">{{Citation
+ | title = Global markets, anonymous victims
+ | last1 = Anspach | first1 = Mark
+ | editor1-last = Blanc | editor1-first = Yannick
+ | editor2-last = Bessières | editor2-first = Michel
+ | journal = The UNESCO Courrier
+ | type = interview
+ | url = http://www.mimetictheory.net/bios/articles/Anspach_UNESCO.pdf
+ | date = May 2001
+}}.</ref> Since the gift may be so large as to be humiliating, a second stage of development—"economic rationality"—is required: this liberates the seller and the buyer of any other obligations than to give money. Thus reciprocal violence is eliminated by the sacrifice, obligations of vengeance by the gift, and finally the possibly dangerous gift by "economic rationality." This rationality, however, creates new victims, as globalization is increasingly revealing.
+
+===Literature===
+Girard's influence extends beyond philosophy and social science, and includes the literary realm. A prominent example of a fiction writer influenced by Girard is [[J. M. Coetzee]], winner of the 2003 Nobel Prize in Literature. Critics have noted that mimetic desire and scapegoating are recurring themes in Coetzee's novels ''Elizabeth Costello'' and ''Disgrace.'' In the latter work, the book's protagonist also gives a speech about the history of scapegoating with noticeable similarities to Girard's view of the same subject. Coetzee has also frequently cited Girard in his non-fiction essays, on subjects ranging from advertising to the Russian writer [[Aleksandr Solzhenitsyn]].<ref>Andy Lamey, [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1715344 "Sympathy and Scapegoating in J. M. Coetzee,"] in ''J. M. Coetzee and Ethics: Philosophical Perspectives on Literature,'' Anton Leist and Peter Singer eds. (New York: Columbia University Press 2010). For Girard's influence on Coetzee, see pages 181-5.</ref>
+
+== Criticism ==
+=== Originality ===
+Some critics have pointed out that while Girard may be the first to have suggested that ''all'' desire is mimetic, he is by no means the first to have noticed that ''some'' desire is mimetic (Gabriel Tarde's book ''Les lois de l'imitation'' (''The Laws of Imitation'') appeared in 1890). Building on Tarde, crowd psychology, Nietzsche, and more generally, a modernist tradition of the "mimetic unconscious" that had hypnosis as its via regia, Nidesh Lawtoo argued that for the modernists not only desire but all affects turn out to be contagious and mimetic.<ref>Nidesh Lawtoo, ''The Phantom of the Ego: Modernism and the Mimetic Unconscious'', East Lansing: Michigan State University Press, 2013.</ref> René Pommier<ref>René Girard, ''Un allumé qui se prend pour un phare'', Paris: Kimé, 2010, p. 42</ref> mentions [[François de La Rochefoucauld (writer)|La Rochefoucauld]], a seventeenth-century thinker who already wrote that "Nothing is so infectious as example" and that "There are some who never would have loved if they never had heard it spoken of."<ref>La Rochefoucauld, [http://www.gutenberg.org/files/9105/9105-h/9105-h.htm "Maxims,"] maxims 230, 136.</ref>
+
+Stéphane Vinolo sees [[Baruch Spinoza]] and [[Thomas Hobbes]] as important precursors.  Hobbes: "if any two men desire the same thing, which nevertheless they cannot both enjoy, they become enemies."<ref>Thomas Hobbes, ''Leviathan'', I,13, World's classic, Oxford University Press, 1996, p. 83. Quoted by S.Vinolo in  S.Vinolo ''{{lang |fr|René Girard: du mimétisme à l'hominisation}}'', pp. 33–34</ref> Spinoza: "By the very fact that we conceive a thing, which is like ourselves,  and  which  we  have not regarded with any emotion, to be affected  with any emotion, we are ourselves affected with a like emotion.<ref>{{lang|la|''Ethica Ordine Geometrico Demonstrata'' Part. III  Prop. XXVII : "Ex eo, quod rem nobis similem, et quam nullo affectu prosecuti sumus, aliquo affecti imaginamur, eo ipso simili affectu afficimur"}} quoted by Stéphane Vinolo, ''{{lang|fr|René Girard: du mimétisme à l'hominisation}}'', L'Harmattan, Paris, 2005, p. 20 {{ISBN|2-7475-9047-X}}.  English translation [http://www.yesselman.com/e3elwes.htm H. M. Elwes's 1883 English translation The Ethics – Part III On the Origin and Nature of the Emotions]</ref> Proof… If we conceive anyone similar to ourselves as affected by any emotion, this conception will express a modification of our body similar to that emotion.<ref>[http://www.yesselman.com/e3elwes.htm H. M. Elwes's 1883 English translation The Ethics – Part III On the Origin and Nature of the Emotions].</ref>
+
+Wolfgang Palaver adds [[Alexis de Tocqueville]] to the list. "Two hundred years after Hobbes, the French historian Alexis de Tocqueville mentioned the dangers coming along with equality, too. Like Hobbes, he refers to the increase of mimetic desire coming along with equality."<ref>Wolfgang Palaver: ''{{lang|fr|De la violence: une approche mimétique}}'' Traduit de l'anglais par Paul Dumouchel. In Paul Dumouchel (Directeur), ''{{lang|fr|Comprendre pour agir: violences, victimes et vengeances.}}'' Paris: L'Harmattan, 2000, pp. 89–110. {{ISBN|2-7637-7771-6}} [http://www.uibk.ac.at/theol/leseraum/texte/137.html English version]</ref> Palaver has in mind passages like this one, from Tocqueville's ''[[Democracy in America]]'': "They have swept away the privileges of some of their fellow creatures which stood in their way, but they have opened the door to universal competition; the barrier has changed its shape rather than its position."<ref>{{lang|fr|A. de Tocqueville: ''De la démocratie en Amérique'', II, 2, chapitre 13, Editions Robert Laffont}}, Paris, 1986, p. 522.  English translation : Tocqueville, Alexis de. 1990. ''Democracy in America'' Ed. by. P. Bradley. Vol. II. New York: Vintage Books, p. 137</ref>
+
+Maurizio Meloni highlights the similarities between Girard, [[Jacques Lacan]] and [[Sigmund Freud]].<ref>M Meloni: ''A Triangle of Thoughts: Girard, Freud, Lacan'', Psychomedia [http://www.psychomedia.it/jep/number14/meloni.htm]</ref> Meloni claims that these similarities arise because the projects undertaken by the three men—namely, to understand the role of mythology in structuring the human psyche and culture—were very similar. What is more, both Girard and Lacan read these myths through the lens of structural anthropology so it is not surprising that their intellectual systems came to resemble one another so strongly. Meloni writes that Girard and Lacan were "moved by similar preoccupations and are fascinated by and attracted to the same kind of issues: the constituent character of the other in the structure of desire, the role of jealousy and rivalry in the construction of the social bond, the proliferation of triangles within apparently dual relations, doubles and mirrors, imitation and the Imaginary, and the crisis of modern society within which the "rite of Oedipus" is situated."
+
+At times, Girard acknowledges his indebtedness to such precursors, including Tocqueville.<ref>René Girard. 1965. ''Deceit, Desire and the Novel: Self and Other in Literary Structure'' Translated by Y. Freccero, The Johns Hopkins University Press, Baltimore, 1965 p. 120</ref> At other times, however, Girard makes stronger claims to originality, as when he says that mimetic rivalry "is responsible for the frequency and intensity of human conflicts, but strangely, no one ever speaks of it."<ref>René Girard. 2001. Celui par qui le scandale arrive: Entretiens avec Maria Stella Barberi. Paris: Desclée de Brouwer. p. 19: "Dès que nous désirons ce que désire un modèle assez proche de nous dans le temps et dans l'espace, pour que l'objet convoité par lui passe à notre portée, nous nous efforçons de lui enlever cet objet | et la rivalité entre lui et nous est inévitable.  C'est la rivalité mimétique. Elle peut atteindre un niveau d'intensité extraordinaire. Elle est responsable de la fréquence et de l'intensité des conflits humains, mais chose étrange, personne ne parle jamais d'elle."</ref>
+
+=== Use of evidence ===
+Girard has presented his view as being scientifically grounded: "Our theory should be approached, then, as one approaches any scientific hypothesis."<ref>René Girard, ''Violence and the Sacred'', translated by Patrick Gregory, Baltimore: Johns Hopkins University Press, 1977, p. 316.</ref> René Pommier has written a book about Girard with the ironic title "Girard ablaze rather than enlightened" where he asserts that Girard's readings of myths and bible stories—the basis of some of his most important claims—are often tendentious. Girard notes, for example, that the disciples actively turn against Jesus<ref>René Girard, ''Things Hidden since the Foundation of the World'', Stanford: Stanford University Press, 1987, p. 167.</ref>. Since Peter warms himself by a fire, and fires always create community, and communities breed mimetic desire, this means that Peter becomes actively hostile to Jesus, seeking his death.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, pp. 98-102.</ref> According to Pommier, Girard claims that the Gospels present the Crucifixion as a purely human affair, with no indication of Christ dying for the sins of mankind. (This is contradicted by [[Mark the Evangelist|Mark]] 10:45, [[Saint Matthew|Matthew]] 20:28.)<ref name="René Pommier 2010, pp. 115-16">René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, pp. 115-16.</ref>
+
+The same goes for readings of literary texts says Pommier. For example, [[Molière]]'s Don Juan only pursues ''one'' love object for mediated reasons,<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, p. 25.</ref> not ''all'' of them, as Girard claims.<ref>René Girard. 1965. ''Deceit, Desire and the Novel: Self and Other in Literary Structure'' Translated by Y. Freccero, The Johns Hopkins University Press,Baltimore, 1965 p. 51</ref> Or again, [[Sancho Panza]] wants an island not because he is catching the bug of romanticism from [[Don Quixote]], but because he has been promised one.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, p. 27.</ref> And Pavel Pavlovitch, in [[Dostoevsky]]'s ''Eternal Husband'', has been married for ten years before Veltchaninov becomes his rival, so Veltchaninov is not in fact essential to Pavel's desire.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, p. 45.</ref>
+
+Accordingly, a number of scholars have suggested that Girard's writings are metaphysics rather than science.  Theorist of history [[Hayden White]] did so in an article titled "Ethnological 'Lie' and Mystical 'Truth'";<ref>Hayden White, "Ethnological 'Lie' and Mythical 'Truth'", ''Diacritics'' 8 (1978): 2-9, p. 7.</ref> Belgian anthropologist [[Luc de Heusch]] made a similar claim in his piece "{{lang|fr|L'Evangile selon Saint-Girard}}" ("The Gospel according to Saint Girard").;<ref>Luc de Heusch: "L'Evangile selon Saint-Girard" Le Monde, 25 June 1982, p. 19.</ref> and Jean Greisch sees Girard's thought as more or less a kind of [[Gnosis]].<ref>Jean Greisch  "{{lang|fr|Une anthropologie fondamentale du rite: René Girard.}}" in  {{lang|fr|''Le rite. Philosophie'' Institut catholique de Paris, présentation de Jean Greisch}}. Paris, Beauchesne, 1981.''</ref>
+
+=== Non-mimetic desires ===
+René Pommier has pointed out a number of problems with the Girardian claim that all desire is mimetic.  First, it is very hard to explain the existence of taboo desires, such as homosexuality in repressive societies, on that basis.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, p. 38.</ref>. On Girard's defence on the other hand, Jean-Michel Oughourlian exemplifies the situation by noting that "one homosexual admitted to me that he just wanted to be somebody else".
+Second, every situation presents large numbers of potential mediators, which means that the individual has to make a choice among them; either authentic choice is back in the picture, then, or else the theory leads to a regress.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, pp. 33-34.</ref> Third, Girard leaves no room for innovation: surely somebody has to be the first to desire a new object, even if everyone else follows that trend-setter.<ref>René Pommier, "René Girard, Un allumé qui se prend pour un phare," Paris: Kimé, 2010, p. 18.</ref>
+
+It should be noted that it's not clear that the first objection really provides a challenge to Girard's theory, as even in repressive societies men are still desired (albeit by women). However, such a response leaves unexplained why homosexuals would imitate the desires of heterosexual members of the opposite sex.<ref>René Girard's philosophy of romance is compared with [[Plato|Plato’s]], [[Iain King|Iain King's]], and [[Arthur Schopenhauer|Arthur Schopenhauer’s]] in [http://kindnesslovejoy.com/when-romance-and-philosophy-meet/ When Romance and Philosophy Meet (link to blog)] retrieved 2013-12-02.</ref> One might also argue that the last objection ignores the influence of an original sin from which all others follow, which Girard clearly affirms. However, original sin, on Girard's interpretation, explains only our propensity to imitate, not the specific content of our imitated desires.<ref>[http://www.iep.utm.edu/girard/#SH5d Girard, René [Internet Encyclopedia of Philosophy&#93;]. Iep.utm.edu. Retrieved on 2013-10-23.</ref> Thus, the doctrine of original sin does not solve the problem of how the original model first acquires the desire that is subsequently imitated by others.
+
+=== Beneficial imitation ===
+In the early part of Girard's career, there seemed no place for beneficial imitation. Jean-Michel Oughourlian objected that "imitation can be totally peaceful and beneficial; I don't believe that I am the other, I don't want to take  his place […] This imitation can lead me to become sensitive to social and political problems."<ref>Jean-Michel Oughourlian: ''Genèse du désir''. Paris: Carnets Nord, 2007, {{ISBN|978-2-35536-003-9}}. The French sentence goes: "L'imitation peut alors demeurer entièrement paisible et bénéfique; je ne me prends pas pour l'autre, je ne veux pas prendre sa place […] Cette imitation […] me conduira peut-être à me sensibiliser aux problèmes sociaux et politiques…</ref> Rebecca Adams argued that because Girard's theories fixated on violence, he was creating a 'scapegoat' himself with his own theory: the scapegoat of positive mimesis.  Adams proposed a reassessment of Girard's theory that includes an account of loving mimesis or, as she preferred to call it, creative mimesis.<ref>{{Cite web
+ | title = Loving Mimesis and Girard's "Scapegoat of the Text": A Creative Reassessment of Mimetic Desire
+ | author = Rebecca Adams
+ | year = 2000
+ | publisher = Pandora Press US
+ | url = http://web.ustpaul.uottawa.ca/covr2006/Document/RebeccaGirard.pdf
+ | format = PDF
+ | access-date = 2008-07-09
+}}</ref>
+
+More recently, Girard has made room for positive imitation.<ref>René Girard, The Girard Reader, Trans. Yvonne Freccero, Ed. James G. Williams, New York: Crossroad Herder, 1996, pp. 63–64, 269.</ref> But as Adams implies, it is not clear how the revised theory accords with earlier claims about the origin of culture.  If beneficial imitation is possible, then it is no longer necessary for cultures to be born by means of scapegoating; they could just as well be born through healthy emulation. Nidesh Lawtoo further develops the healthy side of mimetic contagion by drawing on a Nietzschean philosophical tradition that privileges "laughter" and other gay forms of "sovereign communication" in the formation of "community."<ref>Nidesh Lawtoo. ''The Phantom of the Ego: Modernism and the Mimetic Unconscious''. East Lansing: Michigan State University Press, 2007, pp. 284-304</ref>
+
+=== Anthropology ===
+Various anthropologists have contested Girard's claims. Elizabeth Traube, for example, reminds us that there are other ways of making sense of the data that Girard borrows from Evans-Pritchard and company—ways that are more consistent with the practices of the given culture. By applying a one-size-fits-all approach, Girard "loses… the ability to tell us anything about cultural products themselves, for the simple reason that he has annihilated the cultures which produced them."<ref>Elizabeth Traube, "Incest and Mythology: Anthropological and Girardian Perspectives, " The Berkshire Review 14 (1979): 37–54, pp. 49–50)</ref>
+
+=== Religion ===
+One of the main sources of criticism of Girard's work comes from intellectuals who claim that his comparison of Judeo-Christian texts vis-à-vis other religions leaves something to be desired.<ref>E.g. see the criticisms in ''Violence and Truth: On the Work of René Girard'', Paul Dumouchel ed., Stanford University Press, 1988</ref> There are also those who find the interpretation of the Christ event—as a purely human event, having nothing to do with redemption from sin—an unconvincing one, given what the Gospels themselves say.<ref name = "René Pommier 2010, pp. 115-16" /> Yet, [[Roger Scruton]] notes, Girard's account has a [[Christology|divine Jesus]]: "that Jesus was the first scapegoat to understand the need for his death and to forgive those who inflicted it…  Girard argues, Jesus gave the best evidence… of his divine nature."<ref>{{Cite book
+ | title = The Soul of the World
+ | last = Scruton | first = Roger
+ | publisher = Princeton University Press | location = Princeton, NJ
+ | page = 20
+ | date = 2014
+}}</ref>
+
+== Honours and awards ==
+* Honorary degrees at the Vrije Universiteit Amsterdam (the Netherlands, 1985), UFSIA in Antwerp (Belgium, 1995), the Università degli Studi di Padova (Italy, 2001, honorary degree in "Arts"),<ref>{{lang|it|Università degli Studie di Padova}}: [http://www.unipd.it/en/area/area-51.htm Honoris causa degrees]</ref> the faculty of theology at the University of Innsbruck (Austria), the Université de Montréal (Canada, 2004),<ref>Marie-Claude Bourdon: [http://www.iforum.umontreal.ca/Forum/ArchivesForum/2003-2004/040419/article3470.htm {{lang|fr|La violence et le sacré: L'Université remet un doctorat honoris causa au penseur René Girard}}] iForum vol. 38 num. 28 (19 April 2004)</ref> and the University of St Andrews (UK, 2008).<ref>University of St Andrews: [http://www.st-andrews.ac.uk/news/archive/2008/title,22097,en.php Honorary degrees - June 2008].</ref>
+* The [[Prix Médicis]] essai for ''Shakespeare, les feux de l'envie'' (''A Theatre of Envy: William Shakespeare'', 1991)
+* The prix Aujourd'hui for ''Les origines de la culture'' (2004)
+* [[Guggenheim Fellowship|Guggenheim Fellow]] (1959 and 1966)<ref>[http://www.gf.org/gfellow.html John Simon Guggenheim Memorial Foundation: Fellows page: G]</ref>
+* Election to the [[Académie française]] (2005).
+* Awarded the [[Dr. Leopold Lucas Prize]] by the [[University of Tübingen]] (2006)<ref>{{Cite book
+ | title = Wissenschaft und christlicher Glaube
+ | last = Girard | first = René
+ | year = 2007
+ | publisher = Mohr Siebeck | location = Tübingen
+ | page = 110
+ | isbn = 978-3-16-149266-2
+}}</ref>
+* Awarded the Order of Isabella the Catholic, Commander by Number, by the Spanish head of state, H.M. King Juan Carlos.
+
+== Bibliography ==
+This section only lists book-length publications that {{lang|fr|René Girard}} wrote or edited. For articles and interviews by René Girard, the reader can refer to the database maintained at the University of Innsbruck. Some of the books below reprint articles (''To Double Business Bound'', 1978; ''Oedipus Unbound'', 2004; ''Mimesis and Theory'',2008) or are based on articles (''A Theatre of Envy'', 1991).
+*{{Citation| title = Mensonge romantique et vérité romanesque
+ | trans-title = Romantic lie & romanesque truth
+ | edition = reprint
+ | last = Girard | first = René
+ | author-link = René Girard
+ | year = 2001 | orig-year = First published 1961
+ | language = fr
+ | publisher = Grasset | place = Paris
+ | isbn = 2-246-04072-8
+}} (English translation: {{Citation
+ | title = Deceit, Desire and the Novel: Self and Other in Literary Structure
+ | last = Girard | first = René
+ | year = 1966
+ | publisher = Johns Hopkins University Press | place = Baltimore
+ | author-mask = 3
+ | isbn = 0-8018-1830-3
+}}).
+*{{Citation| title = Proust: A Collection of Critical Essays
+ | last = Girard | first = René
+ | publisher = Prentice Hall | place = Englewood Cliffs
+ | year = 1962
+ | author-mask = 3
+}}.
+*{{Citation| title = Dostoïevski, du double à l'unité
+ | trans-title = Dostoievsky, from the double to the unity
+ | last = Girard | first = René
+ | publisher = Plon | place = Paris
+ | year = 1963
+ | language = fr
+ | author-mask = 3
+}} (English translation: {{Citation
+ | title = Resurrection from the Underground: Feodor Dostoevsky
+ | last = Girard | first = René
+ | publisher = Crossroad
+ | year = 1997
+ | author-mask = 3
+}}).
+* 1972. ''{{lang|fr|La Violence et le Sacré}}''. Paris: Grasset. {{ISBN|978-2-246-00051-8}}. (English translation: ''Violence and the Sacred''. Translated by Patrick Gregory. Baltimore: Johns Hopkins University Press, 1977. {{ISBN|0-8018-2218-1}}.) The reprint in the ''{{lang|fr|Pluriel}}'' series (1996; {{ISBN|2-01-008984-7}}) contains a section entitled "{{lang|fr|Critiques et commentaires}}", which reproduces several reviews of ''{{lang|fr|La Violence et le Sacré}}''.
+* 1976. ''{{lang|fr|Critique dans un souterrain}}''. Lausanne: L'Age d'Homme. Reprint 1983, {{lang|fr|Livre de Poche}}: {{ISBN|978-2-253-03298-4}}. This book contains ''{{lang|fr|Dostoïevski, du double à l'unité}}'' and a number of other essays published between 1963 and 1972.
+* 1978. ''To Double Business Bound: Essays on Literature, Mimesis, and Anthropology''. Baltimore: Johns Hopkins University Press. {{ISBN|978-0-8018-3655-8}}. This book contains essays from ''{{lang|fr|Critique dans un souterrain}}'' but not those on Dostoyevski.
+* 1978. ''{{lang|fr|Des choses cachées depuis la fondation du monde}}''. Paris: Grasset. {{ISBN|2-246-61841-X}}. (English translation: ''Things Hidden since the Foundation of the World: Research undertaken in collaboration with Jean-Michel Oughourlian and G. Lefort''. Stanford: Stanford University Press, 1987)
+* 1982. ''{{lang|fr|Le Bouc émissaire}}''. Paris: Grasset. {{ISBN|2-246-26781-1}}. (English translation: ''The Scapegoat''. Baltimore: The Johns Hopkins University Press, 1986)
+* 1985. ''{{lang|fr|La Route antique des hommes pervers}}''. Paris: Grasset. {{ISBN|2-246-35111-1}}. (English translation: ''Job, the Victim of His People''. Stanford: Stanford University Press, 1987)
+* 1988. ''Violent Origins: Walter Burkert, Rene Girard, and Jonathan Z. Smith on Ritual Killing and Cultural Formation''. Ed. by Robert Hamerton-Kelly. Palo Alto, California: Stanford University Press. {{ISBN|0-8047-1518-1}}.
+* 1991. ''A Theatre of Envy: William Shakespeare''. New York: Oxford University Press. {{ISBN|0-19-505339-7}}. The French translation, ''{{lang|fr|Shakespeare : les feux de l'envie}}'', was published before the original English text.
+*{{Citation| title = Quand ces choses commenceront ... Entretiens avec Michel Treguer
+ | trans-title = When these things will begin... interviews with Michel Treguer
+ | last = Girard | first = René
+ | year = 1994
+ | language = fr
+ | publisher = [[Arléa]] | location = Paris
+ | author-mask = 3
+ | isbn = 2-86959-300-7
+}}.
+* 1996. ''The Girard Reader''. Ed. by. James G. Williams. New York: Crossroad. {{ISBN|0-8245-1634-6}}.
+* 1999. ''{{lang|fr|Je vois Satan tomber comme l'éclair}}''. Paris: Grasset. {{ISBN|2-246-26791-9}}. (English translation: ''I See Satan Fall Like Lightning''. Maryknoll: Orbis Books, 2001 {{ISBN|978-1-57075-319-0}})
+*{{Citation| title = Um Longo Argumento do princípio ao Fim: Diálogos com João Cezar de Castro Rocha e Pierpaolo Antonello
+ | trans-title = A long argument from the start to the end: dialogues with João César de Castro Rocha and Pierpaolo Antonello
+ | last = Girard | first = René
+ | year = 2000
+ | language = pt
+ | publisher = Topbooks | place = Rio de Janeiro
+ | author-mask = 3
+ | isbn = 85-7475-020-4
+}} (French translation: {{Citation
+ | title = Les origines de la culture. Entretiens avec Pierpaolo Antonello et João Cezar de Castro Rocha
+ | trans-title = The origins of culture.  Interviews with Pierpaolo Antonello & João César de Castro Rocha
+ | last = Girard | first = René
+ | year = 2004
+ | language = fr
+ | publisher = Desclée de Brouwer | place = Paris
+ | author-mask = 3
+ | isbn = 978-2-220-05355-4
+}}. The French translation was upgraded in consultation with {{lang|fr|René Girard}}.<ref>{{Citation
+ | title = Review of René Girard, Les origines de la culture
+ | last = Simonse | first = Simon
+ | journal = COV&R Bulletin
+ | number = 26 | pages = 10–11
+ | url = http://www.uibk.ac.at/theol/cover/bulletin/Bulletin_26.pdf
+ | date = April 2005
+}}.</ref> English translation: {{Citation
+ | title = Evolution and Conversion: Dialogues on the Origins of Culture
+ | last = Girard | first = René
+ | year = 2008
+ | publisher = Continuum | place = London
+ | author-mask = 3
+ | isbn = 978-0-567-03252-2
+}}).
+*{{Citation| title = Celui par qui le scandale arrive: Entretiens avec Maria Stella Barberi
+ | trans-title = The one by whom scandal arrives: interviews with Maria Stella Barbieri
+ | last = Girard | first = René
+ | year = 2001
+ | language = fr
+ | publisher = Desclée de Brouwer | place = Paris
+ | author-mask = 3
+ | isbn = 978-2-220-05011-9
+}} (English translation: {{Citation
+ | title = The One by Whom Scandal Comes
+ | last = Girard | first = René
+ | publisher = Michigan State University Press | place = East Lansing
+ | year = 2014
+ | author-mask = 3
+}}).
+* 2002. ''{{lang|fr|La Voix méconnue du réel: Une théorie des mythes archaïques et modernes}}''. Paris: Grasset. {{ISBN|978-2-246-61101-1}}.
+* 2003. ''{{lang|fr|Le sacrifice}}''. Paris: {{lang|fr|Bibliothèque nationale de France}}. {{ISBN|978-2-7177-2263-5}}.
+* 2004. ''Oedipus Unbound: Selected Writings on Rivalry and Desire''. Ed. by Mark R. Anspach. Stanford: Stanford University Press. {{ISBN|978-0-8047-4780-6}}.
+* 2006. ''{{lang|it|Verità o fede debole. Dialogo su cristianesimo e relativismo}}''. With {{lang|it|Gianni Vattimo}} (English: ''Truth or Weak Faith). Dialogue about Christianity and Relativism''. With [[Gianni Vattimo]]. {{lang|it|A cura di P. Antonello, Transeuropa Edizioni, Massa}}. {{ISBN|978-88-7580-018-5}}
+* 2006. ''{{lang|de|Wissenschaft und christlicher Glaube}}'' Tübingen: Mohr Siebeck, 2007 {{ISBN|978-3-16-149266-2}} ([http://de.scribd.com/doc/132667279/Rene-Girard-Knowledge-and-the-Christian-Faith-Wissenschaft-und-christlicher-Glaube-Lucas-Preis-2006-ed-2007 online: ''Knowledge and the Christian Faith''])
+* 2007. {{lang|fr|''Dieu, une invention?'' Editions de l'Atelier}}. With {{lang|fr|André Gounelle}} and {{lang|fr|Alain Houziaux}}. {{ISBN|978-2-7082-3922-7}}.
+* 2007. ''{{lang|fr|Le Tragique et la Pitié: Discours de réception de René Girard à l'Académie française et réponse de Michel Serres''. Editions le Pommier}}. {{ISBN|978-2-7465-0320-5}}.
+* 2007. ''{{lang|fr|De la violence à la divinité}}''. Paris: Grasset. (Contains ''{{lang|fr|Mensonge romantique et vérité romanesque}}'', ''{{lang|fr|La violence et le Sacré}}'', ''{{lang|fr|Des choses cachées depuis la fondation du monde}}'' and ''{{lang|fr|Le bouc émissaire}}'', with a new general introduction). {{ISBN|978-2-246-72111-6}}.
+* 2007. {{lang|fr|''Achever Clausewitz''. (Entretiens avec Benoît Chantre)}} Ed. by Carnets Nord. Paris. {{ISBN|978-2-35536-002-2}}.
+* 2008. ''{{lang|fr|Anorexie et désir mimétique}}''. Paris: L'Herne. {{ISBN|978-2-85197-863-9}}.
+* 2008. ''Mimesis and Theory: Essays on Literature and Criticism, 1953-2005''. Ed. by Robert Doran. Stanford: Stanford University Press. {{ISBN|978-0-8047-5580-1}}. This book brings together twenty essays on literature and literary theory.
+* 2008. ''{{lang|fr|La Conversion de l'art}}''. Paris: Carnets Nord. (Book with DVD ''{{lang|fr|Le Sens de l'histoire}}'', a conversation with {{lang|fr|Benoît Chantre}}) {{ISBN|978-2-35536-016-9}}.
+
+==See also==
+* [[Group conflict#Girard|Group conflict]]
+* [[Hypermodernism (art)|Hypermodernism]]
+* [[Hypermodernity]]
+* [[Hyperreality]]
+* [[James George Frazer]]
+* [[Jean Baudrillard]]
+* [[Memetics]]
+* [[Simulacrum]]
+* [[Skeuomorph]] 
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{lang|fr|Aglietta, Michel & Orléan, André: ''La violence de la monnaie''}}. Paris: {{lang|fr|Presses Universitaires de France}} (PUF), 1982. {{ISBN|2-13-037485-9}}.
+* Alison, James (1998). ''The Joy of Being Wrong''. <!--@@todo place-->Herder & Herder. {{ISBN|0-8245-1676-1}}.
+* Anspach, Mark (Ed.; 2008). ''{{lang|fr|René Girard}}''. {{lang|fr|Les Cahiers de l'Herne}} Nr. 89. Paris: L'Herne. {{ISBN|978-2-85197-152-4}}. A collection of articles by {{lang|fr|René Girard}} and a number of other authors.
+* Bailie, Gil (1995). ''Violence Unveiled: Humanity at the Crossroads''. Introduction by René Girard. New York: Crossroad. {{ISBN|0-8245-1645-1}}.
+* Bellinger, Charles (2001). ''The Genealogy of Violence: Reflections on Creation, Freedom, and Evil''. New York: Oxford. {{ISBN|0-19-513498-2}}.
+* Depoortere, Frederiek (2008). ''Christ in Postmodern Philosophy: Gianni Vattimo, Rene Girard, and Slavoj Zizek''. London: Continuum. {{ISBN|0-567-03332-5}}.
+* Doran, Robert (2012). "René Girard's Concept of Conversion and the ''Via Negativa'': Revisiting ''Deceit, Desire and the Novel'' with Jean-Paul Sartre," ''Journal of Religion and Literature'' 43.3, 36-45.
+* Doran, Robert (2011). "René Girard's Archaic Modernity," ''Revista de Comunicação e Cultura / Journal of Communication and Culture'' 11, 37-52.
+* Dumouchel, Paul (Ed.; 1988). ''Violence and Truth: On the Work of René Girard''. Stanford: Stanford University Press. {{ISBN|0-8047-1338-3}}.
+* Fleming, Chris (2004). ''René Girard: Violence and Mimesis''. Cambridge: Polity. {{ISBN|0-7456-2948-2}}. This is an introduction to {{lang|fr|René Girard}}'s work.
+* Girard, René, and Sandor Goodhart. ''For René Girard: Essays in Friendship and in Truth.''  East Lansing: Michigan State University Press, 2009.
+* Golsan, Richard J. (1993). ''René Girard and Myth: An Introduction''. New York & London: Garland. (Reprinted by Routledge, 2002. {{ISBN|0-415-93777-9}}.)
+* Hamerton-Kelly, Robert G. (1991). ''Sacred Violence: Paul's Hermeneutic of the Cross''. <!--@@todo place-->Fortress Press. {{ISBN|0-8006-2529-3}}.
+* Hamerton-Kelly, Robert G. & Johnsen, William (Eds.; 2008). ''Politics & Apocalypse'' (Studies in Violence, Mimesis, and Culture Series). <!--@@todo place-->Michigan State University Press. {{ISBN|978-0-87013-811-9}}.
+* Heim, Mark (2006). ''Saved from Sacrifice: A Theology of the Cross''. Grand Rapids: Eerdmans. {{ISBN|0-8028-3215-6}}.
+* Kirwan, Michael (2004). ''Discovering Girard''. London: Darton, Longman & Todd. {{ISBN|0-232-52526-9}}. This is an introduction to {{lang|fr|René Girard}}'s work.
+* {{lang|fr|Lagarde, François}} (1994). ''{{lang|fr|René Girard ou la christianisation des sciences humaines}}''. New York: Peter Lang. {{ISBN|0-8204-2289-4}}. This book is both an introduction and a critical discussion of Girard's work, starting with Girard's early articles on {{lang|fr|Malraux}} and Saint-John Perse, and ending with ''A Theatre of Envy''.
+* Lawtoo, Nidesh (2013). ''The Phantom of the Ego: Modernism and the Mimetic Unconscious''. East Lansing: Michigan State University Press. {{ISBN|9781609173883}}
+* Livingston, Paisley (1992). ''Models of Desire: René Girard and the Psychology of Mimesis''. Baltimore: The Johns Hopkins University Press. {{ISBN|0-8018-4385-5}}.
+* McKenna, Andrew J. (Ed.; 1985). ''René Girard and Biblical Studies'' ([[Semeia]] 33). <!--@@todo place-->Scholars Press. {{ISBN|99953-876-3-8}}.
+* McKenna, Andrew J. (1992). ''Violence and Difference: Girard, Derrida, and Deconstruction''. <!--@@todo place-->University of Illinois Press. {{ISBN|978-0-252-06202-5}}.
+* Mikolajewska, Barbara (1999). ''Desire Came upon that One in the Beginning... Creation Hymns of the Rig Veda''. 2nd edition. New Haven: The Lintons' Video Press. {{ISBN|0-9659529-1-6}}.
+* Mikolajewska, Barbara & Linton, F. E. J. (2004). ''Good Violence Versus Bad: A Girardian Analysis of King Janamejaya's Snake Sacrifice and Allied Events''. New Haven: The Lintons' Video Press. {{ISBN|978-1-929865-29-1}}.
+* Oughourlian, Jean-Michel.  ''The Puppet of Desire:  The Psychology of Hysteria, Possession, and Hypnosis'', translated with an introduction by Eugene Webb (Stanford: Stanford University Press, 1991).
+* {{lang|fr|Pommier, René}} (2010). ''{{lang|fr|René Girard, un allumé qui se prend pour un phare}}''. Paris: {{lang|fr|Éditions Kimé}}. {{ISBN|978-2-84174-514-2}}.
+* Palaver, Wolfgang (2013). ''René Girard's Mimetic Theory''. East Lansing: Michigan State University Press. {{ISBN|978-1-61186-077-1}}.
+* Swartley, William M. (Ed.; 2000). ''Violence Renounced: Rene Girard, Biblical Studies and Peacemaking''. Telford: Pandora Press. {{ISBN|0-9665021-5-9}}.
+* Tarot, Camille (2008). ''{{lang|fr|Le symbolique et le sacré}}''. Paris: La Découverte. {{ISBN|978-2-7071-5428-6}}. This book discusses eight theories of religion, namely those by {{lang|fr|Émile Durkheim}}, {{lang|fr|Marcel Mauss}}, {{lang|fr|Mircea Eliade}}, {{lang|fr|George Dumézil}}, {{lang|fr|Claude Lévi-Strauss}}, {{lang|fr|René Girard}}, {{lang|fr|Pierre Bourdieu}} and {{lang|fr|Marcel Gauchet}}.
+* Warren, James. ''Compassion or Apocalypse?'' (Winchester UK and Washington, USA: Christian Alternative Books, 2013 {{ISBN|978 1 78279 073 0}})
+* Webb, Eugene. ''Philosophers of Consciousness:  Polanyi, Lonergan, Voegelin, Ricoeur, Girard, Kierkegaard''  (Seattle and London: University of Washington Press, 1988)
+* Webb, Eugene. ''The Self Between: From Freud to the New Social Psychology of France''  (Seattle and London: University of Washington Press, 1993).
+* Wallace, Mark I. & Smith, Theophus H. (1994). ''Curing Violence : Essays on Rene Girard''. <!--@@todo place-->Polebridge Press. {{ISBN|0-944344-43-7}}.
+Williams, James G.  ""The Bible, Violence, and thee Sacred: Liberation from the Myth of Sanctioned Violence (San Francisco: HarperSanFrancisco, 1991)
+* ''To Honor René Girard. Presented on the occasion of his sixtieth birthday by colleagues, students, friends'' (1986). Stanford French and Italian Studies 34. Saratoga, California: Anma Libri. {{ISBN|0-915838-03-6}}. This volume also contains a bibliography of Girard's writings before 1986.
+
+== External links ==
+{{external links|date=November 2015}}
+{{Commons category}}
+{{wikiquote|René Girard}}
+
+=== Bibliography ===
+* [http://www.uibk.ac.at/rgkw/mimdok/suche/index.html.en Girard-Database]: searchable database provided by the University of Innsbruck, Austria. {{small|Accessed 25 November 2008 }}
+* Dietmar Regensburger: [http://www.uibk.ac.at/theol/cover/girard_bibliography.html Bibliography of René Girard]. The most detailed bibliography, ending in 2003. {{small|Accessed 24 November 2008 }}
+* [http://www.morec.com/girard/index.htm The René Girard Bibliography]. A short list of publications. {{small|Accessed 24 November 2008 }}
+
+=== Online videos of Girard ===
+* [http://fora.tv/2009/12/01/Uncommon_Knowledge_Ren_Girard Girard interviewed on "Uncommon Knowledge" at the Hoover Institution]
+* [https://vimeo.com/123072513 l'Immortel: A video short]
+
+=== Interviews, articles and lectures by Girard ===
+In chronological order.
+* {{lang|fr|René Girard}} in {{YouTube|ldSzclrqu7c|{{lang|fr|Apostrophes}}, 16 June 1978, presenting his book ''{{lang|fr|Des choses cachées depuis la fondation du monde}}''}}.
+* {{lang|fr|René Girard}}: "[http://www.firstthings.com/article.php3?id_article=3856 Are the Gospels Mythical?]" in ''First Things: A Journal of Religion, Culture, and Public Life'', April 1996. See also "[http://www.firstthings.com/article.php3?id_article=3900 August/September Letters]" in ''First Things: A Journal of Religion, Culture, and Public Life'', August/ September 1996, for follow-up correspondence. {{small|Accessed 24 November 2008 }}
+* [http://www.uibk.ac.at/theol/cover/girard/videos.html Girard lecture, on Violence, Victims and Christianity (Oxford 1997)] {{small|Accessed 24 November 2008 }}
+* "[http://www.uibk.ac.at/theol/cover/girard/videos.html What Is Occurring Today Is a Mimetic Rivalry on a Planetary Scale]" Interview by Henri Tincq, ''{{lang|fr|Le Monde}}'', November 6, 2001. Translated by Jim Williams. Original title: "{{lang|fr|Ce qui se joue aujourd'hui est une rivalité mimétique à l'échelle planétaire}}".
+* [http://www.touchstonemag.com/archives/article.php?id=16-10-040-i "Violence & the Lamb Slain"]. ''Touchstone: A Journal of Mere Christianity'', December 2003.  A short, accessible introduction to Girardian thought, plus an interview with Girard. {{small|Accessed 24 November 2008 }}
+* [http://www.digitalnpq.org/archive/2005_summer/10_girard.html Ratzinger Is Right] in ''New Perspectives Quarterly (NPQ)'' Volume 22, Number 3 (Summer 2005). On [[Pope Benedict XVI]] and relativism. {{small|Accessed 24 November 2008 }}
+* [http://french-italian.stanford.edu/opinions/girard.html Interviews with Girard] on mimetic desire (Saturday, September 17, 2005) and on ritual, myth, and religion (Tuesday, October 4, 2005) by [[Robert P. Harrison]] on [[Entitled Opinions]]. {{small|Accessed 24 November 2008 }}
+* Robert Doran: [http://muse.jhu.edu/journals/substance/toc/sub37.1.html Apocalyptic Thinking after 9/11: An Interview with René Girard]  [http://www.french-ital.ucsb.edu/substance/ ''SubStance'' 115] (Volume 37, Number 1, 2008). {{small|Accessed 24 November 2008 }}
+* {{fr icon}} [[Centre Pompidou]]: [http://traces-du-sacre.centrepompidou.fr/exposition/autour_exposition.php?id=71 Traces du sacré: René Girard, le sens de l'histoire]. Excerpts from a conversation with [[Benoît Chantre]] (see ''{{lang|fr|La conversion de l'art}}''). {{small|Accessed 24 November 2008 }}
+* Cynthia Haven, [http://alumni.stanford.edu/get/page/magazine/article/?article_id=29620 History is a test. Mankind Is Failing It.], Stanford Magazine, July/ August 2009.
+* Cynthia Haven, [http://news-service.stanford.edu/news/2008/june11/girard-061108.html René Girard: Stanford's provocative ''immortel'' is a one-man institution], Stanford Report, 11 June 2008.
+* Grant Kaplan, [http://www.firstthings.com/onthesquare/2008/11/an-interview-with-rene-girard An Interview with René Girard], in ''First Things: A Journal of Religion, Culture, and Public Life'', November 6, 2008.
+* Cynthia Haven, [http://www.firstthings.com/onthesquare/2009/07/christianity-will-be-victorious-but-only-in-defeat "Christianity Will Be Victorious, But Only In Defeat": An Interview with René Girard], in ''First Things: A Journal of Religion, Culture, and Public Life'', July 16, 2009.
+* René Girard, "[http://www.firstthings.com/article/2009/07/apocalypse-now On War and Apocalypse]" in ''First Things: A Journal of Religion, Culture, and Public Life'', Aug/Sept 2009.
+* [http://www.cbc.ca/ideas/episodes/2011/02/28/the-scapgoat-rene-girards-anthropology-of-violence-and-religion/ The Scapegoat: René Girard's Anthropology of Violence and Religion]: Interview with Girard on CBC's interview program Ideas, Feb 2011
+
+=== Organizations inspired by mimetic theory ===
+* [http://theol.uibk.ac.at/cover/girard.html Colloquium on Violence & Religion]
+* {{lang|fr|[http://www.arm.asso.fr/ Association Recherches Mimétiques]}}, founded in 2006.
+* [http://www.imitatio.com/ Imitatio], founded in 2008. {{small|Accessed 24 November 2008 }}
+* [http://www.ravenfoundation.org/ The Raven Foundation]. This foundation "seeks to promote healing, hope, reconciliation and peace by offering insight into the dynamics of conflict and violence".
+* [http://theologyandpeace.org/ Theology and Peace], founded in 2008. "An emerging movement seeking the transformation of theological practice through the application of mimetic theory".
+* [http://www.preachingpeace.org/ Preaching Peace] founded in 2002 as a website exploring the Christian lectionary from a mimetic theoretical perspective, 2007 organized as a non-profit in Pennsylvania committed to "Educating the church in Jesus' vision of peace."
+
+=== Other resources ===
+* Colloquium on Violence and Religion, Annual Conference 2004: [http://girardianlectionary.net/covr2004/ Nature, Human Nature, and the Mimetic Theory]. Some of the conference papers are available here. {{small|Accessed 24 November 2008}}
+* [[Paul Nuechterlein]]: [http://girardianlectionary.net/ Girardian Reflections on the Lectionary: Understanding the Bible Anew Through the Mimetic Theory of René Girard] {{small|Accessed 24 November 2008}}
+* [[Philippe Cottet]]: [http://www.cottet.org/girard/index.en.htm On René Girard]. Available in French and English. {{small|Accessed 24 November 2008}}
+* [[Thomas A. Michael]]: [http://library.ispso.org/library/how-scapegoat-leader%E2%80%A8-refresher-course-those-who-do-not-need-it How To Scapegoat the Leader. A Refresher Course (for those who do not need it).] An introduction to Girard. {{small|Accessed 26 February 2013}}
+* [[Joseph Bottum (author)|Joseph Bottum]]: "[http://www.firstthings.com/article.php3?id_article=3837 Girard among the Girardians]" in ''First Things: A Journal of Religion, Culture, and Public Life'', March 1996. A review of ''Violence Unveiled'' by Gil Bailie, ''The Sacred Game'' by Cesareo Bandera, ''The Gospel and the Sacred'' by Robert G. Hamerton-Kelly, and ''The Bible, Violence, and the Sacred'' by James G. Williams. {{small|Accessed 24 November 2008}}
+* [[Paolo Diego Bubbio]]: "[http://artsonline.monash.edu.au/colloquy/download/colloquy_issue_nine_/bubbio.pdf Mimetic Theory and Hermeneutics]" in ''Colloquy'' 9 (2005). {{small|Accessed 26 February 2013}}
+* University of St Andrews, UK: [http://www.st-andrews.ac.uk/news/archive/2008/title,22097,en.php Honorary degree - June 2008.] {{small|Accessed 26 February 2013}}
+* [[Gerald J. Biesecker-Mast]]: [http://www.bluffton.edu/~mastg/Girard.htm "Reading Walter Wink's and Rene Girard's Religious Critiques of Violence as Communication Ethics."] National Communication Association Annual Meeting, Chicago, Illinois, November 20–23, 1997.  A short and clear explanation of the thought of Girard (principally) among other similar thoughts about people, violence and society.
+* "[http://www.abc.net.au/rn/philosopherszone/stories/2008/2416020.htm Scapegoats and Sacrifices: Rene Girard]". Australian Broadcasting Commission - Philosopher's Zone. {{small|Accessed 24 November 2008}}
+* [[Trevor Merrill]]: "[http://linguaromana.byu.edu/trevor6.html On War: Apocalypse and Conversion]: Review Article on {{lang|fr|René Girard}}'s ''{{lang|fr|Achever Clausewitz}}'' and {{lang|fr|Jean-Michel Oughourlian}}'s ''{{lang|fr|Genèse du désir}}''" in ''Lingua Romana: a journal of French, Italian and Romanian culture''  Volume 6, number 1 / fall 2007. {{small|Accessed 24 November 2008}}
+* The website [http://www.PreachingPeace.org/ Preaching Peace] contains a number of articles related to {{lang|fr|René Girard}}, for example:
+** [[Per Bjørnar Grande]]: [http://www.preachingpeace.org/documents/Girard_Christology.pdf Girard's Christology] (no date).
+** Per Bjørnar Grande: [http://www.preachingpeace.org/documents/Plato_Girard.pdf Comparing Plato's Understanding of Mimesis to Girard's] (no date).
+** [[Matthew Pattillo]]: [http://www.preachingpeace.org/documents/Patillo_Ellul_Girard.pdf Violence, Anarchy and Scripture: Jacques Ellul and René Girard]. Originally published in ''Contagion: Journal of Violence, Mimesis and Culture'' Vol 11, Spring 2004.{{small|Accessed 12 February 2009}}
+
+{{Académie française Seat 37}}
+{{History of Catholic theology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Girard, Rene}}
+[[Category:1923 births]]
+[[Category:2015 deaths]]
+[[Category:20th-century French philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Commandeurs of the Ordre des Arts et des Lettres]]
+[[Category:Winners of the Prix Broquette-Gonin (literature)]]
+[[Category:Converts to Roman Catholicism]]
+[[Category:Critical theorists]]
+[[Category:Duke University faculty]]
+[[Category:École Nationale des Chartes alumni]]
+[[Category:French Christian pacifists]]
+[[Category:French historians]]
+[[Category:French literary critics]]
+[[Category:French male writers]]
+[[Category:French Roman Catholic writers]]
+[[Category:Hermeneutists]]
+[[Category:Indiana University alumni]]
+[[Category:Members of the Académie française]]
+[[Category:Mythographers]]
+[[Category:People from Avignon]]
+[[Category:Philosophers of social science]]
+[[Category:Prix Médicis essai winners]]
+[[Category:Roman Catholic philosophers]]
+[[Category:Stanford University Department of French and Italian faculty]]

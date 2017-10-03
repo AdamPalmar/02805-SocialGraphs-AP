@@ -1,0 +1,34 @@
+{{Expand Italian|Cesare Brandi|date=February 2011}}
+
+'''Cesare Brandi''' ([[Siena]], 8 April 1906 – Vignano, 19 January 1988) was an art critic and historian, specialist in [[conservation-restoration]] theory.
+
+In 1939 he became the first director of the ''Istituto Centrale per il Restauro'' (Central Institute for Restoration, now the [[Istituto Superiore per la Conservazione ed il Restauro]]) in [[Rome]].<ref>{{Cite web | title = Cesare Brandi | publisher = Dictionary of Art Historians | url = http://www.dictionaryofarthistorians.org/brandic.htm | accessdate = 2011-02-11}}</ref>
+
+His main books on art interpretation are ''Le due vie'' (1966, Bari), and ''Teoria generale della critica'' (1974).<ref name="Prestinenza"/><ref>Gian Biagio Conte, Charles Segal [https://books.google.com/books?id=svEHBagPG_AC ''The rhetoric of imitation: genre and poetic memory in Virgil and other Latin''] p.76</ref> ''Le due vie'' was presented and debated in Rome by [[Roland Barthes]], [[Giulio Carlo Argan]] and Emilio Garroni.<ref name="Prestinenza">Luigi Prestinenza Puglisi, ''Brandi – Teoria generale della critica''</ref> The philosopher he felt mostly closer to was [[Heidegger]], although their positions didn't coincide;<ref name="FasoliInterview"/> for this, he felt also closer to [[Derrida]], particularly to his theorization of [[Différance]].<ref name="FasoliInterview">[http://www.riflessioni.it/conversazioni_fasoli/cesare_brandi.htm ''Critica d'arte e filosofia. Conversazione con Cesare Brandi''] di Doriano Fasoli per Riflessioni.it - Aprile 2007. In Doriano Fasoli ''Riflessioni in forma di conversazioni,'' Interviste a personaggi della cultura italiana e straniera</ref>
+
+In 1963 he published ''Teoria del Restauro'', a landmark theoretical essay on restoration. His theory gave rise to 'trateggio,' a controversial technique for repainting missing or damaged sections of works of art.<ref>{{Citation | last1 = Burnett | first1 = D. Graham | title = Facing the Unknown | publisher = [[Cabinet Magazine]] | url = http://cabinetmagazine.org/issues/40/burnett.php}}</ref>
+
+His broad practical experience and his phenomenological references ranging from Plato to Kant, passing through Benedetto Croce, Martin Heidegger, Jean-Paul Sartre, Bergson and especially Edmund Husserl and Hegel, culminated in what became known as Theory of Critical Restoration, Whose main work (Theory of Restoration) refers to 1963. His proposals had a great influence in the Italian Restoration Letter of 1972 and, consequently, in the current practice of restoration around the world.<ref>{{Cite journal|last=Fernanda Heloisa do Carmo, Henrique Vichnewski, João Luiz Passador, Leonardo Augusto Amaral Terra|first=|year=2016|title=Uma releitura da teoria do restauro crítico sob a ótica da fenomenologia|url=http://www.vitruvius.com.br/revistas/read/arquitextos/16.189/5946|journal=Arquitextos Vitruvius|volume=16|pages=|via=}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.dictionaryofarthistorians.org/brandic.htm ‘Cesare Brandi’], dictionaryofarthistorians.org
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brandi, Cesare}}
+[[Category:1906 births]]
+[[Category:1988 deaths]]
+[[Category:Italian art historians]]
+[[Category:Italian art critics]]
+[[Category:Italian essayists]]
+[[Category:Italian male writers]]
+[[Category:Conservator-restorers]]
+[[Category:20th-century historians]]
+[[Category:Male essayists]]
+[[Category:20th-century essayists]]
+
+
+{{Italy-art-historian-stub}}

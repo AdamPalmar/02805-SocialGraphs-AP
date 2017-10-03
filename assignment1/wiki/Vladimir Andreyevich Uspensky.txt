@@ -1,0 +1,59 @@
+{{BLP primary sources|date=August 2012}}
+{{distinguish|J. V. Uspensky}}
+{{Infobox scholar
+| image            = Vladimir-uspensky.jpg
+| image_size       = 
+| alt              = 
+| caption          = 
+| name             = Vladimir Andreevich Uspensky
+| fullname         = 
+| other_names      = Vladimir Uspensky, Uspenski, Uspenskii, Uspenskij, Ouspenski, Uspenskiy
+| birth_date       = 11/27/1930
+| birth_place      = Moscow, USSR
+| death_date       = 
+| death_place      = 
+| era              = 
+| region           = Russia
+| school_tradition = 
+| main_interests   = Foundation of mathematics, mathematical logic, computability theory, mathematical linguistics
+| notable_ideas    = 
+| major_works      = 
+| influences       = 
+| influenced       = 
+}}
+
+'''Vladimir A. Uspensky''' (Russian: Влади́мир Андре́евич Успе́нский; born November 27, 1930, [[Moscow]]) is a Russian [[mathematician]], linguist, writer, doctor of physics and mathematics (1964). He is the author of numerous papers on mathematical logic and linguistics. In addition, he has also penned a number of memoir essays. Uspensky initiated a reform of linguistic education in Russia.
+
+== Biography ==
+
+Uspensky graduated in 1952 from the [[MSU Faculty of Mechanics and Mathematics]] [[Moscow State University|(Lomonosov Moscow State University)]]. He was a student of [[Andrey Kolmogorov]]. He is the head of the Chair of Mathematical Logic and Theory of Algorithms in the [[MSU Faculty of Mechanics and Mathematics]] (1995) and one of the founders of the Structural Linguistics branch (now the Theoretical and Applied Linguistics branch) in the [[MSU Faculty of Philology]], where he also teaches.
+He is the author of many books and of over 100 research papers. He has prepared 25 candidates and 4 doctors of sciences. His book "The Apology of Mathematics" received in 2010 the “Enlightener" award in the field of natural and exact sciences. He is a distinguished professor at the Moscow State University (1998).
+His brother [[Boris Uspensky]] is a distinguished Russian philologist and mythographer.
+
+==References==
+*[http://www.mccme.ru/free-books/usp.htm V.A. Uspensky. Труды по нематематике. М.: ОГИ, 2002, т. I—II.] {{ISBN|5-94282-087-2}} (т.1), {{ISBN|5-94282-088-0}} (т.2)
+* [http://elementy.ru/lib/430915 Chapter from the book "Апология математики"]
+* [http://a-bugaev.chat.ru/uspensky.html V.A. Uspensky: Seven reflections on the themes of philosophy of mathematics]
+* [http://www.premiaprosvetitel.ru/news/view/?82 V.A. Uspensky: Lecture on mathematics as part of the culture, and the Poincare conjecture]
+
+==External links==
+* [http://genealogy.math.ndsu.nodak.edu/id.php?id=17546 Mathematics Genealogy Project entry]
+* [http://lpcs.math.msu.su/~uspensky/index.htm MSU home page]
+* [http://dynkincollection.library.cornell.edu/biographies/925 Dynkin Collection entry with video interviews]
+* [http://magazines.russ.ru/authors/u/uspenskij/ Russian listing of publications]
+* [http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=20219 Math-Net.ru list of publications, including video lectures]
+
+{{Authority control}}
+{{DEFAULTSORT:Uspensky, Vladimir}}
+[[Category:Living people]]
+[[Category:1930 births]]
+[[Category:Linguists from Russia]]
+[[Category:Russian mathematicians]]
+[[Category:Russian non-fiction writers]]
+[[Category:Writers from Moscow]]
+[[Category:Moscow State University alumni]]
+[[Category:Moscow State University faculty]]
+[[Category:Soviet mathematicians]]
+
+{{Russia-mathematician-stub}}
+{{russia-linguist-stub}}

@@ -1,0 +1,99 @@
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox philosopher
+| region           = Western philosophy 
+| era              = [[20th-century philosophy]]
+| image            = 
+| caption          =
+| name             = G. A. Cohen
+| birth_date       = {{birth date|df=yes|1941|4|14}}
+| birth_place      = [[Montreal]], [[Quebec]], Canada
+| death_date       = {{death date and age|df=yes|2009|8|5|1941|4|14}}
+| death_place      = [[Oxford]], [[England]], United Kingdom
+| school_tradition = [[Analytic philosophy]]<br>[[Analytical Marxism]]<br>[[Left-libertarianism]]<ref>[[Peter Vallentyne|Vallentyne, Peter]] (2014). "[http://plato.stanford.edu/entries/libertarianism/ Libertarianism]". In ''[[Stanford Encyclopedia of Philosophy]]''. [[Stanford University]].</ref><br>[[Egalitarianism]]
+| main_interests   = [[Political philosophy]], ethics, [[philosophy of history]], [[social theory]]
+| notable_ideas    = Strict difference principle, egalitarian ethos 
+| influences       = [[Karl Marx]], [[Gilbert Ryle]], [[Isaiah Berlin]]
+| influenced       = [[Will Kymlicka]], [[Jonathan Wolff (philosopher)|Jonathan Wolff]], [[Michael Otsuka]], [[Alan Carter (philosopher)|Alan Carter]], [[John McMurtry]]
+}}
+
+'''Gerald Allan''' "'''Jerry'''" '''Cohen''', [[Fellow of the British Academy|FBA]] ({{IPAc-en|ˈ|k|oʊ|ən}}; 14 April 1941 – 5 August 2009) was a [[Marxism|Marxist]] [[political philosophy|political philosopher]] who held the positions of [[Quain Professor|Quain Professor of Jurisprudence]], [[UCL Law|University College London]] and [[Chichele Professor of Social and Political Theory]], [[All Souls College, Oxford]].
+
+== Life and career ==
+Born into a communist family in [[Montreal]], Cohen was educated at [[McGill University]], Canada (BA, philosophy and political science) and the [[University of Oxford]] (BPhil, philosophy) where he studied under [[Isaiah Berlin]] and [[Gilbert Ryle]].
+
+Cohen was assistant lecturer (1963–1964), lecturer (1964–1979) then reader (1979–1984) in the Department of Philosophy at [[University College London]], before being appointed to the Chichele chair at Oxford in 1985.  Several of his students, such as [[Simon Caney]], [[Alan Carter (philosopher)|Alan Carter]], [[Cécile Fabre]], [[Will Kymlicka]], [[John McMurtry]], David Leopold, [[Michael Otsuka]], [[Seana Shiffrin]], [[Jonathan Wolff (philosopher)|Jonathan Wolff]] and [[Michael E. Rosen]] have gone on to be important moral and political philosophers in their own right, while another, [[Ricky Gervais]], has pursued a successful career in comedy.
+
+Known as a proponent of [[Analytical Marxism]] and a founding member of the [[September Group]], Cohen's 1978 work ''[[Karl Marx's Theory of History: A Defence]]'' defends an interpretation of [[Karl Marx|Marx's]] [[historical materialism]] often referred to as '[[technological determinism]]' by its critics.<ref name="Singer">{{cite book |author=Singer, Peter |title=Marx: A Very Short Introduction |publisher=Oxford University Press |location=Oxford |year=2000 |page=105 |isbn=0-19-285405-4 |oclc= |doi= |accessdate=}}</ref> In ''Self-Ownership, Freedom, and Equality'', Cohen offers an extensive moral argument in favour of socialism, contrasting his views with those of [[John Rawls]] and [[Robert Nozick]], by articulating an extensive critique of the [[Lockean]] principle of [[self-ownership]] as well as the use of that principle to defend [[Right-libertarianism|right]] &ndash; as well as [[Left-libertarianism|left]] &ndash; [[libertarianism]]. In ''If You're an Egalitarian, How Come You're So Rich?'' (which covers the topic of his [[Gifford Lectures]]) Cohen addresses the question of what [[Egalitarianism|egalitarian]] political principles imply for the personal behaviour of those who subscribe to them.
+
+Cohen was close friends with Marxist political philosopher [[Marshall Berman]].
+
+==Works==
+*''[[Karl Marx's Theory of History: A Defence]]'' (1978, 2000)
+*''[[History, Labour, and Freedom]]'' (1988)
+*{{cite book|last=|first=|title=Self-Ownership, Freedom, and Equality|year=1995|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-5214-7174-9|oclc=612482692}} 
+*''If You're an Egalitarian, How Come You're So Rich?'' (2000)
+*Chapter in ''Dworkin and his Critics, with replies by Dworkin'' (2004)
+*''Rescuing Justice and Equality'' (2008)
+*''Why Not Socialism?'' (2009) [Trad. esp.: ''¿Por qué no el socialismo?'', Buenos Aires/Madrid, Katz editores, 2011, {{ISBN|978-84-92946-13-6}}]
+*''On the Currency of Egalitarian Justice, and Other Essays in Political Philosophy'' (2011)
+*''Finding Oneself in the Other'' (2012)
+*''Lectures on the History of Moral and Political Philosophy'' (2013)
+
+==See also==
+*[[List of people from Montreal]]
+*[[Luck egalitarianism]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*''The Egalitarian Conscience: Essays in Honour of G. A. Cohen'' (2006); edited by Christine Sypnowich
+*{{Citation | last = Tomey | first = Simon | contribution = An interview with Jerry Cohen. | editor-last = Browning | editor-first = Gary | editor2-last = Dimova-Cookson | editor2-first = Maria | editor-last3 = Prokhovnik | editor-first3 = Raia | editorlink3 = Raia Prokhovnik | title = Dialogues with contemporary political theorists | pages = 74–85 | publisher = Palgrave Macmillan | location = Houndsmill, Basingstoke, Hampshire New York | year = 2012 | isbn = 9780230303058 }}
+* {{Cite book |last= Vrousalis |first= Nicholas |date= |title= The Political Philosophy of G.A. Cohen |url= http://www.bloomsbury.com/us/the-political-philosophy-of-g-a-cohen-9781472532701/ |location= |publisher= Bloomsbury |page= |isbn=9781472532701}}
+* {{Cite journal | last = Robeyns | first = Ingrid | author-link = Ingrid Robeyns | title = On G.A. Cohen’s "On the currency of egalitarian justice" | journal = [[Ethics (journal)|Ethics]] | volume = 125 | issue = 4 | pages = 1132–1135 | publisher = [[Chicago University Press|Chicago Journals]] via [[JSTOR]] | doi = 10.1086/680879 | jstor = 10.1086/680879  | date = July 2015 | url = https://dx.doi.org/10.1086/680879 | ref = harv | postscript = .}}
+
+==External links==
+{{wikiquote}}
+* [http://socialiststudies.com/issue/view/1644 Socialist Studies Special Edition on the Life and Work of G.A. Cohen]
+* [http://eis.bris.ac.uk/~plcdib/imprints/gacoheninterview.html Imprints interview]
+* [http://tannerlectures.utah.edu/_documents/a-to-z/c/cohen92.pdf  Cohen's Tanner Lectures:  "Incentives, Inequality, and Community"]
+* [http://nigelwarburton.typepad.com/philosophy_bites/2007/12/ga-cohen-on-ine.html Cohen interview at Philosophy Bites (mp3 audio)]
+* [http://thethirdestate.net/2009/08/g-a-cohen-rip/ Obituary to Gerald Cohen at ''The Third Estate'']
+* [http://mrzine.monthlyreview.org/farmelant080809.html Obituary in ''The Monthly Review'']
+* [http://www.timesonline.co.uk/tol/comment/obituaries/article6790514.ece Obituary in ''The Times'']
+* [https://www.theguardian.com/world/2009/aug/10/ga-cohen-obituary Obituary in ''The Guardian'']
+* [https://www.independent.co.uk/news/obituaries/professor-jerry-cohen-maverick-philosopher-who-subjected-marxism-to-the-rigours-of-analytical-philosophy-1770667.html Obituary in ''The Independent'']
+* [http://www.socialistworker.co.uk/art.php?id=18754 ''Remembering Jerry Cohen: A Tribute'' in ''Socialist Worker'']
+* [http://www.oxonianreview.org/wp/you-and-i-and-a-whole-bunch-of-other-people-go-on-a-camping-trip/ Review of ''Why Not Socialism?'' in ''The Oxonian Review'']
+* [http://www.springerlink.com/content/m2r12563j5v0/ ''Journal of Ethics'' volume for Jerry Cohen]
+* {{YouTube|yA9WPQeow9c|Cohen ''Against Capitalism'' on Channel 4}}
+
+{{September group}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cohen, Gerald}}
+[[Category:1941 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Academics of University College London]]
+[[Category:Anglophone Quebec people]]
+[[Category:British Jews]]
+[[Category:British Marxists]]
+[[Category:British political philosophers]]
+[[Category:British political theorists]]
+[[Category:Canadian Marxists]]
+[[Category:Canadian political philosophers]]
+[[Category:Canadian political theorists]]
+[[Category:Jewish Canadian writers]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish socialists]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:Marxist theorists]]
+[[Category:McGill University alumni]]
+[[Category:Scholars of Marxism]]
+[[Category:Chichele Professors of Social and Political Theory]]
+[[Category:Writers from Montreal]]
+[[Category:Fellows of the British Academy]]

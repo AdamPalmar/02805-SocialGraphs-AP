@@ -1,0 +1,52 @@
+{{for|the educational theorist|David A. Kolb}}
+'''David Kolb''' (born 1939<ref>{{cite LAF|id=n85-374118}}</ref>) is an American philosopher and the [[Charles A. Dana (philanthropist)|Charles A. Dana]] Professor Emeritus of Philosophy at [[Bates College]] in [[Maine]].
+
+Kolb received a B.A. from [[Fordham University]] in 1963 and an M.A. in 1965.  He later received a M.Phil. from [[Yale University]] in 1970 and a Ph.D. in 1972.  Kolb's Dissertation was titled "Conceptual Pluralism and Rationality." Most of Kolb's writing deals with "what it means to live with historical connections and traditions at a time when we can no longer be totally defined by that history."  Professor Kolb taught at the [[University of Chicago]] before moving to Bates in 1977 and teaching there until 2005, when he took emeritus status.
+
+==Works==
+Kolb has written many articles and published several books including:
+*''The Critique of Pure Modernity: [[Hegel]], [[Heidegger]], and After'', 1987
+*''Postmodern Sophistications: Philosophy, Architecture, and Tradition'', 1990
+*''New Perspectives on Hegel's Philosophy of Religion'', 1992
+*''Socrates in the Labyrinth: Hypertext, Argument, Philosophy'', 1994
+*''Sprawling Places'', 2008
+
+==See also==
+*[[American philosophy]]
+*[[List of Bates College people]]
+*[[Lists of philosophers]]
+*[[List of American philosophers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.dkolb.org/ dkolb.org]
+*[http://www.bates.edu bates.edu]
+*{{worldcat id|lccn-n85-374118}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kolb, David}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American political philosophers]]
+[[Category:American political theorists]]
+[[Category:Moral philosophers]]
+[[Category:Social philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Bates College faculty]]
+[[Category:Yale University alumni]]
+[[Category:Fordham University alumni]]
+[[Category:Hegelian philosophers]]
+[[Category:Idealists]]
+[[Category:American logicians]]
+[[Category:Romanticism]]
+[[Category:Theories of history]]
+[[Category:Philosophy teachers]]
+[[Category:American metaphysics writers]]
+
+
+{{US-philosopher-stub}}

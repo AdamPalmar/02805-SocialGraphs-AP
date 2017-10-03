@@ -1,0 +1,64 @@
+{{refimprove|date=October 2013}}
+
+{{Infobox philosopher
+| name             = Otto Casmann
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       =
+| birth_date       = {{Birth-year|1562}} 
+| birth_place      = [[Warburg]], [[Germany]]
+| death_date       = {{Death year and age|1607|1562|}} 
+| death_place      = [[Stade]], [[Germany]]
+| death_cause      =
+| residence        = [[Germany]]
+| nationality      = [[Germany|German]]  
+| era              = [[Renaissance Humanism]]
+| region           = 
+| religion         =[[Protestantism]] <br /> (earlier, [[Catholicism]])
+| school_tradition = 
+| main_interests   = [[Philosophy]]<br /> [[Theology]]<br /> [[Anthropology]]<br /> [[Psychology]]
+| books            = ''Psychologia Anthropologica'' <br /> (2 volumes)
+| alma_mater       = [[University of Marburg]]<br />[[University of Helmstedt]]<br />[[University of Heidelberg]]
+| institutions     = 
+| notable_ideas    = Coined definition of [[anthropology]]
+| influences       = 
+| influenced       = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| signature_size   = 
+| website          = <!-- {{URL|example.com}} -->
+}}
+
+'''Otto Casmann''' (1562 - 1 August 1607)<ref name="Vidal2011">{{cite book|author=Fernando Vidal|title=The Sciences of the Soul: The Early Modern Origins of Psychology|url=https://books.google.com/books?id=4SS0fcbm3xMC&pg=PA55|date=1 December 2011|publisher=University of Chicago Press|isbn=978-0-226-85588-2|pages=55}}</ref> (also known by the Latinized name ''Casmannus'') was a [[Germans|German]] [[Renaissance Humanist|humanist]] who converted from [[Catholicism]] to [[Protestantism]] as a young man.
+
+==Biography==
+Casmann started studying philosophy at the [[University of Marburg]] in 1581 under the guidance of [[Rudolf Goclenius]] the Elder.  From September 1582 he studied [[philosophy]] and [[theology]] at the [[University of Helmstedt]], where he earned a [[Magister (degree)|Magister]] degree. In 1587, he enrolled at the [[University of Heidelberg]].
+
+Casmann started teaching at Helmstedt, where he gave lectures on [[logic]] in which he clearly spoke out against the teachings of the Aristotelian system. In 1589, Casmann joined the [[Schüttorf]] Trivial School, which in 1591 was moved to [[Steinfurt]] and expanded to the academic ''Gymnasium Illustre''. At Steinfurt he taught philosophy and anthropology. In 1594, Casmann obtained an appointment for the post of rector in [[Stade]], where the City Council had set up a ''[[Gymnasium (school)|Gymnasium]]''. In Stade, Casmann taught philosophy and theology, specializing in logic and [[natural philosophy]].
+
+Otto Casmann died on 1 August 1607 in Stade when he was 45 years old. He was survived by his wife and three daughters.
+
+==Anthropology and psychology==
+Casmann is important to the history of [[anthropology]] and [[psychology]].  He began the separation of these two subjects from the [[Aristotelianism|Aristotelian]] framework of [[metaphysics]], becoming a classical representative of the secularization of science in the early modern period. During his time at Steinfurt he produced the work ''Psychologia Anthropologica, sive doctrina animae Humanae'' (Hanau, 1594). There he consolidated the use of the term "anthropology" coined by [[Magnus Hundt]] (1449-1519).  During his time in Stade, he wrote the second volume of ''Psychologia Anthropologica'' (Hanau, 1596) in which he described the construction of the human body. In 1594, Casmann defined anthropology as "the doctrine of human nature. Human nature is an essence partaking of two worlds, the spiritual and the corporeal, yet united in one vehicle."<ref>In Latin: ''Anthropologia est doctrina humanae naturae. Humana natura est geminae naturae mundanae, spiritualis et corpareae, in unum hyphistamenon unitae particeps essentia''. See {{cite book|title=Being Humans: Anthropological Universality and Particularity in Transdisciplinary Perspectives |url=https://books.google.com/books?id=Hp8fRboVi1MC&pg=PA27&lpg=PA27&dq=hyphistamenon+anthropology&source=bl&ots=wK0EKTuXRv&sig=IHd3BqdtkTotqvF1L69TbbeQ-xc&hl=de&sa=X&ei=KBADUpuyN9DFtAa6-oCIDQ&ved=0CFsQ6AEwBQ#v=onepage&q=hyphistamenon%20anthropology&f=false |chapter=Anthropological universality. On the validity of generalizations about human nature |editor-last=Roughley |editor-first=Neil |first=Justin |last=Stagl |publisher=Walter de Gruyter |year=2000 |isbn=9783110169744 |page=27}}</ref> This definition is still considered valid today.
+
+== Notes ==
+{{reflist}}
+
+== References ==
+
+* D. Mahnke: ''Rektor Casmann in Stade: ein vergessener Gegner aristotelischer Philosophie und Naturwissenschaftler im 16. Jahrhundert'' (Rector Casmann in Stade: a forgotten opponent of Aristotelian philosophy and a natural scientist in the 16th  century). Archiv für die Geschichte der Naturwissenschaft und der Technik, 5 (1913), 183-97, 226-40, 352-63
+* {{Allgemeine Deutsche Biographie|4|54|54|Casmann, Otto|Arthur Richter|ADB:Casmann, Otto}}
+
+== External links ==
+* [https://web.archive.org/web/20071009073741/http://www.stenvorde.de/professoren/otto_casmann.html Biography of Otto Casmann]
+
+{{Authority control}}
+[[Category:16th-century philosophers]]
+[[Category:German philosophers]]
+[[Category:1562 births]]
+[[Category:1607 deaths]]
+[[Category:German male writers]]

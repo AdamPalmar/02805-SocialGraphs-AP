@@ -1,0 +1,62 @@
+[[File:Franco Petri Burgersdijk.jpg|thumb|Franco Burgersdijk.]]
+[[File:Burgersdijk.jpg|thumb|''Idea philosophiae naturalis'' <br>(Leiden, Elzevier, 1635)]]
+'''Franco Petri Burgersdijk''' or '''Franciscus Burgersdicius''', born '''Franck Pieterszoon Burgersdijk''' (3 May 1590 &ndash; 19 February 1635), was a [[Netherlands|Dutch]] [[logician]].
+
+==Life==
+Burgersdijk was born in [[De Lier]].  He was a student of Jacchaeus ([[Gilbert Jack]]).<ref>http://genealogy.math.ndsu.nodak.edu/id.php?id=114992</ref> Burgersdijk finished his studies at the [[University of Leiden]] in 1610. He left to further study [[theology]] at the [[Saumur|University of Saumur]], where he became professor of [[philosophy]] in 1614. After five years he returned to [[Leiden]], where he accepted the chair of [[logic]] and moral philosophy, and afterwards that of [[natural philosophy]].  He died in Leiden.
+
+==Works==
+[[File:Burgersdijk, Franco – Idea philosophiae moralis, 1644 – BEIC 1234619.jpg|thumb|''Idea philosophiae moralis'', 1644]]
+
+* {{Cite book
+| publisher = Bonaventura Elzevier, Abraham Elzevier
+| language = la
+| title = Institutionum logicarum libri duo
+| date = 1626
+}}
+* {{Cite book
+| publisher = Bonaventura Elzevier, Abraham Elzevier
+| language = la
+| title = Idea philosophiae moralis
+| date = 1644
+| url = http://gutenberg.beic.it/webclient/DeliveryManager?pid=1234619
+}}
+* {{Cite book
+| publisher = Bonaventura Elzevier, Abraham Elzevier
+| language = la
+| title =Institutionum metaphysicarum libri duo
+| date = 1647
+}}
+* {{Cite book
+| publisher = Bonaventura Elzevier, Abraham Elzevier
+| language = la
+| title = Idea philosophiae naturalis, sive Methodus definitionum et controversiarum phisicarum
+| date = 1652
+| url = http://gutenberg.beic.it/webclient/DeliveryManager?pid=77503
+}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Egbert P. Bos, ''Franco Burgersdijk (1590-1635) Neo-aristotelian in Leiden'', Editions Rodopi 1993, {{ISBN|90-5183-374-1}}.
+
+;Attribution
+*{{EB1911|wstitle=Burgersdyk, Francis}}
+
+==External links==
+*{{prdl|177}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burgersdijk, Franco}}
+[[Category:1590 births]]
+[[Category:1635 deaths]]
+[[Category:Dutch logicians]]
+[[Category:17th-century Dutch philosophers]]
+[[Category:Leiden University faculty]]
+[[Category:Leiden University alumni]]
+[[Category:People from De Lier]]
+
+
+{{Netherlands-philosopher-stub}}

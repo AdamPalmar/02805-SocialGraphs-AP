@@ -1,0 +1,29 @@
+{{for|the last emperor of Han|Emperor Xian of Han}}
+
+
+'''Liu Xie''' ({{zh|c=劉勰|p=Liú Xié}}, fl. 5th century), [[courtesy name]] '''Yanhe''' (彦和), was a [[Chinese people|Chinese]] [[List of Chinese writers|writer]]. He was the author of [[China]]'s greatest work of literary [[aesthetics]], ''[[The Literary Mind and the Carving of Dragons]]'' 《文心雕龍》. His biography is included in the ''[[Liangshu]]''. 
+
+A native of today's [[Zhenjiang]], Liu's traced his ancestry to [[Shandong]]. He was orphaned in his youth and chose not to marry, either because of poverty or conviction (or both). Liu studied [[Buddhism]] with [[Sengyou]] and helped edit [[sutra]]s at the [[Dinglin Monastery]] (定林寺) until his death during the [[Liang Dynasty]].
+
+==References==
+{{Chinesetext}}
+* Yang, Mingzhao, [http://203.72.198.245/web/Content.asp?ID=64190&Query=1 "Liu Xie"]. ''[[Encyclopedia of China]]'' (Chinese Literature Edition), 1st ed.
+
+==External links==
+* {{Gutenberg author | id=Liu,+Xie | name=Xie Liu}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Liu, Xie}}
+[[Category:Chinese spiritual writers]]
+[[Category:Southern Qi Buddhists]]
+[[Category:Liang dynasty Buddhists]]
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]
+[[Category:Chinese Buddhist monks]]
+[[Category:Liang dynasty politicians]]
+[[Category:Liang dynasty writers]]
+[[Category:Writers from Zhenjiang]]
+
+
+{{China-writer-stub}}

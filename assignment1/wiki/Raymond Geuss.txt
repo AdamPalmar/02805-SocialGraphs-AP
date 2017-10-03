@@ -1,0 +1,70 @@
+{{BLP sources|date=June 2009}}
+{{Infobox philosopher 
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| image_name       =
+| caption          = 
+| name             = Raymond Geuss
+| birth_date       = {{birth date and age|mf=y|1946|12|10}} 
+| birth_place      = [[Evansville, Indiana|Evansville]], [[Indiana]], [[United States|USA]]
+| alma_mater       = [[Columbia University]]
+| school_tradition = [[Continental philosophy|Continental]], [[critical theory]]
+| main_interests   = [[Ethics]], [[political philosophy]], [[philosophy of history]], [[intellectual history]]
+| influences       = [[Theodor W. Adorno|Adorno]], [[Georg Hegel|Hegel]], [[Herbert Marcuse|Marcuse]], [[Karl Marx|Marx]], [[Friedrich Nietzsche|Nietzsche]], [[John Dewey|Dewey]], [[Bernard Williams|Williams]]
+| influenced       = 
+| notable_ideas    =
+}}
+'''Raymond Geuss''' ({{IPAc-en|g|ɔɪ|s}}; born 1946), Emeritus Professor in the [[Faculty of philosophy cambridge|Faculty of Philosophy]], [[University of Cambridge]], is a political philosopher and scholar of 19th and 20th century [[European philosophy]]. Geuss is primarily known for three reasons: his early account of ideology critique in ''The Idea of a Critical Theory''; a recent collection of works instrumental to the emergence of Political Realism in Anglophone political philosophy over the last decade, including ''[[Philosophy and Real Politics]]''; and a variety of free-standing essays on issues including aesthetics, Nietzsche, contextualism, phenomenology, intellectual history, culture and ancient philosophy.
+
+==Life==
+Geuss took both his undergraduate (B.A., ''[[summa cum laude]]'', 1966) and graduate (Ph.D., 1971) degrees at [[Columbia University]], where he wrote his thesis under the direction of [[Robert Denoon Cumming]], but was also greatly influenced by [[Sidney Morgenbesser]]. He taught at [[Princeton University]], [[Columbia University]], and [[University of Chicago]] in the [[United States]] and at [[Ruprecht Karl University of Heidelberg|Heidelberg]] and [[Albert Ludwigs University of Freiburg|Freiburg]] in Germany before taking up a lecturing post at Cambridge in 1993. In 2000 he became a naturalised British citizen.<ref>[http://www.phil.cam.ac.uk/teaching_staff/geuss/cvsimplex.pdf Raymond Geuss - CV]</ref>  He was elected a Fellow of the [[British Academy]] in 2011.<ref>http://www.britac.ac.uk/fellowship/elections/2011.cfm</ref>
+
+Geuss has supervised the graduate work of several prominent scholars working in the history of continental philosophy, social and political philosophy and in the philosophy of art.
+
+==Work==
+To date Geuss has published nine books of philosophy, of which four are collections of essays. They are: ''The Idea of a [[Critical Theory]]: [[Habermas]] and the [[Frankfurt School]]''; ''Morality, Culture, and History''; ''Public Goods, Private Goods''; ''History and Illusion in Politics''; ''Glueck und Politik''; ''Outside Ethics'', ''[[Philosophy and Real Politics]],'' ''Politics and the Imagination,'' ''A World without Why'', and ''Reality and its Dreams'', which has just appeared from Harvard University Press. He has also co-edited two critical editions of works of [[Nietzsche]], ''The Birth of Tragedy'' and ''Writings from the Early Notebooks.'' Together with [[Quentin Skinner]], Geuss co-edits the ''Cambridge Texts in the History of Political Thought'' series of books. Geuss has also published two collections of translations/adaptations of poetry from Ancient Greek, Latin and Old High German texts.
+
+==Reception==
+[[Alasdair MacIntyre]] has written the following about Geuss:<ref>https://ndpr.nd.edu/news/24977-outside-ethics/</ref>
+
+{{quote |text = No one among contemporary moral and political philosophers writes better essays than Raymond Geuss. His prose is crisp, elegant, and lucid. His arguments are to the point. And, by inviting us to reconsider what we have hitherto taken for granted, he puts in question not just this or that particular philosophical thesis, but some of the larger projects in which we are engaged. Often enough Geuss does this with remarkable economy, provoking us into first making his questions our own and then discovering how difficult it is to answer them.}}
+
+==Books==
+* ''The Idea of a Critical Theory'' (1981)
+* ''Morality, Culture, and History'' (1999)
+* ''Parrots, Poets, Philosophers, & Good Advice'' (1999)
+* ''At Cross Purposes'' (2001) 
+* ''History and Illusion in Politics'' (2001)
+* ''Public Goods, Private Goods'' (2001)
+* ''Glueck und Politik'' (2004)
+* ''Outside Ethics'' (2005)
+* ''[[Philosophy and Real Politics]]'' (2008)
+* ''Politics and the Imagination'' (2010)
+* ''A World Without Why'' (2014)
+* ''Reality and its Dreams'' (2016)
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+*[http://www.phil.cam.ac.uk/people/teaching-research-pages/geuss/geuss-page Raymond Geuss's home page]
+*[http://cdn1.libsyn.com/philosophybites/Raymond_Geuss_on_Real_Politics.mp3?nvb=20081019214502&nva=20081020214502&t=0b91fc91c894f6a26481e Philosophy Bites podcast interview with Raymond Geuss on Real Politics]
+*[http://philosophybites.com/2010/05/raymond-geuss-on-realism-in-political-philosophy.html Philosophy Bites podcast interview with Raymond Geuss on realism and utopianism in political philosophy]
+*[http://ias.umn.edu/2010/05/06/geuss-raymond-2/ Realism, Wishful Thinking, and Utopia: A talk by Raymond Geuss, May 6, 2010 at the Institute for Advanced Study, University of Minnesota]
+*[http://ias.umn.edu/2010/05/06/geuss-raymond/ Interview with Peter Shea, Institute for Advanced Study, University of Minnesota]
+*[http://www.bu.edu/arion/files/2010/03/Geuss-on-Rorty.pdf Richard Rorty at Princeton: Personal Recollections], Raymond Geuss in [[Arion (journal)|Arion]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Geuss, Raymond}}
+[[Category:Living people]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:English philosophers]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:1946 births]]
+[[Category:Columbia University alumni]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:American emigrants to England]]
+[[Category:People from Evansville, Indiana]]

@@ -1,0 +1,86 @@
+{{Infobox scientist
+|name              = Leo A. Harrington
+|image             = Leo Harrington.jpg
+|image_size       = 
+|caption           = 
+|birth_date        = {{b-da|May 17, 1946}}
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = [[United States]]
+|nationality       = 
+|ethnicity         = 
+|field             = [[Mathematics]]
+|work_institutions = [[University of California, Berkeley]]
+|alma_mater        = [[Massachusetts Institute of Technology|MIT]]
+|doctoral_advisor  = [[Gerald E. Sacks]]
+|doctoral_students = 
+|known_for         = 
+|influences        = 
+|influenced        = 
+|prizes            = 
+|religion          = 
+|footnotes         = 
+}}
+'''Leo Anthony Harrington''' (born May 17, 1946) is a professor of mathematics at the [[University of California, Berkeley]] who works in 
+[[recursion theory]], [[model theory]], and [[set theory]].
+
+* Harrington and [[Jeff Paris]] proved the [[Paris–Harrington theorem]].<ref name=Paris>{{Citation
+ | first = J.
+ | last = Paris
+ | first2 = L.
+ | last2 = Harrington
+ | contribution = A Mathematical Incompleteness in Peano Arithmetic
+ | editor-first = J.
+ | editor-last = Barwise
+ | editor-link = Jon Barwise
+ | year = 1977
+ | title = Handbook of Mathematical Logic
+ | pages = 1133–1142
+ | publisher = North-Holland
+}}</ref>
+
+* Harrington showed that if the [[Determinacy|Axiom of Determinacy]] holds for all [[analytic set]]s then [[Zero sharp#Other sharps|x<sup>#</sup>]] exists for all reals x.<ref name=Harrington1978>{{citation
+ | author = Harrington, L.
+ | year = 1978
+ | title = Analytic Determinacy and 0<sup>#</sup>
+ | journal = Journal of Symbolic Logic
+ | volume = 43
+ | issue = 4
+ | pages = 685–693
+ | doi = 10.2307/2273508
+ | jstor=2273508
+}}</ref>
+
+* Harrington and [[Saharon Shelah]] showed that the first-order theory of the partially ordered set of recursively enumerable [[Turing degrees]] is undecidable.<ref name=Harrington1982>{{citation
+ |author1=Harrington, L. |author2=Shelah, S. | year = 1982
+ | title = The undecidability of the recursively enumerable degrees
+ | journal = Bull. Amer. Math. Soc. (N.S.)
+ | volume = 6
+ | issue = 1
+ | pages = 79–80
+ | doi = 10.1090/S0273-0979-1982-14970-9
+ | url = http://www.projecteuclid.org/handle/euclid.bams/1183548593
+}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://math.berkeley.edu/~leo/ Home page].
+*{{MathGenealogy |id=22298}}
+
+{{DEFAULTSORT:Harrington, Leo}}
+[[Category:Living people]]
+[[Category:American logicians]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Model theorists]]
+[[Category:Set theorists]]
+[[Category:1946 births]]
+
+
+{{US-mathematician-stub}}

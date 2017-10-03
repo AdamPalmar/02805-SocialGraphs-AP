@@ -1,0 +1,303 @@
+{{redirect|Arendt|the surname|Arendt (surname)|the film|Hannah Arendt (film)}}
+{{Infobox philosopher
+ |name             = Hannah Arendt
+ |image            = File:Hannah arendt-150x150.jpg|thumb|Hannah arendt-150x150|alt=Hannah arendt-150x150.jpg
+ |birth_date       = {{Birth date|1906|10|14|df=yes}}
+ |birth_place      = [[Linden-Limmer|Linden]], [[Province of Hanover|Prussian Hanover]], [[German Empire]]<br/>(present-day [[Hanover]], [[Germany]])
+ |death_date       = {{Death date and age|1975|12|4|1906|10|14|df=yes}}
+ |death_place      = [[New York City]], [[United States]]
+ |nationality      = {{Plainlist}}
+* [[Germany|German]] (until 1937)
+* [[Statelessness|Stateless]]
+* United States (from 1951)
+ |region           = Western philosophy
+ |era              = [[20th-century philosophy]]
+ |school_tradition = {{Plainlist}}
+* [[Continental philosophy]]
+* [[Existential phenomenology]]<ref>{{cite journal |last=Allen |first=Wayne F.  |date=1 July 1982 |title=Hannah Arendt: existential phenomenology and political freedom |journal=Philosophy & Social Criticism |volume=9 |issue=2 |pages=170–190 |doi=10.1177/019145378200900203}}</ref>
+* [[Philosophy of life]]<ref>{{cite book |last=Bowen-Moore |first=Patricia  |year=1989 |title=Hannah Arendt's Philosophy of Natality |publisher=[[Springer (publisher)|Springer]] |page=119 |isbn=}}</ref><ref>{{cite book |last=Kristeva |first=Julia  |authorlink=Julia Kristeva |year=2001 |title=Hannah Arendt: Life is a Narrative |publisher=[[University of Toronto Press]] |page=48 |isbn=}}</ref>
+* [[Republicanism]]
+{{Endplainlist}}
+ |alma_mater       = {{Plainlist}}
+* [[University of Marburg]]
+* [[University of Heidelberg]]<br/>(PhD, 1929)
+{{Endplainlist}}
+ |main_interests   = [[Political theory]], [[modernity]], [[philosophy of history]]
+ |notable_ideas    = {{Plainlist}}
+* ''{{lang|la|[[Homo faber]], animal laborans}}''
+* the labor–work distinction
+* [[the banality of evil]]
+* distinction between ''{{lang|la|[[The Human Condition (book)|vita activa]]}}'' and ''{{lang|la|vita contemplativa}}''; ''[[praxis (process)|praxis]]'' as the highest level of the ''{{lang|la|vita activa}}''<ref name="women-philosophers.com">{{cite web |last=Fry |first=Karin, |url=http://www.women-philosophers.com/Arendt.html |archive-url=https://archive.is/20130209102926/http://www.women-philosophers.com/Arendt.html |dead-url=yes |archive-date=2013-02-09 |title=Arendt, Hannah |work=Women-philosophers.com}}</ref>
+* ''{{lang|la|[[auctoritas#Hannah Arendt|auctoritas]]}}'', natality<ref name="d'Entreves">{{cite book |last=d'Entreves |first=Maurizio Passerin |date=Winter 2016 |chapter=Hannah Arendt |chapter-url=https://plato.stanford.edu/archives/win2016/entries/arendt/ |editor-last=Zalta |editor-first=Edward N.  |title=The Stanford Encyclopedia of Philosophy  |accessdate=15 April 2017}}</ref>
+ |influences       = [[Socrates]], {{lang|fr|[[Bernard Lazare]]}}, [[Augustine of Hippo|Saint Augustine]], [[Duns Scotus]], {{lang|de|[[Immanuel Kant|Kant]]}}, {{lang|de|[[Martin Heidegger|Heidegger]]}}, {{lang|de|[[Karl Jaspers|Jaspers]]}}, {{lang|de|[[Walter Benjamin|Benjamin]]}}
+ |influenced       = {{lang|it|[[Giorgio Agamben]]}}, {{lang|tr|[[Seyla Benhabib]]}}, {{lang|it|[[Giannina Braschi]]}}, [[Elisabeth Young-Bruehl]], {{lang|hr|[[Mario Kopić]]}}, {{lang|bg-Latn|[[Julia Kristeva]]}}, {{lang|it|[[Adriana Cavarero]]}}
+ |website          = {{URL|http://www.hannaharendtcenter.org/}}
+}}
+{{Republicanism sidebar|expanded=Important thinkers}}
+'''Johanna''' "'''Hannah'''" '''Arendt'''<ref>{{cite web |last=Wood |first=Kelsey Wood  |title=Hannah Arendt |url=http://www.litencyc.com/php/speople.php?rec=true&UID=143  |work=Literary Encyclopedia |accessdate=24 September 2012}}</ref> ({{IPAc-en|ˈ|ɛər|ə|n|t}} or {{IPAc-en|ˈ|ɑr|ə|n|t}}; {{IPA-de|ˈaːʀənt|lang}};<ref>[http://dictionary.reference.com/browse/arendt "Arendt"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> 14 October 1906&nbsp;– 4 December 1975) was a [[Germany|German]]-born [[Americans|American]] [[political theory|political theorist]]. Her 18 books and numerous articles, ranging from works on totalitarianism to thinking and judging, greatly influenced popular political thinking.<ref name="d'Entreves"/> Arendt is widely considered one of the most important polemicists of the twentieth century.<ref name="d'Entreves"/><ref name="nytimes.com">{{cite web |last1=Scott |first1=A. O. |date=5 April 2016 |title=Review: In 'Vita Activa: The Spirit of Hannah Arendt,' a Thinker More Relevant Than Ever |url=https://www.nytimes.com/2016/04/06/movies/vita-activa-the-spirit-of-hannah-arendt-review.html |work=[[The New York Times]]}}</ref>
+
+She escaped from Germany during the [[Holocaust]], becoming an [[United States|American]] citizen. Her works deal with the nature of [[power (sociology)|power]] and the subjects of politics, [[direct democracy]], [[authority]], and [[totalitarianism]]. The [[Hannah Arendt Prize]] is named in her honor.
+
+==Early life and education==
+Arendt was born into a secular family of German Jews in Linden (now a part of [[Hanover]]), the daughter of Martha (born Cohn) and Paul Arendt.<ref>{{cite book|url=https://books.google.com/books?id=VsbCymMbcvoC&pg=PA1&lpg=PA1&dq=Paul+and+Martha+Arendt&source=bl&ots=Kz3uvnPo1u&sig=ZiLgRZTfqH60lPImgJj6IVwfPoQ|title=Hannah Arendt: An Introduction|author=John McGowan|publisher=University of Minnesota Press|date=15 December 1997}}</ref> She grew up in {{lang|de|[[Königsberg]]}} (renamed [[Kaliningrad]] when it was annexed to the [[Soviet Union]] in 1946) and Berlin. Arendt's family was thoroughly assimilated and she later remembered: "With us from Germany, the word 'assimilation' received a 'deep' philosophical meaning. You can hardly realize how serious we were about it."<ref name="newyorker">{{cite web |last=Kirsch |first=Adam |title=Beware of Pity: Hannah Arendt and the power of the impersonal |work=[[The New Yorker]] |date=12 January 2009 |url=http://www.newyorker.com/magazine/2009/01/12/beware-of-pity |accessdate=2015-09-09}}</ref>
+
+Arendt came to define her Jewish identity negatively after encountering antisemitism as an adult.<ref name=newyorker/> She came to greatly identify with {{lang|de|[[Rahel Varnhagen]]}}, a 19th-century Prussian hostess who desperately wanted to assimilate into German culture, only to be rejected because she was born Jewish.<ref name=newyorker/> Arendt later said of {{lang|de|Varnhagen}} that she was "my very closest woman friend, unfortunately dead a hundred years now."<ref name=newyorker/>
+
+After completing her high school studies in 1924, she enrolled at the [[University of Marburg]], where she spent a year studying philosophy with [[Martin Heidegger]]. According to {{lang|de|[[Hans Jonas]]}}, her only German-Jewish classmate, in her year at the University, Arendt began a long and problematic romantic relationship with Heidegger for which she was later criticized, because of his support for the [[Nazi Party]] while he was rector at the [[University of Freiburg]]. After a year at Marburg, Arendt spent a semester at Freiburg University, attending the lectures of [[Edmund Husserl]].<ref name="d'Entreves"/>  In 1926 she moved to the [[University of Heidelberg]], where in 1929 she completed her [[dissertation]] under the existentialist philosopher-psychologist [[Karl Jaspers]]. Her thesis was ''{{Interlanguage link multi|Der Liebesbegriff bei Augustin|de|3=Der Liebesbegriff bei Augustin|lt=Der Liebesbegriff bei Augustin: Versuch einer philosophischen Interpretation}}'' ("On the concept of love in the thought of [[Augustine of Hippo|Saint Augustine]]: Attempt at a philosophical interpretation").
+
+==Career==
+In 1929, in Berlin, the year her dissertation was published, she married {{lang|de|Günther Stern}}, later known as {{lang|de|[[Günther Anders]]}}. They divorced in 1937. In 1932, Arendt was deeply troubled by reports that {{lang|de|Heidegger}} was speaking at National Socialist meetings. She wrote, asking him to deny that he was attracted to National Socialism. {{lang|de|Heidegger}} replied that he did not seek to deny the rumors (which were true), and merely assured her that his feelings for her were unchanged.<ref name=newyorker/> As a Jew in Nazi Germany, Arendt was prevented from making a living and discriminated against because she was Jewish. She researched [[antisemitism]] for some time before being arrested and briefly imprisoned by the [[Gestapo]] in 1933.<ref>{{cite web|url=http://biography.yourdictionary.com/hannah-arendt|title=Hannah Arendt Facts|publisher=|accessdate=15 April 2017}}</ref>
+
+===Paris===
+In 1933, Arendt left Germany for [[Czechoslovakia]] and then [[Geneva]], where she worked for some time at the [[League of Nations]]. Then, in [[Paris]], she befriended the [[Marxism|Marxist]] literary critic and philosopher {{lang|de|[[Walter Benjamin]]}}, her first husband's cousin. While in France, she worked to help Jewish refugees. In 1937, she was stripped of her [[German nationality law|German citizenship]]. In 1940, she married the German poet and [[Marxist]] philosopher {{lang|de|[[Heinrich Blücher]]}}, a founding member of the [[KPD]] who had been expelled due to his work in the [[Conciliator faction]]. Later that year, after the German [[occupation of France by Nazi Germany|military occupation of northern France]], the [[Vichy France|Vichy regime]] began deporting foreign Jews to [[internment camp]]s in the unoccupied south of France, and she was interned in [[Camp Gurs]] as an "enemy alien".
+
+===New York===
+[[File:Hannah Arendt - Retrato.png|thumb|left|Hannah Arendt]]
+Like many others, Arendt was able to leave Gurs after a few weeks, and left France in 1941 with her husband and her mother, traveling via Portugal to the United States. They relied on visas illegally issued by the American diplomat [[Hiram Bingham IV|Hiram Bingham]], who aided roughly 2,500 Jewish refugees in this way. [[Varian Fry]], another American humanitarian, paid for their travel and helped obtain the visas. Upon arriving in [[New York City|New York]], Arendt became active in the German-Jewish community. From 1941 to 1945, she wrote a column for the German-language Jewish newspaper ''{{lang|de|[[Aufbau]]}}''. From 1944, she directed research for the Commission of European Jewish Cultural Reconstruction and in that capacity traveled to Europe after the war.<ref>[[Elisabeth Young-Bruehl|Young-Bruehl, Elisabeth]] (1982), ''Hannah Arendt: For Love of the World'', Yale University Press; {{ISBN|0-300-02660-9}}. (Paperback reprint edition, 10 September 1983; {{ISBN|0-300-03099-1}}; Second edition 11 October 2004; {{ISBN|0-300-10588-6}}.) p.188</ref>{{sfn | Swift | 2008 | p=12}}<ref>{{cite news|title=Human, citizen, Jew|url=http://www.haaretz.com/human-citizen-jew-1.202946|newspaper=[[Haaretz]]|first=Natan|last=Sznaider|date=20 October 2006|accessdate=28 August 2012}}</ref>
+
+===Post-war===
+During World War II, Arendt worked for [[Youth Aliyah]], a [[Zionist]] organization, which saved thousands of children from the Holocaust and settled them in the British [[Mandate of Palestine]].<ref name="Cullen-DuPont2000">{{cite book |first=Kathryn |last=Cullen-DuPont |title=Encyclopedia of women's history in America |url=https://books.google.com/books?id=oIro7MtiFuYC&pg=PA374 |accessdate=28 November 2011|date=1 August 2000 |publisher=Infobase Publishing |isbn=978-0-8160-4100-8 |pages=16–17}}</ref><ref>{{cite web|title=Hannah Arendt |url=https://www.jewishvirtuallibrary.org/jsource/biography/arendt.html |publisher=Jewish Virtual Library |accessdate=16 January 2016}}</ref> She became a close friend of {{lang|de|[[Karl Jaspers]]}} and his wife, developing a deep intellectual friendship with him.<ref>{{cite book|first1=Hannah|last1=Arendt|first2= Karl|last2=Jaspers|year=1992|title=Correspondence 1926-1969|publisher=Harcourt Brace Jovanovich|ISBN=0-15-107887-4}}</ref> She began corresponding with the American author [[Mary McCarthy (author)|Mary McCarthy]] around this time.<ref>{{cite book|first1=Hannah |last1=Arendt |first2=Mary |last2=McCarthy |year=1995 |title=Between Friends: The Correspondence of Hannah Arendt and Mary McCarthy 1949-1975 |publisher=Secker & Warburg |ISBN=0-436-20251-4}}</ref>
+
+In 1950, Arendt became a [[naturalized citizen]] of the United States.<ref>{{cite news |url=http://www.haaretz.com/dear-hannah-1.245518 |title=Dear Hannah |newspaper=Haaretz |first=Anshel |last=Pfeffer |date=9 May 2008 |accessdate=28 August 2012}}</ref> The same year, she started seeing {{lang|de|Heidegger}} again, and had what the American writer [[Adam Kirsch]] called a "quasi-romance" that lasted for two years with the man who once had been her mentor, teacher and lover.<ref name=newyorker/> During this time, Arendt began to defend {{lang|de|Heidegger}} from criticism of his actions under the Third Reich when he had been a proud member of the NSDAP, portraying {{lang|de|Heidegger}} as a naïve man swept up by forces beyond his control, and that at any rate {{lang|de|Heidegger}}'s philosophy had nothing to do with National Socialism.<ref name=newyorker/> She served as a visiting scholar at the [[University of Notre Dame]], [[University of California, Berkeley]], [[Princeton University]], and [[Northwestern University]]. In 1959, she was named the first female lecturer at Princeton. She also taught at the [[University of Chicago]] from 1963 to 1967, where she was a member of the [[Committee on Social Thought]]; [[The New School]] in [[Manhattan]] where she taught as University Professor from 1967 until her death in 1975; [[Yale University]], where she was a [[fellow]], as well as the Center for Advanced Studies at [[Wesleyan University]] (1961–62, 1962–63).<ref>{{cite web|url=http://www.wesleyan.edu/libr/schome/FAs/ce1000-137.html|title=DACS|publisher=|accessdate=15 April 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20170314083709/http://www.wesleyan.edu/libr/schome/FAs/ce1000-137.html|archivedate=14 March 2017|df=}}</ref>
+
+In 1961 while covering the trial of {{lang|de|[[Adolf Eichmann]]}} in Jerusalem, Arendt wrote to {{lang|de|Jaspers}} a letter that Kirsch described as reflecting "pure racism" towards [[Sephardic Jews]] from the Middle East and [[Ashkenazi Jews]] from Eastern Europe. She wrote: "On top, the judges, the best of German Jewry. Below them, the prosecuting attorneys, [[Galicia (Eastern Europe)|Galicians]], but still Europeans. Everything is organized by a police force that gives me the creeps, speaks only Hebrew, and looks Arabic. Some downright brutal types among them. They would obey any order. And outside the doors, the oriental mob, as if one were in Istanbul or some other half-Asiatic country."<ref name=newyorker/> Though Arendt remained a [[Zionism|Zionist]] activist both during and after World War II, she made it clear that she favored the creation of a Jewish-Arab federated state in Palestine, rather than a purely Jewish state. She believed that this was a way to address Jewish [[statelessness]] and to avoid the pitfalls of nationalism.<ref>{{cite web|title=Hannah Arendt: From Iconoclast to Icon |url=http://www.tikkun.org/nextgen/hannah-arendt-from-iconoclast-to-icon |work=Tikkun |accessdate=16 January 2016}}</ref><ref>{{cite web |title=Judith Butler reviews ''The Jewish Writings'' by Hannah Arendt, edited by Jerome Kohn and Ron Feldman |date=10 May 2007 |url=http://www.lrb.co.uk/v29/n09/judith-butler/i-merely-belong-to-them |work=[[London Review of Books]] |accessdate=16 January 2016}}</ref>
+
+She was elected a fellow of the [[American Academy of Arts and Sciences]] in 1962 and a member of the [[American Academy of Arts and Letters]] in 1964.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A |url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf |publisher=American Academy of Arts and Sciences |accessdate=22 April 2011 }}</ref><ref name=AAAL>{{cite web|title=Deceased Members |url=http://www.artsandletters.org/academicians2_deceased.php#a |work=American Academy of Arts and Letters |accessdate=22 April 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110726004624/http://www.artsandletters.org/academicians2_deceased.php |archivedate=26 July 2011 |df= }}</ref>
+
+In 1974, Arendt was instrumental in the creation of [[Structured Liberal Education]] (SLE) at [[Stanford University]]. She wrote a letter to the president of Stanford to persuade the university to enact [[Mark Mancall]]'s vision of a residentially-based humanities program.<ref>{{cite news |first=David |last=Bird |title=Hannah Arendt, Political Scientist, Dead |url=https://select.nytimes.com/gst/abstract.html?res=F00915F73D5C1A7493C4A91789D95F418785F9 |work=[[New York Times]] |date=6 December 1975 |accessdate=19 November 2008}}</ref>
+
+[[File:HannahArendtGrave-BardCollege.jpg|thumb|right|275px|Grave of author and political theorist Hannah Arendt at [[Bard College]] Cemetery in [[Annandale-on-Hudson, New York]].]]
+
+===Death===
+Arendt died in New York City on 4 December 1975, at age 69, of a heart attack. She was buried alongside her husband, {{lang|de|[[Heinrich Blücher]]}}, at [[Bard College]] in [[Annandale-on-Hudson, New York]].
+
+==Works==
+
+===''The Origins of Totalitarianism''===
+{{Main article|The Origins of Totalitarianism}}
+
+Arendt's first major book, ''[[The Origins of Totalitarianism]]'' (1951), examined the roots of [[Stalinism]] and [[Nazism]]. In it, Arendt argues that totalitarianism was a "novel form of government," different from other forms of tyranny in that it applied terror to subjugate mass populations rather than just political adversaries.<ref>{{cite web|url=http://contemporarythinkers.org/hannah-arendt/introduction/|title=Introduction - Hannah Arendt|publisher=|accessdate=15 April 2017}}</ref> The book was opposed by some on the Left on the grounds that it presented the two movements as equally tyrannical. She further contends that Jewry was not the operative factor in the Holocaust, but merely a convenient proxy. Totalitarianism in Germany was, in the end, about terror and consistency, not eradicating Jews only.
+
+===''The Human Condition''===
+{{Main article|The Human Condition (book)|l1=The Human Condition}}
+
+In what is arguably her most influential work, ''[[The Human Condition (book)|The Human Condition]]'' (1958), Arendt differentiates political and social concepts, labor and work, and various forms of actions; she then explores the implications of those distinctions. Her theory of political action, corresponding to the existence of a public realm, is extensively developed in this work. Arendt argues that, while human life always evolves within societies, the social part of human nature, political life, has been intentionally realized in only a few societies as a space for individuals to achieve freedom. Conceptual categories, which attempt to bridge the gap between ontological and sociological structures, are sharply delineated. While Arendt relegates labor and work to the realm of the social, she favors the human condition of action as that which is both existential and aesthetic.<ref name="d'Entreves"/>
+
+===''Men in Dark Times''===
+Her collection of essays, ''Men in Dark Times'', presents intellectual biographies of some creative and moral figures of the 20th century, such as {{lang|de|[[Walter Benjamin]]}}, {{lang|de|[[Karl Jaspers]]}}, {{lang|de|[[Rosa Luxemburg]]}}, {{lang|de|[[Hermann Broch]]}}, [[Pope John XXIII]], and {{lang|da|[[Isak Dinesen]]}}.
+
+===''Eichmann in Jerusalem: A Report on the Banality of Evil''===
+[[File:Adolf Eichmann.jpg|thumb|Adolf Eichmann on trial]]
+{{Main article|Eichmann in Jerusalem}}
+
+In her reporting of the 1961 {{lang|de|[[Adolf Eichmann]]}} trial for ''[[The New Yorker]]'', which evolved into ''[[Eichmann in Jerusalem: A Report on the Banality of Evil]]'' (1963), she coined the phrase "the [[banality of evil]]" to describe the phenomenon of {{lang|de|Eichmann}}. She examined the question of whether [[evil]] is radical or simply a function of thoughtlessness, a tendency of ordinary people to obey orders and conform to mass opinion without a critical evaluation of the consequences of their actions. She was sharply critical of the way the trial was conducted in [[Israel]]. She also was critical of the way that some Jewish leaders, notably {{lang|pl|[[Mordechai Chaim Rumkowski|M.C. Rumkowski]]}}, acted during [[the Holocaust]]. This caused a considerable controversy and even animosity toward Arendt in the Jewish community. Her friend {{lang|he-Latn|[[Gershom Scholem]]}}, a major scholar of [[Kabbalah|Jewish mysticism]], broke off relations with her. Arendt was criticized by many Jewish public figures, who charged her with coldness and lack of sympathy for the victims of the Holocaust. Because of this lingering criticism, neither this book nor any of her other works were translated into Hebrew until 1999.<ref>Elon, Amos. Introduction. Eichmann in Jerusalem: A Report on the Banality of Evil. By Hannah Arendt. New York: Penguin, 2006, xxi.</ref> This controversy was answered by Hannah Arendt in the book's Postscript.
+
+{{quote|The controversy began by calling attention to the conduct of the Jewish people during the years of the Final Solution, thus following up the question, first raised by the Israeli prosecutor, of whether the Jews could or should have defended themselves. I had dismissed that question as silly and cruel, since it testified to a fatal ignorance of the conditions at the time. It has now been discussed to exhaustion, and the most amazing conclusions have been drawn. The well-known historico-sociological construct of "ghetto mentality" … has been repeatedly dragged in to explain behavior which was not at all confined to the Jewish people and which therefore cannot be explained by specifically Jewish factors. … This was the unexpected conclusion certain reviewers chose to draw from the "image" of a book, created by certain interest groups, in which I allegedly had claimed that the Jews had murdered themselves.<ref>Arendt, Hannah. Eichmann in Jerusalem. Penguin, 1963, pp.283-284.</ref>}}
+
+Arendt ended the book by writing: {{quote|Just as you [{{lang|de|Eichmann}}] supported and carried out a policy of not wanting to share the earth with the Jewish people and the people of a number of other nations—as though you and your superiors had any right to determine who should and who should not inhabit the world—we find that no one, that is, no member of the human race, can be expected to want to share the earth with you. This is the reason, and the only reason, you must hang.}}
+
+===''On Revolution''===
+
+Arendt's novel ''[[On Revolution]]'' presents a comparison of two of the main revolutions of the 18th century, the [[American Revolution|American]] and [[French Revolution|French]] Revolutions. She goes against a common view of both Marxist and leftist views when she argues that France, while well studied and often emulated, was a disaster and that the largely ignored American Revolution was a success. The turning point in the French Revolution occurred when the leaders rejected their goals of freedom in order to focus on compassion for the masses. In the [[United States]], the Founding Fathers never betray the goal of ''{{lang|la|Constitutio Libertatis}}''. However, Arendt believes the revolutionary spirit of those men had been lost, and advocates a “council system” as an appropriate institution to regain that spirit.
+
+===''On Violence''===
+
+Arendt's essay ''On Violence'' distinguishes between violence and power. She maintains that, although theorists of both the Left and Right regard violence as an extreme manifestation of power, the two concepts are, in fact, antithetical. Power comes from the collective will and does not need violence to achieve any of its goals, since voluntary compliance takes its place. As governments start losing their legitimacy, violence becomes an artificial means toward the same end and is, therefore, found only in the absence of power. [[Bureaucracy|Bureaucracies]] then become the ideal birthplaces of violence since they are defined as the "rule by no one" against whom to argue and, therefore, recreate the missing links with the people they rule over.
+
+===''The Life of the Mind''===
+
+Her posthumous book, ''The Life of the Mind'' (1978, edited by [[Mary McCarthy (author)|Mary McCarthy]]), remained incomplete.  During Arendt's tenure at the New School, in 1974, she presented a graduate level Political Philosophy class entitled, "Philosophy of the Mind". It was during these class lectures that Arendt crystallized her concepts. The class was based on her working draft of "Philosophy of the Mind", which was later edited to "Life of the Mind". Arendt's working draft of Philosophy of the Mind was distributed to graduate students at the New School during her visiting professorship in 1974. Also, stemming from her [[Gifford Lectures]] at the [[University of Aberdeen]] in Scotland, her last writing focused on the mental faculties of thinking and willing. In a sense, Life of the Mind went beyond her previous work concerning the ''{{lang|la|vita activa}}''. In her discussion of thinking she focuses mainly on [[Socrates]] and his notion of thinking as a solitary dialogue between Me and Myself. This appropriation of Socrates leads her to introduce novel concepts of conscience (which gives no positive prescriptions, but instead, tells me what I cannot do if I would remain friends with myself when I re-enter the two-in-one of thought where I must render an account of my actions to myself) and morality (an entirely negative enterprise concerned with non-participation in certain actions for the sake of remaining friends with one's self).
+
+===Arendt's critique of human rights===
+In ''The Origins of Totalitarianism'' Hannah Arendt devotes a lengthy chapter to a critical analysis of human rights. Arendt isn’t skeptical of the notion of political rights in general, but instead defends a national or civil conception of rights.<ref>{{Cite book |title=The Origins of Totalitarianism |url=https://books.google.com/books?id=zLrKGGxBKjAC |publisher=Houghton Mifflin Harcourt |date=1973-03-21 |isbn=0547543158 |first=Hannah |last=Arendt |pages=389 }}</ref> Human rights, or the Rights of Man as they were commonly called, are universal, inalienable and possessed simply in virtue of being human. In contrast, civil rights are possessed in virtue of belonging to a political community, most commonly by being a citizen. Arendt’s primary criticism of human rights is that they are ineffectual and illusory because their enforcement is in tension with national sovereignty.<ref>{{Cite book |title=Frontier Justice: The Global Refugee Crisis and What To Do About It |url=https://books.google.com/books/about/Frontier_Justice.html?id=VRSQQO-O0u0C |publisher=Doubleday Canada |date=2011-04-05 |isbn=9780307367921 |first=Andy |last=Lamey |pages=17–19 }}</ref> She argued that since there is no political authority above that of sovereign nations, state governments have little incentive to respect human rights when such policies conflict with national interests. This can be seen most clearly by examining the treatment of refugees and other stateless people. Since the refugee has no state to secure their civil rights, the only rights they have to fall back on are human rights. In this way Arendt uses the refugee as a test case for examining human rights in isolation from civil rights.
+
+Arendt’s analysis draws on the refugee upheavals in the first half of the 20th century along with her own experience as a refugee fleeing Nazi Germany. She argued that as state governments began to emphasize national identity as a prerequisite for full legal status, the number of minority resident aliens increased along with the number of stateless persons whom no state was willing to legally recognize.<ref>{{Cite book |title=The Origins of Totalitarianism |url=https://books.google.com/books?id=zLrKGGxBKjAC |publisher=Houghton Mifflin Harcourt |date=1973-03-21 |isbn=0547543158 |first=Hannah |last=Arendt |pages=379–81 }}</ref> The two potential solutions to the refugee problem, repatriation and naturalization, both proved incapable of solving the crisis. Arendt argued that repatriation failed to solve the refugee crisis because no government was willing to take them in and claim them as their own. When refugees were forcibly deported to neighboring countries, such immigration was deemed illegal by the receiving country, and so failed to change the fundamental status of the migrants as stateless.<ref name=":0">{{Cite book |title=The Origins of Totalitarianism |url=https://books.google.com/books?id=zLrKGGxBKjAC |publisher=Houghton Mifflin Harcourt |date=1973-03-21 |isbn=0547543158 |first=Hannah |last=Arendt |pages=378–84 }}</ref> Attempts at naturalizing and assimilating refugees also had little success.<ref name=":0" /> This was primarily due to resistance from both state governments and the majority of citizens, since both tended to see the refugees as undesirables who threatened their national identity. Resistance to naturalization also came from the refugees themselves who resisted assimilation and attempted to maintain their own ethnic and national identities.<ref>{{Cite book |title=The Origins of Totalitarianism |url=https://books.google.com/books?id=zLrKGGxBKjAC |publisher=Houghton Mifflin Harcourt |date=1973-03-21 |isbn=0547543158 |first=Hannah |last=Arendt |pages=379 }}</ref> Arendt contends that neither naturalization nor the tradition of asylum were capable of handling the sheer number of refugees. Instead of accepting some refugees with legal status, the state often responded by denaturalizing minorities who shared national or ethnic ties with stateless refugees.
+
+Arendt argues that the consistent mistreatment of refugees, most of whom were placed in internment camps, is evidence against the existence of human rights. If the notion of human rights as universal and inalienable is to be taken seriously, they must be realizable given the features of the modern liberal state.<ref>{{Cite book |title=Frontier Justice: The Global Refugee Crisis and What To Do About It |url=https://books.google.com/books/about/Frontier_Justice.html?id=VRSQQO-O0u0C |publisher=Doubleday Canada |date=2011-04-05 |isbn=9780307367921 |first=Andy |last=Lamey |pages=27–29 }}</ref> Arendt contends that they are not realizable because they are in tension with at least one feature of the liberal state, national sovereignty. One of the primary ways in which a nation exercises sovereignty is through control over national borders. State governments consistently grant their citizens free movement to traverse national borders. In contrast, the movement of refugees is often restricted in the name of national interests.<ref>{{Cite book |title=Frontier Justice: The Global Refugee Crisis and What To Do About It |url=https://books.google.com/books/about/Frontier_Justice.html?id=VRSQQO-O0u0C |publisher=Doubleday Canada |date=2011-04-05 |isbn=9780307367921 |first=Andy |last=Lamey |pages=239–40}}</ref> This presents a dilemma for liberalism in that liberal theorists are typically committed to both human rights and the existence of sovereign nations.
+
+Some critics find anti-black racism in Arendt's works, including her references to "savages" in Africa and her analysis of the right of white Americans to enforce racial segregation.<ref>[http://www.jpost.com/Opinion/Hannah-Arendt-white-supremacist-456007 Hannah Arendt, white supremacist] The Jerusalem Post, June 5, 2016</ref> Arendt wrote of segregation: ‘The right to free association, and therefore to discrimination, has greater validity than the principle of equality," and that therefore there cannot be a right to enter any hotel or recreation area.<ref>Kathryn T. Gines, Indiana University Press, Hannah Arendt and the Negro Question, 2014  p. 44</ref>
+
+==Legacy==
+In the intended third volume of ''The Life of Mind'', Arendt was planning to engage the faculty of judgment but she did not live to write it. Nevertheless, although her notion of judging remains unknown, Arendt did leave manuscripts (such as ''Thinking and Moral Considerations'' and ''Some Questions on Moral Philosophy'') and lectures (''Lectures on Kant's Political Philosophy'') concerning her thoughts on this mental faculty. The first two articles were edited and published by [[Jerome Kohn]], an assistant of Arendt and a director of the Hannah Arendt Center at [[The New School]] in New York, and the last was edited and published by Ronald Beiner, professor of political science at the [[University of Toronto]]. Her personal library was deposited at [[Bard College]] at the Stevenson Library in 1976, and includes approximately 4,000 books, [[ephemera]], and pamphlets from Arendt's last apartment. The college has begun archiving some of the collection digitally, which is available at The Hannah Arendt Collection.<ref>{{cite web |url=http://www.bard.edu/arendtcollection |title=Hannah Arendt Collection |publisher=Stevenson Library, [[Bard College]] |accessdate=24 September 2012 }}</ref>
+
+Arendt's life and work are still part of current culture and thought. In 2012 the film [[Hannah Arendt (film)]] was produced and distributed depicting the controversy over Arendt's coverage of the Eichmann trial.<ref>http://www.bbfc.co.uk/releases/hannah-arendt-film</ref> In 2016 the filmmaker Ada Ushpiz produced a documentary on Hannah Arendt, "Vita Activa: The Spirit of Hannah Arendt."<ref>https://zeitgeistfilms.com/film/vitaactivathespiritofhannaharendt</ref> The New York Times designated it a NYT's critics pick.<ref name="nytimes.com"/> Since the election of Donald Trump to the US Presidency, some journals are resurrecting her ideas to help make sense of the current situation.
+<ref>https://www.theguardian.com/us-news/2017/feb/01/totalitarianism-in-age-donald-trump-lessons-from-hannah-arendt-protests</ref><ref>http://www.dw.com/en/why-the-world-is-turning-to-hannah-arendt-to-explain-trump/a-37371699</ref>
+
+==Commemoration==
+[[File:BM-Hannah-Arendt2006.jpg|thumb|BM-Hannah-Arendt2006|Hannah Arendt, stamp, Germany 2006]]
+* The [[asteroid]] [[100027 Hannaharendt]] is [[meanings of asteroid names|named in her honor]].
+* The German railway authority operates a Hannah Arendt Express between [[Karlsruhe]] and [[Hanover]].<ref>{{cite news|url=http://www.haaretz.com/hasen/spages/855456.html|title=All aboard the Arendt express|newspaper=Haaretz|date=3 May 2007|first=Yehouda|last=Shenhav|accessdate=28 August 2012}}</ref>
+* The [[Hannah Arendt Center for Politics and Humanities]] at [[Bard College]] is named in her honor.
+* The [[Hannah Arendt Center]] at [[The New School]] is named in her honor.
+* The [[Hannah Arendt Institute for the Research on Totalitarianism]] is named in her honor.
+* The [[Hannah Arendt Prize]] is named in her honor.
+* Various [[gymnasium (Germany)|gymnasiums]] (German high schools) have been dedicated to Arendt.<ref>{{cite web |url=http://hagh.bildung-rp.de/haghp/homepage.php |title=Hannah Arendt Gymnasium, Haßloch |publisher=Hagh.bildung-rp.de |accessdate=24 September 2012}}</ref><ref>{{cite web |url=http://www.han-nah.de/news.php |title=Hannah Arendt Gymnasium, Barsinghausen |publisher=Han-nah.de |date=17 September 2012 |accessdate=24 September 2012 |language=German |deadurl=yes |archiveurl=https://web.archive.org/web/20120915105727/http://www.han-nah.de/news.php |archivedate=15 September 2012 |df= }}</ref><ref>{{cite web|url=http://hag-lengerich.de|title=Hannah Arendt Gymnasium, Lengerich|publisher=Hag-lengerich.de|accessdate=24 September 2012|language=German}}</ref><ref>{{cite web|url=http://www.hag-berlin.net|title=Hannah Arendt Gymnasium, Berlin|publisher=Hag-berlin.net|accessdate=24 September 2012|language=German}}</ref>
+* The portrait of Hannah Arendt by the photographer [[Fred Stein]] has become famous.<ref>Kasper Heinrich: Fotografien von Fred Stein: ''[http://www.spiegel.de/kultur/gesellschaft/fotografien-von-fred-stein-im-juedischen-museum-berlin-a-934199.html Der Poet mit der Kleinbildkamera]''. Der Spiegel 11/19, 2013</ref>
+* In 2012, a German film titled ''[[Hannah Arendt (film)|Hannah Arendt]]'' was released, directed by {{lang|de|[[Margarethe von Trotta]]}}, and with {{lang|de|[[Barbara Sukowa]]}} in the role of Arendt. The film concentrates on the [[Adolf Eichmann#Trial|{{lang|de|Eichmann|nocat=y}} trial]], and the controversy caused by Arendt's book, which at the time was widely misunderstood as defending {{lang|de|Eichmann}} and blaming Jewish leaders for the Holocaust.
+* In 2014, [[Google Doodle]] celebrated her 108th birthday.<ref>{{cite web|url=https://www.google.com/doodles/hannah-arendts-108th-birthday|title=Hannah Arendt's 108th Birthday|publisher=|accessdate=15 April 2017}}</ref>
+* In 2014, the French philosopher {{lang|fr|[[Michel Onfray]]}} devoted a series of lectures broadcast on the national French radio station [[France Culture]] to an analysis of the work of Arendt.<ref>{{cite web|url=http://www.franceculture.fr/emission-contre-histoire-de-la-philosophie-saison-12-la-pensee-post-nazie |title=Contre-histoire de la philosophie - Saison 12 : La pensée post-nazie … |date=6 August 2014 |publisher= |accessdate=15 April 2017 |deadurl=bot: unknown |archiveurl=https://archive.is/20140806174724/http://www.franceculture.fr/emission-contre-histoire-de-la-philosophie-saison-12-la-pensee-post-nazie |archivedate=6 August 2014 |df= }}</ref>
+
+==Selected works==
+* ''{{lang|de|Der Liebesbegriff bei Augustin. Versuch einer philosophischen Interpretation}}'' (1929).
+* ''[[The Origins of Totalitarianism]]'' (1951). Revised ed.; New York: Schocken, 2004. (Includes all the prefaces and additions from the 1958, 1968, and 1972 editions.)
+* ''[[The Human Condition (book)|The Human Condition]]'' (Chicago: University of Chicago Press, 1958).
+* ''[[Rahel Varnhagen: The Life of a Jewess]]''. ({{lang-de|[[:de:Rahel Varnhagen (Arendt)|Rahel Varnhagen: Lebensgeschichte einer deutschen Jüdin aus der Romantik]]}}; originally conceived as a [[habilitation]] thesis.) Translated by [[Richard and Clara Winston]] (1958). Complete ed.; Ed. {{lang|de|Liliane Weissberg}} (Baltimore: Johns Hopkins University Press, 1997), also in March 2000. 400 pages. {{ISBN|978-0-8018-6335-6}}.
+* ''{{lang|de|Die ungarische Revolution und der totalitäre Imperialismus}}'' (1958).
+* ''Reflections on Little Rock'' (1959).
+* ''[[Between Past and Future]]: Six exercises in political thought'' (New York: Viking, 1961). (Two more essays were added in 1968.)
+* ''[[On Revolution]]'' (New York: Viking, 1963).
+* ''[[Eichmann in Jerusalem|{{lang|de|Eichmann|nocat=y}} in Jerusalem]]: A Report on the Banality of Evil'' (1963). (Rev. ed. New York: Viking, 1968.)
+* ''Men in Dark Times'' (New York: Harcourt, Brace and World, 1968).
+* ''On Violence''. Harvest Books (New York: Harcourt, Brace and World, 1970). (Also included in ''Crises of the Republic''.)
+* ''Crises of the Republic: Lying in Politics; Civil Disobedience; On Violence; Thoughts on Politics and Revolution'' (New York: Harcourt, Brace, Jovanovich, 1972). "Civil Disobedience" originally appeared, in somewhat different form, in ''[[The New Yorker]]''. Versions of the other essays originally appeared in ''[[The New York Review of Books]]''.
+* ''The Jew as Pariah: Jewish Identity and Politics in the Modern Age'', edited with an introduction by Ron H. Feldman (1978).
+* ''Life of the Mind'', unfinished at her death, Ed. Mary McCarthy, 2 vols. (New York: Harcourt Brace Jovanovich, 1978). {{ISBN|0-15-107887-4}}.
+* ''{{lang|de|Hannah Arendt / Karl Jaspers}} Correspondence, 1926–1969''. Edited by {{lang|de|Lotte Kohler}} and {{lang|de|Hans Saner}}, translated by Robert Kimber and Rita Kimber (New York: Harcourt Brace Jovanovich, 1992).
+* ''Essays in Understanding, 1930-1954: Formation, Exile, and Totalitarianism'', Ed. Jerome Kohn (New York: Harcourt, Brace, 1994). Paperback reprint edition, September 10, 1983, {{ISBN|0-300-03099-1}}. Paperback ed. (New York: Schocken, 2005).
+* ''Love and Saint Augustine''. Edited with an Interpretive Essay by Joanna Vecchiarelli Scott and Judith Chelius Scott (Chicago: The University of Chicago Press, 1996/1998).
+* ''Lectures on Kant's Political Philosophy''. Edited and with an Interpretive Essay by Ronald Beiner (The University of Chicago Press, 1992).
+* ''Within Four Walls: The Correspondence between {{lang|de|Hannah Arendt}} and {{lang|de|[[Heinrich Blücher]]}}, 1936–1968''. Edited by Lotte Kohler, translated by [[Peter Constantine]] (New York: Harcourt, 1996).
+* ''Responsibility and Judgment''. Edited with an introduction by Jerome Kohn (New York: Schocken, 2003).
+* ''{{lang|de|Hannah Arendt}} and {{lang|de|Martin Heidegger}}. Letters, 1925–1975'', Ed. {{lang|de|Ursula Ludz}}, translated Andrew Shields (New York: Harcourt, 2004).
+* ''The Promise of Politics''. Edited with an Introduction by Jerome Kohn (New York: Schocken, 2005).
+* ''{{lang|de|Arendt und Benjamin: Texte, Briefe, Dokumente}}''. Edited by {{lang|de|Detlev Schöttker}} and {{lang|de|Erdmut Wizisla}} (2006).
+* ''The Jewish Writings''. Edited by Jerome Kohn and Ron H. Feldman. Schocken Books (2007).
+
+==See also==
+{{Portal|Biography}}
+* [[Classical republicanism]]
+* [[Max Planck Society Archive]]
+* [[American philosophy]]
+* [[German philosophy]]
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+==Further reading==
+* Emmanuel Faye, ''{{lang|fr|Arendt et Heidegger. Extermination nazie et destruction de la pensée}}'', Paris, Albin Michel, collection « Idées », 2016.
+* {{cite book |last=Honkasalo |first=Julian |title=Sisterhood, Natality, Queer: Reframing Feminist Interpretations of Hannah Arendt |location=Helsinki |publisher=University of Helsinki |year=2016 |isbn=978-951-51-1895-0 |url=http://urn.fi/URN:ISBN:978-951-51-1896-7 |type=Ph.D. thesis }}
+* [[Yehouda Shenhav|Shenhav, Yehouda]] (2013) “[http://people.socsci.tau.ac.il/mu/yshenhav/files/2013/12/Shenhav-Eichmann.pdf Beyond ‘instrumental rationality’: Lord Cromer and the imperial roots of Eichmann’s bureaucracy]”. Journal of Genocide Research, Vol. 15, Issue 4, pp: 379–399
+*[http://www.yadvashem.org/holocaust/video-lectures/arendt-eichmann "Hannah Arendt, Adolf Eichmann, and how Evil Isn't Banal"] online lecture by Dr. Yaacov Lozowick, former Director of the [[Yad Vashem]] Archives
+*{{cite journal|last=Brandes|first=Daniel|title=Nietzsche, Arendt, and the Promise of the Future|journal=[[Animus (journal)|Animus]]|year=2010|volume=14|url=http://www2.swgc.mun.ca/animus/Articles/Volume%2014/4_Brandes.pdf|issn=1209-0689|accessdate=18 August 2011}}
+*[[Elisabeth Young-Bruehl|Young-Bruehl, Elisabeth]] (1982), ''Hannah Arendt: For Love of the World'', Yale University Press; {{ISBN|0-300-02660-9}}. (Paperback reprint edition, 10 September 1983; {{ISBN|0-300-03099-1}}; Second edition 11 October 2004; {{ISBN|0-300-10588-6}}.)
+*Young-Bruehl, E. 2010. [https://web.archive.org/web/20110120102031/http://elisabethyoung-bruehl.com/articles/hannah-arendt-articles/hannah-arendt-1906-1975/ "Hannah Arendt (1906-1975)"]. ''Who's Afraid of Social Democracy''.<!-- isbn needed -->
+*Young-Bruehl, E. 2010. [https://web.archive.org/web/20110115031418/http://elisabethyoung-bruehl.com/articles/hannah-arendt-articles/arendts-jewish-identity/ "Arendt's Jewish Identity"]. ''Who's Afraid of Social Democracy''.<!-- isbn needed -->
+*Young-Bruehl, E. 2000. [https://web.archive.org/web/20110115034219/http://elisabethyoung-bruehl.com/articles/hannah-arendt-articles/american-intellectual-life/ "Hannah Arendt in American Intellectual Life" (2000)]. ''Who's Afraid of Social Democracy''.<!-- isbn needed -->
+*Young-Bruehl, E. ''Why Arendt Matters''. New Haven, CT; London: Yale University Press, 2006 (hardcover); {{ISBN|0-300-12044-3}}
+*Villa, Dana, ed. (2000), ''The Cambridge Companion to Hannah Arendt'', Cambridge University Press; {{ISBN|978-0-521-64571-3}} (hb).
+*Villa, Dana (1995), ''Arendt and Heidegger: the Fate of the Political,'' Princeton University Press' {{ISBN|0-691-04400-7}}.
+*Villa, Dana (1999), ''Politics, Philosophy, Terror: Essays on the Thought of Hannah Arendt'', Princeton University Press; {{ISBN|0-691-00935-X}}.
+*Toploski, Anya. 2015. ''Arendt, Levinas, and politics of relationality.'' Lanham, MD: Rowman & Littlefield.
+*Villa, Dana (2008), ''Public Freedom'', Princeton University Press; {{ISBN|978-0-691-13594-6}}.
+*Harms, Klaus. ''{{lang|de|Hannah Arendt und Hans Jonas. Grundlagen einer philosophischen Theologie der Weltverantwortung.}}'' Berlin: WiKu-Verlag (2003). {{ISBN|3-936749-84-1}} (in German)
+*Ettinger, Elzbieta. ''Hannah Arendt/Martin Heidegger'', [[Yale University Press]] (1997); {{ISBN|0-300-07254-6}}.
+*Dietz, Mary G. ''Turning Operations: Feminism, Arendt, and Politics'', Routledge (2002); {{ISBN|0-415-93244-0}}.
+*Kristeva, Julia. ''Hannah Arendt''. Trans. Ross Guberman. [[Columbia University Press]]. 2001; {{ISBN|978-0-231-12102-6}}
+*Rösch, Felix. "[https://link.springer.com/article/10.1057/ip.2013.32 Realism as social criticism: The thinking partnership of Hannah Arendt and Hans Morgenthau]". ''International Politics'' 50, no. 6 (2013): 815-829. http://dx.doi.org/10.1057/ip.2013.32 
+*Sheldon, Garrett Ward.  ''The History of Political Theory:  Ancient Greece to Modern America''. Peter Lang Publishing (2007);  {{ISBN|978-0-8204-0848-4}} (hbk)/{{ISBN|978-0-8204-2300-5}} (pbk)
+*Avineri, Shlomo. "Where Hannah Arendt Went Wrong", Haaretz, 10 March 2010.
+*Benhabib, Seyla. ''The Reluctant Modernism of Hannah Arendt''. Rowman and Littlefield Publishers. 2003. {{ISBN|978-0-7425-2151-3}}
+*Nedelsky, Jennifer & Ronald Beiner, ed. ''Judgment, Imagination, and Politics: Themes from Kant and Arendt''. Rowman and Littlefield Publishers. 2001; {{ISBN|978-0-8476-9971-1}}
+*Birmingham, Peg. ''Hannah Arendt and Human Rights: The Predicament of Common Responsibility''. Indian University Press (2006); {{ISBN|978-0-253-21865-0}}
+*Passerin d'Entrèves, Maurizio. ''The Political Philosophy of Hannah Arendt''. New York: Routledge, 1994; {{ISBN|978-0-415-08790-2}}
+*Keen, David. 2007. [https://web.archive.org/web/20071012012753/http://counterpunch.org/keen09242007.html Learning About the Iraq War from Hannah Arendt]. ''Counterpunch''. 24 September 2007.<!-- isbn needed -->
+*Jakopovich, Daniel. ''Hannah Arendt and Nonviolence'', Peace Studies Journal, Volume 2, Issue 1, Fall 2009
+*Berkowitz, Roger &  Thomas Keenan, Jeffrey Katz, ed. ''Thinking in Dark Times: Hannah Arendt on Ethics and Politics'' [[Fordham University Press]], 2009; {{ISBN|978-0-8232-3076-1}}
+*Susan, Visvanathan. "Hannah Arendt and the Problem of our Age", ''Economic and Political Weekly'', Vol XXXVI No. 16, 21 April 2001 <!-- isbn needed -->
+*Zamora, J.A. y Arribas, S. (Coord). "''Hannah Arendt. Pensar en tiempos sombríos.''". ''Arbor'', Vol 186, No 742 (2010). [[Consejo Superior de Investigaciones Científicas]]. {{doi|10.3989/arbor.2010.i742}} (in Spanish).
+*Hansen, Phillip Birger. ''Hannah Arendt: politics, history and citizenship''. [[Stanford University Press]], 1993; {{ISBN|978-0-8047-2145-5}}
+*[[Mario Kopić|Kopić, Mario]]. ''{{lang|hr|Otkucaji drugoga}}/The Beats of the Other''. Belgrade: {{lang|sr|Službeni glasnik}}, 2013; {{ISBN|978-86-519-1721-2}}
+*Slonem, Marc. ''Men in Dark Times''. [[The New York Times Book Review]], November 17, 1968, p.&nbsp;6.
+* {{cite book |last=Swift |first=Simon |title=Hannah Arendt. Routledge Critical Thinkers |publisher=Taylor & Francis |location=City |year=2008 |isbn=978-1-281-79658-5 |ref=harv}}
+
+==External links==
+{{Commons|Hannah Arendt}}
+{{Wikiquote}}
+{{wikisource}}
+* [http://contemporarythinkers.org/hannah-arendt/ Website and bibliography of Hannah Arendt's writings]
+* [http://hac.bard.edu The Hannah Arendt Center for Politics and Humanities at Bard College]
+* [http://www.newschool.edu/nssr/centers-special-programs/?id=104447 Hannah Arendt Center at The New School]
+* [http://www.newyorker.com/arts/critics/atlarge/2009/01/12/090112crat_atlarge_kirsch "Beware of pity - 'Hannah Arendt and the power of the impersonal'"] by Adam Kirsch, ''[[The New Yorker]]'', January 12, 2009.
+
+===Writings===
+* [http://memory.loc.gov/ammem/arendthtml/arendthome.html Hannah Arendt personal papers collection] at the [[Library of Congress]] contains her personal archive, with scanned portions available on the internet.
+* [http://www.nybooks.com/authors/4497 ''New York Review of Books''] (subscription-based essays)
+
+===Overviews===
+* [http://www.iep.utm.edu/a/arendt.htm Hannah Arendt (1906-1975) at the Internet Encyclopedia of Philosophy]
+* {{cite SEP |url-id=arendt |title=Hannah Arendt |last=d'Entreves |first=Maurizio Passerin}}
+* [https://www.jewishvirtuallibrary.org/jsource/biography/arendt.html Hannah Arendt profile], in [[Paula Hyman]] and [[Deborah Dash Moore]] (eds.), ''Jewish Women in America''. New York: Routledge, 1997.<!-- isbn needed -->
+
+===Works about Arendt===
+* [http://memory.loc.gov/ammem/arendthtml/special.html ''The Role of Experience in Hannah Arendt's Political Thought: Three Essays''] by Jerome Kohn
+* [https://web.archive.org/web/20110823042614/http://www.helsinki.fi/collegium/e-series/volumes/volume_8/index.htm "Hannah Arendt: Practice, Thought and Judgement"]
+* {{cite journal |last1=Vogel |first1=Lawrence A. |year=2008 |title=The Responsibility of Thinking in Dark Times: Hannah Arendt versus Hans Jonas |url=http://digitalcommons.conncoll.edu/philfacpub/5/ |journal=Graduate Faculty Philosophy Journal |pages=253–293}}
+* {{IMDb title|1674773}}, Margarethe von Trotta's 2012 film
+* [[iarchive:HannahArendt|FBI file on Hannah Arendt]]
+* [https://www.pdcnet.org/arendtstudies ''Arendt Studies: A Journal for Research on the Life, Work, and Legacy of Hannah Arendt''] 
+
+{{Hannah Arendt}}
+{{Navboxes
+|title=Articles related to Hannah Arendt
+|list=
+{{continental philosophy}}
+{{Existentialism}}
+{{Sonning Prize laureates}}
+{{Social and political philosophy}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Arendt, Hannah}}
+[[Category:Hannah Arendt| ]]
+[[Category:1906 births]]
+[[Category:1975 deaths]]
+[[Category:20th-century American historians]]
+[[Category:20th-century American writers]]
+[[Category:20th-century German philosophers]]
+[[Category:20th-century women writers]]
+[[Category:American agnostics]]
+[[Category:Philosophers from Illinois]]
+[[Category:American political philosophers]]
+[[Category:American political theorists]]
+[[Category:American women historians]]
+[[Category:American women philosophers]]
+[[Category:Anti-nationalists]]
+[[Category:Columbia University faculty]]
+[[Category:Continental philosophers]]
+[[Category:Exilliteratur writers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:German historians]]
+[[Category:German political philosophers]]
+[[Category:German women philosophers]]
+[[Category:Guggenheim Fellows]]
+[[Category:Heidelberg University alumni]]
+[[Category:Historians of communism]]
+[[Category:Historians of the Holocaust]]
+[[Category:International criminal law scholars]]
+[[Category:Jewish agnostics]]
+[[Category:Jewish American historians]]
+[[Category:Jewish American writers]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:Jewish existentialists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish women writers]]
+[[Category:Members of the American Academy of Arts and Letters]]
+[[Category:Northwestern University faculty]]
+[[Category:People from Hanover]]
+[[Category:People from Königsberg]]
+[[Category:Philosophers of technology]]
+[[Category:Princeton University faculty]]
+[[Category:Scholars of antisemitism]]
+[[Category:The New School faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:University of Marburg alumni]]
+[[Category:Wesleyan University faculty]]
+[[Category:Women religious writers]]
+[[Category:Women sociologists]]
+[[Category:Yale University faculty]]
+[[Category:Philosophers from New York (state)]]
+[[Category:Philosophers from California]]
+[[Category:Philosophers from Connecticut]]

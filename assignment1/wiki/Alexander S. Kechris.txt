@@ -1,0 +1,70 @@
+{{Infobox scientist
+| name        = Alexander S. Kechris
+| image       = Kechris.jpg <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 220px
+| alt         = 
+| caption     = Alexander S. Kechris (left)
+| birth_date  = {{birth date and age |1946|3|23|mf=y}}
+| birth_place = [[Greece]]
+| death_date  =         <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| nationality = [[Greece|Greek]]
+| fields      = [[Mathematics]]
+| workplaces  = [[California Institute of Technology]]
+| alma_mater  = 
+| thesis_title =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = [[Yiannis N. Moschovakis]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = 
+| known_for   = 
+| awards      = 
+}}
+
+'''Alexander''' ('''Alekos''') '''Sotirios Kechris''' ({{lang-el|Αλέξανδρος (Αλέκος) Σωτήριος Κεχρής}}; born March 23, 1946) is a [[Set theory|set]] theorist and [[Mathematical logic|logician]] at [[California Institute of Technology]]. 
+
+He has made major contributions to the theory of [[Borel equivalence relation]]s and the theory of automorphism groups of uncountable structures. His research interests cover foundations of mathematics, mathematical logic and set theory and their interactions with analysis and dynamical systems. 
+
+Kechris earned his [[Ph.D.]] in 1972 under the direction of [[Yiannis N. Moschovakis]], with a dissertation titled ''[[Projective set|Projective]] [[Ordinal number|Ordinals]] and [[Countable]] [[Analytic set|Analytic Sets]]''. During his academic career he advised 23 PhD and sponsored 20 postdoc students.
+
+In 2012 he became an Inaugural Fellow of the [[American Mathematical Society]].<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2013-01-27.</ref>
+
+==Honors==
+*1986 - Invited Speaker at the International Congress of Mathematicians in Berkeley (Mathematical Logic & Foundations) <ref>[http://www.mathunion.org/db/ICM/Speakers/SortedByLastname.php ICM Plenary and Invited Speakers since 1897]</ref>
+*1998 - a [[Kurt Gödel|Gödel]] lecturer (Current Trends in Descriptive Set Theory). <ref>[https://www.aslonline.org/Goedel_lecturers.html ASL Gödel Lecturers]</ref>
+*2003 - received along with [[Greg Hjorth|Gregory Hjorth]] the Karp Prize for joint work on Borel equivalence relations, in particular for their results on turbulence and countable [[Borel equivalence relation|Borel equivalence relations]]<ref>[https://www.aslonline.org/Karp_recipients.html ASL Karp Prize Recipients]</ref>
+*2004 - [[Alfred Tarski|Tarski]] Lecturer (''New Connections Between Logic, Ramsey Theory and Topological Dynamics'') <ref>[https://math.berkeley.edu/2004-tarski-lectures 2004 Tarski Lectures]</ref>
+
+==Selected publications==
+* A. S. Kechris, "Classical Descriptive Set Theory", Springer-Verlag, 1995.
+* H. Becker, A. S. Kechris, "The descriptive set theory of Polish group actions" (London Mathematical Society Lecture Note Series), University of Cambridge, 1996.
+* A.S. Kechris, V.G. Pestov and S. Todorcevic, "Fraïssé limits, Ramsey theory and topological dynamics of automorphism groups", Geometric and Functional Analysis 15 (1) (2005), 106-189.
+* A.S. Kechris, "Global Aspects of Ergodic Group Actions",  Mathematical Surveys and Monographs, 160, American Mathematical Society, 2010.<ref>{{cite journal|author=Weiss, Benjamin|title=Review: ''Global aspects of ergodic group actions'' by Alexander S. Kechris|journal=Bull. Amer. Math. Soc. (N.S.)|year=2014|volume=51|issue=1|pages=163–168|url=http://www.ams.org/journals/bull/2014-51-01/S0273-0979-2013-01422-8/S0273-0979-2013-01422-8.pdf|doi=10.1090/s0273-0979-2013-01422-8}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.math.caltech.edu/~kechris/shortvita09.pdf A. S. Kechris biographical sketch]
+* [http://www.math.caltech.edu/~kechris/ Kechris's web page at Caltech]
+* [http://sl2x.aimath.org/development/collectedworks/of/Alexander_S_Kechris/subject.html Collected works of Alexander S. Kechris]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kechris, Alexander S.}}
+[[Category:American logicians]]
+[[Category:Greek logicians]]
+[[Category:Greek mathematicians]]
+[[Category:20th-century mathematicians]]
+[[Category:21st-century mathematicians]]
+[[Category:California Institute of Technology faculty]]
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Set theorists]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Guggenheim Fellows]]
+[[Category:Tarski lecturers]]
+[[Category:Philosophers from California]]
+
+{{US-mathematician-stub}}
+{{Greece-mathematician-stub}}

@@ -1,0 +1,64 @@
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image       =
+|image_size       =
+|caption     = 
+|name             = Duncan Kennedy
+|birth_date       = {{birth year and age|1942}}
+|birth_place      = [[Washington, D.C.]]
+|death_date       = 
+|school_tradition = Critical Theory
+|main_interests   = [[Legal philosophy]]
+|notable_ideas    = [[Critical legal studies|Critical Legal Studies movement]]
+|influences       = 
+|influenced       = [[Louis Michael Seidman]], [[Gary Peller]]
+|signature        = 
+}}
+
+'''Duncan Kennedy''' (born 1942) is the Carter Professor of General Jurisprudence at [[Harvard Law School]] and a founder of [[critical legal studies]] as movement and school of thought.
+
+==Education and early career==
+
+Kennedy received an [[Bachelor of Arts|A.B.]] from [[Harvard College]] in 1964 and then worked for two years in the [[CIA]] operation that controlled the [[National Student Association]].<ref>See [http://duncankennedy.net/documents/A%20Semiotics%20of%20Critique.pdf Duncan Kennedy, ''Symposium: Afterword, A Semiotics of Critique,'' 22 Cardozo L. Rev. 1147, 1166-67 (2001).]
+</ref>  In 1966 he rejected his "cold war liberalism."<ref>''Id.'' at 1167.</ref>  He quit the CIA<ref>''Id.''</ref> and in 1970 earned an [[Bachelor of Laws|LL.B.]] from [[Yale Law School]]. After completing a clerkship with [[Supreme Court of the United States|Supreme Court]] Justice [[Potter Stewart]], Kennedy joined the Harvard Law School faculty, becoming a full professor in 1976. In March 2010 he received an Honoris Causa (honorary degree) Ph.D. title from the [[University of the Andes (Colombia)|University of the Andes]] in [[Colombia]].
+
+Kennedy has been a member of the [[American Civil Liberties Union]] since 1967. According to his own testimony, he has never forgotten to pay his dues.<ref>Duncan Kennedy, Harvard Law School Lecture, "Globalization of Legal Ideas and Ideology," April 14, 2011.</ref>
+
+==Academic work and influence==
+In 1977, together with [[Karl Klare]], [[Mark Kelman]], [[Roberto Mangabeira Unger|Roberto Unger]], and other scholars, Kennedy established the [[critical legal studies|Critical Legal Studies movement]]. Outside legal academia, he is mostly known for his monograph ''[[Legal Education and the Reproduction of Hierarchy]]''*[http://www.duncankennedy.net/documents/Photo%20articles/Legal%20Education%20and%20the%20Reproduction%20of%20Hierarchy_J.%20Leg.%20Ed..pdf], famous for its trenchant critique of American legal education.
+
+==Bibliography==
+*''A Critique of Adjudication [fin de siècle]'', ([[Harvard University Press]], 1997)
+*''Sexy Dressing, etc.'', (Harvard University Press, 1993)
+*"Freedom and Constraint in Adjudication: A Critical Phenomenology," 36 ''Journal of Legal Education'' 518 (1986)
+*"Form and Substance in Private Law Adjudication," 89 ''[[Harvard Law Review]]'' 1685 (1976)
+*"A Semiotics of Critique," 22 ''Cardozo Law Review'' 1147 (2001)
+*"Thoughts on Coherence, Social Values and National Tradition in Private Law," in Hesselink, ed., ''The Politics of a European Civil Code'' ([[Kluwer Academic Publishers|Kluwer Law International]], Amsterdam, 2006)
+
+==See also==
+*[[Critical legal studies]]
+*[[Indeterminacy debate in legal theory]]
+*[[List of deconstructionists]]
+*[[Philosophy of law]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://www.duncankennedy.net Duncan Kennedy's Personal Website]
+*[http://www.law.harvard.edu/faculty/directory/facdir.php?id=35 Duncan Kennedy's Harvard Law School Home Page]
+*[http://www.legalleft.org/?page_id=137 Duncan Kennedy debates [[Noah Feldman]] in March 2008 at Harvard Law School, as part of a series on "Confronting Empire"]
+*{{YouTube|eXICJnTmiNs|Duncan Kennedy at the University of the Andes}}, lecture on law and economics
+
+{{Authority control}}
+{{DEFAULTSORT:Kennedy, Duncan}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Critical legal studies]]
+[[Category:Harvard Law School faculty]]
+[[Category:People from Washington, D.C.]]
+[[Category:Philosophers of law]]
+[[Category:Harvard University alumni]]
+[[Category:Yale Law School alumni]]
+[[Category:Law clerks of the Supreme Court of the United States]]

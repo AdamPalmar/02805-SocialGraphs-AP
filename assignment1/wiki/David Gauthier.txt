@@ -1,0 +1,79 @@
+{{BLP unsourced|date=February 2017}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| color            = #B0C4DE
+| name             = David Gauthier
+| birth_date       = {{birth date and age|1932|9|10}}
+| birth_place      = [[Toronto]], [[Ontario]], [[Canada]]
+| death_date       = 
+| school_tradition = [[Political philosophy]]
+| main_interests   = [[justice]], [[game theory]], [[rational choice theory]], [[contractarianism]]
+| notable_ideas    = Morals by Agreement, [[constrained maximisation]], Gauthierian [[Lockean proviso]]
+| influences       = [[Thomas Hobbes]]{{·}}[[John Locke]]
+| influenced       = [[Peter Vallentyne]],[[Geoffrey Sayre-McCord]]
+| signature        = 
+}}
+{{Liberalism sidebar}}
+'''David Gauthier''' (born 10 September 1932) is a Canadian-American [[philosopher]] best known for his neo-[[Thomas Hobbes|Hobbesian]] [[social contract|social contract (contractarian) theory]] of [[morality]], as developed in his 1986 book ''Morals by Agreement''.
+
+==Life and career==
+
+Gauthier was born in Toronto in 1932 and educated at the [[University of Toronto]] (B.A. Hons., 1954), [[Harvard University]] (A.M., 1955), and the [[University of Oxford]] (B. Phil., 1957; D. Phil., 1961).<ref>http://www.philosophy.pitt.edu/person/david-gauthier</ref>
+
+He taught at the [[University of Toronto]] from 1958 until 1980, when he joined the Department of Philosophy at the [[University of Pittsburgh]], where he is now Distinguished Service Professor emeritus.  
+
+Gauthier has also held visiting appointments at UCLA, UC Berkeley, Princeton, UC Irvine, and the University of Waterloo. 
+
+In 1979, he was elected a fellow of the Royal Society of Canada (F.R.S.C.).<ref>http://www.philosophy.pitt.edu/person/david-gauthier</ref>
+
+==Philosophical work==
+
+Gauthier is the author of numerous articles, some of the most important of which are collected in ''Moral Dealing'', as well as several books including ''Practical Reasoning'', ''The Logic of Leviathan'', ''Morals by Agreement'', and ''Rousseau: The Social and the Solitary''.<ref>http://againstpolitics.com/david-gauthier-biography/</ref>
+
+In addition to systematic work in moral theory, Gauthier also has interests are in the history of political philosophy, especially [[Thomas Hobbes|Hobbes]] and [[Jean-Jacques Rousseau|Rousseau]].  He has also done work on he theory of practical rationality, where he begins from an attempt to understand economic rationality, rather than from [[Immanuel Kant|Kantian]] or [[Aristotle|Aristotelian]] antecedents.
+
+Gauthier understands [[value theory|value]] as a matter of individuals' [[economic subjectivism|subjective]] preferences, and argues that moral constraints on straightforward utility-maximizing are [[prudence|prudentially]] justified. He argues that it is most prudent to give up straightforward maximizing and instead adopt a disposition of constrained maximization, according to which one resolves to cooperate with all similarly disposed persons (those disposed towards cooperation) and defect on the rest (straightforward maximizers), since repeated cooperation provides greater yields than repeated mutual defection from contracts (as is seen in a basic [[Prisoner's Dilemma]] game). In other words, moral constraints are justified because they make us all better off, in terms of our preferences (whatever they may be). A consequence is that good moral thinking is just an elevated and subtly [[game theory|strategic]] version of means-end [[reason]]ing.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+
+===Authored Books by Gauthier===
+*''Practical Reasoning: The Structure and Foundations of Prudential and Moral Arguments and Their Exemplification in Discourse'' (Oxford: Clarendon Press, 1963).
+*''The Logic of Leviathan: The Moral and Political Theory of Thomas Hobbes'' (Oxford: Clarendon Press, 1969).
+*''Morals by Agreement'' (Oxford: Oxford University Press, 1986)
+*''Moral Dealing: Contract, Ethics, and Reason'' (Ithaca, Cornell University Press, 1990).
+*''Rousseau: The Sentiment of Existence'' (Cambridge: Cambridge University Press, 2006).
+
+===Selected secondary literature===
+*E. F. Paul, F. D. Miller, Jr., and J. Paul, eds., ''The New Social Contract: Essays on Gauthier'' (Oxford: Blackwell, 1988).
+*Peter Vallentyne, ed., ''Contractarianism and Rational Choice: Essays on David Gauthier's Morals by Agreement''(New York: Cambridge University Press, 1991.)
+*David Gauthier and Robert Sugden, eds., ''Rationality, Justice and the Social Contract: Themes from Morals by Agreement'' (Hertfordshire: Harvester Wheatsheaf, 1993).
+*Christopher W. Morris, and Arthur Ripstein, eds., ''Practical Rationality and Preference: Essays for David Gauthier''(New York: Cambridge University Press, 2001)
+*John G. Messerly,“Constrained Maximizers in Iterated Contexts,” Southwest Philosophy Review, 1994, 107-111.
+*John G. Messerly,“The Omission of Unconditional Cooperators: A Critique of Gauthier’s Argument for Constrained Maximization,” Philosophical Studies 67, 1992, 19-39.
+
+==See also==
+*[[American philosophy]]
+*[[Compliance problem]]
+*[[Social contract]]
+*[[Game theory]]
+*[[List of American philosophers]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gauthier, David}}
+[[Category:1932 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:University of Toronto alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Canadian philosophers]]
+[[Category:Moral philosophers]]
+[[Category:University of Toronto faculty]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:Guggenheim Fellows]]

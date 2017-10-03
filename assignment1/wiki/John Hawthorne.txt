@@ -1,0 +1,70 @@
+{{for|the Australian politician|John Hawthorne (politician)}}
+{{Infobox philosopher
+|image =
+| region           = Western Philosophy 
+| era              = [[20th-century philosophy]] 
+| name             = John Hawthorne
+| birth_date       = 
+| birth_place      = 
+| alma_mater       = [[Syracuse University]]
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Metaphysics]], [[epistemology]], [[philosophy of language]]
+| influences       = [[William Alston]], [[Jonathan Bennett (philosopher)|Jonathan Bennett]], [[Timothy Williamson]], [[David Lewis (philosopher)|David Lewis]]
+| influenced       = 
+| notable_ideas    =
+}}
+'''John Hawthorne''' is Professor of Philosophy at the [[University of Southern California]].<ref>https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1047479</ref>  He is recognized as a leading contemporary contributor to metaphysics and epistemology.<ref>{{cite web|url=http://ukcatalogue.oup.com/product/9780198250241.do |title=The Oxford Handbook of Metaphysics: Hardback: Michael J. Loux|publisher=Oxford University Press |date=2003-08-28 |accessdate=2013-08-26}}</ref>
+
+His 2006 collection ''Metaphysical Essays'' offers original treatments of fundamental topics in philosophy, including identity, ontology, vagueness, and causation, which one reviewer called "essential reading for anyone currently engaged in analytic metaphysics".<ref>https://ndpr.nd.edu/news/25198-metaphysical-essays/</ref>
+In his book ''Knowledge and Lotteries'', Hawthorne defends a view in [[epistemology]] according to which the presence of knowledge is dependent on the subject's interests (he calls this view 'Subject-Sensitive Invariantism').<ref>{{cite web|url=http://ndpr.nd.edu/news/23836-knowledge-and-lotteries/|title=Knowledge and Lotteries|first=Matthew|last=McGrath|work=Notre Dame Philosophical Reviews|date=6 August 2004|accessdate=9 December 2012}}</ref> Unlike [[contextualism]], Hawthorne's view does not require that the meaning of the word "know" changes from one context of ascription to another. His view is thus a variety of invariantism. However, whether a subject has knowledge depends to a surprising extent on features of the ''subject's'' context, including practical concerns. This position can be classed as a form of [[pragmatism]]. The American philosopher [[Jason Stanley]] holds a similar view.
+
+Hawthorne has also written on philosophy of language and philosophical logic, philosophy of religion, philosophy of mind, and on [[Gottfried Wilhelm Leibniz|Leibniz]].
+
+==Education==
+Hawthorne earned his Ph.D. from [[Syracuse University]], where he studied with [[William Alston]] and [[Jonathan F. Bennett]]. From 2006-2015, he was the [[Waynflete Professor of Metaphysical Philosophy]] at the [[University of Oxford]]. He has also taught at the [[University of New South Wales]], [[Arizona State University]], [[Syracuse University]], [[Rutgers University, New Brunswick]], and [[Princeton University]].
+
+==Works==
+
+===Books===
+
+* ''The Reference Book'' (with David Manley, [[Oxford University Press]], 2012)
+* ''Relativism and Monadic Truth'' (with [[Herman Cappelen]], Oxford University Press 2010)
+* ''Metaphysical Essays'' ([[Oxford University Press]], 2006)
+* ''Knowledge and Lotteries'' ([[Oxford University Press]], 2004)
+* ''Substance and Individuation in Leibniz'' (with J. A. Cover, [[Cambridge University Press]] 2003)
+* ''The Grammar of Meaning: Normativity and Semantic Discourse'' (with Mark Norris Lance, Cambridge University Press, 1997)
+
+===Edited books===
+
+* ''Contemporary Debates in Metaphysics'' (edited with [[Theodore Sider]] and [[Dean Zimmerman]], Blackwell, 2007)
+* ''Perceptual Experience'' (edited with [[Tamar Gendler]], Oxford University Press, 2006)
+* ''Conceivability and Possibility'' (edited with [[Tamar Gendler]], Oxford University Press, 2002)
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1047479 University of Southern California Webpage]
+*{{worldcat id|lccn-n94-81968}}
+*[http://scholar.google.co.uk/citations?hl=en&user=uQFM2v4AAAAJ&pagesize=100&view_op=list_works Google Scholar Page]
+
+{{Analytic philosophy}}
+{{Philosophy of language}}
+
+{{DEFAULTSORT:Hawthorne, John}}
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Epistemologists]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophy academics]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Waynflete Professors of Metaphysical Philosophy]]
+[[Category:Syracuse University alumni]]
+
+
+{{UK-philosopher-stub}}

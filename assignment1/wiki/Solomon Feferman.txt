@@ -1,0 +1,67 @@
+{{Use mdy dates|date=July 2014}}
+
+'''Solomon Feferman''' (December 13, 1928 – July 26, 2016)<ref>http://www.illc.uva.nl/LogicList/newsitem.php?id=7645</ref> was an American [[philosopher]] and [[mathematician]] with works in [[mathematical logic]]. He was born in The Bronx in New York City from working class parents who had emigrated to the United States after [[World War I]] and had met and married in New York. Neither had any advanced education.  The family moved to Los Angeles, where Feferman graduated from high school at age 16. He received his B.S. from the [[California Institute of Technology]] in 1948 and his Ph.D. in mathematics in 1957 from the [[University of California, Berkeley]] under [[Alfred Tarski]],<ref>{{MathGenealogy|id=19858}}</ref> after being drafted from 1953 to 1955. In 1956 he was hired with appointments in the Departments of Mathematics and Philosophy at [[Stanford University]], where later he became the [[Patrick Suppes]] Professor of Humanities and Sciences.<ref>http://math.stanford.edu/~feferman/</ref>
+
+Feferman was awarded a Guggenheim Fellowship in 1972 and 1986<ref>http://www.gf.org/fellows/all-fellows/solomon-feferman/</ref> and the [[Schock Prize]] in logic and philosophy in 2003.<ref>http://news.stanford.edu/news/2003/june4/feferman-64.html</ref> He was invited to deliver the [https://math.berkeley.edu/about/events/lectures/tarski Tarski Lectures] in 2006. In 2012 he became a fellow of the [[American Mathematical Society]].<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved December 2, 2012.</ref>
+
+Feferman was the editor-in-chief of the five volumes of ''Collected Works'' of [[Kurt Gödel]] that were published by Oxford University Press between 2001 and 2013.
+
+Together with his wife Anita Burdman Feferman, he wrote a biography of Alfred Tarski: ''Alfred Tarski: Life and Logic'' in 2004.
+
+He worked on predicative mathematics, and in particular introduced the [[Feferman–Schütte ordinal]] as a measure of the strength of certain predicative systems.
+
+==Selected publications==
+*Feferman, Solomon; Vaught, Robert L. (1959). The first order properties of products of algebraic systems. ''Fund. Math.'' 47, 57–103.
+*Feferman, Solomon. (1975). A language and axioms for explicit mathematics. ''Algebra and logic'' (Fourteenth Summer Res. Inst., Austral. Math. Soc., Monash Univ., Clayton, 1974), pp.&nbsp;87–139. Lecture Notes in Math., Vol. 450, Springer, Berlin.
+*Feferman, Solomon. (1979). Constructive theories of functions and classes. ''Logic Colloquium '78 (Mons, 1978)'', pp.&nbsp;159–224, Stud. Logic Foundations Math., 97, North-Holland, Amsterdam-New York.
+*Buchholz, Wilfried; Feferman, Solomon; Pohlers, Wolfram; Sieg, Wilfried. (1981). ''Iterated inductive definitions and subsystems of analysis: recent proof-theoretical studies''. Lecture Notes in Mathematics, 897. Springer-Verlag, Berlin-New York.
+*Feferman, Solomon; [[Geoffrey Hellman|Hellman, Geoffrey]]. (1995). Predicative foundations of arithmetic. ''J. Philos. Logic'' 24(1), 1--17.
+*Feferman, Solomon. (1998). ''In the Light of Logic''. Oxford University Press. {{ISBN|0-19-508030-0}}, Logic and Computation in Philosophy series) [http://orion.uci.edu/~aldo/papers/fef.pdf review].
+*[[Jeremy Avigad|Avigad, Jeremy]]; Feferman, Solomon. (1998). Gödel's functional (''Dialectica'') interpretation. ''Handbook of proof theory'', 337–405, Stud. Logic Found. Math., 137, North-Holland, Amsterdam.
+*{{cite book
+|last1=Feferman
+|first1=Anita Burdman
+|first2=Solomon
+|last2=Feferman
+|authorlink2=Solomon Feferman
+|title=Alfred Tarski:  Life and Logic
+|year=2004
+|publisher=[[Cambridge University Press]]
+|isbn=978-0-521-80240-6
+|oclc=54691904
+|ref=F-F
+}}
+
+==See also==
+*[[Criticism of non-standard analysis]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://math.stanford.edu/~feferman/ Solomon Feferman official website] at [[Stanford University]]
+
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Feferman, Solomon}}
+[[Category:1928 births]]
+[[Category:21st-century mathematicians]]
+[[Category:American logicians]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish philosophers]]
+[[Category:Mathematical logicians]]
+[[Category:Historians of mathematics]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Rolf Schock Prize laureates]]
+[[Category:Stanford University Department of Philosophy faculty]]
+[[Category:Stanford University Department of Mathematics faculty]]
+[[Category:Philosophers of mathematics]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Guggenheim Fellows]]
+[[Category:Tarski lecturers]]
+[[Category:2016 deaths]]
+
+
+{{US-mathematician-stub}}

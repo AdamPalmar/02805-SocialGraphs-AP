@@ -1,0 +1,66 @@
+{{Infobox economist
+| name             = Gustave de Molinari
+| school_tradition = [[Classical liberalism]]
+| color            = green
+| image            = Gustavedemolinari.jpg
+| caption          =
+| birth_date        = 3 March 1819
+| birth_place       = [[Liège]], [[United Kingdom of the Netherlands]]
+| death_date        = {{death date and age|df=yes|1912|1|28|1819|3|3}}
+| death_place       = [[Adinkerke]], [[Belgium]]
+| nationality       = Belgian
+| field             =
+| influences        = [[Frédéric Bastiat]]
+| influenced        = [[Paul Émile de Puydt]], [[Murray Rothbard]], [[Benjamin Tucker]]
+}}
+
+'''Gustave de Molinari''' (3 March 1819 – 28 January 1912) was a [[political economist]] and [[classical liberal]] theorist born in [[Liège]], in the Walloon region of Belgium, and was associated with French [[laissez-faire]] economists such as [[Frédéric Bastiat]] and [[Hippolyte Castille]]. Living in Paris during the 1840s, he participated with the ''Ligue pour la Liberté des Échanges'' (Free Trade League), based on the theories of Frédéric Bastiat. On his death bed in 1850, Bastiat described Molinari as the continuator of his works. In 1849, soon after [[The Revolutions of 1848 in France]], Molinari published two works: an essay, "The Production of Security", and a book, ''Les Soirées de la Rue Saint-Lazare'', describing how a [[Market economy|market]] in justice and protection could advantageously replace the [[Sovereign state|state]].
+
+During the 1850s, Molinari fled to Belgium to escape threats from France's Emperor [[Napoleon III]].  He returned to Paris during the 1860s to work for the influential newspaper, ''[[Le Journal des Débats]]'', which he edited from 1871 to 1876. Molinari later edited the ''[[Journal des Économistes]]'', the publication of the [[French Political Economy Society]], from 1881 until 1909. In his 1899 book, ''The Society of Tomorrow'', he proposed a federated system of collective security, and reiterated his support for private competing defense agencies.
+
+Molinari's critique of the state sometimes resulted in him opposing causes and events which might seemingly be aligned with his overall critique of power and privilege. An example of this was the [[American Civil War]], which Molinari believed to be far more about the trade interests of northern industrialists than about slavery (though he did not deny that abolitionism was a part of the picture). "In his last work, published a year before his death in 1912, Molinari never relented:<ref name=Mises>[[Ralph Raico|Raico, Ralph]] (2011-03-29) [https://mises.org/daily/5088/Neither-the-Wars-Nor-the-Leaders-Were-Great Neither the Wars Nor the Leaders Were Great], [[Mises Institute]]</ref>
+
+<blockquote>
+The American Civil War had not been simply a humanitarian crusade to free the slaves. The war "ruined the conquered provinces", but the Northern plutocrats pulling the strings achieved their aim: the imposition of a vicious protectionism that led ultimately "to the regime of trusts and produced the billionaires."
+</blockquote>
+
+Molinari's grave is located at [[Père Lachaise Cemetery]] in Paris, France.
+
+==Influence==
+Some [[Anarcho-capitalism|anarcho-capitalists]] consider Molinari to be the first proponent of [[anarcho-capitalism]].<ref name=Mises/> In the preface to the 1977 English translation [[Murray Rothbard]] called "The Production of Security" the "first presentation anywhere in human history of what is now called anarcho-capitalism" though admitting that "Molinari did not use the terminology, and probably would have balked at the name." [[Austrian School]] economist [[Hans-Hermann Hoppe]] says that "the 1849 article 'The Production of Security' is probably the single most important contribution to the modern theory of anarcho-capitalism."<ref>Hoppe, Hans-Hermann. [http://archive.lewrockwell.com/hoppe/hoppe5.html ''Anarcho-Capitalism: An Annotated Bibliography'']</ref> In the past, Molinari influenced some of the political thoughts of [[individualist anarchist]] [[Benjamin Tucker]] and the ''[[Liberty (1881–1908)|Liberty]]'' circle.<ref>David Hart's [https://mises.org/journals/jls/5_4/5_4_4.pdf Gustave De Molinari And The Anti-Statist Liberal Tradition]</ref>
+
+The market anarchist Molinari Institute, directed by philosopher [[Roderick Long]], is named after Molinari, whom it terms the "originator of the theory of Market Anarchism."<ref>[http://praxeology.net/molinari.htm Molinari Institute]</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite encyclopedia |last= Hart |first= David |authorlink= |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=  Molinari, Gustave de (1819–1912) |url= https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n206 |isbn= 978-1412965804 |oclc=750831024| lccn = 2008009151 |pages=336–37 |quote= |ref= }}
+
+==External links==
+{{Wikiquote}}
+{{commons category}}
+{{Wikisource-author}}
+* [http://praxeology.net/molinari.htm Molinari Institute]
+* {{Goodreads author}}
+
+{{use dmy dates|date=January 2011}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Molinari, Gustave De}}
+[[Category:1819 births]]
+[[Category:1912 deaths]]
+[[Category:People from Liège]]
+[[Category:19th-century economists]]
+[[Category:Anarcho-capitalists]]
+[[Category:Belgian anarchists]]
+[[Category:Belgian economists]]
+[[Category:Belgian libertarians]]
+[[Category:French libertarians]]
+[[Category:French Liberal School]]
+[[Category:Classical economists]]
+[[Category:European classical liberals]]
+[[Category:Corresponding Members of the St Petersburg Academy of Sciences]]
+[[Category:Libertarian economists]]
+[[Category:Burials at Père Lachaise Cemetery]]

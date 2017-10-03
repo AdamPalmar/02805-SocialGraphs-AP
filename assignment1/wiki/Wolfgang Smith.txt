@@ -1,0 +1,683 @@
+{{BLP sources|date=March 2013}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|color            = lightsteelblue
+|image       = 
+|image_size       = 150px
+|caption    = 
+|name             = J. Wolfgang Smith
+|birth_date       = {{Birth year and age|1930}}
+|death_date       =
+|school_tradition = [[Philosophical realism|Realism]], [[Platonism]], [[Neoplatonism]], [[Aristotelianism]], [[Neo-Scholasticism]], [[Traditionalist School|Traditionalism]]
+|main_interests   = [[Metaphysics]], [[Physics]], [[Mathematics]], [[Philosophy of science]]
+|notable_ideas    = Completely splitting the [[scientific method]] from the [[Scientism|scientistic philosophy]]; showing how the former can be joined to a [[Neo-Scholasticism|thomistic]]-based [[Ontology|ontological]] [[Philosophical realism|realism]]; assigning to many [[hard science]]s a place in such an ontological [[Hierarchy#Physics|hierarchy]].
+|influences       = [[Plato]], [[Aristotle]], [[Thomas Aquinas]], [[Adi Shankara]], [[Meister Eckhart]], [[Edmund Husserl]], [[Alfred North Whitehead]], [[René Guénon]]
+|influenced       = [[Olavo de Carvalho]]
+}}
+
+'''Wolfgang Smith''' (born 1930) is a [[mathematician]], [[physicist]], [[philosopher of science]], [[metaphysician]], [[Roman Catholic]] and member of the [[Traditionalist School]]. He has written extensively in the field of [[differential geometry]], as a critic of [[scientism]] and as a proponent of a new [[interpretation of quantum mechanics]] that draws heavily from medieval [[ontology]] and [[philosophical realism|realism]].
+
+==Biography==
+Smith graduated in 1948 from [[Cornell University]] with a B.A. in [[Philosophy]], [[Physics]] and [[Mathematics]]. Two years later he obtained his M.S. in Physics from [[Purdue University]] and, some time later, a Ph.D in Mathematics from [[Columbia University]].
+
+He worked as a physicist in [[Bell Aircraft]] corporation, researching [[aerodynamics]] and the problem of [[atmospheric reentry]].{{Citation needed|date=April 2008}} He was a mathematics professor at [[Massachusetts Institute of Technology|MIT]], [[University of California, Los Angeles|UCLA]] and [[Oregon State University]], doing research in the field of [[differential geometry]] and publishing in [[academic journal]]s such as the ''[[Transactions of the American Mathematical Society]]'', the ''[[Proceedings of the National Academy of Sciences]]'', the ''[[American Journal of Mathematics]]'', and others. He retired from academic life in 1992.
+
+In parallel with his academic duties, he developed and still develops philosophical inquiries in the fields of [[Metaphysics]] and [[Philosophy of science]], publishing in specialized journals such as ''The Thomist'' and ''Sophia: The Journal of Traditional Studies''.
+
+==Philosophy==
+Smith is a member of the Traditionalist School of [[Metaphysics]], having contributed extensively to its criticism of modernity while exploring the philosophical underpinnings of the scientific method and emphasizing the idea of bringing science back into the [[Aristotle|Aristotelian]] framework of traditional ontological [[Philosophical realism|realism]].
+
+Identifying with [[Alfred North Whitehead]]'s criticism of [[Scientism]]'s "bifurcationism" and "physical reductionism", i.e., the belief that, first, the qualitative properties of the objects of perception (the "corporeal objects") are ultimately distinct from their respective quantitative properties (the "physical objects" studied by the different sciences); and second, that the physical objects are "in fact" all there is, meaning the corporeal objects are reduced to their physical counterparts, Smith examines critically in his work ''Cosmos and Transcendence'' (1984) the [[Cartesianism|Cartesian]] roots of modern physical sciences.
+
+Proceeding from his critique of Scientism, in his ''The Quantum Enigma'' (1995) Smith poses the questions of whether the [[scientific method]] is actually dependent on the Scientistic philosophy and, if it isn't, whether linking it to other philosophical frameworks would provide better solutions to the way we interpret physical phenomena. Demonstrating that in no case either the scientific method or its results depend upon or require adhering to a scientistic metaphysics, he answers in the positive to the first question, with the end result that it's possible to link the scientific method to any underlying metaphysics, or to none at all. Working then into the second question, he proposes linking the scientific method, thus the modern sciences, to a non-bifurcationist, non-reductionist metaphysics in the form of a modified [[Thomism|thomistic]] ontology, showing how such a move can provide a positive outcome by solving the apparent incoherences perceived in [[Quantum Mechanics]]' phenomena.
+
+According to Smith, such an [[interpretation of quantum mechanics]] allows for the usage of the [[Hylomorphism#Aristotle|hylomorphic]] concepts of [[Aristotle#Substance, potentiality and actuality|act and potential]] to properly understand [[Quantum superposition]]s. For example, instead of considering that a photon is simultaneously a wave and a particle, or a particle in two distinct position, and other counterintuitive constructs, one would consider that the photon (or any other "physical object") at first doesn't exist "in act", but only "in potency", i.e., as "[[matter (philosophy)|matter]]" in the hylomorphic meaning of the word, having the ''potential'' of becoming a wave, or a particle, or of being here or there etc. Whether one of these outcomes will happen to this undifferentiated matter is dependent on the determination imposed upon it by the [[macroscopic]] "corporeal object" that provides to it its ''actualization''. A photon, thus, would be no more strange for having many potentials than, say, an individual who has the "superimposed" potentials of learning French and/or Spanish and/or Greek, all the while reading and/or walking and/or stretching his arms etc. And a further consequence of such an interpretation would be a corporeal and its related physical objects aren't dichotomized or reduced one to the other anymore, but quite the opposite, they all together constitute a whole of which different aspects are dealt with depending on perspective.
+
+Smith's understanding of the relationship between corporeal and physical objects extend to his interpretation of [[biology]], where he has become an opponent of [[Evolution|Darwinian evolution]], as the fundamental element in a species would be its form, not its causal history, which evolutionists favor. This leads him to be a supporter of the [[intelligent design movement]], even though the hylomorphic approach itself isn't widely adopted by the mainstream intelligent designers, who also favor causal history, even though differently from evolutionists.
+
+Smith has also taken a stance towards a [[Theory of relativity|relativistic]] rehabilitation of [[geocentrism]]. It is important however to note that Smith is not supporting Ptolemaic or medieval geocentrism as such, or asserting that heliocentrism is absolutely false. Rather he argues that according to the theory of [[Theory of relativity|relativity]], both Heliocentrism and Geocentrism have merit from a scientific viewpoint, since any (scientific) observations depend on the reference of frame of the observer and any observation made from Earth (and any Near-Earth satellites) are virtually geocentric in that respect.<ref>http://www.sacredweb.com/journals/sw9.html "The Status of Geocentrism
+by Wolfgang Smith": "Arguing that Tychonian geocentrism and Einsteinian acentrism are reconciled based on their different darshanas, Dr. Smith surveys the empirical evidence in favor of geocentrism and of heliocentrism, and makes out the case for geocentrism based on a science of relativistic physics that accords with traditional doctrine."</ref><ref>The Wisdom of Ancient Cosmology: Contemporary Science in Light of Tradition, chapter VIII</ref>
+
+==Bibliography==
+
+=== Books ===
+
+Books written by Wolfgang Smith or including his contributions:
+
+{{refbegin|indent=yes}}
+
+: {{cite book
+|authorlink =
+ |title=Cosmos and Transcendence: Breaking Through the Barrier of Scientistic Belief
+ |year=1984
+ |publisher=Sherwood Sugden and Company
+ |location=[[Peru, IL]]
+|oclc = 12945771
+ |isbn=0-89385-028-4
+|author = Wolfgang Smith.
+}}
+
+: {{cite book
+|authorlink =
+ |title=Teilhardism and the New Religion: A Thorough Analysis of the Teachings of Pierre Teilhard De Chardin
+ |year=1988
+ |publisher=[[TAN Books & Publishers]]
+ |location=[[Rockford, IL]]
+|oclc = 19648994
+ |isbn=0-89555-315-5
+|author = Wolfgang Smith.
+}}
+
+: {{cite book
+|authorlink =
+ |title=The Quantum Enigma: Finding the Hidden Key
+ |year=1995
+ |publisher=Sherwood Sugden and Company
+ |location=Peru, IL
+|oclc = 33200608
+ |isbn=0-89385-042-X
+|author = Wolfgang Smith.
+}}
+
+: {{cite book
+|authorlink =
+ |title=The Wisdom of Ancient Cosmology: Contemporary Science in Light of Tradition
+ |year=2003
+ |publisher=The Foundation for Traditional Studies
+ |location=[[Oakton, VA]]
+|oclc = 54398541
+ |isbn=0-9629984-7-8
+|author = Wolfgang Smith.
+}}
+
+: {{cite book
+|authorlink =
+ |editor=Mehrdad M. Zarandi (ed.)
+ |title=Science and the Myth of Progress
+|series = The Perennial Philosophy Series
+ |accessdate=2008-04-27
+ |year=2004
+ |publisher=[[World Wisdom]]
+ |location=[[Bloomington, IN]]
+|oclc = 52165739
+ |isbn=0-941532-47-X
+ |chapter=The Plague of Scientistic Belief
+|chapterurl = http://www.webcitation.org/query?url=http://www.catholic.net/rcc/Periodicals/HPR/April%25202000/belief.html&date=2008-04-27
+}}
+
+: {{cite book
+|authorlink = Wolfgang Smith
+ |editor=[[Harry Oldmeadow]] (ed.)
+ |title=The Betrayal of Tradition: Essays on the Spiritual Crisis of Modernity
+|series = The Perennial Philosophy Series
+ |year=2005
+ |publisher=World Wisdom
+ |location=Bloomington, IN
+|oclc = 56599559
+ |isbn=0-941532-55-0
+ |chapter='Progress' in Retrospect
+}}
+French translation : 
+- Wolfgang Smith, Sagesse de la cosmologie ancienne : Les cosmologies Traditionnelles face à la science contemporaine, French translation by Jean-Claude Perret and Pierre-Marie Sigaud, with careful reading of by Michel Bénot, Kostas Mavrakis and Jean Borella ; Collection "Théôria", Editions de L'Harmattan, Paris, 2008.
+
+{{refend}}
+
+===Articles===
+
+==== General ====
+
+{{Expand section|more general articles by Wolfgang Smith|date=April 2008}}
+
+Articles on [[philosophy]], [[religion]], [[physics]] and non-mathematical subjects in general:
+
+{{refbegin|indent=yes}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=January 1999
+ |title=From Schrödinger's Cat to Thomistic Ontology
+|journal = The Thomist
+|volume = 63
+|issue = 1
+ |pages=49–63
+ |url=http://www.thomist.org/journal/1999/Jan%20A%20Smith.htm
+ |accessdate=2008-04-27
+ |publisher=The Dominican Province of Saint Joseph
+ |location=[[Washington, DC]]
+|issn = 0040-6325
+|oclc = 1645845
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 1999
+ |title=Celestial Corporeality
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 5
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=[[Oakton, VA]]
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=April 2000
+ |title=The plague of scientistic belief
+ |url=http://www.catholic.net/rcc/Periodicals/HPR/April%202000/belief.html
+  |accessdate=2008-04-27
+|journal = [[Homiletic and Pastoral Review]]
+ |publisher=[[Ignatius Press]]
+ |location=[[San Francisco, CA]]
+|issn = 0018-4268
+|oclc = 5739991
+|archiveurl = http://www.webcitation.org/query?url=http://www.catholic.net/rcc/Periodicals/HPR/April%25202000/belief.html&date=2008-04-27 |archivedate = 2008-04-27}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 2000
+ |title=The Extrapolated Universe
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 6
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink =
+ |date=Winter 2000
+ |title=Eddington and the Primacy of the Corporeal
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 6
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 2001
+ |title=Science and Myth: the Hidden Connection
+ |url=http://www.worldwisdom.com/public/viewpdf/default.aspx?article-title=Science_and_Myth--The_Hidden_Connection_by_Wolfgang_Smith.pdf
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 7
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Winter 2001
+ |title=The Pitfall of Astrophysical Cosmology
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 7
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 2002
+ |title=Esoterism and Cosmology: From Ptolemy to Dante and Cusanus
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 8
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Winter 2003
+ |title=Modern Science and Guénonian Critique
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 9
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 2004
+ |title=The Enigma of Visual Perception
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 10
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Winter 2004
+ |title=Neurons and Mind
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 10
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Summer 2005
+ |title=Review of ''Journeys East'', by Harry Oldmeadow
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 11
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Fall–Winter 2006
+ |title=Rama P. Coomaraswamy 1929–2006: In Memoriam
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 12
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Fall–Winter 2006
+ |title=Cosmology in the Face of Gnosis
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 12
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Spring–Summer 2007
+ |title=Transcending the ''creatio ex nihilo'': The Kabbalistic Exegesis
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 13
+|issue = 1
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=Winter 2007–2008
+
+ |title=The Wisdom of Christian Kabbalah
+|journal = Sophia: the Journal of Traditional Studies
+|volume = 13
+|issue = 2
+ |publisher=The Foundation for Traditional Studies
+ |location=Oakton, VA
+|issn = 1521-1231
+|oclc = 39708929
+}}
+
+{{refend}}
+
+====Mathematics====
+{{Expand section|more mathematical articles by Wolfgang Smith|date=April 2008}}
+
+Academic articles on mathematics signed as "J. Wolfgang Smith":
+
+{{refbegin|indent=yes}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=June 1959
+ |title=On Integration of Quasi-Linear Parabolic Equations By Explicit Difference Methods
+|journal = [[Transactions of the American Mathematical Society]]
+|volume = 91
+|issue = 3
+ |pages=425–443
+ |publisher=[[American Mathematical Society]]
+ |location=[[Providence, RI]]
+|oclc = 1480369
+|doi = 10.2307/1993257
+ |format=fee required
+|last1 = Smith
+|first1 = J. Wolfgang
+ |jstor=1993257
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=January 15, 1960
+ |title=Fundamental Groups on a Lorentz Manifold
+|journal = [[Proceedings of the National Academy of Sciences]]
+|volume = 46
+|issue = 1
+ |pages=111–114
+ |publisher=[[United States National Academy of Sciences]]
+ |location=[[Washington, DC]]
+|oclc = 43473694
+|doi = 10.1073/pnas.46.1.111
+ |url=http://www.jstor.org/pss/70809
+ |format=fee required
+|author1 = Wolfgang Smith, J
+|bibcode = 1960PNAS...46..111S }}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=May 1960
+ |title=Lorentz Structures on the Plane
+|journal = Transactions of the American Mathematical Society
+|volume = 95
+|issue = 2
+ |pages=226–237
+ |publisher=American Mathematical Society
+ |location=Providence, RI
+|oclc = 1480369
+|doi = 10.2307/1993288
+ |format=fee required
+|last1 = Smith
+|first1 = J. Wolfgang
+ |jstor=1993288
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |date=October 1960
+ |title=Fundamental Groups on a Lorentz Manifold
+|journal = [[American Journal of Mathematics]]
+|volume = 82
+|issue = 4
+ |pages=873–890
+ |publisher=[[Johns Hopkins University Press]]
+ |location=[[Baltimore, MD]]
+|oclc = 31863589
+|doi = 10.2307/2372946
+ |format=Reprint, fee required
+|last1 = Smith
+|first1 = J. Wolfgang
+ |jstor=2372946
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+|author2 = Clifton, Yeaton H.
+ |date=February 15, 1961
+ |title=The Category of Topological Objects
+|journal = Proceedings of the National Academy of Sciences
+|volume = 47
+|issue = 2
+ |pages=190–195
+ |publisher=United States National Academy of Sciences
+ |location=Washington, DC
+|oclc = 43473694
+|doi = 10.1073/pnas.47.2.190
+ |url=http://www.jstor.org/pss/70719
+ |format=fee required
+|author1 = Clifton, Yeaton H
+|bibcode = 1961PNAS...47..190C }}<ref name="yeaton">With Yeaton H. Clifton.</ref>
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+|author2 = Clifton, Yeaton H.
+ |date=December 1962
+ |title=Topological Objects and Sheaves
+|journal = Transactions of the American Mathematical Society
+|volume = 105
+|issue = 3
+ |pages=436–452
+ |publisher=American Mathematical Society
+ |location=Providence, RI
+|oclc = 1480369
+|doi = 10.2307/1993730
+ |format=fee required
+|last1 = Clifton
+|first1 = Yeaton H.
+ |jstor=1993730
+}}<ref name="yeaton" />
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+|author2 = Clifton, Yeaton H.
+ |date=November 15, 1963
+ |title=The Euler Class as an Obstruction in the Theory of Foliations
+|journal = Proceedings of the National Academy of Sciences
+|volume = 50
+|issue = 5
+ |pages=949–954
+ |publisher=United States National Academy of Sciences
+ |location=Washington, DC
+|oclc = 43473694
+|doi = 10.1073/pnas.50.5.949
+ |url=http://www.jstor.org/pss/71949
+ |format=fee required
+|author1 = Clifton, Yeaton H
+|pmid=16591128
+|bibcode = 1963PNAS...50..949C
+|pmc = 221954 }}<ref name="yeaton" />
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |year=1966
+ |title=The de Rham theorem for general spaces
+|journal = [[Tohoku Mathematical Journal]] (2nd Series)
+|volume = 18
+|issue = 2
+ |pages=115–137
+ |publisher=Maruzen Co.
+ |location=[[Sendai, Japan]]
+|oclc = 1642556
+|doi = 10.2748/tmj/1178243443
+ |url=http://projecteuclid.org/euclid.tmj/1178243443
+ |format=[[PDF]], fee required
+|last1 = Smith
+|first1 = J. Wolfgang
+|zbl = 0146.19402
+|mr = 0202154
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |year=1968
+ |title=An exact sequence for submersions
+|journal = [[Bulletin of the American Mathematical Society]]
+|volume = 74
+|issue = 2
+ |pages=233–237
+ |publisher=American Mathematical Society
+ |location=Providence, RI
+|oclc = 4672985
+|doi = 10.1090/S0002-9904-1968-11899-3
+ |url=http://www.ams.org/bull/1968-74-02/S0002-9904-1968-11899-3/S0002-9904-1968-11899-3.pdf
+ |format=PDF
+|last1 = Smith
+|first1 = J. Wolfgang
+|mr = 0221512
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |year=1969
+ |title=Commuting vectorfields on open manifolds
+|journal = Bulletin of the American Mathematical Society
+|volume = 75
+|issue = 5
+ |pages=1013–1017
+ |publisher=American Mathematical Society
+ |location=Providence, RI
+|oclc = 4672985
+|doi = 10.1090/S0002-9904-1969-12343-8
+ |url=http://www.ams.org/bull/1969-75-05/S0002-9904-1969-12343-8/S0002-9904-1969-12343-8.pdf
+ |format=PDF
+|last1 = Smith
+|first1 = J. Wolfgang
+|zbl = 0179.52002
+|mr = 0248867
+}}
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |year=1980
+ |title=A homology spectral sequence for submersions
+|journal = [[Pacific Journal of Mathematics]]
+|volume = 89
+|issue = 2
+ |pages=279–299
+ |publisher=Pacific Journal of Mathematics
+ |location=[[Berkeley, CA]]
+|issn = 0030-8730
+|oclc = 1761678
+ |url=http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?handle=euclid.pjm/1102779241&view=body&content-type=pdf_1
+ |format=PDF
+|zbl = 0472.55015
+|mr = 599121
+ |doi=10.2140/pjm.1980.89.279
+}}<ref name="endicott">With Patrick C. Endicott.</ref>
+
+: {{cite journal
+|authorlink = Wolfgang Smith
+ |year=1980
+ |title=Fiber homology and orientability of maps
+|journal = Pacific Journal of Mathematics
+|volume = 89
+|issue = 2
+ |pages=453–470
+ |publisher=Pacific Journal of Mathematics
+ |location=Berkeley, CA
+|issn = 0030-8730
+|oclc = 1761678
+ |url=http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?handle=euclid.pjm/1102779253&view=body&content-type=pdf_1
+ |format=PDF
+|zbl = 0467.55019
+|mr = 599133
+ |doi=10.2140/pjm.1980.89.453
+}}
+
+{{refend}}
+
+{{Clear}}
+
+==See also==
+{{Portal|Biography|Philosophy}}
+* [[Quantum mechanics]]
+* [[Philosophy of physics]]
+* [[Interpretation of quantum mechanics]]
+* [[Philosophical realism]]
+* [[Neo-Scholasticism]]
+* [[Perennial philosophy]]
+* [[Traditionalist School]]
+*[[List of American philosophers]]
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}
+: {{cite web
+ |url=http://mac.abc.se/home/onesr/ez/dc/poqp_e.html
+ |title=A Review Essay of Wolfgang Smith's ''The Quantum Enigma: Finding the Hidden Key''
+ |last=Nasr
+ |first=Seyyed Hossein
+|authorlink = Seyyed Hossein Nasr
+ |date=2005-01-06
+ |work=[http://mac.abc.se/home/onesr/ Islamic Resources]
+ |publisher=[http://www.livingislam.org Living Islam]
+ |archiveurl=http://www.webcitation.org/query?url=http://mac.abc.se/home/onesr/ez/dc/poqp_e.html&date=2008-04-25
+ |archivedate=2008-04-25
+}}
+
+: {{cite book
+ |last=Wallace
+ |first=William A.
+ |title=The Modeling of Nature: Philosophy of Science and Philosophy of Nature in Synthesis
+ |date=January 1997
+ |publisher=[[Catholic University of America Press]]
+ |location=[[Washington, DC]]
+|oclc = 34284430
+ |isbn=0-8132-0860-2
+}}
+
+: {{cite journal
+ |last=Wallace
+ |first=William A.
+ |date=July 1997
+ |title=Thomism and the Quantum Enigma
+|journal = The Thomist
+|volume = 61
+|issue = 3
+ |pages=455–468
+ |url=http://www.thomist.org/journal/1997/973AWall.htm
+  |accessdate=2008-04-27
+ |publisher=The Dominican Province of Saint Joseph
+ |location=Washington, DC
+|issn = 0040-6325
+|oclc = 1645845}}
+
+: {{cite web
+ |url=http://www.innerexplorations.com/philtext/an.htm
+ |title=An Interview with Wolfgang Smith on Science and Philosophy
+ |work=[http://www.innerexplorations.com/philtext/the1.htm The Philosophy of St. Thomas Aquinas in the Light of Jacques Maritain]
+ |publisher=[http://www.innerexplorations.com Inner Explorations]
+ |archiveurl=http://www.webcitation.org/query?url=http://www.innerexplorations.com/philtext/an.htm&date=2008-04-25
+ |archivedate=2008-04-25
+}}
+
+: {{cite web
+ |url=http://www.worldwisdom.com/Public/Authors/Detail.asp?AuthorID=62
+ |title=Wolfgang Smith: Life and Work
+ |publisher=[[World Wisdom]]
+ |archiveurl=http://www.webcitation.org/query?url=http://www.worldwisdom.com/Public/Authors/Detail.asp?AuthorID=62&date=2008-04-25
+ |archivedate=2008-04-25
+}}
+
+{{refend}}
+
+{{Philosophy topics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Wolfgang}}
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American physicists]]
+[[Category:Cornell University alumni]]
+[[Category:Roman Catholic philosophers]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Thomist philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Philosophical realism]]
+[[Category:Traditionalist School]]
+[[Category:Oregon State University faculty]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:1930 births]]
+[[Category:Living people]]

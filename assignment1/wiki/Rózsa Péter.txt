@@ -1,0 +1,53 @@
+{{eastern name order|Péter Rózsa}}
+[[Image:RozsaPeter.jpg|thumb|Rózsa Péter]]
+'''Rózsa Péter, born Politzer''', (17 February 1905 &ndash; 16 February 1977) was a [[Hungary|Hungarian]] [[mathematics|mathematician]]. She is best known as the "founding mother of [[recursion theory]]".<ref>{{citation|last1=Morris|first1=Edie|last2=Harkleroad|first2=Leon|title=Rózsa péter: recursive function theory’s founding mother|journal=The Mathematical Intelligence|date=1990|volume=12|issue=1|pages=59–64|url=https://link.springer.com/article/10.1007%2FBF03023988}}</ref><ref>{{cite web|title=Rozsa Peter: Founder of Recursive Function Theory|url=http://www.sdsc.edu/ScienceWomen/peter.html|website=Women in Science: A Selection of 16 Contributors|publisher=San Diego Supercomputer Center|accessdate=23 August 2017|date=1997}}</ref>
+
+==Early life and education==
+Péter was born in [[Budapest]], Hungary, as Rózsa Politzer (Hungarian: Politzer Rózsa). She attended Pázmány Péter University (now [[Eötvös Loránd University]]), originally studying chemistry but later switching to mathematics. She attended lectures by [[Lipót Fejér]] and [[József Kürschák]]. While at university, she met [[László Kalmár]]; they would collaborate in future years and Kalmár encouraged her to pursue her love of mathematics.<ref name=MacTutor>{{cite web|title=Rózsa Péter|url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Peter.html|publisher=School of Mathematics and Statistics, University of St Andrews, Scotland|accessdate=14 April 2014|author=MacTutor History of Mathematics Archive}}</ref>
+
+After graduating in 1927, Péter could not find a permanent teaching position although she had passed her exams to qualify as a mathematics teacher. Due to the effects of the [[Great Depression]], many university graduates could not find work and Péter began private tutoring.<ref name=epigenesys>{{cite web|title=Rózsa Péter|url=http://www.epigenesys.eu/en/science-and-you/women-in-science/810-rozsa-peter|publisher=EpiGeneSys|accessdate=14 April 2014}}</ref> At this time, she also began her graduate studies.
+
+==Professional career and research==
+Initially, Péter began her graduate research on [[number theory]]. Upon discovering that her results had already been proven by the work of [[Robert Carmichael]] and [[L. E. Dickson]], she abandoned mathematics to focus on poetry. However, she was convinced to return to mathematics by her friend, [[László Kalmár]], who suggested she research the work of [[Kurt Gödel]] on the theory of incompleteness.<ref name=MacTutor /> She prepared her own, different proofs to Gödel's work.<ref>{{citation|last1=Tamássy|first1=István|title=Interview with Róza Péter|journal=Modern Logic|date=1994|volume=4|issue=3|pages=277–280.|url=http://projecteuclid.org/euclid.rml/1204835279}}</ref>
+
+Péter presented the results of her paper on recursive theory, "Rekursive Funktionen," to the [[International Congress of Mathematicians]] in Zurich, Switzerland in 1932. For her research, she received her PhD summa cum laude in 1935. In 1936, she presented a paper entitled "Über rekursive Funktionen der zweite Stufe" to the [[International Congress of Mathematicians]] in Oslo.<ref name=MacTutor /> These papers helped to found the modern field of recursive function theory as a separate area of mathematical research.<ref>{{citation|contribution=Rozsa Peter 1905–1977|title=More Mathematical People|editor1-first=Donald J.|editor1-last=Albers|editor2-first=Gerald L.|editor2-last=Alexanderson|editor2-link=Gerald L. Alexanderson|editor3-first=Constance|editor3-last=Reid|editor3-link=Constance Reid|publisher=Harcourt Brace Jovanovich|year=1990|page=149}}</ref><ref>{{citation|last1=Andrásfai|first1=Béla|title=Rózsa (Rosa) Péter|journal=Periodica Polytechnica Electrical Engineering|date=1986|volume=30|issue=2-3|pages=139–145|url=http://www.pp.bme.hu/ee/article/view/4651}}</ref>
+
+In 1937, she was appointed as contributing editor of the [[Journal of Symbolic Logic]].<ref name=epigenesys />
+
+After the passage of the Jewish Laws of 1939 in Hungary, Péter was forbidden to teach because of her Jewish origin and was briefly confined to a ghetto in Budapest. During World War II, she wrote her book ''Playing with Infinity: Mathematical Explorations and Excursions'', a work for lay readers on the topics of number theory and logic. Originally published in Hungarian, it has been translated into English and at least a dozen other languages.<ref>{{cite web|last=Riddle|first=Larry|title=Rózsa Péter|url=http://www.agnesscott.edu/lriddle/women/peter.htm|work=Biographies of Women Mathematicians|publisher=Agnes Scott College|accessdate=14 April 2014}}</ref>
+
+With the end of the war in 1945, Péter received her first full-time teaching appointment at the Budapest Teachers’ Training College. In 1952, she was the first Hungarian woman to be made an Academic Doctor of Mathematics. After the College closed in 1955, she taught at Eötvös Loránd University until her retirement in 1975. She was a popular professor, known as "Aunt Rózsa" to her students.<ref name=epigenesys />
+
+In 1951, she published her key work, ''Recursive Functions'' (''Rekursive Funtionen''). She continued to publish important papers on recursive theory throughout her life. In 1959 she presented a major paper "Über die Verallgemeinerung der Theorie der rekursiven Funktionen für abstrakte Mengen geeigneter Struktur als Definitionsbereiche" to the International Symposium in Warsaw (later published in two parts in 1961 and 1962).<ref name=MacTutor />
+
+Beginning in the mid-1950s, Péter applied recursive function theory to computers. Her final book, published in 1976, was ''Recursive Functions in Computer Theory''. Originally published in Hungarian, it was the second Hungarian mathematical book to be published in the Soviet Union because its subject matter was considered indispensable to the [[theory of computation|theory of computers]]. It was translated into English in 1981.<ref>{{cite web|title=Rózsa Péter|url=https://www.agnesscott.edu/lriddle/women/peter.htm|website=Biographies of Women Mathematicians|publisher=Agnes Scott College|accessdate=23 August 2017}}</ref>
+
+==Honors==
+Péter was awarded the [[Kossuth Prize]] in 1951. She received the Manó Beke Prize by the [[János Bolyai Mathematical Society]] in 1953, the Silver State Prize in 1970, and the Gold State Prize in 1973. In 1973, she became the first woman to be elected to the [[Hungarian Academy of Sciences]] .<ref name=MacTutor />
+
+==See also==
+
+* [[Ackermann function]]
+* [[Recursive function theory]]
+* [[List of pioneers in computer science]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Peter, Rozsa}}
+[[Category:Hungarian mathematicians]]
+[[Category:Members of the Hungarian Academy of Sciences]]
+[[Category:Hungarian Jews]]
+[[Category:Women mathematicians]]
+[[Category:20th-century mathematicians]]
+[[Category:1905 births]]
+[[Category:1977 deaths]]
+[[Category:20th-century women scientists]]
+[[Category:Austro-Hungarian mathematicians]]
+[[Category:Eötvös Loránd University alumni]]
+[[Category:Eötvös Loránd University faculty]]
+[[Category:Computability theorists]]
+[[Category:Theoretical computer scientists]]
+[[Category:People from Budapest]]
+[[Category:Mathematical logicians]]

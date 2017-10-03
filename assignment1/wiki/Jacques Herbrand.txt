@@ -1,0 +1,70 @@
+{{Use dmy dates|date=May 2013}}
+{{Infobox scientist
+|name              = Jacques Herbrand
+|image             = J Herbrand 1931.jpg
+|image_size        = 
+|caption           = Herbrand in summer 1931, as photographed by [[Natascha Artin-Brunswick]]
+|birth_date        = {{birth date|1908|02|12|df=y}}
+|birth_place       = Paris, France
+|death_date        = {{death date and age|1931|07|27|1908|02|12|df=y}}
+|death_place       = [[La Bérarde]], Isère, France
+|nationality       = French
+|thesis_title = Recherches sur la théorie de la démonstration (Investigations on Proof Theory)
+|thesis_url   = https://eudml.org/doc/192791
+|thesis_year  = 1930
+|fields            = Mathematics
+|alma_mater        = [[École Normale Supérieure]]<br>[[University of Paris]] (PhD, 1930)
+|doctoral_advisor  = [[Ernest Vessiot]]
+|known_for         = [[Herbrand's theorem]]<br>[[Herbrand–Ribet theorem]]<br>[[Herbrand quotient]]
+}}
+'''Jacques Herbrand''' (12 February 1908 – 27 July 1931) was a French mathematician. Although he died at age 23, he was already considered one of "the greatest mathematicians of the younger generation" by his professors [[Helmut Hasse]], and [[Richard Courant]].<ref>{{Cite book |last=Chevalley |first=Claude |last2=Lautman |first2=Albert |title=Logical Writings |chapter=Biographical Note on Jacques Herbrand |editor-last=Goldfarb |editor-first=Warren D. |editor2-last=Van Heijenoort |editor2-first=Jean |location=Berlin |publisher=Springer |year=1971 |pages=21–23 |isbn=90-277-0176-8 }}</ref>
+
+He worked in [[mathematical logic]] and [[class field theory]]. He introduced [[recursion#Functional recursion|recursive function]]s. ''[[Herbrand's theorem]]'' refers to either of two completely different theorems. One is a result from his doctoral thesis in [[proof theory]], and the other one half of the [[Herbrand–Ribet theorem]]. The [[Herbrand quotient]] is a type of [[Euler characteristic]], used in [[homological algebra]]. He contributed to [[Hilbert's program]] in the foundations of mathematics by providing a constructive consistency proof for a weak system of arithmetic. The proof uses the above-mentioned, proof-theoretic Herbrand's theorem.
+
+==Biography==
+Herbrand finished his doctorate at [[École Normale Supérieure]] in Paris under [[Ernest Vessiot]] in 1929. He joined the army in October 1929, however, and so did not defend his thesis at the [[University of Paris|Sorbonne]] until the following year. He was awarded a [[Rockefeller Foundation|Rockefeller fellowship]] that enabled him to study in Germany in 1931, first with [[John von Neumann]] in Berlin, then during June with [[Emil Artin]] in Hamburg, and finally with [[Emmy Noether]] in [[Göttingen]].
+
+He submitted his principal study of proof theory and general recursive functions "On the consistency of arithmetic" early in 1931. While the essay was under consideration, [[Gödel]]'s "On formally undecidable sentences of ''Principia Mathematica'' and related systems I" announced the impossibility of formalizing within a theory that theory's consistency proof. Herbrand studied Gödel's essay and wrote an appendix to his own study explaining why Gödel's result did not contradict his own. In July of that year he was mountain-climbing in the French [[Alps]] with two friends when he fell to his death in the granite mountains of [[Massif des Écrins]]. "On the consistency of arithmetic" was published posthumously.
+
+==Quotation==
+''"Jacques Herbrand would have hated [[Nicolas Bourbaki|Bourbaki]]"'' said French mathematician [[Claude Chevalley]] quoted in Michèle Chouchan, ''"Nicolas Bourbaki Faits et légendes"'', Éditions du choix, 1995.
+
+==Bibliography==
+* {{cite report | url=http://arxiv.org/pdf/0902.4682 | author=Claus-Peter Wirth and Jörg Siekmann and Christoph Benzmüller and Serge Autexier | title=Lectures on Jacques Herbrand as a Logician | institution=[[DFKI]] | type=SEKI Report | number=SR-2009-01 | year=2009 }}
+
+Primary literature:
+* 1967. [[Jean van Heijenoort]] (ed.), ''From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931''. Cambridge, Mass.: Harvard Univ. Press.
+** 1930. "Investigations in proof theory," 525-81.
+** 1931. "On the consistency of arithmetic," 618-28.
+* 1968. [[Jean van Heijenoort]] (ed.), ''Jacques Herbrand, Écrits logiques''. Paris: Presses Universitaires de France.
+* 1971. Warren David Goldfarb (transl., ed.), ''Logical Writings of Jacques Herbrand'' Cambridge, Mass.: Harvard University Press.
+
+==See also==
+* [[Herbrand interpretation]]
+* [[Herbrand structure]]
+* [[Herbrand Award]] &mdash; by the Conference on Automated Deduction, for automated deduction
+* [[Prix Jacques Herbrand]] &mdash; by the French Academy of Sciences, for mathematics and physics
+* [[Herbrandization]] &mdash; a validity-preserving normal form of a formula, dual to Skolemization
+* [[Herbrand's theorem on ramification groups]]
+* [[Rollo Davidson]] (1944-1970) &mdash; another mathematician who died in a mountain climbing accident
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MacTutor Biography|id=Herbrand}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Herbrand, Jacques}}
+[[Category:1908 births]]
+[[Category:1931 deaths]]
+[[Category:French mathematicians]]
+[[Category:French logicians]]
+[[Category:Logicians]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:University of Paris alumni]]
+[[Category:Proof theorists]]
+[[Category:French philosophers]]
+[[Category:20th-century mathematicians]]
+[[Category:French male writers]]

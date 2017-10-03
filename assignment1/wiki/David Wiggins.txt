@@ -1,0 +1,73 @@
+{{for|the Iowa Supreme Court Justice|David Wiggins (jurist)}}
+'''David Wiggins''' [[Fellow of the British Academy|FBA]] (born 8 March 1933) is a [[United Kingdom|British]] [[Ethics|moral]] [[philosopher]], [[metaphysics|metaphysician]], and philosophical [[logician]] working especially on [[identity (philosophy)|identity]] and issues in meta-ethics.
+
+== Life and career ==
+David Wiggins was born in 1933 in London. He attended St Paul's School before reading philosophy at [[Brasenose College, Oxford]] where he obtained a first class degree.<ref name="Williams">{{cite book|last1=Williams|first1=S. G.|editor1-last=Brown|editor1-first=Stuart|title=Dictionary of Twentieth Century British Philosophers|chapter=Wiggins, David (1933-)|date=2005|publisher=Thoemmes|page=1123}}</ref> His tutor was [[J. L. Ackrill]].<ref>{{cite web| title = Professor J.L. Ackrill| work = Obituary| publisher = Times Newspapers
+| date = 2007-12-20 | url = http://www.timesonline.co.uk/tol/comment/obituaries/article3074592.ece | accessdate =2008-06-19  | location=London}}</ref>
+
+After completing his National Service, he joined the Civil Service and was appointed Assistant Principal in the Colonial Office. In 1958 he left the Civil Service and returned to Oxford. He was a lecturer and Fellow of [[New College, Oxford]] from 1959 to 1967. After that, he was appointed Chair of Philosophy at [[Bedford College, London]], where he remained until 1980. He then returned to Oxford to take up the post of [[Wykeham Professor]] of Logic at [[New College, Oxford|New College]] and retired in 2000.<ref name="Williams"/>
+
+Wiggins was made a Fellow of the [[British Academy]] in 1978. He was also President of the [[Aristotelian Society]] from 1999 to 2000 . He was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1992.
+
+== Work ==
+
+Wiggins is well known for his work in metaphysics, particularly identity (see e.g. ''Sameness and Substance'' (Oxford, 1980).
+
+According to philosopher Harold Noonan:
+
+:The most influential part of Wiggins's work has been in metaphysics, where he has developed a fundamentally Aristotelian conception of substance, enriched by insights drawn from Putnam (1975) and Kripke (1980). His works also contain influential discussions of the problem of personal identity, which Wiggins elucidates ''via'' a conception that he calls the "Animal Attribute View."<ref>Noonan, H., 2005.  "David Wiggins."  In ''Encyclopedia of Philosophy''. London: Macmillan. [http://www.encyclopedia.com/article-1G2-3446802122/wiggins-david-1933.html (excerpt)]</ref>
+Wiggins is well known for his work in metaphysics, particularly identity (see e.g. ''Sameness and Substance'' (Oxford, 1980).
+
+He has also made an influential contribution to ethics. His 2006 book, ''Ethics.  Twelve Lectures on the Philosophy of Morality'' defends a position he calls "moral objectivism".
+
+He has written widely on other areas including philosophy of language, epistemology, aesthetics and political philosophy.
+
+A Festschrift, ''Essays for David Wiggins'' was published in 1996.<ref>{{cite book|editor1-last=Lovibond|editor1-first=Sabrina|editor2-last=Williams|editor2-first=S.G.|title=Essays for David Wiggins: Identity, Truth and Value|date=1996|publisher=Oxford University Press|location=Oxford}}</ref>
+
+==Legacy==
+Wiggins' distinguished pupils include:
+: [[John McDowell]]
+:[[Derek Parfit]]
+: [[Jonathan Westphal]]
+:[[Timothy Williamson]]
+
+== Selected writings ==
+===Books===
+* ''Continuants. Their Activity, Their Being, and Their Identity'' (Oxford, 2016)
+* ''Ethics. Twelve Lectures on the Philosophy of Morality'' (Cambridge, 2006)
+* ''Sameness and Substance Renewed'' (Cambridge, 2001)
+* ''Needs, Values, Truth: Essays in the Philosophy of Value '' (Oxford, 1987; second edition 1998)
+* ''Sameness and Substance'' (Oxford, 1980)
+* ''Truth, Invention, and the Meaning of Life'' (Proceedings of the British Academy, 1976)
+* ''Identity and Spatio-Temporal Continuity'' (Oxford, 1967)
+
+===Articles===
+* "On Being in the Same Place at the same time", ''Philosophical Review'', vol. 77, pp.&nbsp;90–95.
+* "A Sensible Subjectivism?" (''Needs, Values, Truth: Essays in the Philosophy of Value'' (New York: Oxford University Press, 1987), 185-214)
+* "Weakness of Will Commensurability, and the Objects of Deliberation and Desire" (P''roceedings of the Aristotelian Society'', 1978)
+* "Towards a reasonable libertarianism" (''Essays on Freedom of Action'', 1973 - Routledge & Kegan Paul)
+* "On Sentence-sense, Word-sense and Difference of Word-sense: Towards a Philosophical Theory of Dictionaries" (1971)<ref>In Danny D. Steinberg and Leon A. Jakobovits (edd.) Semantics: An Interdisciplinary Reader in Philosophy, Linguistics and Psychology (Cambridge: Cambridge University Press, 1971), pp. 14-34.</ref> [https://archive.is/20121212215545/http://cavehill.uwi.edu/bnccde/PH38D/wiggins.html (link)]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.philosophy.ox.ac.uk/the_faculty/philosophy_centre/ryle_room Picture of Wiggins] - on the Ryle Room page.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wiggins, David}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:20th-century philosophers]]
+[[Category:British philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Alumni of Brasenose College, Oxford]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Wykeham Professors of Logic]]
+[[Category:Moral philosophers]]
+[[Category:British logicians]]
+[[Category:Presidents of the Aristotelian Society]]

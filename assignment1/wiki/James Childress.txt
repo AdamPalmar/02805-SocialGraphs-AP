@@ -1,0 +1,39 @@
+{{For|the cartoonist James Childress (1941-1977)|Conchy}}
+{{Use mdy dates|date=February 2015}}
+'''James Franklin Childress''' ({{IPAc-en|ˈ|tʃ|ɪ|l|d|r|ɛ|s}}; born October 4, 1940) is a [[philosophy|philosopher]] and [[theology|theologian]] whose scholarship addresses [[ethics]], particularly biomedical ethics. Currently he is the John Allen Hollingsworth Professor of Ethics at the Department of Religious Studies at the [[University of Virginia]] and teaches public Policy at the [[Frank Batten School of Leadership and Public Policy]]. He is also Professor of Medical Education at this university and directs its Institute for Practical Ethics and Public Life. He holds a B.A. from [[Guilford College]], a B.D. from [[Yale Divinity School]], and an M.A. and Ph.D. from [[Yale University]].
+He was vice-chairman of the national Task Force on Organ Transplantation, and he has also served on the Board of Directors of the United Network for Organ Sharing (UNOS), the UNOS Ethics Committee, the Recombinant DNA Advisory Committee, the Human Gene Therapy Subcommittee, the Biomedical Ethics Advisory Committee, and several Data and Safety Monitoring Boards for NIH clinical trials. From 1996 to 2001, he served on the presidentially-appointed National Bioethics Advisory Commission. He is a fellow of the [[Hastings Center]], an independent [[bioethics]] research institution.
+
+His works include:
+* with [[Tom Beauchamp]]: ''Principles of Biomedical Ethics'' (1985; [[Oxford University Press]], Oxford 2009, 6 ed.).
+* ''Practical reasoning in bioethics'', Bloomington: Indiana Univ. Pr. 1997.
+* ''A new dictionary of Christian ethics'', London: SCM Press 1986 (co-edited with John Macquarrie).
+* ''Who should decide? Paternalism in health care'', New York: Oxford Univ. Pr. 1982.
+* ''Moral responsibility in conflicts. Essays on nonviolence, war, and conscience'', Baton Rouge: Louisiana State Univ. Pr. 1982.
+* ''Priorities in biomedical ethics'', Philadelphia: Westminster Pr. 1981.
+* ''Civil disobedience and political obligation. A study in Christian social ethics'', New Haven: Yale Univ. Pr. 1971.
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+* [[Principlism]]
+
+==External links==
+* [https://bioethics.virginia.edu/faculty/profile/jdfc7c Personal webpage at University of Virginia]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Childress, James}}
+[[Category:1940 births]]
+[[Category:American philosophers]]
+[[Category:Living people]]
+[[Category:American Christian theologians]]
+[[Category:University of Virginia faculty]]
+[[Category:Yale Divinity School alumni]]
+[[Category:Guilford College alumni]]
+[[Category:Christian ethicists]]
+[[Category:Bioethicists]]
+[[Category:Hastings Center Fellows]]
+[[Category:Guggenheim Fellows]]
+
+
+{{US-philosopher-stub}}

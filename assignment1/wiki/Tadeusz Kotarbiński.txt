@@ -1,0 +1,87 @@
+{{Infobox philosopher
+|image = Tadeusz Kotarbiński.jpg
+| region = [[Western philosophy]]
+| era    = [[20th century philosophy]]
+| birth_date  = 31 March 1886
+| birth_place = [[Warsaw]], [[Congress Poland]], [[Russian Empire]]
+| death_date  = 3 October 1981 (aged 95)
+| death_place = [[Warsaw]], [[People's Republic of Poland]]
+| name        = Tadeusz Kotarbiński
+| nationality = [[Poland|Polish]]
+| institutions = [[Warsaw University]]
+| alma_mater  = [[Jagiellonian University]]<br>[[Lvov University]] (PhD)
+| school_tradition = [[Lwów–Warsaw school of logic]]
+| fields      = [[Ontology]], [[formal logic]], [[ethics]], [[praxeology]]
+| influences  = [[Kazimierz Twardowski]], [[Stanisław Leśniewski]]
+| influenced  = {{Interlanguage link multi|Henryk Greniewski|pl}}, {{Interlanguage link multi|Kazimierz Pasenkiewicz|pl}}
+| notable_ideas = [[Reism]], [[Logology (sociology)|logology]]<ref>Elena Aronova, Simone Turchetti (eds.), ''Science Studies during the Cold War and Beyond: Paradigms Defected'', Palgrave Macmillan, 2016, p. 149: "some of [naukoznawstwo's] contributors ([[Kazimierz Twardowski]], [[Maria Ossowska]], [[Stanisław Ossowski]], Tadeusz Kotarbiński, [[Kazimierz Ajdukiewicz]], [[Florian Znaniecki]], [[Ludwik Fleck]], {{Interlanguage link multi|Stefan Amsterdamski|pl}}) have gained international recognition."</ref>
+}}
+'''Tadeusz Kotarbiński''' ({{IPA-pol|'kotarbiński|lang}}; 31 March 1886 – 3 October 1981), was a [[Poles|Polish]] [[philosopher]], [[logician]] and [[ethicist]].
+
+A pupil of [[Kazimierz Twardowski]], he was one of the most representative figures of the [[Lwów–Warsaw school of logic|Lwów–Warsaw School]], and a member of the [[Polish Academy of Learning]] (PAU) as well as the [[Polish Academy of Sciences]] (PAN). He developed philosophical theory called ''[[reism]]'' ({{lang-pl|reizm}}) and an [[ethical system]] called independent ethics. Kotarbiński also contributed significantly to the development of [[praxeology]].
+
+{{Interlanguage link multi|Henryk Greniewski|pl}} and {{Interlanguage link multi|Kazimierz Pasenkiewicz|pl}} have been doctoral students of Kotarbiński.
+
+==Life==
+Tadeusz Kotarbiński was born on 31 March 1886 in [[Warsaw]], then [[Congress Poland]], [[Russian Empire]], into an artist's family. His father, Miłosz Kotarbiński, was a painter and a composer; his mother, Ewa de domo Koskowska, a pianist. His uncles were - Józef Kotarbiński, an important figure in Polish theater circles and Wilhelm Kotarbiński - a talented painter. Expelled from secondary school in 1905 for participating in a strike, Kotarbiński managed to graduate two years later. He studied first as an unenrolled student at [[Jagiellonian University]] in [[Kraków]], attending mostly lectures on mathematics and physics; then architecture in [[Lvov]] and [[Darmstadt]], to finally settle for studies in philosophy and [[classical philology]] at the [[Lvov University]]. His professors were some of the most esteemed philosophers, logicians and mathematicians of his time: [[Kazimierz Twardowski]], Jan Łukasiewicz, Władysław Witwicki and [[philologist]] Stanisław Witkowski. He received his PhD degree with the thesis "Utilitarianism in the ethics of Mill and Spencer" in 1912.
+
+After graduation he first worked as a secondary school [[classical language]]s teacher at the Rey Gymnasium in [[Warsaw]]. In 1918 Kotarbiński started lecturing career in philosophy at the [[Warsaw University]]. In years 1929/1930 he held the position of [[Dean (education)|Dean]] of [[Humanities]] Faculty.
+
+==Philosophy==
+
+===Reism===
+[[Reism]] is a pansomatism (from [[Greek language|Greek]]:πᾶν meaning "all" and σῶμα - "body") [[ontology]] as well as semantic theory developed by Kotarbiński and most extensively exposed in his major work: ''Elements of the Theory of Knowledge, Formal Logic and Methodology of the Sciences'', first published in 1929. Kotarbiński was the creator of the term [[reism]] - a word derived from the [[Latin]] "res" meaning "thing".
+
+===Ontological reism===
+
+Kotarbiński's ontological reism approach assumes that the only things that exist, and thus the only [[ontological category]] to be used, are individual, concrete objects (or bodies) in opposition to doctrines allowing for the existence of such categories as universals, states of affairs, properties, relations, sets, classes, mental constructs etc.
+
+===Semantic reism===
+In its sematic formulation Kotarbiński postulated that meaningful sentences have to contain so-called genuine names (referring to concrete objects) as opposed to abstract objects' names or non-genuine names (onomatoids). He also distinguished [[reism|onomatoids]] from empty names, which he considered to be reistic. Sentences with onomatoids only were in his view meaningless, whereas those with empty names meaningful.
+
+Reism has been anticipated by philosophers preceding Kotarbiński ([[Leibnitz]], [[Brentano]] and his pupils and earlier [[nominalism|nominalists]] and [[materialism|materialists]]), but it was Kotarbiński who developed it to the complete, systematic exposition and gave it its name.
+
+In 1958 in "Philosophical Studies" n4 (7) Kotarbiński published ''Developmental Stages of Concretism'', an essay in which he discussed the construction and evolution of his theory starting from the early [[concretism]] or [[nominalism]], passing through seven stages of re-elaboration and finally culminating in pansomatism. Kotarbiński used terms: reism, pansomatism and [[concretism]] as equivalents to some extent throughout his works.
+
+===Praxeology===
+Kotarbiński was the most prominent representative and promoter of [[praxeology]] in Poland. Three years after publishing his major work on the subject: ''A Treatise on Good Work'' he persuaded [[Polish Academy of Sciences]] to establish a special unit called ''Workshop for Generic Work Organizational Issues'' (Pracownia Ogólnych Problemów Organizacji Pracy) later expanded into Department of Praxeology. Since 1962 it issued a periodical, called at first ''Praxeological Papers'' (Materiały Prakseologiczne), and then simply ''Praxeology'' (Prakseologia).
+
+==Works==
+* ''Szkice praktyczne'' (''Practical Sketches'') (1913)
+* ''Elementy teorii poznania, logiki formalnej i metodologii nauk''. Lvov Ossolineum (1929); second revised edition 1961; 
+* ''Traktat o dobrej robocie'' (1955); English translation: ''Praxiology. An introduction to the science of efficient action'', New York: Pergamon Press, 1965. 
+* ''Sprawność i błąd (Efficiency and Error)'' (1956)
+* ''Fazy rozwojowe konkretyzmu.'' Studia Filozoficzne n4 (7) 1958
+* ''Medytacje o życiu godziwym (Meditations about decent life)'' (1966)
+* ''Leçons sur l'histoire de la logique''. Paris: Presses Universitaires de France 1964. Original Polish edition 1957.
+* ''Gnosiology. The Scientific Approach to the Theory of Knowledge. Oxford'' Pergamon Press 1966 (English translation of Elementy by O. Wojtasiewicz).
+* ''Ecrits sur l'éthique (1935-1987)'', Hermann, Paris, 2017.
+
+==See also==
+* [[History of philosophy in Poland#Twentieth century|History of philosophy in Poland]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category inline}}
+*[http://segr-did2.fmag.unict.it/~polphil/PolPhil/Kotar/Kotar.html Tadeusz Kotarbinski], at the Polish Philosophy Page
+*[http://www.ontology.co/kotarbinskit.htm Kotarbinski from Ontological Reism to Semantical Concretism]
+*[http://www.ontology.co/biblio/kotarbinski-biblio.htm Selected bibliography of and about Kotarbinski]
+*[http://www.ditext.com/kotarbinski/reism.html Kotarbinski, Tadeusz, "The Reistic, or Concretistic, Approach," Mysl Wspolczesna, 1949, No. 10(41).] 
+*[http://kotarbinski.umcs.lublin.pl/index.html Tadeusz Kotarbinski Praxiology Research Group at Faculty of Philosophy and Sociology, Maria Curie-Skłodowska University in Lublin, Poland]
+*{{MathGenealogy |id=22591}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kotarbinski, Tadeusz}}
+[[Category:1886 births]]
+[[Category:1981 deaths]]
+[[Category:People from Warsaw]]
+[[Category:Polish logicians]]
+[[Category:Logicians]]
+[[Category:Polish philosophers]]
+[[Category:Recipients of the Order of the Builders of People's Poland]]
+[[Category:20th-century philosophers]]
+[[Category:Ethicists]]
+[[Category:Analytic philosophers]]

@@ -1,0 +1,7 @@
+#Redirect [[Mahatma Gandhi]]
+
+{{Redirect category shell|1=
+{{Redirect from move}}
+{{Redirect from alternative name}}
+{{Redirect printworthy}}
+}}

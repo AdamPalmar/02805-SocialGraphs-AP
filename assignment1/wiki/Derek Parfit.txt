@@ -1,0 +1,139 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox philosopher
+| region           = Western philosophy
+| era              = Contemporary philosophy
+| name             = Derek Parfit
+| image            = Derek Parfit at Harvard-April 21, 2015-Effective Altruism (cropped).jpg
+| image_size       = 160px
+| alt              = 
+| caption          = Parfit at [[Harvard University]] in April 2015
+| other_names      = 
+| birth_date       = {{Birth date|df=yes|1942|12|11}}
+| birth_place      = [[Chengdu]], [[Republic of China (1912–49)|Republic of China]]
+| death_date       = {{Death date and age|df=yes|2017|01|01|1942|12|11}}
+| death_place      = [[London]], England, United Kingdom
+| spouse           = [[Janet Radcliffe Richards]]
+| alma_mater       = [[Balliol College, Oxford]]
+| education        = [[Eton College]]
+| school_tradition = [[Analytic philosophy]]
+| main_interests   = {{hlist | [[Ethics]] | [[Personal identity]] | [[Rationalism]]
+ | [[Consequentialism]] |  [[Philosophy of mind]]}}
+| notable_ideas = {{unbulleted list | Relation R | [[Mere addition paradox|Repugnant conclusion]] | [[On What Matters|Triple Theory]]}}
+| influences       = {{hlist | [[Henry Sidgwick]] | [[Immanuel Kant]] | [[Christine Korsgaard]] | [[John Stuart Mill]] | [[Thomas Nagel]]}}
+| influenced       = {{hlist | [[Larry Temkin]] | [[Jeff McMahan (philosopher)|Jeff McMahan]] | [[John Cottingham]] | [[Sam Harris (author)|Sam Harris]] |  [[Ruth Chang]]}}
+| awards           = [[Rolf Schock Prizes|Rolf Schock Prize in Logic and Philosophy]] {{small|(2014)}}
+}}
+'''Derek Antony Parfit''', [[Fellow of the British Academy|FBA]] (11 December 1942 – 1 January 2017)<ref name=":0">{{Cite news|url=http://www.thetimes.co.uk/edition/register/derek-parfit-xvlxn0zq5|title=Derek Parfit|last=|first=|date=2017-01-04|work=|newspaper=The Times|access-date=2017-01-06|via=}}</ref><ref>{{Cite web|url=http://philosophy.fas.harvard.edu/news/memoriam-derek-parfit-11-december-1942-1-january-2017|title=In Memoriam: Derek Parfit (11 December 1942 - 1 January 2017)|website=philosophy.fas.harvard.edu|access-date=2017-01-06}}</ref><ref>{{Cite news|url=https://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit|title=The whole philosophy community is mourning Derek Parfit. Here's why he mattered.|last=Matthews|first=Dylan|newspaper=Vox|access-date=2017-01-06}}</ref> was a British philosopher who specialised in [[personal identity]], [[rationality]], and [[ethics]]. He is widely considered one of the most important and influential moral philosophers of the late 20th and early 21st centuries.<ref name=":0" /><ref name=":1">{{Cite news|url=https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html|title=Derek Parfit, Philosopher Who Explored Identity and Moral Choice, Dies at 74|last=Grimes|first=William|date=2017-01-04|newspaper=The New York Times|issn=0362-4331|access-date=2017-01-06}}</ref><ref name=":2" />
+
+Parfit rose to prominence in 1971 with the publication of his first paper, "Personal Identity". His first book, ''[[Reasons and Persons]]'' (1984), is often described as the most significant work of moral philosophy since the 1800s.<ref name=":1" /><ref name=":2" /> His second book, ''[[On What Matters]]'' (2011), was widely circulated and discussed for many years before its publication.
+
+For his entire academic career, Parfit worked at [[Oxford University]], where he was an Emeritus Senior Research Fellow at [[All Souls College, Oxford|All Souls College]] at the time of his death. He was also a visiting professor of philosophy at [[Harvard University]], [[New York University]], and [[Rutgers University]]. He was awarded 2014 [[Rolf Schock Prizes|Rolf Schock Prize]] "for his groundbreaking contributions concerning [[personal identity]], regard for future generations, and analysis of the structure of moral theories."<ref>{{cite web|url=http://www.kva.se/en/pressroom/Press-releases-2014/The-Rolf-Schock-Prizes-2014/|title=The Rolf Schock Prizes 2014: Rolf Schock – uniting philosophy, mathematics, music and art|accessdate= 8 January 2017}}</ref>
+
+==Life==
+Parfit was born in 1942 in [[Chengdu]], [[Republic of China (1912–1949)|China]], the son of Jessie (née Browne) and Norman Parfit, medical doctors who had moved to [[Western China]] to teach [[preventive medicine]] in [[missionary]] hospitals. The family returned to the United Kingdom about a year after Parfit was born, settling in Oxford. Parfit was educated at [[Eton College]]. From an early age, he endeavoured to become a poet, but he gave up [[poetry]] towards the end of his adolescence.<ref name=":2">{{cite web|last1=MacFarquhar|first1=Larissa|title=How to be Good|website=[[The New Yorker]]|date=5 September 2011|url=http://www.newyorker.com/magazine/2011/09/05/how-to-be-good|accessdate=22 July 2014}}</ref> He later studied Modern History at the [[University of Oxford]], graduating in 1964. In 1965–66 he was a [[Harkness Fellow]] at [[Columbia University]] and [[Harvard University]]. He abandoned historical studies for philosophy during the fellowship,<ref>{{cite web|url=http://as.nyu.edu/object/aboutas.globalprofessor.DerekParfit|title=Derek Parfit|publisher=New York University|accessdate=10 April 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110520060020/http://as.nyu.edu/object/aboutas.globalprofessor.DerekParfit|archivedate=20 May 2011|df=dmy-all}}</ref> returning to Oxford to become a fellow of [[All Souls College]].
+
+Parfit supported [[effective altruism]].<ref>{{Cite news|url=https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary|title=Derek Parfit obituary|last=O'Grady|first=Jane|date=2017-01-12|work=The Guardian|access-date=2017-07-03|language=en-GB|issn=0261-3077}}</ref> He was a member of [[Giving What We Can]] and pledged to donate at least ten percent of his income to effective charities.<ref>{{Cite web|url=https://www.givingwhatwecan.org/about-us/members/|title=Members|website=www.givingwhatwecan.org|access-date=2017-07-03}}</ref><ref>{{Citation|last=OxfordUnion|title=Derek Parfit - Full Address|date=2015-10-10|url=https://www.youtube.com/watch?v=xTUrwO9-B_I&feature=youtu.be|accessdate=2017-07-03}}</ref> 
+
+Parfit was an avid photographer who regularly traveled to [[Venice]] and [[Saint Petersburg|St. Petersburg]] to photograph architecture.<ref name=":2" />
+
+Parfit met [[Janet Radcliffe Richards]] in 1982.<ref name=":0" /> They married in 2010.<ref name=":2" />
+
+==Ethics and rationality==
+=== ''Reasons and Persons'' ===
+In ''Reasons and Persons'', Parfit suggested that nonreligious ethics is a young and fertile field of inquiry. He asked questions about which actions are right or wrong and shied away from [[meta-ethics]], which focuses more on [[logic]] and language.
+
+In Part I of ''Reasons and Persons'' Parfit discussed "self-defeating theories", namely the [[rational egoism|self-interest theory]] of rationality (S) and two ethical frameworks: common-sense morality (CSM) and [[consequentialism]] (C). He posited that S has been dominant in Western culture for over two millennia, often making bedfellows with religious doctrine, which united self-interest and morality. Because S demands that we always make self-interest our supreme rational concern and instructs us to ensure that our whole life goes as well as possible, S makes temporally neutral requirements. Thus it would be irrational to act in ways that we know we would prefer later to undo.
+
+As an example, it would be irrational for a 14-year-old to listen to loud music or get arrested for vandalism if they knew such actions would detract significantly from their future well-being and goals (such as having good hearing or an academic career in philosophy).
+
+Most notably, the self-interest theory holds that it is irrational to commit any acts of self-denial or to act on desires that negatively affect our well-being. One may consider an aspiring author whose strongest desire is to write an award-winning novel but who, in doing so, suffers from lack of sleep and depression. Parfit argues that it is plausible that we have such desires which conflict with our own well-being, and that it is not necessarily irrational to act to fulfill these desires.
+
+Aside from the initial appeal to plausibility of desires that do not directly contribute to one's life going well, Parfit contrived situations where S is indirectly self-defeating—that is, it makes demands that it initially posits as irrational. It does not fail on its own terms, but it does recommend adoption of an alternative framework of rationality. For instance, it might be in my self-interest to become trustworthy to participate in mutually beneficial agreements, even though in maintaining the agreement I will be doing what will, [[ceteris paribus]], be worse for me. In many cases S instructs us precisely not to follow S (''Reasons and Persons,'' section 63, chapter 8), thus fitting the definition of an indirectly self-defeating theory.
+
+Parfit contended that to be indirectly individually self-defeating and directly collectively self-defeating is not fatally damaging for S. To further bury S, Parfit exploited its partial relativity, juxtaposing temporally neutral demands against agent-centered demands. The appeal to full relativity raises the question whether a theory can be consistently neutral in one sphere of actualisation but entirely partial in another. Stripped of its commonly accepted shrouds of plausibility that can be shown to be inconsistent, S can be judged on its own merits. While Parfit did not offer an argument to dismiss S outright, his exposition lays S bare and allows its own failings to show through.{{Citation needed|date=August 2009}} It is defensible, but the defender must bite so many bullets that they might lose their credibility in the process. Thus a new theory of rationality is necessary. Parfit offered the Critical Present Aim Theory (CP), a broad catch-all that can be formulated to accommodate any competing theory. He constructed CP to exclude self-interest as our overriding rational concern and to allow the time of action to become critically important. But he left open whether it should include "to avoid acting wrongly" as our highest concern. Such an inclusion would pave the way for ethics. [[Henry Sidgwick]] longed for the fusion of ethics and rationality, and while Parfit admitted that many would avoid acting irrationally more ardently than acting immorally, he could not construct an argument that adequately united the two.
+
+Where S puts too much emphasis on the separateness of persons, C fails to recognise the importance of bonds and emotional responses that come from allowing some people privileged positions in one's life. If we were all pure do-gooders, perhaps following Sidgwick, that would not constitute the outcome that would maximise happiness. It would be better if a small percentage of the population were pure do-gooders, but others acted out of love, etc. Thus C too makes demands of agents that it initially deemed immoral; it fails not on its own terms, for it still demands the outcome that maximises total happiness, but does demand that each agent not always act as an impartial happiness promoter. C thus needs to be revised as well.
+
+S and C fail indirectly, while CSM is directly collectively self-defeating. (So is S but S is an ''individual'' theory.) Parfit showed, using interesting examples and borrowing from Nashian games, that it would often be better for us all if we did not put the welfare of our loved ones before all else. For example, we should care not only about our kids, but everyone's kids.
+
+=== ''On What Matters'' ===
+In his second book, Parfit argues for [[moral realism]], insisting that moral questions have true and false answers. Further, he suggests that the three most prominent categories of views in moral philosophy—[[Immanuel Kant|Kantian]] [[deontology]], [[consequentalism]], and [[contractarianism]]—<nowiki/>ultimately converge on the same answers to moral questions.
+
+In the book he argues that the affluent have strong moral obligations to the poor:<blockquote>"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world. The money that we spend on an evening’s entertainment might instead save some poor person from death, blindness, or chronic and severe pain. If we believe that, in our treatment of these poorest people, we are not acting wrongly, we are like those who believed that they were justified in having slaves. </blockquote><blockquote>Some of us ask how much of our wealth we rich people ought to give to these poorest people. But that question wrongly assumes that our wealth is ours to give. This wealth is legally ours. But these poorest people have much stronger moral claims to some of this wealth. We ought to transfer to these people (...) at least ten per cent of what we earn."<ref>{{Cite news|url=https://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit|title=The whole philosophy community is mourning Derek Parfit. Here's why he mattered.|work=Vox|access-date=2017-07-03}}</ref></blockquote>
+
+==Personal identity==
+Parfit was singular in his meticulously rigorous and almost mathematical investigations into personal identity. In some cases, he used examples seemingly inspired by ''[[Star Trek]]'' and other science fiction, such as the [[teletransporter]], to explore our intuitions about our identity. He was a [[reductionism|reductionist]], believing that since there is no adequate criterion of personal identity, people do not exist apart from their components. Parfit argued that reality can be fully described impersonally: there need not be a determinate answer to the question "Will I continue to exist?" We could know all the facts about a person's continued existence and not be able to say whether the person has survived. He concluded that we are mistaken in assuming that personal identity is what matters in survival; what matters is rather Relation R: psychological connectedness (namely, of memory and character) and continuity (overlapping chains of strong connectedness).
+
+On Parfit's account, individuals are nothing more than brains and bodies, but identity cannot be reduced to either. (Parfit concedes that his theories rarely conflict with rival Reductionist theories in everyday life, and that the two are only brought to blows by the introduction of extraordinary examples, but he defends the use of such examples on the grounds that they arouse strong intuitions in many of us.) Identity is not as determinate as we often suppose it is, but instead such determinacy arises mainly from the way we talk. People exist in the same way that nations or clubs exist.
+
+A key Parfitian question is: given the choice between surviving without psychological continuity and connectedness (Relation R) and dying but preserving R through someone else's future existence, which would you choose? Parfit argues the latter is preferable.
+
+Parfit described his loss of belief in a separate self as liberating:<ref>Fearn, Nicholas. The latest answers to the oldest questions : a philosophical adventure with the world's greatest thinkers. 1st ed. New York: Grove Press  ;Distributed by Publishers Group West, 2005.</ref>
+{{quote|My life seemed like a glass tunnel, through which I was moving faster every year, and at the end of which there was darkness... [However] When I changed my view, the walls of my glass tunnel disappeared. I now live in the open air. There is still a difference between my life and the lives of other people. But the difference is less. Other people are closer. I am less concerned about the rest of my own life, and more concerned about the lives of others.}}
+
+===Criticism of personal identity view===
+Fellow reductionist Mark Johnston of Princeton rejects Parfit's constitutive notion of identity with what he calls an "Argument from Above".<ref>{{cite web|author=Johnston, Mark |title=Human Concerns Without Superlative Selves |series=Dancy |year=1997 |url=http://wxy.seu.edu.cn/humanities/sociology/htmledit/uploadfile/system/20100825/20100825022102409.pdf#page=271 |deadurl=yes |archiveurl=https://web.archive.org/web/20120323141220/http://wxy.seu.edu.cn/humanities/sociology/htmledit/uploadfile/system/20100825/20100825022102409.pdf |archivedate=23 March 2012 |df=dmy }}</ref> Johnston maintains, "Even if the lower-level facts [that make up identity] do not in themselves matter, the higher-level fact may matter. If it does, the lower-level facts will have derived significance. They will matter, not in themselves, but because they constitute the higher level fact."<ref>{{cite web|author=Parfit, Derek|title=The Unimportance of Identity|publisher=Oxford University Press|year=1995|url=http://www.stafforini.com/txt/parfit_-_unimportance_of_identity.pdf}}</ref>
+
+In this, Johnston moves to preserve the significance of personhood. Parfit's explanation is that it is not personhood itself that matters, but rather the facts in which personhood consists that provide it with significance. To illustrate this difference between himself and Johnston, Parfit used an illustration of a brain-damaged patient who becomes irreversibly unconscious. The patient is certainly still alive even though that fact is separate from the fact that his heart is still beating and other organs are still functioning. But the fact that the patient is alive is not an independent or separately obtaining fact. The patient's being alive, even though irreversibly unconscious, simply consists in the other facts. Parfit explains that from this so-called "Argument from Below" we can arbitrate the value of the heart and other organs still working without having to assign them derived significance, as Johnston's perspective would dictate.
+
+==The future==
+{{unreferenced section|date=April 2011}}
+In Part IV of ''Reasons and Persons'', Parfit discusses possible futures for the world. He shows that, in the discussion of possible futures, both average and total utilitarian standards lead to unwelcome conclusions. Applying total utilitarian standards (absolute total happiness) to possible growth paths of population and welfare leads to what he calls the [[repugnant conclusion]]. Parfit illustrated this with a simple thought experiment. Imagine a choice between possible futures. In A, 10 billion people would live during the next generation, all with extremely happy lives, lives far happier than anyone's today. In B, there are 20 billion people all living lives that, while slightly less happy than those in A, are still very happy. Under total utility maximisation we should prefer B to A, and through a regressive process of population increases and happiness decreases (in each pair of cases the happiness decrease is more than outweighed by the population increase) we are forced to prefer Z, a world of hundreds of billions of people all living lives barely worth living, when compared to A. Even if we do not hold that coming to exist can benefit someone, we still must at least admit that Z is no worse than A.
+
+Parfit made a similar argument against average utilitarian standards. If all we care about is average happiness, we are forced to conclude that an extremely small population, say ten people, over the course of human history is the best outcome if we assume that these ten people ([[Adam and Eve]] et al.) had lives happier than we could ever imagine. Then consider the case of American immigration. Presumably alien welfare is less than American, but the would-be alien benefits tremendously from leaving his homeland. Assume also that Americans benefit from immigration (at least in small amounts) because they get cheap labour, etc. Under immigration both groups are better off, but if this increase is offset by increase in the population, then average welfare is lower. Thus although everyone is better off, this is not the preferred outcome. Parfit asserts that this is simply absurd.
+
+Parfit then moved to discuss the identity of future generations. He first posited that one's existence is intimately related to the time and conditions of conception. I would not be me if my parents waited two more years to have a child. While they would still have had a child, he would certainly have been someone else; even if he had still been their first-born son, he would not have been me.
+
+Study of weather patterns and other physical phenomena in the 20th century has shown that very minor changes in conditions at time T [[butterfly effect|have drastic effects]] at all times after T. Compare this to the romantic involvement of future childbearing partners. Any actions taken today, at time T, will affect who exists after only a few generations.  For instance, a significant change in global environmental policy would shift the conditions of the conception process so much that after 300 years none of the same people that would have been born are in fact born. Different couples meet each other and conceive at different times, and so different people come into existence. This is known as the 'non-identity problem'.
+
+We could thus craft disastrous policies that would be worse for nobody, because none of the same people would exist under the different policies. If we consider the moral ramifications of potential policies in person-affecting terms, we will have no reason to prefer a sound policy over an unsound one provided that its effects are not felt for a few generations. This is the non-identity problem in its purest form: the identity of future generations is causally dependent, in a very sensitive way, on the actions of the present generations.
+
+==Writings (selected)==
+*1964: ''[[Eton College|Eton]] Microcosm''; edited by Anthony Cheetham and Derek Parfit. London: Sidgwick & Jackson
+*1971: [http://home.sandiego.edu/~baber/metaphysics/readings/Parfit.PersonalIdentity.pdf  "Personal Identity", ''Philosophical Review''; Vol. 80: 3–27, 1971.] {{JSTOR|2184309}}
+*1979: "Is Common-Sense Morality Self-Defeating?"; ''The Journal of Philosophy'', Vol. 76, pp.&nbsp;533–545, October 1979. {{JSTOR|2025548}}
+*1984: ''[[Reasons and Persons]]''. Oxford: Clarendon Press {{ISBN|0-19-824615-3}}
+*1997: "Reasons and Motivation", ''The Aristotelian Soc. Supp.''' Vol. 77: 99–130, 1997. {{JSTOR|4106956}}
+*2003: {{Cite journal | title = Justifiability to each person | journal = [[Ratio (journal)|Ratio]] | volume = 16 | issue = 4 | pages = 368–390 | publisher = [[Wiley-Blackwell|Wiley]] | doi = 10.1046/j.1467-9329.2003.00229.x | url = http://dx.doi.org/10.1046/j.1467-9329.2003.00229.x | ref = harv | postscript = .}}
+*2006: "Normativity", in Russ Shafer-Landau (ed.), ''Oxford Studies in Metaethics'', vol. I, Oxford: Clarendon Press.
+*2011: ''[[On What Matters]]'' (two volumes), Oxford University Press.
+*2017: ''[[On What Matters]]'' (volume three), Oxford University Press.
+
+==See also==
+*[[Larry Temkin]]
+*[[T. M. Scanlon]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* Jussi Suikkanen and John Cottingham (Editors), ''Essays on Derek Parfit's'' On What Matters (Oxford, Wiley-Blackwell, 2009).
+
+==External links==
+*[http://www.all-souls.ox.ac.uk/people.php?personid=49 Profile, All Souls College, Oxford]
+*[http://www.stafforini.com/blog/?p=25 Derek Parfit: a bibliography]. A complete bibliography of writings.
+*[http://peasoup.typepad.com/peasoup/parfits_climbing_the_mountain/ Parfit's ''Climbing the Mountain'' reading group on PEA Soup]
+
+{{Analytic philosophy}}
+{{Ethics}}
+{{Metaphysics}}
+{{Philosophy of mind}}
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Parfit, Derek}}
+[[Category:1942 births]]
+[[Category:2017 deaths]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:New York University faculty]]
+[[Category:Harvard University staff]]
+[[Category:Harkness Fellows]]
+[[Category:Analytic philosophers]]
+[[Category:British philosophers]]
+[[Category:English philosophers]]
+[[Category:British ethicists]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Meta-ethics]]

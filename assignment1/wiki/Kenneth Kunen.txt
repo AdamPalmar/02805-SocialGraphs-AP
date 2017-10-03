@@ -1,0 +1,58 @@
+{{Infobox scientist
+| name = Kenneth Kunen
+| birth_name = Herbert Kenneth Kunen
+| image = Kenneth Kunen.jpg
+| birth_date = {{birth date|1943|08|02|mf=yes}}
+| nationality = [[United States|American]]
+| field = [[Mathematics]]
+| work_institutions = [[University of Wisconsin–Madison]]
+| alma_mater = [[California Institute of Technology]]<br>[[Stanford University]]
+| doctoral_advisor = [[Dana Scott]]
+| known_for = [[set theory]], set-theoretic [[topology]], [[associativity|non-associative]] algebraic systems
+}}
+
+'''Herbert Kenneth Kunen''' (born August 2, 1943) is an emeritus professor of [[mathematics]] at the [[University of Wisconsin–Madison]]<ref>http://www.math.wisc.edu/~apache/emeriti.html</ref> who works in [[set theory]] and its applications to various areas of mathematics, such as set-theoretic [[topology]] and [[measure theory]]. He also works on [[associativity|non-associative]] algebraic systems, such as [[quasigroup|loops]], and uses computer software, such as the [[Otter theorem prover]], to derive theorems in these areas.
+
+Kunen showed that if there exists a nontrivial elementary embedding ''j'':''L''→''L'' of the [[constructible universe]], then [[zero sharp|0<sup>#</sup>]] exists.
+He proved the consistency of a normal, <math>\aleph_2</math>-saturated ideal on <math>\aleph_1</math> from the consistency of the existence of a [[huge cardinal]]. He introduced the method of iterated [[ultrapower]]s, with which he proved that if <math>\kappa</math> is a [[measurable cardinal]] with <math>2^\kappa>\kappa^+</math> or <math>\kappa</math> is a [[strongly compact cardinal]] then there is an [[inner model]] of set theory with <math>\kappa</math> many measurable cardinals. He proved [[Kunen's inconsistency theorem]] showing the impossibility of a nontrivial elementary embedding <math>V\to  V</math>, which had been suggested as a [[large cardinal]] assumption (a [[Reinhardt cardinal]]).
+
+Away from the area of large cardinals, Kunen is known for intricate forcing and combinatorial constructions. He proved that it is consistent that the Martin Axiom first fails at a singular cardinal and constructed 
+under CH a compact L-space supporting a nonseparable measure. He also showed that <math>P(\omega)/Fin</math> has no increasing chain of length <math>\omega_2 </math> in the standard Cohen model
+where the continuum is <math>\aleph_2</math>. The concept of a [[Jech–Kunen tree]] is named after him and [[Thomas Jech]].
+
+Kunen completed his undergraduate degree at Caltech<ref name="TopologySpecialIssue" /> and received his [[Ph.D.]] in 1968 from [[Stanford University]],<ref>{{MathGenealogy|id=9055}}</ref> where he was supervised by [[Dana Scott]].
+
+==Selected publications==
+* ''Set Theory''. College Publications, 2011. {{ISBN|978-1848900509}}.
+* ''The Foundations of Mathematics''. College Publications, 2009.  {{ISBN|978-1-904987-14-7}}.
+* ''[[Set Theory: An Introduction to Independence Proofs]]''. North-Holland, 1980. {{ISBN|0-444-85401-0}}.<ref>{{cite journal|author=Henson, C. Ward|title=Review: ''Set theory, an introduction to independence proofs'', by Kenneth Kunen|journal=Bull. Amer. Math. Soc. (N.S.)|year=1984|volume=10|issue=1|pages=129–131|url=http://www.ams.org/journals/bull/1984-10-01/S0273-0979-1984-15214-5/S0273-0979-1984-15214-5.pdf|doi=10.1090/s0273-0979-1984-15214-5}}</ref>
+* (co-edited with Jerry E. Vaughan). ''Handbook of Set-Theoretic Topology''. North-Holland, 1984. {{ISBN|0-444-86580-2}}.<ref>{{cite journal|author=Baldwin, Stewart|title=Review: ''Handbook of set-theoretic topology'' edited by Kenneth Kunen and Jerry E. Vaughan|journal=The Journal of Symbolic Logic|date=December 1987|volume=52|issue=4|pages=1044–1045|jstor=2273837|doi=10.2307/2273837}}</ref>
+
+==Personal life==
+Kunen was born in New York in 1943. He lives in Madison, Wisconsin with his wife Anne. They have two sons, Isaac and Adam.<ref name="TopologySpecialIssue"/>
+
+==Bibliography==
+
+The journal [[Topology and its Applications]] has dedicated a special issue to "Ken" Kunen,<ref name="TopologySpecialIssue">{{cite journal|editor=Hart, Joan|title=Special Issue: Ken Kunen|date=1 Dec 2011|journal=Topology and Its Applications|volume=158|issue=18|pages=2443–2564|url=http://www.sciencedirect.com/science/journal/01668641/158/18}}</ref> containing a biography by [[Arnold W. Miller]], and surveys about Kunen research in various fields by [[Mary Ellen Rudin]], [[Akihiro Kanamori]], [[István Juhász (mathematician)|István Juhász]], [[Jan van Mill]], [[Dikran Dikranjan]], and [[Michael Kinyon]].
+
+==References==
+<references/>
+
+==External links==
+*[http://www.math.wisc.edu/~kunen/ Kunen's home page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kunen, Kenneth}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Set theorists]]
+[[Category:Stanford University alumni]]
+[[Category:Topologists]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:American logicians]]
+
+
+{{US-mathematician-stub}}

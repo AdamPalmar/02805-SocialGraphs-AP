@@ -1,0 +1,308 @@
+{{Use dmy dates|date=July 2013}}
+{{Infobox economist
+| name             = Frédéric Bastiat
+| school_tradition = [[Classical liberalism]]
+| image            = Bastiat.jpg
+| caption          = 
+| birth_name       = Claude-Frédéric Bastiat
+| birth_date       = {{Birth date|1801|06|29|df=y}}
+| birth_place      = [[Bayonne]], [[French First Republic|France]]
+| death_date       = {{Death date and age|1850|12|24|1801|06|29|df=y}}
+| death_place      = [[Rome]], [[Papal States]]
+| nationality      = French
+| contributions    = ''[[The Law (book)|The Law]]'' (''La Loi'')
+| influences       = [[Richard Cobden]], [[Adam Smith]], [[Jean-Baptiste Say]], [[Charles Comte]], [[Charles Dunoyer]]
+| influenced       = [[Arthur Latham Perry]], [[Gustave de Molinari]], [[Ludwig von Mises]], [[Henry Hazlitt]], [[Ron Paul]], [[Rand Paul]], [[Thomas Sowell]], [[Mark Spitznagel]], [[Walter E. Williams]]
+}}
+
+'''Claude-Frédéric Bastiat''' ({{IPA-fr|klod fʁedeʁik bastja|lang}}; 29 June 1801<ref>{{cite web |url=http://www.britannica.com/EBchecked/topic/55610/Frederic-Bastiat |title=Frederic Bastiat |work=Encyclopædia Britannica }}</ref> – 24 December 1850) was a French economist and author who was a prominent member of the [[French Liberal School]]. He developed the economic concept of [[opportunity cost]], and introduced the ''[[Parable of the broken window|Parable of the Broken Window]]''. He was also a [[Freemasonry|Freemason]], and member of the [[National Assembly (France)|French National Assembly]].<ref>initiated in 1820 at "La Zélée" lodge in Bayonne (La Franc-maçonnerie à Bayonne, 1980)</ref>
+
+As a strong advocate of [[classical liberalism]] and the economics of [[Adam Smith]], his views favouring [[free trade]] and opposing [[protectionism]] provided a basis for [[libertarian]] capitalism and the [[Austrian School]].<ref name=Great>[[Mark Thornton|Thornton, Mark]] (11 April 2011) [https://mises.org/daily/5180/Why-Bastiat-Is-Still-Great Why Bastiat Is Still Great], ''[[Mises Institute]]''</ref>
+
+==Biography==
+
+Bastiat was born in [[Bayonne]], [[Aquitaine]], a port town in the south of France on the [[Bay of Biscay]], on 29 June 1801. His father, Pierre Bastiat, was a prominent businessman in the town. His mother died in 1808 when Frédéric was seven years old.<ref name=Roche>{{cite book|last=Roche III|first=George Charles|title= Frédéric Bastiat: A Man Alone|year=1971|publisher=Arlington House|location=New Rochelle, New York|isbn=0-87000-116-7}}</ref> His father moved inland to the town of [[Mugron]] with Frédéric following soon afterward. The Bastiat estate in Mugron had been acquired during the [[French Revolution]] and had previously belonged to the Marquis of Poyanne. Pierre Bastiat died in 1810, leaving Frédéric an orphan. He was fostered by his paternal grandfather and his maiden aunt, Justine Bastiat.<ref name=Roche />
+
+[[File:Buste-bastiat.JPG|thumb|290px|Bust of Frédéric Bastiat in Mugron, France]]
+
+He attended a school in Bayonne, but his aunt thought poorly of it and so enrolled him in the school [[Saint-Sever]]. At age 17, he left school at [[Sorèze]] to work for his uncle in his family's export business. It was the same firm where his father had been a partner.
+
+Bastiat began to develop an intellectual interest. He no longer wished to work with his uncle and desired to go to Paris for formal studies. This hope never came true as his grandfather was in poor health and wished to go to the Mugron estate. Bastiat accompanied him and cared for him. The next year, when Bastiat was 24, his grandfather died, leaving the young man the family estate, thereby providing him with the means to further his theoretical inquiries.<ref name=Roche /> Bastiat developed intellectual interests in several areas including [[philosophy]], history, politics, religion, travel, poetry, [[political economy]] and biography. "After the middle-class [[July Revolution|Revolution of 1830]], Bastiat became politically active and was elected [[justice of the peace]] of Mugron in 1831 and to the [[General councils (France)|Council General]] (county-level assembly) of Landes in 1832. He was elected to the national legislative assembly soon after the [[French Revolution of 1848]]."<ref name=Great />
+
+His public career as an economist began only in 1844 when his first article was published in the ''Journal des economistes'' during October of that year. It was ended by his untimely death in 1850. Bastiat contracted [[tuberculosis]], probably during his tours throughout France to promote his ideas, and that illness eventually prevented him from making further speeches (particularly at the legislative assembly to which he was elected in 1848 and 1849) and ended his life. During the autumn of 1850, he was sent to Italy by his doctors. He first traveled to Pisa, then on to Rome. On 24 December 1850, Bastiat called those with him to approach his bed. He murmured twice the words "the truth" then died.<ref name=Roche />
+
+==Works==
+Bastiat was the author of many works on economics and political economy, generally characterized by their clear organization, forceful argumentation, and acerbic wit. Economist [[Murray Rothbard]] wrote that "Bastiat was indeed a lucid and superb writer, whose brilliant and witty essays and fables to this day are remarkable and devastating demolitions of [[protectionism]] and of all forms of government [[subsidy]] and control. He was a truly scintillating advocate of an unrestricted [[free market]]."<ref name=Great /> However, Bastiat himself declared that subsidy should be available, but limited: "under extraordinary circumstances, for urgent cases, the State should set aside some resources to assist certain unfortunate people, to help them adjust to changing conditions."<ref>Justice and fraternity, in Journal des Économistes, 15 June 1848, pg. 313</ref> Among his better known works is ''Economic Sophisms'',<ref>{{cite web|title=Economic Sophisms|last=Bastiat |first=Frédéric [1845] |others=Goddard, A. (trans.)|year=1996|location=Irvington-on-Hudson, NY|publisher= The Foundation for Economic Education|accessdate=2008-12-12}}</ref> a series of essays (originally published in the [[Journal des Économistes]]) which contain a defence of [[free trade]] and many strongly worded attacks on [[statism|statist]] policies. Bastiat wrote the work while living in England to advise the shapers of the French Republic on perils to avoid. ''Economic Sophisms'' was translated and adapted for an American readership in 1867 by the economist and historian of money [[Alexander del Mar]], writing under the pseudonym "Emile Walter".<ref>"Emile Walter" (del Mar, Alexander, pseud.) (1867). [https://archive.org/details/cu31924031220340 ''What is free trade? An adaptation of Frederick Bastiat's "Sophismes economiques" | Designed for the American reader]''. New York: G.P. Putnam and Son, repr. Dodo Press, 2009. {{ISBN|978-1-4099-3812-5}}</ref>
+
+===''Economic Sophisms'' and the "Candlemakers' Petition"===
+Contained within ''Economic Sophisms'' is the [[satire|satirical]] parable known as the "Candlemakers' petition" in which candlemakers and tallow producers lobby the [[Chamber of Deputies (France)|Chamber of Deputies]] of the French [[July Monarchy]] (1830–1848) to block out the Sun to prevent its unfair competition with their products.<ref>{{cite web|url=http://silentpc.org/university/Candlemaker.pdf|last=Bastiat |first=Frédéric |accessdate=2008-12-12|title=Candlemakers' petition}}</ref> Also included in the ''Sophisms'' is a facetious petition to the king asking for a law forbidding the usage of everyone's right hand, based on a presumption by some of his contemporaries that more difficulty means more work and more work means more wealth.<ref>{{cite web|title=Bastiat: Economic Sophisms, Series 2, Chapter 16 |publisher=Library of Economics and Liberty |date= |accessdate=2013-03-03}}</ref>
+
+===''The Law'' (1850)===
+{{Refimprove section|date=March 2013}}
+{{Original research|section|date=March 2013}}
+Bastiat's most famous work, however, is ''The Law'',<ref>{{cite web|url=https://mises.org/sites/default/files/thelaw.pdf|author=Frédéric Bastiat|title=The law|accessdate=2015-03-29}}</ref> originally published as a pamphlet in 1850. It defines, through development,{{clarify|date=June 2013}} a just system of laws and then demonstrates how such law facilitates a free society.
+
+In ''The Law'', he wrote that everyone has a right to protect "his person, his liberty, and his property". The State should be only a "substitution of a common force for individual forces" to defend this right. "Justice" (defense of one's life, liberty, property) has precise limits, but if government power extends further, into philanthropic endeavors, government becomes so limitless that it can grow endlessly. The resulting statism is "based on this triple hypothesis: the total inertness of mankind, the omnipotence of the law, and the infallibility of the legislator." The public then becomes [[social engineering (political science)|socially-engineered]] by the legislator and must bend to the legislators' will "like the clay to the potter":
+<blockquote>
+I do not dispute their right to invent social combinations, to advertise them, to advocate them, and to try them upon themselves, at their own expense and risk. But I do dispute their right to impose these plans upon us by law – by force – and to compel us to pay for them with our taxes.
+</blockquote>
+
+Bastiat posits that the law becomes perverted when it punishes one's right to self-defense (of his [[life, liberty, and property]]) in favor of another's right to "[[legal plunder|legalized plunder]]," which he defines as: "if the law takes from some persons what belongs to them, and gives it to other persons to whom it does not belong. See if the law benefits one citizen at the expense of another by doing what the citizen himself cannot do without committing a crime."<ref>[http://bastiat.org/en/the_law.html The Law, at bastiat.org]</ref> Bastiat was thus against [[redistribution (economics)|redistribution]].
+
+==="What is Seen and What is Unseen"===
+In his 1850 essay "Ce qu'on voit et ce qu'on ne voit pas" ("[[What is seen and what is not seen|What is Seen and What is Unseen]]"), through the [[parable of the broken window]], he introduced the concept of [[opportunity cost]] in all but name; this term was not coined until over 60 years after his death—in 1914 by [[Friedrich von Wieser]].
+
+===Debate with Proudhon===
+He also famously engaged in a debate, between 1849 and 1850, with [[Pierre-Joseph Proudhon]] about the legitimacy of interest.<ref>{{cite web|url=http://praxeology.net/FB-PJP-DOI.htm |title=Bastiat-Proudhon Debate on Interest |publisher=Praxeology.net |date= |accessdate=2008-12-02}}</ref> As [[Robert Leroux (sociologist)|Robert Leroux]] argued, Bastiat had the conviction that Proudhon's anti-interest doctrine "was the complete antithesis of any serious approach".<ref>Leroux, Robert. "Political Economy and Liberalism: The Economic Contribution of Frédéric Bastiat" Routledge, 2011, p. 118.</ref> Proudhon famously lost his temper and declared to Bastiat: "Your intelligence is asleep, or rather it has never been awake...You are a man for whom logic does not exist...You do not hear anything, you do not understand anything...You are without philosophy, without science, without humanity...Your ability to reason, like your ability to pay attention and make comparisons is zero...Scientifically, Mr. Bastiat, you are a dead man."<ref>Roche, Charles George. "Frederic Bastiat: A Man Alone". Arlington House, 1971, p. 153.</ref>
+
+==Views==
+{{Liberalism sidebar}}
+{{Libertarianism sidebar}}
+Bastiat asserted that the sole purpose of government is to protect the right of an individual to life, liberty, and property, and why it is dangerous and morally wrong for government to interfere with an individual's other personal matters. From this, Bastiat concluded that the law cannot defend life, liberty, and property if it promotes "[[Legal plunder|legal [or legalized] plunder]]," which he defined as using government force and laws to take something from one individual and give it to others (as opposed to a transfer of property via mutually-agreed contracts, without using fraud nor violent threats against the other party, which Bastiat considered a legitimate transfer of property).<ref name="TheLaw" />
+
+In ''The Law'', Bastiat explains that, if the privileged classes or socialists use the government for "legalized plunder," this will encourage the other socio-economic class to also use "[[legal plunder]]," and that the correct response to both the socialists and the [[Corporatism|corporatists]] is to cease all "[[legal plunder]]." Bastiat also explains in ''The Law'' why his opinion is that the law cannot defend life, liberty, and property if it promotes socialist policies. When used to obtain "legalized plunder" for any group, he says, the law is perverted against the only things (life, liberty, and property) it is supposed to defend.<ref name="TheLaw">Bastiat, Frédéric. ''The Law''. Ludwig von Mises Institute, 2007.</ref>
+
+Bastiat was also a strong supporter of [[free trade]]. He "was inspired by and routinely corresponded with [[Richard Cobden]] and the English [[Anti-Corn Law League]] and worked with free-trade associations in France."<ref name=Great />
+
+Because of his stress on the role of consumer demand in initiating economic progress (a form of [[Supply and demand|demand-side]] economics), Bastiat has been described by [[Mark Thornton]], [[Thomas DiLorenzo]], and other economists as a forerunner of the [[Austrian School]]. In his ''Economic Harmonies'', Bastiat states that,
+{{quote|We cannot doubt that self-interest is the mainspring of human nature. It must be clearly understood that this word is used here to designate a universal, incontestable fact, resulting from the nature of man, and not an adverse judgment, as would be the word selfishness.}}
+Thornton posits that Bastiat, through taking this position on the motivations of human action, demonstrates a pronounced "Austrian flavor."<ref name="Thornton">Thornton, Mark. "[https://www.mises.org/journals/scholar/BastiatAustrian.pdf Frédéric Bastiat as an Austrian Economist]." ''Mises.org''.</ref>
+[[File:Bastiat big.jpg|thumb|left|160px|Frédéric Bastiat]]
+
+One of Bastiat's most important contributions to economics was his admonition to the effect that good economic decisions can be made only by taking into account the "full picture." That is, economic truths should be arrived at by observing not only the immediate consequences{{spaced ndash}}that is, benefits or liabilities{{spaced ndash}}of an economic decision, but also by examining the long-term second and third consequences.  Additionally, one must examine the decision's effect not only on a single group of people (say candlemakers) or a single industry (say candlemaking), but on all people and all industries in the society as a whole. As Bastiat famously put it, an economist must take into account both "What is Seen and What is Not Seen." Bastiat's "rule" was later expounded and developed by [[Henry Hazlitt]] in his work ''[[Economics in One Lesson]],'' in which Hazlitt borrowed Bastiat's trenchant "[[parable of the broken window|Broken Window Fallacy]]" and went on to demonstrate how it applies to a wide variety of economic falsehoods.
+
+===Negative railroad===
+A famous section of ''Economic Sophisms'' concerns the way that tariffs are inherently counterproductive. Bastiat posits a theoretical railway between Spain and France that is built in order to reduce the costs of trade between the two countries. This is achieved, of course, by making goods move to and from the two nations faster and more easily. Bastiat demonstrates that this situation benefits both countries' consumers because it reduces the cost of shipping goods, and therefore reduces the price at market for those goods.
+
+However, each country's producers begin to criticize their governments because the other country's producers can now provide certain goods to the domestic market at reduced price. Domestic producers of these goods are afraid of being outcompeted by the newly viable industry from the other country. So, these domestic producers demand that tariffs be enacted to artificially raise the cost of the foreign goods back to their pre-railroad levels, so that they can continue to compete.
+
+Bastiat makes two significant statements here:
+# Even if the producers in a society are benefited by these tariffs (which, Bastiat claims, they are not), the consumers in that society are clearly hurt by the tariffs, as they are now unable to secure the goods they want at the low price at which they should be able to secure them.
+# The tariffs completely negate any gains made by the railroad and therefore make it essentially pointless.
+
+To further demonstrate his statements, Bastiat suggests—in a classic ''[[reductio ad absurdum]]''—that, rather than enacting tariffs, the government should simply destroy the railroad anywhere that foreign goods can outcompete local goods. Since this would be just about everywhere, he goes on to suggest that this government should simply build a broken or "negative" railroad right from the start, and not waste time with tariffs and rail building.<ref>{{Cite web|title=Bastiat: Economic Sophisms, Chapter 13-23}}</ref>
+
+==Bastiat's tomb==
+[[File:Bastiat Tomb.JPG|thumb|right|Bastiat's tomb in [[San Luigi dei Francesi]]]]
+Bastiat died in Rome and is buried at [[San Luigi dei Francesi]] in the center of that city. He declared on his deathbed that his friend [[Gustave de Molinari]] (publisher of Bastiat's 1850 book ''The Law'') was his spiritual heir.
+
+==Books==
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 1848
+| title         = Propriété et loi, Justice et fraternité
+| publisher     = Guillaumin et C<sup>ie</sup>
+| location      = Paris
+| language      = French
+| url = http://gallica.bnf.fr/ark:/12148/bpt6k5696376z
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 1849
+| title         = L'État, Maudit argent
+| publisher     = Guillaumin et C<sup>ie</sup>
+| location      = Paris
+| language      = French
+| url = http://gallica.bnf.fr/ark:/12148/bpt6k56881118
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| title         = Incomptabilités parlementaires
+| year          = 1849
+| publisher     = Guillaumin et C<sup>ie</sup>
+| location      = Paris
+| language      = French
+| url = http://gallica.bnf.fr/ark:/12148/bpt6k5677549h
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 1849
+| title         = Paix et liberté ou le budget républicain
+| publisher     = Guillaumin et C<sup>ie</sup>
+| location      = Paris
+| language      = French
+| url = http://gallica.bnf.fr/ark:/12148/bpt6k56744460
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 1849
+| title         = Protectionisme et communisme
+| publisher     = Guillaumin et C<sup>ie</sup>
+| location      = Paris
+| language      = French
+| url = http://gallica.bnf.fr/ark:/12148/bpt6k56730180
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 1983
+| title         = Oeuvres économiques
+| series        = Libre échange
+| others        = Textes présentés par Florin Aftalion
+| publisher     = PUF
+| location      = Paris
+| language      = French
+| isbn          = 2-13-037861-7
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 2005
+| title         = Sophismes économiques
+| series        = Bibliothèque classique de la liberté
+| others        = Préface de Michel Leter
+| publisher     = Les Belles Lettres
+| location      = Paris
+| language      = French
+| isbn          = 978-2-251-39038-3
+}}
+* {{cite book
+| last          = Bastiat
+| first         = Frédéric
+| authorlink    = 
+| year          = 2009
+| title         = Pamphlets
+| series        = Bibliothèque classique de la liberté
+| others        = Préface de Michel Leter
+| publisher     = Les Belles Lettres
+| location      = Paris
+| language      = French
+| isbn          = 978-2-251-39049-9
+}}
+
+==See also==
+{{Portal|Libertarianism}}
+* [[Bastiat Prize]]
+* [[Anne Robert Jacques Turgot, Baron de Laune]]
+* [[Hippolyte Castille]]
+* [[List of liberal theorists]]
+* [[Physiocrats]]
+* [[Sophism]]
+* ''[[Harmonies of Political Economy]]''
+
+==References==
+{{Reflist}}
+* [https://www.mises.org/journals/qjae/pdf/qjae4_4_3.pdf Bastiat's Legacy in Economics] by [[Jorg Guido Hulsmann]]
+* [https://www.mises.org/journals/qjae/pdf/qjae5_3_6.pdf Frédéric Bastiat's Views on the Nature of Money] by [[Mark Thornton]]
+* [https://www.mises.org/content/bastiat200.asp Frédéric Bastiat: Two Hundred Years On] by Joseph R. Stromberg
+* Political Economy and Liberalism in France :  The Contributions of Frédéric Bastiat, London and New York, Routledge, 2011 by Robert Leroux
+
+==Further reading==
+* {{cite book|last1=Boyack|first1=Connor|author2=Stanfield, Elijah (Illustrator)|title=The Tuttle Twins Learn About The Law|date=2014|publisher=Libertas Press|isbn=978-0989291224|quote=A version of ''The Law'' written for young children.}} 55 pp. {{en icon}}
+* [http://gallica.bnf.fr/ark:/12148/bpt6k224270/f192.image Foville, A. de. “Bastiat”. In ''Nouveau dictionnaire de l’économie politique'', Deuxième édition, Tome premier, ''A–H'', Publié sous la direction de M. Léon Say et de M. Joseph Chailley, 170–72. Paris: Guillaumin et C<sup>ie</sup>, 1900.] {{fr icon}}
+* {{cite journal
+| last=Garello|first=Jacques
+| date=16 February 2011
+| title=Portrait : Bastiat (1801–1850)
+| language=French
+| journal=La nouvelle lettre|issue=1067
+| page=8
+| url =http://www.libres.org/portraits/518-frederic-bastiat-1801-1850.html|accessdate=12 May 2012
+}}
+* {{cite encyclopedia |last= Hülsmann |first= Guido| authorlink1=Jörg Guido Hülsmann |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title= Bastiat, Frédéric |url= https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] | location= Thousand Oaks, CA |doi= 10.4135/9781412965811.n16|isbn= 978-1-4129-6580-4 |oclc=750831024| lccn = 2008009151 |pages=25–27 |quote= |ref= }}
+* {{cite book
+| last          = Leroux
+| first         = Robert
+| title         = Political Economy and Liberalism in France : The Contributions of Frédéric Bastiat
+| year          = 2011
+| series        = Routledge Studies in the History of Economics
+| publisher     = Routledge
+| location      = London
+}}
+* {{cite book
+| last          = Roche
+| first         = George Charles III
+| authorlink    = George Roche III
+| title         = Frédéric Bastiat: A Man Alone
+| series        = Architects of Freedom Series
+| year          = 1971
+| publisher     =Arlington House
+| location      = New Rochelle
+| url = https://mises.org/document/4957/Frederic-Bastiat-A-Man-Alone
+| accessdate = 12 May 2012
+}}
+* {{cite book
+| last          = Russell
+| first         = Dean
+| title         = Frédéric Bastiat: Ideas and Influence
+| year          = 1969
+| publisher     = Foundation for Economic Education
+| location      = Irvington-on-Hudson
+}}
+* {{cite book
+| title         = Un libéral : Frédéric Bastiat
+| year          = 1988
+| publisher     = Presses de l’Institut d’Études Politiques de Toulouse
+| location      = Toulouse
+| language      = French
+}}
+
+==External links==
+{{wikisource author}}
+{{wikiquote}}
+{{Commons and category}}
+{{Spoken Wikipedia|Frederic Bastiat.ogg|2006-06-09}}
+* {{Gutenberg author |id=Bastiat,+Frédéric | name=Frédéric Bastiat}}
+* {{Internet Archive author |sname=Frédéric Bastiat |sopt=w}}
+* {{Librivox author |id=628}}
+* {{Britannica|55610}}
+* {{Goodreads author|89275.Fr_d_ric_Bastiat}}
+* {{Cite book |title=Frédéric Bastiat (1801–1850)}}
+* [http://fee.org/docs/?type=document&collection=&author=31&search= Books by Bastiat] from the Foundation for Economic Education.
+* [http://www.bastiat.org/ Bastiat.org] publishes and indexes information about Bastiat.
+* [http://www.bastiat.net/ Cercle Frédéric Bastiat] publishes and indexes information about Bastiat
+* [http://www.independent.org/publications/tir/article.asp?a=680 "Frédéric Bastiat: Libertarian Challenger or Political Bargainer?"] article by economist Brian Baugus on the development of Bastiat's thinking.
+* [http://herve.dequengo.free.fr/Bastiat/Bastiat_bio.htm Biography] by [[Gustave de Molinari]] (in French)
+* ''[https://www.mises.org/books/bastiat1.pdf The Bastiat Collection Volume 1]'', ''[https://www.mises.org/books/bastiat2.pdf The Bastiat Collection Volume 2]'' – A collection of Bastiat works published by the [[Ludwig von Mises Institute]]
+* {{cite journal|last=Riggenbach|first=Jeff|title=Bastiat for the Ages |journal=Mises Daily |publisher=[[Ludwig von Mises Institute]] | date=March 11, 2011|url=https://mises.org/daily/5429/Bastiat-for-the-Ages}}
+* [http://www.freeaudio.org/fbastiat/thelaw.html Audio version of Russell's translation of ''The Law'']
+* [https://mises.org/books/thelaw.pdf  ''The Law'' – Frederic Bastiat (PDF English)]
+* [http://www.freeaudio.org/fbastiat/candlemakerspetition.html "Candlemaker's Petition" audio book] at FreeAudio.org
+* {{Find a Grave|28652431|Frederic Bastiat}}
+* [http://www.bastiatsociety.org/ The Bastiat Society]
+
+{{Classical economists}}
+{{Austrian School economists}}
+{{Property navbox}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bastiat, Frederic}}
+[[Category:1801 births]]
+[[Category:1850 deaths]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:19th-century economists]]
+[[Category:19th-century French writers]]
+[[Category:19th-century male writers]]
+[[Category:Classical economists]]
+[[Category:French classical liberals]]
+[[Category:French economics writers]]
+[[Category:French economists]]
+[[Category:French Freemasons]]
+[[Category:French Liberal School]]
+[[Category:French libertarians]]
+[[Category:French male writers]]
+[[Category:French political writers]]
+[[Category:French republicans]]
+[[Category:French Roman Catholics]]
+[[Category:Infectious disease deaths in Italy]]
+[[Category:Members of the 1848 Constituent Assembly]]
+[[Category:Members of the National Legislative Assembly of the French Second Republic]]
+[[Category:People from Bayonne]]

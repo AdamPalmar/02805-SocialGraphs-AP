@@ -1,0 +1,79 @@
+{{Use dmy dates|date=May 2012}}
+{{Use British English|date=May 2012}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name          = Anne Conway
+| image         = 
+| alt           = 
+| caption       =
+| language      = 
+| birth_name    = Anne Finch 
+| birth_date    = {{birth date|df=yes|1631|12|14}}
+| birth_place   = London, England
+| death_date    = {{death date and age|df=yes|1679|2|18|1631|12|14}}
+| death_place   = Ragley Hall, Warwickshire
+| occupation    = Philosopher
+| nationality   = [[United Kingdom|British]]
+|signature      = 
+}}
+'''Anne Conway''' (also known as '''Viscountess Conway'''; ''[[Married and maiden names|née]]'' '''Finch'''; 14 December 1631 – 18 February 1679) was an [[English people|English]] [[philosopher]] whose work, in the tradition of the [[Cambridge Platonists]], was an influence on [[Gottfried Leibniz]]. Conway's thought is original as it is rationalist philosophy, with hallmarks of gynocentric concerns and patterns, and in that sense it was unique among seventeenth-century systems.<ref name="Duran2006">{{cite book|author=Jane Duran|title=Eight Women Philosophers: Theory, Politics, And Feminism|url=https://books.google.com/books?id=aIzVEF6J6SYC&pg=PA73|accessdate=13 January 2013|year=2006|publisher=University of Illinois Press|isbn=978-0-252-03022-2|pages=73–}}</ref>
+
+==Biography==
+Anne Finch was born to [[Heneage Finch (Speaker)|Sir Heneage Finch]] (who had held the posts of the [[Recorder of London]] and [[Speaker of the British House of Commons|Speaker of the House of Commons]] under [[Charles I of England|Charles I]]) and his second wife, Elizabeth (daughter of William Cradock of Staffordshire).  Her father died the week before her birth. She was the youngest child.<ref name=":0">{{Cite book|url=http://plato.stanford.edu/archives/fall2014/entries/cordemoy/|title=Géraud de Cordemoy|last=Ablondi|first=Fred|date=2014-01-01|editor-last=Zalta|editor-first=Edward N.|edition=Fall 2014}}</ref> Her early education was by tutors and included [[Latin]], to which she later added [[Greek language|Greek]] and [[Hebrew language|Hebrew]]. Her stepbrother, [[John Finch (Ambassador)|John Finch]], who encouraged her interests in philosophy and theology, introduced Anne to the Cambridge Platonist [[Henry More]], who was one of John's tutors at [[Christ's College, Cambridge]]. This led to a lifelong correspondence and close friendship between them on the subject of Descartes' philosophy, over the course of which Anne grew from More's informal pupil to his intellectual equal. More said of her that he had "scarce ever met with any Person, Man or Woman, of better Natural parts than Lady Conway" (quoted in Richard Ward's ''The Life of Henry More'' (1710) p.&nbsp;193), and that "in the knowledge of things as well Natural and Divine, you have not onely out-gone all of your own Sex, but even of that other also."<ref>{{cite book|title=Women Philosophers of the Seventeenth Century|ISBN=9780521039178}}</ref> Conway grew up in the house now known as [[Kensington Palace]], which her family owned at the time.<ref name=":0" />
+
+In 1651 she married [[Edward Conway, 1st Earl of Conway|Edward Conway]], later 1st [[Earl of Conway]], and in the following year More dedicated his book ''Antidote against Atheism'' to her. In 1658, Anne gave birth to her only son, Heneage Edward Conway, who died of smallpox just two years later. Her husband was also interested in philosophy and had himself been tutored by More, but she went far beyond him in both the depth of her thought and the variety of her interests.  She became interested in the [[Isaac Luria|Lurianic Kabbalah]], and then in [[Religious Society of Friends|Quakerism]], to which she converted in 1677.  In England at that time the Quakers were generally disliked and feared, and suffered persecution and even imprisonment.  Conway's decision to convert, to make her house a centre for Quaker activity, and to proselytise actively was thus particularly bold and courageous.
+
+Her life from the age of twelve (when she suffered a period of fever) was marked by the recurrence of severe [[migraine]]s.  These meant that she was often incapacitated by pain, and she spent much time under medical supervision and searching for a cure (at one point even having her [[jugular vein]]s opened). She had medical consults from Dr. [[Thomas Willis]].<ref>Carol Wayne White, The Legacy of Anne Conway (1631-1679): Reverberations from a Mystical Naturalism (2008), p. 6.</ref> Conway was famously treated by many of the great physicians of her time, but none of the treatments had any effect.<ref>{{cite journal |last=Owen |first=Gilbert Roy |date=1937 |title=The Famous Case of Lady Anne Conway |journal=Annals of Medical History}}</ref> She died in 1679 at the age of forty-seven.
+
+==''The Principles of the Most Ancient and Modern Philosophy''==
+First published in Latin translation in 1690 as ''Principia philosophiae antiquissimae et recentissimae'', and retranslated into English 1692, the ''Principles'' develops Conway's monistic view of the world as created from one substance. Conway is critical of the [[Cartesianism|Cartesian]] idea that bodies are constituted of dead matter, of [[Henry More|Henry More's]] concept of the soul in his ''Antidote Against Atheism,'' and of dualist theories of the relationship between the body and spirit.<ref>{{cite book|title=Women Philosophers of the Seventeenth Century, pg. 66-67|ISBN=9780521039178}}</ref>
+
+== Bibliography ==
+*[http://digital.library.upenn.edu/women/conway/principles/principles.html ''The principles of the most ancient and modern philosophy''] (London: n. publ., 1692) 168 pp. in 12°. — originally printed in Latin: ''Principia philosophiae antiquissimae et recentissimae de Deo, Christo & Creatura'', Amsterdam: M. Brown 1690.
+*''Letters. The Correspondence of Anne, Viscountess Conway, Henry More and their friends, 1642–1684'', ed. M. H. Nicolson (London 1930) 517 pp.
+* Collaborations with [[Franciscus Mercurius van Helmont]] (1614–1698) 
+**''A Cabbalistical Dialogue'' (1682) (in [[Christian Knorr von Rosenroth]], ''Kabbala denudata'', 1677–1684)
+**''Two Hundred Quiries moderately propounded concerning the Doctrine of the Revolution of Humane Souls'' (1684).
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+* Broad, Jacqueline. ''Women Philosophers of the Seventeenth Century''. Cambridge Cambridge University Press, 2002.
+* Brown, Stuart. "Leibniz and Henry More’s Cabbalistic Circle", in S. Hutton (ed.) ''Henry More (1614–1687): Tercentenary Studies'', Dordrecht: Kluwer Academic Publishers, 1990.(Challenges the view that Conway influenced Leibniz.)
+* Duran, Jane. "Anne Viscountess Conway: a Seventeenth-Century Rationalist". ''Hypatia: a Journal of Feminist Philosophy''. 4 (1989): 64-79.
+* Frankel, Lois. "Anne Finch, Viscountess Conway,"  Mary Ellen Waithe, ed., ''A History of Women Philosophers'', Vol. 3, Kluwer, 1991, pp.&nbsp;41–58.
+* Gabbey, Alan. "Anne Conway et Henry More: lettres sur Descartes" (''Archives de Philosophie'' 40, pp.&nbsp;379–404)
+* Hutton, Sarah. "Conway, Anne (c.1630–79)", 1998, doi:10.4324/9780415249126-DA021-1. ''Routledge Encyclopedia of Philosophy'', Taylor and Francis, https://www.rep.routledge.com/articles/biographical/conway-anne-c-1630-79/v-1.
+* Hutton, Sarah, "Lady Anne Conway", ''The Stanford Encyclopedia of Philosophy'' (Fall 2008 Edition), Edward N. Zalta (ed.), URL = http://plato.stanford.edu/archives/fall2008/entries/conway/
+* Hutton, Sarah. ''Anne Conway, a Woman Philosopher''. Cambridge, U.K.: Cambridge University Press, 2004.
+* {{DSB |first=Sarah |last=Hutton |title= Conway, Anne |volume=20 |pages= 171–172}}
+* King, Peter J. ''One Hundred Philosophers'' (New York: Barron's, 2004) {{ISBN|0-7641-2791-8}}
+* [[Carolyn Merchant|Merchant, Carolyn]], "The Vitalism of Anne Conway: its Impact on Leibniz's Concept of the Monad" (''Journal of the History of Philosophy'' 17, 1979, pp.&nbsp;255–69) (Argues that Conway influenced Leibniz by showing parallels between [[Gottfried Wilhelm Leibniz|Leibniz]] and Conway.)
+* {{BBKL|c/conway_a_f|band=23|first=Claus |last=Bernet|spalten=232-239}}
+* White,Carol Wayne. ''The Legacy of Anne Conway (1631-1679): Reverberations from a Mystical Naturalism'' (State University of New York Press, 2009)
+
+==External links==
+* {{wikiquote-inline}}
+*{{OL author|223796A}}
+* [http://www.earlymoderntexts.com  Contains "The principles of the most ancient and modern philosophy", slightly modified for easier reading]
+* [http://digital.library.upenn.edu/women/conway/principles/principles.html ''The principles of the most ancient and modern philosophy''] by Anne Conway (London: n. publ., 1692) at [http://digital.library.upenn.edu/women/ A Celebration of Women Writers]
+* [http://users.ox.ac.uk/~worc0337/authors/anne.conway.html  Peter King's page]
+* [https://web.archive.org/web/20020803193055/http://www.orst.edu/instruct/phl302/philosophers/conway.html  William Uzgalis' page]
+* {{cite SEP |url-id=conway |title=Lady Anne Conway |last=Hutton |first=Sarah}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Conway, Anne Conway, Viscountess}}
+[[Category:Cambridge Platonists]]
+[[Category:Converts to Quakerism]]
+[[Category:Early Modern philosophers|Conway, Lady Anne Finch]]
+[[Category:English philosophers|Conway, Lady Anne Finch]]
+[[Category:English Quakers|Conway, Anne Finch]]
+[[Category:English viscountesses]]
+[[Category:English women philosophers|Conway, Lady Anne Finch]]
+[[Category:1631 births|Conway, Lady Anne Finch]]
+[[Category:1679 deaths|Conway, Lady Anne Finch]]
+[[Category:Finch-Hatton family|Anne]]
+[[Category:17th-century women writers]]
+[[Category:17th-century writers]]
+[[Category:17th-century philosophers]]

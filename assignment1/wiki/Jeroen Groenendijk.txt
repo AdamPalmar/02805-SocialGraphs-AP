@@ -1,0 +1,26 @@
+'''Jeroen Antonius Gerardus Groenendijk''' ({{IPA-nl|ˈɣrunə(n)dɛik}}; born 20 July 1949, [[Amsterdam]]),<ref>[http://albumacademicum.uva.nl/cgi/b/bib/bib-idx?type=simple;lang=en;c=ap;rgn1=entirerecord;q1=Groenendijk;x=8;y=9;cc=ap;view=reslist;sort=achternaam;fmt=long;page=reslist;size=1;start=13 Prof. dr. J.A.G. Groenendijk, 1949–] at the [[University of Amsterdam]] ''Album Academicum'' website</ref> is a Dutch [[logic]]ian, [[Linguistics|linguist]] and [[Philosophy|philosopher]], working on [[philosophy of language]], [[Formal semantics (logic)|formal semantics]], [[pragmatics]].
+
+Groenendijk wrote a joint [[Ph.D.]] dissertation with [[Martin Stokhof]] on the formal semantics of questions, under the supervision of [[Renate Bartsch]] and [[Johan van Benthem (logician)|Johan van Benthem]]. He was also an important figure in the development of [[dynamic semantics]] (together with Stokhof, Veltman and others). His current work is mainly focused on studying and developing the recently founded framework of [[Inquisitive Semantics]].
+
+He is a former director of the [[Institute for Logic, Language and Computation]] (ILLC) at the [[University of Amsterdam]] and a member of the group collectively publishing under the [[pseudonym]] [[L. T. F. Gamut]].<ref>Preface to ''Logic, Language and Meaning'', by [[L. T. F. Gamut]], University of Chicago Press, 1991.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://home.medewerker.uva.nl/j.a.g.groenendijk/ Groenendijk's university homepage]
+* [https://sites.google.com/site/inquisitivesemantics/ Inquisitive Semantics project homepage]
+
+{{DEFAULTSORT:Groenendijk, Jeroen}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Dutch logicians]]
+[[Category:Philosophers of language]]
+[[Category:Dutch philosophers]]
+[[Category:20th-century philosophers]]
+[[Category:University of Amsterdam faculty]]
+[[Category:University of Amsterdam alumni]]
+[[Category:Writers from Amsterdam]]
+
+
+{{Netherlands-philosopher-stub}}
